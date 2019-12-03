@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/contemplative-studies/
+  http://www.umw.edu/study/areas/contemplative-studies/
 published: true
 post_date: 2018-12-04 21:53:42
 wpcf-value-proposition: >
@@ -48,7 +48,7 @@ When you minor in contemplative studies at the University of Mary Washington, yo
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-This minor offers students a foundation in:
+<h2>Areas of Study</h2>This minor offers students a foundation in:
 <ol>
  	<li>the theory of contemplation across traditions and history</li>
  	<li>the application of contemplation in human life, including philosophy, religion, art, and performance</li>
@@ -57,24 +57,24 @@ This minor offers students a foundation in:
 </ol>
 <!-- End areas-of-study -->
 
-<!-- career-opportunties -->
-Mindfulness training is currently being employed to enhance wellness and productivity in most industries: finance, tech, K-12 education, clinical psychology, medicine, and others. There is high-demand for workers with specialized mindfulness training, and especially those who are trained to teach it.
-<!-- End career-opportunties -->
-
+<!-- requirements -->
+<h2>Requirements</h2>
 <!-- minor-requirements -->
-The Contemplative Studies Minor requires 18 credits. They will come from a choice of classes in contemplative practice, psychology, philosophy, religion, art history, biology, classics, geography, and anthropology.
+<h3>Minor Requirements</h3>The Contemplative Studies Minor requires 18 credits. They will come from a choice of classes in contemplative practice, psychology, philosophy, religion, art history, biology, classics, geography, and anthropology.
 <!-- End minor-requirements -->
 
+<!-- End requirements -->
+
 <!-- scholarships -->
-There are no scholarships specifically for contemplative studies. Here is a link to all <a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/">scholarships in Classics, Philosophy, &amp; Religion</a>.
+<h2>Scholarships</h2>There are no scholarships specifically for contemplative studies. Here is a link to all <a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/">scholarships in Classics, Philosophy, &amp; Religion</a>.
 <!-- End scholarships -->
 
-<!-- department -->
-https://cas.umw.edu/clpr/
-<!-- End department -->
-
 <!-- courses -->
-https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/contemplative-studies-minor/
+<a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/contemplative-studies-minor/" class="button">Course Listing</a>
 <!-- End courses -->
+
+<!-- department -->
+<a href="https://cas.umw.edu/clpr/" class="button">Department Website</a>
+<!-- End department -->
 
 <!-- End Types Custom Fields -->

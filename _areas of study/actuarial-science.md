@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/actuarial-science/
+  http://www.umw.edu/study/areas/actuarial-science/
 published: true
 post_date: 2015-08-05 17:04:56
 wpcf-value-proposition: >
@@ -73,35 +73,35 @@ Love crunching numbers? Open to all majors, UMW’s minor program in actuarial s
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-Open to all majors, the UMW minor in actuarial science includes courses in the disciplines of math, economics, accounting, and computer science for a full range of knowledge in rates, risks, probabilities, and statistical analysis.
+<h2>Areas of Study</h2>Open to all majors, the UMW minor in actuarial science includes courses in the disciplines of math, economics, accounting, and computer science for a full range of knowledge in rates, risks, probabilities, and statistical analysis.
 <!-- End areas-of-study -->
 
-<!-- career-opportunties -->
-Consistently ranked as a top career choice, actuarial science can lead to exceptional earning potential. Actuaries most typically work in insurance, with pensions, or in consulting firms, but they also can find work with financial services industries, marketing/sales organizations, benefits management firms, and other types of businesses. The U.S. Department of Labor expects employment opportunities for actuaries to increase faster than average.
-<!-- End career-opportunties -->
-
 <!-- internships -->
-The<a href="http://cas.umw.edu/math/student-opportunities/summer-internships/"> Department of Mathematics</a>, which hosts UMW's minor program in actuarial science, offers internships at the Naval Surface Warfare Center in Dahlgren, Geico Insurance, and others.
+<h2>Internships</h2>The<a href="http://cas.umw.edu/math/student-opportunities/summer-internships/"> Department of Mathematics</a>, which hosts UMW's minor program in actuarial science, offers internships at the Naval Surface Warfare Center in Dahlgren, Geico Insurance, and others.
 <!-- End internships -->
 
 <!-- honors -->
-Founded in 1982, the UMW chapter of the <a href="http://pme-math.org">Pi Mu Epsilon (PME)</a> honorary national mathematics society, promotes scholarly activities in math. The Mary Washington chapter inducts new members each April.
+<h2>Honors</h2>Founded in 1982, the UMW chapter of the <a href="http://pme-math.org">Pi Mu Epsilon (PME)</a> honorary national mathematics society, promotes scholarly activities in math. The Mary Washington chapter inducts new members each April.
 <!-- End honors -->
 
+<!-- requirements -->
+<h2>Requirements</h2>
 <!-- minor-requirements -->
-UMW’s minor in actuarial science requires 21 to 22 credits, including Calculus III, Probability and Statistical Inference, Theory of Interest, Principles of Macroeconomics, and Principles of Microeconomics, plus six to seven credits from your choice of Intermediate Accounting I and II, Computer Information Systems, Mathematical Economics, Macroeconomics, Money Banking, Investment Analysis, Numerical Analysis I and II, Probability and Statistical Inference.
+<h3>Minor Requirements</h3>UMW’s minor in actuarial science requires 21 to 22 credits, including Calculus III, Probability and Statistical Inference, Theory of Interest, Principles of Macroeconomics, and Principles of Microeconomics, plus six to seven credits from your choice of Intermediate Accounting I and II, Computer Information Systems, Mathematical Economics, Macroeconomics, Money Banking, Investment Analysis, Numerical Analysis I and II, Probability and Statistical Inference.
 <!-- End minor-requirements -->
 
+<!-- End requirements -->
+
 <!-- scholarships -->
-UMW's Department of Mathematics, which hosts the actuarial science major, offers several <a href="http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/">scholarship opportunities</a> for qualifying students. For a complete list of scholarship opportunities available at UMW, visit the <a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">Office of Financial Aid</a>.
+<h2>Scholarships</h2>UMW's Department of Mathematics, which hosts the actuarial science major, offers several <a href="http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/">scholarship opportunities</a> for qualifying students. For a complete list of scholarship opportunities available at UMW, visit the <a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">Office of Financial Aid</a>.
 <!-- End scholarships -->
 
-<!-- department -->
-http://cas.umw.edu/math/courses-and-majorminor-requirements/minor-requirements/
-<!-- End department -->
-
 <!-- courses -->
-http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/actuarial-science/
+<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/actuarial-science/" class="button">Course Listing</a>
 <!-- End courses -->
+
+<!-- department -->
+<a href="http://cas.umw.edu/math/courses-and-majorminor-requirements/minor-requirements/" class="button">Department Website</a>
+<!-- End department -->
 
 <!-- End Types Custom Fields -->

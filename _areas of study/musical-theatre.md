@@ -33,22 +33,26 @@ Students seeking the musical theatre minor strengthen technique by taking classe
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-Musical Theatre is an interdisciplinary minor that reflects the synthesis of music, dance, and theatre performance classes
+<h2>Areas of Study</h2>Musical Theatre is an interdisciplinary minor that reflects the synthesis of music, dance, and theatre performance classes
 THEA 218 – Voice and Body Movement
 DANC 301, 302 – Intermediate Ballet
 DANC 141, 142 – Beginning Jazz
 <!-- End areas-of-study -->
 
+<!-- requirements -->
+<h2>Requirements</h2>
 <!-- minor-requirements -->
-Twenty-four credits are required for the <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/">musical theatre minor</a>.
+<h3>Minor Requirements</h3>Twenty-four credits are required for the <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/">musical theatre minor</a>.
 <!-- End minor-requirements -->
 
-<!-- department -->
-http://cas.umw.edu/theatre/current-students/minor-requirements/
-<!-- End department -->
+<!-- End requirements -->
 
 <!-- courses -->
-http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/
+<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/" class="button">Course Listing</a>
 <!-- End courses -->
+
+<!-- department -->
+<a href="http://cas.umw.edu/theatre/current-students/minor-requirements/" class="button">Department Website</a>
+<!-- End department -->
 
 <!-- End Types Custom Fields -->

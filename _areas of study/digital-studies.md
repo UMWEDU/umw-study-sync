@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/digital-studies/
+  http://www.umw.edu/study/areas/digital-studies/
 published: true
 post_date: 2015-08-04 14:51:32
 wpcf-value-proposition: "Communication and technology are in constant motion. Our bachelor's program in communications and digital studies teaches adults - and tech-savvy teens - to share ideas in a media-driven world. A cutting-edge curriculum targets emerging technology and teaches you to create powerful messaging, design multi-media campaigns, and build a digital identity."
@@ -30,36 +30,40 @@ wpcf-video: >
 
 <!-- Types Custom Fields: -->
 
+<!-- video -->
+
+<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image youtube" style="padding-bottom:75%;">
+    <iframe src="//www.youtube.com/embed/DKSETeykJQY?wmode=transparent&modestbranding=1&autohide=1&showinfo=0&rel=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
+
+
+<!-- End video -->
+
 <!-- value-proposition -->
 Communication and technology are in constant motion. Our bachelor's program in communications and digital studies teaches adults - and tech-savvy teens - to share ideas in a media-driven world. A cutting-edge curriculum targets emerging technology and teaches you to create powerful messaging, design multi-media campaigns, and build a digital identity.
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-Pair core courses in communications and digital studies with an exciting array of electives, including Introduction to Film Studies; Games and Culture; Approaches to Video Art; Social Media; The Graphic Novel; and History of the Information Age.
+<h2>Areas of Study</h2>Pair core courses in communications and digital studies with an exciting array of electives, including Introduction to Film Studies; Games and Culture; Approaches to Video Art; Social Media; The Graphic Novel; and History of the Information Age.
 <!-- End areas-of-study -->
 
-<!-- career-opportunties -->
-This cutting-edge bachelor's program will prepare you for a career in advertising, marketing, communications law, and so much more. Whatever you choose to pursue, you'll develop the skills that today's employers are looking for.
-<!-- End career-opportunties -->
-
+<!-- requirements -->
+<h2>Requirements</h2>
 <!-- major-requirements -->
-The communication and digital studies major requires 36 credits in two core groups - 15 credits in communications, 9 credits in digital studies - plus 12 elective credits.
+<h3>Major Requirements</h3>The communication and digital studies major requires 36 credits in two core groups - 15 credits in communications, 9 credits in digital studies - plus 12 elective credits.
 <!-- End major-requirements -->
 
+<!-- End requirements -->
+
 <!-- scholarships -->
-Scholarships are awarded by the department of <a href="http://cas.umw.edu/elc/scholarships-and-prizes/">English, Linguistics, and Communications</a>.
+<h2>Scholarships</h2>Scholarships are awarded by the department of <a href="http://cas.umw.edu/elc/scholarships-and-prizes/">English, Linguistics, and Communications</a>.
 <!-- End scholarships -->
 
-<!-- department -->
-http://cas.umw.edu/elc/communication-at-umw/
-<!-- End department -->
-
 <!-- courses -->
-http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/communication-and-digital-studies-major/
+<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/communication-and-digital-studies-major/" class="button">Course Listing</a>
 <!-- End courses -->
 
-<!-- video -->
-https://www.youtube.com/watch?v=DKSETeykJQY
-<!-- End video -->
+<!-- department -->
+<a href="http://cas.umw.edu/elc/communication-at-umw/" class="button">Department Website</a>
+<!-- End department -->
 
 <!-- End Types Custom Fields -->

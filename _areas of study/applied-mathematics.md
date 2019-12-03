@@ -14,7 +14,7 @@ wpcf-department: >
 <!-- Types Custom Fields: -->
 
 <!-- department -->
-http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/apmt/
+<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/apmt/" class="button">Department Website</a>
 <!-- End department -->
 
 <!-- End Types Custom Fields -->

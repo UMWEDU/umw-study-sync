@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/american-studies/
+  http://www.umw.edu/study/areas/american-studies/
 published: true
 post_date: 2015-07-28 13:43:19
 wpcf-value-proposition: |
@@ -36,41 +36,42 @@ wpcf-courses: >
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<p class="p1">UMW's American studies curriculum will guide you through U.S. history and culture. You'll choose from such courses as History of the South, American Legal and Constitutional History, U.S. and Vietnam, 20th-Century U.S., and Urban Politics.</p>
+<h2>Areas of Study</h2><p class="p1">UMW's American studies curriculum will guide you through U.S. history and culture. You'll choose from such courses as History of the South, American Legal and Constitutional History, U.S. and Vietnam, 20th-Century U.S., and Urban Politics.</p>
 <!-- End areas-of-study -->
 
-<!-- career-opportunties -->
-<p class="p1">With the strong knowledge base and hands-on experience you'll gain through UMW's American studies program, you'll be prepared to work in business, education, law, government, library science, media, and many other fields.</p>
-<p class="p1">Learn more about how UMW history and American studies majors have <a href="http://cas.umw.edu/historyamericanstudies/alumni-intros/">put their degrees to work</a><span class="s1">.</span></p>
-<!-- End career-opportunties -->
-
 <!-- internships -->
-<p class="p1">UMW's American studies majors may find internships at<span class="Apple-converted-space">  </span>Smithsonian Institution sites such as the National Museum of the American Indian and the National Museum of American History. Other opportunities come from the National Park Service, George Washington's Ferry Farm, and the Marine Corps Archives at Quantico.</p>
+<h2>Internships</h2><p class="p1">UMW's American studies majors may find internships at<span class="Apple-converted-space">  </span>Smithsonian Institution sites such as the National Museum of the American Indian and the National Museum of American History. Other opportunities come from the National Park Service, George Washington's Ferry Farm, and the Marine Corps Archives at Quantico.</p>
 <!-- End internships -->
 
-<!-- honors -->
-<p class="p1">To be considered for honors in American studies, you must have a GPA of at least 3.5 in the major and submit and defend a senior thesis.</p>
-<!-- End honors -->
-
-<!-- major-requirements -->
-<p class="p1">A <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/amst/">major in American studies</a> requires 36 credits in core courses plus 24 credits from American studies electives offered by affiliated departments. Fifteen of the elective credits must be organized around a unifying line of inquiry, such as gender and sexuality, race and ethnicity, cultural expression, human rights, politics and society, and space and place. Eighteen credits must come from 300- or 400-level courses.</p>
-<!-- End major-requirements -->
-
-<!-- scholarships -->
-<p class="p1">American studies majors may qualify for numerous <a href="http://cas.umw.edu/historyamericanstudies/scholarships-and-awards/">scholarships and awards</a> for excellence.</p>
-<!-- End scholarships -->
-
 <!-- testimonial -->
-<p class="p1">My turning point toward pursuing a Ph.D. in history was taking a course on the History of Gilded Age America with Professor Ferrell. My assumptions that few significant developments occurred in the United States from 1865 to 1900 were quickly destroyed. I found myself captivated by a period of history that witnessed tremendous social unrest, anxiety, violence, and economic and demographic transformations.... I carried those questions with me to the Johns Hopkins University, where I completed a dissertation on the early-20th-century birth of the international wildlife protection movement and its hidden relationships with global capitalism, imperialism, smuggling, and species extinction—a dissertation that really began in the classrooms of Monroe Hall years earlier.</p>
+<blockquote class="program-testimonial">
+  <p class="p1">My turning point toward pursuing a Ph.D. in history was taking a course on the History of Gilded Age America with Professor Ferrell. My assumptions that few significant developments occurred in the United States from 1865 to 1900 were quickly destroyed. I found myself captivated by a period of history that witnessed tremendous social unrest, anxiety, violence, and economic and demographic transformations.... I carried those questions with me to the Johns Hopkins University, where I completed a dissertation on the early-20th-century birth of the international wildlife protection movement and its hidden relationships with global capitalism, imperialism, smuggling, and species extinction—a dissertation that really began in the classrooms of Monroe Hall years earlier.</p>
 <p class="p3">- Noah Cincinnati, Ph.D., Assistant Professor of History, Northern Virginia Community College</p>
+</blockquote>
 <!-- End testimonial -->
 
-<!-- department -->
-http://cas.umw.edu/historyamericanstudies/american-studies/
-<!-- End department -->
+<!-- honors -->
+<h2>Honors</h2><p class="p1">To be considered for honors in American studies, you must have a GPA of at least 3.5 in the major and submit and defend a senior thesis.</p>
+<!-- End honors -->
+
+<!-- requirements -->
+<h2>Requirements</h2>
+<!-- major-requirements -->
+<h3>Major Requirements</h3><p class="p1">A <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/amst/">major in American studies</a> requires 36 credits in core courses plus 24 credits from American studies electives offered by affiliated departments. Fifteen of the elective credits must be organized around a unifying line of inquiry, such as gender and sexuality, race and ethnicity, cultural expression, human rights, politics and society, and space and place. Eighteen credits must come from 300- or 400-level courses.</p>
+<!-- End major-requirements -->
+
+<!-- End requirements -->
+
+<!-- scholarships -->
+<h2>Scholarships</h2><p class="p1">American studies majors may qualify for numerous <a href="http://cas.umw.edu/historyamericanstudies/scholarships-and-awards/">scholarships and awards</a> for excellence.</p>
+<!-- End scholarships -->
 
 <!-- courses -->
-http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/amst/
+<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/amst/" class="button">Course Listing</a>
 <!-- End courses -->
+
+<!-- department -->
+<a href="http://cas.umw.edu/historyamericanstudies/american-studies/" class="button">Department Website</a>
+<!-- End department -->
 
 <!-- End Types Custom Fields -->

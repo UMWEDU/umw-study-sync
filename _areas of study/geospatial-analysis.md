@@ -13,7 +13,7 @@ wpcf-department: http://cas.umw.edu/gis/masters/
 <!-- Types Custom Fields: -->
 
 <!-- department -->
-http://cas.umw.edu/gis/masters/
+<a href="http://cas.umw.edu/gis/masters/" class="button">Department Website</a>
 <!-- End department -->
 
 <!-- End Types Custom Fields -->

@@ -13,7 +13,7 @@ wpcf-department: http://cas.umw.edu/spanish/
 <!-- Types Custom Fields: -->
 
 <!-- department -->
-http://cas.umw.edu/spanish/
+<a href="http://cas.umw.edu/spanish/" class="button">Department Website</a>
 <!-- End department -->
 
 <!-- End Types Custom Fields -->

@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/geographic-information-science/
+  http://www.umw.edu/study/areas/geographic-information-science/
 published: true
 post_date: 2015-08-07 16:20:56
 wpcf-home-page-feature: >
@@ -41,7 +41,7 @@ wpcf-courses: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-https://www.umw.edu/study/wp-content/uploads/sites/5/2015/08/NS-GIS-9-1024x719e.jpg
+
 <!-- End home-page-feature -->
 
 <!-- value-proposition -->
@@ -49,19 +49,23 @@ The Geographic Information Science certificate at the University of Mary Washing
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-The field encompasses integrated hardware, software, and database systems that are capable of capturing, storing, analyzing, and displaying geographical information. Upon completion of the certificate, students may be eligible to apply for an additional professional certification in GIS administrated by the GIS Certification Institute (GISCI).
+<h2>Areas of Study</h2>The field encompasses integrated hardware, software, and database systems that are capable of capturing, storing, analyzing, and displaying geographical information. Upon completion of the certificate, students may be eligible to apply for an additional professional certification in GIS administrated by the GIS Certification Institute (GISCI).
 <!-- End areas-of-study -->
 
+<!-- requirements -->
+<h2>Requirements</h2>
 <!-- major-requirements -->
-The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/">certificate</a> requires 19 credit hours of GIS course work introducing students to advanced spatial analysis, Python programming in ArcGIS, geodatabase design, spatial statistics and modeling, image analysis and more. The certificate can be obtained solely through evening classes.
+<h3>Major Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/">certificate</a> requires 19 credit hours of GIS course work introducing students to advanced spatial analysis, Python programming in ArcGIS, geodatabase design, spatial statistics and modeling, image analysis and more. The certificate can be obtained solely through evening classes.
 <!-- End major-requirements -->
 
-<!-- department -->
-http://cas.umw.edu/geography/
-<!-- End department -->
+<!-- End requirements -->
 
 <!-- courses -->
-http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/
+<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/" class="button">Course Listing</a>
 <!-- End courses -->
+
+<!-- department -->
+<a href="http://cas.umw.edu/geography/" class="button">Department Website</a>
+<!-- End department -->
 
 <!-- End Types Custom Fields -->

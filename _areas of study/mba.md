@@ -13,7 +13,7 @@ wpcf-department: http://business.umw.edu
 <!-- Types Custom Fields: -->
 
 <!-- department -->
-http://business.umw.edu
+<a href="http://business.umw.edu" class="button">Department Website</a>
 <!-- End department -->
 
 <!-- End Types Custom Fields -->

@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/sociology/
+  http://www.umw.edu/study/areas/sociology/
 published: true
 post_date: 2015-07-28 17:26:13
 wpcf-value-proposition: >
@@ -65,20 +65,24 @@ wpcf-video: >
 
 <!-- Types Custom Fields: -->
 
+<!-- video -->
+
+<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image youtube" style="padding-bottom:75%;">
+    <iframe src="//www.youtube.com/embed/nXL5mz8fJa4?wmode=transparent&modestbranding=1&autohide=1&showinfo=0&rel=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
+
+
+<!-- End video -->
+
 <!-- value-proposition -->
 Our bachelor’s program in sociology unravels some of the mysteries of human relationships. What causes us to behave the way we do? Where do our values come from? What fuels peer pressure? How do we develop our attitudes toward others? What affects family life? If you’ve often pondered questions like these, sociology may be the major for you.
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-At UMW, you’ll get a strong foundation in sociological theory and research methods through the study of socialization, culture, social organization, social change, differentiation, and inequality. Courses focus on such topics as ethnic and racial relations, family, gender, medicine, occupations and professions, organizations, politics and the state, popular culture, population, religion, urban life, aging, juvenile delinquency, and criminology.
+<h2>Areas of Study</h2>At UMW, you’ll get a strong foundation in sociological theory and research methods through the study of socialization, culture, social organization, social change, differentiation, and inequality. Courses focus on such topics as ethnic and racial relations, family, gender, medicine, occupations and professions, organizations, politics and the state, popular culture, population, religion, urban life, aging, juvenile delinquency, and criminology.
 <!-- End areas-of-study -->
 
-<!-- career-opportunties -->
-As a UMW sociology graduate, you’ll be prepared for graduate school or work. A semester-long research project will help you stand out from the crowd and build a career in health or social services, government, business, and more. Recent grads are working for such organizations as First Nations Development Institute, Development Action Awareness Nationwide, AmeriCorps, Jewish Services Corporation, Rappahannock Council Against Sexual Assault, and the Fredericksburg Department of Social Services. Others are studying toward degrees in social work, law, and sociology. Read more about the <a href="http://cas.umw.edu/sociologyanthropology/careers/careers-in-sociology/recent-alumni/">careers of recent graduates</a> or check out <a href="http://cas.umw.edu/sociologyanthropology/careers/careers-in-sociology/">sociology career resources</a>.
-<!-- End career-opportunties -->
-
 <!-- internships -->
-Sociology student interns often work with agencies in the Fredericksburg region, but also in Washington, D.C., and Richmond, Virginia. UMW sociology and anthropology majors have completed internships at many organizations, including the following:
+<h2>Internships</h2>Sociology student interns often work with agencies in the Fredericksburg region, but also in Washington, D.C., and Richmond, Virginia. UMW sociology and anthropology majors have completed internships at many organizations, including the following:
 <ul>
  	<li>Thurman Brisben Homeless Shelter</li>
  	<li>disAbility Resource Center</li>
@@ -99,27 +103,27 @@ Learn more about <a href="http://cas.umw.edu/sociologyanthropology/resources/int
 <!-- End internships -->
 
 <!-- honors -->
-To graduate with honors in sociology, majors must have maintained a grade point average of 3.5 or better and completed all honors requirements including certain upper-level classes and an honors thesis. Find the details at the <a href="http://cas.umw.edu/sociologyanthropology/resources/departmental-honors/">Sociology Departmental Honors page</a>.
+<h2>Honors</h2>To graduate with honors in sociology, majors must have maintained a grade point average of 3.5 or better and completed all honors requirements including certain upper-level classes and an honors thesis. Find the details at the <a href="http://cas.umw.edu/sociologyanthropology/resources/departmental-honors/">Sociology Departmental Honors page</a>.
 <!-- End honors -->
 
+<!-- requirements -->
+<h2>Requirements</h2>
 <!-- major-requirements -->
-The requirements for a degree in <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/socg/">sociology</a> include one introductory sociology course, three upper-level sociology courses that include research methods, history, and contemporary theory, and 18 credits of upper-level sociology courses.
+<h3>Major Requirements</h3>The requirements for a degree in <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/socg/">sociology</a> include one introductory sociology course, three upper-level sociology courses that include research methods, history, and contemporary theory, and 18 credits of upper-level sociology courses.
 <!-- End major-requirements -->
 
+<!-- End requirements -->
+
 <!-- scholarships -->
-One <a href="http://cas.umw.edu/sociologyanthropology/bill-hanson-memorial-scholarship/">Bill Hanson Memorial Scholarship</a> is awarded in a late professor’s honor each year to a deserving student. The award is based on merit, financial need, and commitment to peace and social justice.
+<h2>Scholarships</h2>One <a href="http://cas.umw.edu/sociologyanthropology/bill-hanson-memorial-scholarship/">Bill Hanson Memorial Scholarship</a> is awarded in a late professor’s honor each year to a deserving student. The award is based on merit, financial need, and commitment to peace and social justice.
 <!-- End scholarships -->
 
-<!-- department -->
-http://cas.umw.edu/sociologyanthropology/sociology-program/
-<!-- End department -->
-
 <!-- courses -->
-http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/socg/
+<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/socg/" class="button">Course Listing</a>
 <!-- End courses -->
 
-<!-- video -->
-https://www.youtube.com/watch?v=nXL5mz8fJa4
-<!-- End video -->
+<!-- department -->
+<a href="http://cas.umw.edu/sociologyanthropology/sociology-program/" class="button">Department Website</a>
+<!-- End department -->
 
 <!-- End Types Custom Fields -->

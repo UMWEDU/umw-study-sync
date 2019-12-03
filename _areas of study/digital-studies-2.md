@@ -14,7 +14,7 @@ wpcf-department: >
 <!-- Types Custom Fields: -->
 
 <!-- department -->
-http://cas.umw.edu/elc/communication-at-umw/
+<a href="http://cas.umw.edu/elc/communication-at-umw/" class="button">Department Website</a>
 <!-- End department -->
 
 <!-- End Types Custom Fields -->
