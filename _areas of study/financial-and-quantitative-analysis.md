@@ -50,6 +50,7 @@ wpcf-internships: >
   development, Chamber of Commerce
   communications, financial planning, and
   automotive business operations.
+wpcf-honors: N/A
 wpcf-minor-requirements: >
   To earn a minor in financial and
   quantitative analysis, you’ll earn 18
@@ -80,6 +81,10 @@ Financial decision making is critically important in the business world, whether
 <!-- internships -->
 <h2>Internships</h2>At UMW, you’ll find internship opportunities close to campus and in nearby Washington, D.C., and Richmond, Virginia. Intern positions include real estate social media, advertising, marketing research and brand development, Chamber of Commerce communications, financial planning, and automotive business operations.
 <!-- End internships -->
+
+<!-- honors -->
+<h2>Honors</h2>N/A
+<!-- End honors -->
 
 <!-- requirements -->
 <h2>Requirements</h2>
