@@ -31,7 +31,6 @@ wpcf-career-opportunties: >
   public relations.
 wpcf-internships: 'Students may complete for-credit <a href="http://cas.umw.edu/elc/careers/career-preparation/making-yourself-employable/internships/">internships</a> to gain knowledge and job experience. Many students study abroad to increase cultural awareness, broaden their perspectives, and develop skills for an increasingly international employment marketplace.'
 wpcf-honors: 'To earn <a href="http://cas.umw.edu/elc/elc-programs-and-related-information/honors/">honors in English</a>, you must have a 3.7 GPA in the major and earn an A on an honors project approved by your advisor.'
-wpcf-minor-requirements: None.
 wpcf-major-requirements: >
   The concentration requires 36 credits,
   including five creative writing courses
@@ -69,10 +68,6 @@ When you major in English with a concentration in creative writing at University
 <!-- major-requirements -->
 <h3>Major Requirements</h3>The concentration requires 36 credits, including five creative writing courses as well as courses in linguistics and literature. Literature courses must include one pre-1900, one post-1900, and one course in literature of historically marginalized groups.
 <!-- End major-requirements -->
-
-<!-- minor-requirements -->
-<h3>Minor Requirements</h3>None.
-<!-- End minor-requirements -->
 
 <!-- End requirements -->
 
