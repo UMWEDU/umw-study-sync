@@ -55,7 +55,7 @@ wpcf-video: https://vimeo.com/129708066
 <!-- video -->
 
 <div class="fve-video-wrapper fve-image-embed fve-thumbnail-image vimeo" style="padding-bottom:56.25%;">
-    <iframe src="//player.vimeo.com/video/129708066?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
+    <iframe src="https://player.vimeo.com/video/129708066?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
 
 
 <!-- End video -->
