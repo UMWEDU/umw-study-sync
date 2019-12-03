@@ -8,9 +8,6 @@ permalink: >
   http://www.umw.edu/study/areas/art-history/
 published: true
 post_date: 2015-07-28 17:41:37
-wpcf-degree-awarded: >
-  This is a test. Please ignore this.
-  Thank you.
 wpcf-value-proposition: "Drawn to how people have depicted beauty throughout history? Need to know more of the story behind it? Major in art history at the University of Mary Washington and you\'ll explore humanity through artistic wonders, from prehistoric cave paintings to the works of Warhol. You\'ll investigate styles, periods, and movements of Western art; masters and masterpieces of Italy, Egypt, and beyond; and the rich resources of  Washington, Richmond, Baltimore, and New York."
 wpcf-areas-of-study: 'Course offerings include History of Western Art, Topics in Non-Western &amp; Non-Eurocentric Art, Egyptian and Near Eastern Art and Archaeology, Greek Art, Roman Art, Art Museum Studies, Romanesque &amp; Gothic Art, High Renaissance &amp; Mannerism, Post-Impressionism to Abstract, American Art, and Pop Art to the Present.'
 wpcf-career-opportunties: 'With a background in the artistic masters and movements, UMW grads have created careers at such organizations as the American Association of Museums, Brooklyn Museum, Corcoran College of Art &amp; Design, Delaware Art Museum, Hirschhorn Museum and Sculpture Garden, Metropolitan Museum of Art, National Gallery of Art, Smithsonian Institution, and Virginia Museum of Fine Arts.'
@@ -50,9 +47,6 @@ wpcf-video: >
 Drawn to how people have depicted beauty throughout history? Need to know more of the story behind it? Major in art history at the University of Mary Washington and you\'ll explore humanity through artistic wonders, from prehistoric cave paintings to the works of Warhol. You\'ll investigate styles, periods, and movements of Western art; masters and masterpieces of Italy, Egypt, and beyond; and the rich resources of  Washington, Richmond, Baltimore, and New York.
 <!-- End value-proposition -->
 
-<!-- degree-awarded -->
-<h2>Degree Awarded</h2>This is a test. Please ignore this. Thank you.
-<!-- End degree-awarded -->
 <!-- areas-of-study -->
 <h2>Areas of Study</h2>Course offerings include History of Western Art, Topics in Non-Western &amp; Non-Eurocentric Art, Egyptian and Near Eastern Art and Archaeology, Greek Art, Roman Art, Art Museum Studies, Romanesque &amp; Gothic Art, High Renaissance &amp; Mannerism, Post-Impressionism to Abstract, American Art, and Pop Art to the Present.
 <!-- End areas-of-study -->
