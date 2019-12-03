@@ -8,3 +8,7 @@ permalink: https://www.umw.edu/study/areas/physics/
 published: true
 post_date: 2015-08-11 20:13:07
 ---
+
+<!-- Types Custom Fields: -->
+
+<!-- End Types Custom Fields -->

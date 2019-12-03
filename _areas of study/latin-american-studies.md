@@ -9,3 +9,7 @@ permalink: >
 published: true
 post_date: 2015-12-11 15:45:27
 ---
+
+<!-- Types Custom Fields: -->
+
+<!-- End Types Custom Fields -->

@@ -8,3 +8,7 @@ permalink: /admissions/adult/bsn/
 published: true
 post_date: 2015-08-12 13:21:11
 ---
+
+<!-- Types Custom Fields: -->
+
+<!-- End Types Custom Fields -->

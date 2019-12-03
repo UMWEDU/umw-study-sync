@@ -8,3 +8,7 @@ permalink: https://www.umw.edu/study/areas/history/
 published: true
 post_date: 2015-07-28 18:31:20
 ---
+
+<!-- Types Custom Fields: -->
+
+<!-- End Types Custom Fields -->

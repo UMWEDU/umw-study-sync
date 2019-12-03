@@ -27,3 +27,6 @@ post_date: 2015-07-24 15:54:13
 	<li><span class="program-icon pre-professional"><span class="hidden">Pre-Professional</span></span> = Pre-Professional</li>
 	<li><span class="program-icon certificate"><span class="hidden">Certificate</span></span> = Certificate</li>
 </ul>
+<!-- Types Custom Fields: -->
+
+<!-- End Types Custom Fields -->

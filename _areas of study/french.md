@@ -8,3 +8,7 @@ permalink: https://www.umw.edu/study/areas/french/
 published: true
 post_date: 2015-07-28 16:37:37
 ---
+
+<!-- Types Custom Fields: -->
+
+<!-- End Types Custom Fields -->
