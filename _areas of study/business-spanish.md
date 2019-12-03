@@ -7,17 +7,12 @@ layout: areas
 permalink: /study/areas/spanish/
 published: true
 post_date: 2015-08-03 14:28:48
-wpcf-department: http://cas.umw.edu/spanish/
 ---
 
 <!-- Types Custom Fields: -->
 
 <!-- resource-links -->
 <h2>Resource Links</h2>
-<!-- department -->
-<a href="http://cas.umw.edu/spanish/" class="button">Department Website</a>
-<!-- End department -->
-
 <!-- End resource-links -->
 
 <!-- End Types Custom Fields -->
