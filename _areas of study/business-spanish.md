@@ -7,8 +7,13 @@ layout: areas
 permalink: /study/areas/spanish/
 published: true
 post_date: 2015-08-03 14:28:48
+wpcf-department: http://cas.umw.edu/spanish/
 ---
 
 <!-- Types Custom Fields: -->
+
+<!-- department -->
+http://cas.umw.edu/spanish/
+<!-- End department -->
 
 <!-- End Types Custom Fields -->

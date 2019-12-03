@@ -7,6 +7,7 @@ layout: page
 permalink: https://www.umw.edu/study/testing/
 published: true
 post_date: 2015-07-24 15:54:13
+wpcf-department: http://www.google.com/
 ---
 <h2>Testing Views Output</h2>
 [wpv-view name="Testing Alpha List of Programs"]
@@ -28,5 +29,9 @@ post_date: 2015-07-24 15:54:13
 	<li><span class="program-icon certificate"><span class="hidden">Certificate</span></span> = Certificate</li>
 </ul>
 <!-- Types Custom Fields: -->
+
+<!-- department -->
+http://www.google.com/
+<!-- End department -->
 
 <!-- End Types Custom Fields -->

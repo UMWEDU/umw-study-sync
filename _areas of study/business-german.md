@@ -7,8 +7,14 @@ layout: areas
 permalink: /study/areas/german/
 published: true
 post_date: 2015-08-03 14:37:23
+wpcf-department: >
+  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/
 ---
 
 <!-- Types Custom Fields: -->
+
+<!-- department -->
+http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/
+<!-- End department -->
 
 <!-- End Types Custom Fields -->

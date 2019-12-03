@@ -7,8 +7,13 @@ layout: areas
 permalink: /admissions/graduate/degrees/mba/
 published: true
 post_date: 2015-08-07 23:09:52
+wpcf-department: http://business.umw.edu
 ---
 
 <!-- Types Custom Fields: -->
+
+<!-- department -->
+http://business.umw.edu
+<!-- End department -->
 
 <!-- End Types Custom Fields -->

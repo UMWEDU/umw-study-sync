@@ -7,8 +7,13 @@ layout: areas
 permalink: /admissions/adult/bls/
 published: true
 post_date: 2015-08-12 14:46:49
+wpcf-department: http://cas.umw.edu/bls/
 ---
 
 <!-- Types Custom Fields: -->
+
+<!-- department -->
+http://cas.umw.edu/bls/
+<!-- End department -->
 
 <!-- End Types Custom Fields -->
