@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/contemplative-studies/
+  https://www.umw.edu/study/areas/contemplative-studies/
 published: true
 post_date: 2018-12-04 21:53:42
 wpcf-value-proposition: >
@@ -41,6 +41,7 @@ wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/contemplative-studies-minor/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->
@@ -50,10 +51,10 @@ When you minor in contemplative studies at the University of Mary Washington, yo
 <!-- areas-of-study -->
 <h2>Areas of Study</h2>This minor offers students a foundation in:
 <ol>
- 	<li>the theory of contemplation across traditions and history</li>
- 	<li>the application of contemplation in human life, including philosophy, religion, art, and performance</li>
- 	<li>the scientific study of meditation, its cutting-edge technologies, and the data gathered to document its effects on the brain and well-being</li>
- 	<li>significant practical training and experience in secular meditative techniques to develop skills such as concentration and empathy and reduce qualities such as stress and self-critique.</li>
+<li>the theory of contemplation across traditions and history</li>
+<li>the application of contemplation in human life, including philosophy, religion, art, and performance</li>
+<li>the scientific study of meditation, its cutting-edge technologies, and the data gathered to document its effects on the brain and well-being</li>
+<li>significant practical training and experience in secular meditative techniques to develop skills such as concentration and empathy and reduce qualities such as stress and self-critique.</li>
 </ol>
 <!-- End areas-of-study -->
 

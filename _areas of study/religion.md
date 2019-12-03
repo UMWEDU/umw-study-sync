@@ -4,7 +4,8 @@ post_title: Religious Studies
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: http://www.umw.edu/study/areas/religion/
+permalink: >
+  https://www.umw.edu/study/areas/religion/
 published: true
 post_date: 2015-07-28 17:43:42
 wpcf-value-proposition: >
@@ -46,14 +47,11 @@ wpcf-courses: >
 wpcf-video: https://vimeo.com/131563072
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image vimeo" style="padding-bottom:56.25%;">
-    <iframe src="//player.vimeo.com/video/131563072?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://vimeo.com/131563072
 <!-- End video -->
 
 <!-- value-proposition -->

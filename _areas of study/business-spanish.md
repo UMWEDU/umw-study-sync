@@ -10,6 +10,7 @@ post_date: 2015-08-03 14:28:48
 wpcf-department: http://cas.umw.edu/spanish/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- department -->

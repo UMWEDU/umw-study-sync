@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/international-affairs/
+  https://www.umw.edu/study/areas/international-affairs/
 published: true
 post_date: 2015-07-28 18:55:26
 wpcf-value-proposition: "If you're curious about the political, economic, and social systems of other countries, a University of Mary Washington international affairs major will give you the insight you seek. You'll study American foreign policy in the context of international history, politics, economics, religious practices, and social customs. Our proximity to Washington, D.C., lets you  enhance your studies with internships as you work toward an international career."
@@ -39,14 +39,11 @@ wpcf-video: >
   https://www.youtube.com/watch?v=UfG8tp1apNo
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image youtube" style="padding-bottom:75%;">
-    <iframe src="//www.youtube.com/embed/UfG8tp1apNo?wmode=transparent&modestbranding=1&autohide=1&showinfo=0&rel=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://www.youtube.com/watch?v=UfG8tp1apNo
 <!-- End video -->
 
 <!-- value-proposition -->

@@ -4,7 +4,7 @@ post_title: History
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: http://www.umw.edu/study/areas/history/
+permalink: https://www.umw.edu/study/areas/history/
 published: true
 post_date: 2015-07-28 18:31:20
 wpcf-home-page-feature: >
@@ -37,14 +37,15 @@ wpcf-video: >
   https://www.youtube.com/watch?v=sRZ5OGUqQcY
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
+<!-- home-page-feature -->
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/history-class-2014_candice-leahe.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/history-class-2014_candice-leahe.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<!-- End home-page-feature -->
+
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image youtube" style="padding-bottom:75%;">
-    <iframe src="//www.youtube.com/embed/sRZ5OGUqQcY?wmode=transparent&modestbranding=1&autohide=1&showinfo=0&rel=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://www.youtube.com/watch?v=sRZ5OGUqQcY
 <!-- End video -->
 
 <!-- value-proposition -->

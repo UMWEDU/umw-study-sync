@@ -11,6 +11,7 @@ wpcf-department: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- department -->

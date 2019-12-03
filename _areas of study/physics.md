@@ -4,7 +4,7 @@ post_title: Physics
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: http://www.umw.edu/study/areas/physics/
+permalink: https://www.umw.edu/study/areas/physics/
 published: true
 post_date: 2015-08-11 20:13:07
 wpcf-value-proposition: "Why don’t riders fall off the roller coaster? When you look in a window, why do you see what's inside as well as your own reflection? How is music recorded and transmitted? Physics answers these questions and many more. As a UMW physics major, you'll satisfy your curiosity about the physical universe, then analyze and describe your discoveries. You'll leave career-ready, prepared for advanced study, and poised to make an immediate contribution to your field."
@@ -32,14 +32,11 @@ wpcf-courses: >
 wpcf-video: https://vimeo.com/137257108
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image vimeo" style="padding-bottom:56.25%;">
-    <iframe src="//player.vimeo.com/video/137257108?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://vimeo.com/137257108
 <!-- End video -->
 
 <!-- value-proposition -->

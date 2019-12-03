@@ -40,10 +40,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/nursing/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nursinge.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nursinge.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- value-proposition -->

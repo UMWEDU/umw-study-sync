@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/data-science/
+  https://www.umw.edu/study/areas/data-science/
 published: true
 post_date: 2015-11-12 19:33:58
 wpcf-value-proposition: >
@@ -53,6 +53,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/data/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

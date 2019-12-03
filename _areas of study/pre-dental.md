@@ -5,7 +5,7 @@ author: Shelley Keith
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/pre-dental/
+  https://www.umw.edu/study/areas/pre-dental/
 published: true
 post_date: 2015-11-20 18:27:48
 wpcf-value-proposition: "Paired with a biology - or any other - major, UMW's pre-dental program helps you break into a lauded and often lucrative field, whether you plan to work in private practice, research, or academics. The program combines a solid core of biological science with pertinent subjects like chemistry and physics. Our partner clinics and volunteer opportunities provide the hands-on experience dental schools look for. Master teachers guide you through the complex application process with interview practice, recommendations and more."
@@ -21,14 +21,11 @@ wpcf-department: http://cas.umw.edu/prehealth/
 wpcf-video: https://vimeo.com/131562731
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image vimeo" style="padding-bottom:56.25%;">
-    <iframe src="//player.vimeo.com/video/131562731?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://vimeo.com/131562731
 <!-- End video -->
 
 <!-- value-proposition -->

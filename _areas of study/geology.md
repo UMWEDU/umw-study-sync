@@ -4,7 +4,7 @@ post_title: Geology
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: http://www.umw.edu/study/areas/geology/
+permalink: https://www.umw.edu/study/areas/geology/
 published: true
 post_date: 2015-07-28 17:34:34
 wpcf-home-page-feature: >
@@ -51,14 +51,15 @@ wpcf-video: >
   https://www.youtube.com/watch?v=YZ7I9OKizqw
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
+<!-- home-page-feature -->
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<!-- End home-page-feature -->
+
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image youtube" style="padding-bottom:75%;">
-    <iframe src="//www.youtube.com/embed/YZ7I9OKizqw?wmode=transparent&modestbranding=1&autohide=1&showinfo=0&rel=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://www.youtube.com/watch?v=YZ7I9OKizqw
 <!-- End video -->
 
 <!-- value-proposition -->

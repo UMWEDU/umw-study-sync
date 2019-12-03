@@ -5,7 +5,7 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/computer-science/
+  https://www.umw.edu/study/areas/computer-science/
 published: true
 post_date: 2015-07-28 18:39:09
 wpcf-home-page-feature: >
@@ -36,14 +36,15 @@ wpcf-video: >
   https://www.youtube.com/watch?v=NRYMX4IH4rg
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
+<!-- home-page-feature -->
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<!-- End home-page-feature -->
+
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image youtube" style="padding-bottom:75%;">
-    <iframe src="//www.youtube.com/embed/NRYMX4IH4rg?wmode=transparent&modestbranding=1&autohide=1&showinfo=0&rel=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://www.youtube.com/watch?v=NRYMX4IH4rg
 <!-- End video -->
 
 <!-- value-proposition -->

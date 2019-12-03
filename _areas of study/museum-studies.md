@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/museum-studies/
+  https://www.umw.edu/study/areas/museum-studies/
 published: true
 post_date: 2018-12-04 22:32:51
 wpcf-value-proposition: >
@@ -71,6 +71,7 @@ wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/museum-studies/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

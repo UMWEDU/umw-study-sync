@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/chemistry/
+  https://www.umw.edu/study/areas/chemistry/
 published: true
 post_date: 2015-07-28 18:06:57
 wpcf-home-page-feature: >
@@ -38,14 +38,15 @@ wpcf-video: >
   https://www.youtube.com/watch?v=Ulp7ITFjFY4
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
+<!-- home-page-feature -->
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nicole-Crowder-1e.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nicole-Crowder-1e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<!-- End home-page-feature -->
+
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image youtube" style="padding-bottom:75%;">
-    <iframe src="//www.youtube.com/embed/Ulp7ITFjFY4?wmode=transparent&modestbranding=1&autohide=1&showinfo=0&rel=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://www.youtube.com/watch?v=Ulp7ITFjFY4
 <!-- End video -->
 
 <!-- value-proposition -->

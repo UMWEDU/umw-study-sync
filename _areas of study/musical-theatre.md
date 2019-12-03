@@ -26,6 +26,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

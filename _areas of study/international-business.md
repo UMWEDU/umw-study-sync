@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/international-business/
+  https://www.umw.edu/study/areas/international-business/
 published: true
 post_date: 2018-12-04 22:26:56
 wpcf-value-proposition: >
@@ -75,6 +75,7 @@ wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/international-business/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

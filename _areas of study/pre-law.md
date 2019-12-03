@@ -4,7 +4,7 @@ post_title: 'Philosophy: Pre-Law'
 author: Emily
 post_excerpt: ""
 layout: areas
-permalink: http://www.umw.edu/study/areas/pre-law/
+permalink: https://www.umw.edu/study/areas/pre-law/
 published: true
 post_date: 2015-11-18 19:58:49
 wpcf-value-proposition: >
@@ -49,6 +49,7 @@ wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/phil/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

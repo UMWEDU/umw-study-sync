@@ -5,7 +5,7 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/philosophy/
+  https://www.umw.edu/study/areas/philosophy/
 published: true
 post_date: 2015-07-28 15:08:07
 wpcf-home-page-feature: >
@@ -48,14 +48,15 @@ wpcf-courses: >
 wpcf-video: https://vimeo.com/131317843
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
+<!-- home-page-feature -->
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Colin-Spangler_mock-trial-homepagee.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Colin-Spangler_mock-trial-homepagee.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<!-- End home-page-feature -->
+
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image vimeo" style="padding-bottom:56.25%;">
-    <iframe src="//player.vimeo.com/video/131317843?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://vimeo.com/131317843
 <!-- End video -->
 
 <!-- value-proposition -->

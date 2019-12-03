@@ -4,7 +4,7 @@ post_title: Music
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: http://www.umw.edu/study/areas/music/
+permalink: https://www.umw.edu/study/areas/music/
 published: true
 post_date: 2015-07-28 14:05:54
 wpcf-home-page-feature: >
@@ -45,10 +45,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/musc/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- value-proposition -->

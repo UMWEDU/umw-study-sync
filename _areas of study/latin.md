@@ -13,6 +13,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/latn/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- courses -->

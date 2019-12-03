@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/geography/
+  https://www.umw.edu/study/areas/geography/
 published: true
 post_date: 2015-07-28 17:08:47
 wpcf-home-page-feature: >
@@ -52,14 +52,15 @@ wpcf-courses: >
 wpcf-video: https://vimeo.com/129830476
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
+<!-- home-page-feature -->
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<!-- End home-page-feature -->
+
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image vimeo" style="padding-bottom:56.25%;">
-    <iframe src="//player.vimeo.com/video/129830476?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://vimeo.com/129830476
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -69,9 +70,9 @@ As a University of Mary Washington geography major, you'll take classes in cultu
 <!-- areas-of-study -->
 <h2>Areas of Study</h2>The <a href="http://cas.umw.edu/geography/courses/">geography major</a> has three areas of emphasis:
 <ul>
-	<li>Globalization: A focus on the geographies of globalization and its political, cultural, and economic dimensions.</li>
-	<li>Community, Development, and Culture: A focus on how people living in specific places and regions experience and affect social, cultural, economic, and environmental processes.</li>
-	<li>Nature and Society: A focus on the climatologic, geomorphic, biogeographic, and social processes that shape the natural environment and affect human life.</li>
+<li>Globalization: A focus on the geographies of globalization and its political, cultural, and economic dimensions.</li>
+<li>Community, Development, and Culture: A focus on how people living in specific places and regions experience and affect social, cultural, economic, and environmental processes.</li>
+<li>Nature and Society: A focus on the climatologic, geomorphic, biogeographic, and social processes that shape the natural environment and affect human life.</li>
 </ul>
 <!-- End areas-of-study -->
 

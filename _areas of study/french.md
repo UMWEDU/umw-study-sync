@@ -4,7 +4,7 @@ post_title: French
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: http://www.umw.edu/study/areas/french/
+permalink: https://www.umw.edu/study/areas/french/
 published: true
 post_date: 2015-07-28 16:37:37
 wpcf-home-page-feature: >
@@ -33,14 +33,15 @@ wpcf-courses: >
 wpcf-video: https://vimeo.com/129708067
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
+<!-- home-page-feature -->
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<!-- End home-page-feature -->
+
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image vimeo" style="padding-bottom:56.25%;">
-    <iframe src="//player.vimeo.com/video/129708067?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://vimeo.com/129708067
 <!-- End video -->
 
 <!-- value-proposition -->

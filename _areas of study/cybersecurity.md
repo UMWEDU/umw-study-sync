@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/cybersecurity/
+  https://www.umw.edu/study/areas/cybersecurity/
 published: true
 post_date: 2018-12-04 22:16:18
 wpcf-value-proposition: >
@@ -53,6 +53,7 @@ wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cybersecurity-minor/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

@@ -4,7 +4,7 @@ post_title: Spanish
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: http://www.umw.edu/study/areas/spanish/
+permalink: https://www.umw.edu/study/areas/spanish/
 published: true
 post_date: 2015-07-28 16:32:47
 wpcf-home-page-feature: >
@@ -39,14 +39,15 @@ wpcf-courses: >
 wpcf-video: https://vimeo.com/131570016
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
+<!-- home-page-feature -->
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/869-1024x680e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/869-1024x680e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<!-- End home-page-feature -->
+
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image vimeo" style="padding-bottom:56.25%;">
-    <iframe src="//player.vimeo.com/video/131570016?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://vimeo.com/131570016
 <!-- End video -->
 
 <!-- value-proposition -->

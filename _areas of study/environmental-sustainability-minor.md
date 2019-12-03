@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/environmental-sustainability-minor/
+  https://www.umw.edu/study/areas/environmental-sustainability-minor/
 published: true
 post_date: 2016-02-01 18:30:47
 wpcf-value-proposition: >
@@ -87,6 +87,7 @@ wpcf-scholarships: 'The <a href="http://cas.umw.edu/ees/news-3/">Department of E
 wpcf-department: https://cas.umw.edu/ees/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

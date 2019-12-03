@@ -5,7 +5,7 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/classics-and-latin/
+  https://www.umw.edu/study/areas/classics-and-latin/
 published: true
 post_date: 2015-08-06 15:51:04
 wpcf-value-proposition: "The ideas and principles of ancient Greece and Rome resonate throughout modern Western culture. Study the languages, literatures, and civilizations of the ancients, and you'll gain a deeper understanding of today's liberal arts and sciences. At UMW, you can major in Latin or in classics with a concentration in classical civilization or classical archaeology."
@@ -36,14 +36,11 @@ wpcf-courses: >
 wpcf-video: https://vimeo.com/130598210
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image vimeo" style="padding-bottom:56.25%;">
-    <iframe src="//player.vimeo.com/video/130598210?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://vimeo.com/130598210
 <!-- End video -->
 
 <!-- value-proposition -->

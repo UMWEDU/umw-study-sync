@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/latin-american-studies/
+  https://www.umw.edu/study/areas/latin-american-studies/
 published: true
 post_date: 2015-12-11 15:45:27
 wpcf-value-proposition: "Complex and colorful, Latin America - and its more than 20 nations - is one of the world's most culturally diverse areas. UMW's interdisciplinary Latin American studies minor explores the history, geography, politics, languages, and traditions of Mexico, Central and South America, and the Caribbean, as well as Latinas and Latinos in the U.S. From the temple-topped ziggurats to spicy salsa music, the program fosters understanding of and engagement with a complicated group of cultures long connected to the United States through migration, trade, and more."
@@ -30,6 +30,7 @@ wpcf-department: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/latin-american-studies-minor/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

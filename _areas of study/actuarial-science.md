@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/actuarial-science/
+  https://www.umw.edu/study/areas/actuarial-science/
 published: true
 post_date: 2015-08-05 17:04:56
 wpcf-value-proposition: >
@@ -66,6 +66,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/actuarial-science/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

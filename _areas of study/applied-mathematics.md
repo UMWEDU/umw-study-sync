@@ -11,6 +11,7 @@ wpcf-department: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/apmt/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- department -->

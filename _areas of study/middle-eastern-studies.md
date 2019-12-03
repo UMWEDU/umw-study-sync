@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/middle-eastern-studies/
+  https://www.umw.edu/study/areas/middle-eastern-studies/
 published: true
 post_date: 2015-12-11 16:37:10
 wpcf-value-proposition: "The Arab World, Afghanistan, Iran, Turkey, and Israel, better known as the Middle East, increasingly influences life in the United States. If you're interested in exploring this area of the world, UMW's interdisciplinary Middle Eastern Studies minor might be for you. Delve into the histories, geographies, cultures, arts, languages, and politics of this important area of the globe and gain a valuable understanding of its tenuous relationship with the Western World."
@@ -30,6 +30,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/mdes/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

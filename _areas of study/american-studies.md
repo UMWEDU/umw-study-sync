@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/american-studies/
+  https://www.umw.edu/study/areas/american-studies/
 published: true
 post_date: 2015-07-28 13:43:19
 wpcf-value-proposition: |
@@ -29,6 +29,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/amst/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

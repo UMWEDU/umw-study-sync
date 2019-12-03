@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/pre-conservation-in-fine-art/
+  https://www.umw.edu/study/areas/pre-conservation-in-fine-art/
 published: true
 post_date: 2016-01-13 20:05:08
 wpcf-value-proposition: "Michelangelo's masterpieces on the ceiling of the Sistine Chapel, da Vinci's <em>The Last Supper</em>, Rembrandt's <em>The Night Watch</em> - all examples of extraordinary works preserved to be appreciated for the ages. UMW's pre-conservation in fine art minor program - open to art history, studio art, and chemistry majors - combines these disciplines. Learn to apply basic chemistry to artifact deterioration, evaluate conservation strategies, understand the ethics of art preservation, and advocate to preserve cultural heritage. This UMW program is designed to prepare students for graduate programs in conservation."
@@ -33,6 +33,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/pre-conservation-in-fine-art/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

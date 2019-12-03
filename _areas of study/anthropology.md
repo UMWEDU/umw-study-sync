@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/anthropology/
+  https://www.umw.edu/study/areas/anthropology/
 published: true
 post_date: 2015-07-28 19:09:18
 wpcf-home-page-feature: >
@@ -50,14 +50,15 @@ wpcf-courses: >
 wpcf-video: https://vimeo.com/129708066
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
+<!-- home-page-feature -->
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<!-- End home-page-feature -->
+
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image vimeo" style="padding-bottom:56.25%;">
-    <iframe src="https://player.vimeo.com/video/129708066?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://vimeo.com/129708066
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -95,11 +96,11 @@ A successful honors thesis presents an original, informed, persuasive argument b
 
 <!-- scholarships -->
 <h2>Scholarships</h2><ul>
- 	<li>The Bill Hanson Memorial Scholarship</li>
- 	<li>Clyde and Virginia Carter Memorial Scholarship</li>
- 	<li>Amanda Elizabeth Dress '95 Scholarship in Sociology</li>
- 	<li>Cora Lee Kaufmann Scholarship in Sociology and Anthropology</li>
- 	<li>Jarrett and Hazel Small Wilkins Scholarship in Social Sciences</li>
+<li>The Bill Hanson Memorial Scholarship</li>
+<li>Clyde and Virginia Carter Memorial Scholarship</li>
+<li>Amanda Elizabeth Dress '95 Scholarship in Sociology</li>
+<li>Cora Lee Kaufmann Scholarship in Sociology and Anthropology</li>
+<li>Jarrett and Hazel Small Wilkins Scholarship in Social Sciences</li>
 </ul>
 <!-- End scholarships -->
 

@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/sociology/
+  https://www.umw.edu/study/areas/sociology/
 published: true
 post_date: 2015-07-28 17:26:13
 wpcf-value-proposition: >
@@ -63,14 +63,11 @@ wpcf-video: >
   https://www.youtube.com/watch?v=nXL5mz8fJa4
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image youtube" style="padding-bottom:75%;">
-    <iframe src="//www.youtube.com/embed/nXL5mz8fJa4?wmode=transparent&modestbranding=1&autohide=1&showinfo=0&rel=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://www.youtube.com/watch?v=nXL5mz8fJa4
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -84,20 +81,20 @@ Our bachelor’s program in sociology unravels some of the mysteries of human re
 <!-- internships -->
 <h2>Internships</h2>Sociology student interns often work with agencies in the Fredericksburg region, but also in Washington, D.C., and Richmond, Virginia. UMW sociology and anthropology majors have completed internships at many organizations, including the following:
 <ul>
- 	<li>Thurman Brisben Homeless Shelter</li>
- 	<li>disAbility Resource Center</li>
- 	<li>Empowerhouse (against domestic assault)</li>
- 	<li>Refugee Resettlement Services of the Catholic Diocese</li>
- 	<li>Lloyd F. Moss Free Clinic</li>
- 	<li>Rappahannock Legal Services</li>
- 	<li>Probation and Parole District 21</li>
- 	<li>Virginia Department of Juvenile Justice</li>
- 	<li>First Nations Development Institute</li>
- 	<li>The Community Foundation of the Rappahannock River Region</li>
- 	<li>The Valentine Richmond History Center</li>
- 	<li>Human Rights Campaign – LGBT equality group based in Washington, D.C.</li>
- 	<li>U.S. Census Bureau (D.C.)</li>
- 	<li>U.S. Sentencing Commission (D.C.)</li>
+<li>Thurman Brisben Homeless Shelter</li>
+<li>disAbility Resource Center</li>
+<li>Empowerhouse (against domestic assault)</li>
+<li>Refugee Resettlement Services of the Catholic Diocese</li>
+<li>Lloyd F. Moss Free Clinic</li>
+<li>Rappahannock Legal Services</li>
+<li>Probation and Parole District 21</li>
+<li>Virginia Department of Juvenile Justice</li>
+<li>First Nations Development Institute</li>
+<li>The Community Foundation of the Rappahannock River Region</li>
+<li>The Valentine Richmond History Center</li>
+<li>Human Rights Campaign – LGBT equality group based in Washington, D.C.</li>
+<li>U.S. Census Bureau (D.C.)</li>
+<li>U.S. Sentencing Commission (D.C.)</li>
 </ul>
 Learn more about <a href="http://cas.umw.edu/sociologyanthropology/resources/internships-socg-or-anth-499/">internships in sociology</a>.
 <!-- End internships -->

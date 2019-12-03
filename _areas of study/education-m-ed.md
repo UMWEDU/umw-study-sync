@@ -11,6 +11,7 @@ wpcf-value-proposition: "While UMW doesn't offer a bachelor's degree specificall
 wpcf-department: http://education.umw.edu
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

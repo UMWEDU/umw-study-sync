@@ -4,7 +4,7 @@ post_title: Pre-Med
 author: Emily
 post_excerpt: ""
 layout: areas
-permalink: http://www.umw.edu/study/areas/pre-med/
+permalink: https://www.umw.edu/study/areas/pre-med/
 published: true
 post_date: 2015-11-23 19:18:45
 wpcf-value-proposition: "Doctors make a difference. Our pre-medical program walks you through the steps it takes to become a physician, dentist, or other medical specialist. Rigorous academics - in your chosen bachelor's program; required courses like biology, physics, and math; and extras like genetics and history - mirror the challenges of med school. Passionate professors, clinical experience at the region's largest hospital, research, and community service will help you ace the MCAT and slide into med school."
@@ -17,14 +17,11 @@ wpcf-video: >
   https://www.youtube.com/watch?v=715ADeDz4ns
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image youtube" style="padding-bottom:75%;">
-    <iframe src="//www.youtube.com/embed/715ADeDz4ns?wmode=transparent&modestbranding=1&autohide=1&showinfo=0&rel=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://www.youtube.com/watch?v=715ADeDz4ns
 <!-- End video -->
 
 <!-- value-proposition -->

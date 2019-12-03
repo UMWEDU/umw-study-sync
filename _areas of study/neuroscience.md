@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/neuroscience/
+  https://www.umw.edu/study/areas/neuroscience/
 published: true
 post_date: 2015-12-11 17:37:48
 wpcf-value-proposition: "Do you like to think about how people think? UMW's interdisciplinary minor program in neuroscience deepens your understanding of the brain and nervous system. Learn how nerves form networks and how these connections control behavior. Explore stress, memory, psychiatric disorders, and all the varied mysteries surrounding the human mind. The neuroscience minor is particularly useful to psychology and biology majors, helping them stay aware of scientific progress and prepare for emerging career opportunities and graduate programs in neuroscience or psychobiology."
@@ -29,6 +29,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/neuroscience-minor/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

@@ -11,6 +11,7 @@ wpcf-department: >
   http://cas.umw.edu/elc/communication-at-umw/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- department -->

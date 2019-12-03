@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/womens-and-gender-studies/
+  https://www.umw.edu/study/areas/womens-and-gender-studies/
 published: true
 post_date: 2015-07-28 15:44:06
 wpcf-value-proposition: >
@@ -60,14 +60,11 @@ wpcf-courses: >
 wpcf-video: https://vimeo.com/133699287
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-
-<div class="fve-video-wrapper fve-image-embed fve-thumbnail-image vimeo" style="padding-bottom:56.25%;">
-    <iframe src="//player.vimeo.com/video/133699287?portrait=0&byline=0&title=0" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>    </div>
-
-
+https://vimeo.com/133699287
 <!-- End video -->
 
 <!-- value-proposition -->

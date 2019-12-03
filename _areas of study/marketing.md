@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/marketing/
+  https://www.umw.edu/study/areas/marketing/
 published: true
 post_date: 2015-07-28 19:52:02
 wpcf-value-proposition: "There's a greater demand than ever for professionals who can understand consumers' thinking and formulate effective, multi-platform messages about ideas, goods, and services. When you study marketing at the University of Mary Washington, you'll develop the insight, analytical skills, and critical thinking you'll need to make a difference as a marketing professional."
@@ -36,6 +36,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/marketing/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

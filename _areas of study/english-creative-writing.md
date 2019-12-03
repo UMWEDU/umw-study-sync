@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/english-creative-writing/
+  https://www.umw.edu/study/areas/english-creative-writing/
 published: true
 post_date: 2018-12-04 22:09:00
 wpcf-value-proposition: >
@@ -45,6 +45,7 @@ wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/engl/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->

@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/geographic-information-science/
+  https://www.umw.edu/study/areas/geographic-information-science/
 published: true
 post_date: 2015-08-07 16:20:56
 wpcf-home-page-feature: >
@@ -38,10 +38,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/
 ---
 
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/08/NS-GIS-9-1024x719e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/08/NS-GIS-9-1024x719e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- value-proposition -->
