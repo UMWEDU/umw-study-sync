@@ -8,7 +8,6 @@ permalink: >
   http://www.umw.edu/study/areas/museum-studies/
 published: true
 post_date: 2018-12-04 22:32:51
-wpcf-degree-awarded: Please ignore this. Thank you.
 wpcf-value-proposition: >
   A minor in museum studies gives you the
   hands-on practice and theory necessary
@@ -78,9 +77,6 @@ wpcf-courses: >
 A minor in museum studies gives you the hands-on practice and theory necessary to enter the growing field of museum careers. The minor explores not only how museums are organized and operated, but also how they care for and interpret their collections, serve their audiences, and respond to new technologies. You will look at how museums grapple with complex legal and ethical issues unique to their disciplines including the cultural implications of the work they do and the extent of that work’s impact from the intimate community to the global market.
 <!-- End value-proposition -->
 
-<!-- degree-awarded -->
-<h2>Degree Awarded</h2>Please ignore this. Thank you.
-<!-- End degree-awarded -->
 <!-- areas-of-study -->
 <h2>Areas of Study</h2>Combining theory with practice, the curriculum incorporates classroom study and directed research with practical experiences in the form of field trips, group projects, and internships. The minor incorporates the disciplines of American studies, anthropology, art and art history, classics, historic preservation, and history, from which students may select their own concentration preference. The minor is open to students from any discipline in the arts and sciences, education, or business colleges at UMW.
 <!-- End areas-of-study -->
