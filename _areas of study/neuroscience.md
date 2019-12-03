@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/neuroscience/
+  http://www.umw.edu/study/areas/neuroscience/
 published: true
 post_date: 2015-12-11 17:37:48
 wpcf-value-proposition: "Do you like to think about how people think? UMW's interdisciplinary minor program in neuroscience deepens your understanding of the brain and nervous system. Learn how nerves form networks and how these connections control behavior. Explore stress, memory, psychiatric disorders, and all the varied mysteries surrounding the human mind. The neuroscience minor is particularly useful to psychology and biology majors, helping them stay aware of scientific progress and prepare for emerging career opportunities and graduate programs in neuroscience or psychobiology."
@@ -28,7 +28,7 @@ wpcf-department: https://cas.umw.edu/psychology/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/neuroscience-minor/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -60,6 +60,8 @@ Do you like to think about how people think? UMW's interdisciplinary minor progr
 <h2>Scholarships</h2><a href="http://cas.umw.edu/psychology/for-students/scholarship-information/">The Department of Psychological Science</a>, which hosts UMW's neuroscience minor program, offers scholarships to qualified students. <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">The Office of Financial Aid</a> also keeps a complete list of all scholarships available to UMW students.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/neuroscience-minor/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -67,5 +69,7 @@ Do you like to think about how people think? UMW's interdisciplinary minor progr
 <!-- department -->
 <a href="https://cas.umw.edu/psychology/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/asian-studies/
+  http://www.umw.edu/study/areas/asian-studies/
 published: true
 post_date: 2015-08-04 17:55:59
 wpcf-value-proposition: >
@@ -52,7 +52,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/asns/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -80,6 +80,8 @@ The University of Mary Washington was one of the first U.S. institutions of high
 <h2>Scholarships</h2>Find out more information about <a href="http://cas.umw.edu/asian/scholarship/">scholarships available</a> to Asian studies minors.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/asns/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -87,5 +89,7 @@ The University of Mary Washington was one of the first U.S. institutions of high
 <!-- department -->
 <a href="http://cas.umw.edu/asian/asian-studies-minor/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

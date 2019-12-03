@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/geographic-information-science/
+  http://www.umw.edu/study/areas/geographic-information-science/
 published: true
 post_date: 2015-08-07 16:20:56
 wpcf-home-page-feature: >
@@ -37,7 +37,7 @@ wpcf-department: http://cas.umw.edu/geography/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -61,6 +61,8 @@ The Geographic Information Science certificate at the University of Mary Washing
 
 <!-- End requirements -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -68,5 +70,7 @@ The Geographic Information Science certificate at the University of Mary Washing
 <!-- department -->
 <a href="http://cas.umw.edu/geography/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

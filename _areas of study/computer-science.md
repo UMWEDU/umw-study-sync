@@ -5,7 +5,7 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/computer-science/
+  http://www.umw.edu/study/areas/computer-science/
 published: true
 post_date: 2015-07-28 18:39:09
 wpcf-home-page-feature: >
@@ -35,7 +35,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=NRYMX4IH4rg
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -79,6 +79,8 @@ Want to write cutting-edge software? Code the next killer app? Computer scientis
 <h2>Scholarships</h2>Computer science majors can apply for several <a href="http://cas.umw.edu/computerscience/scholarships-and-awards/">scholarships and awards</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/cpsc/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -86,5 +88,7 @@ Want to write cutting-edge software? Code the next killer app? Computer scientis
 <!-- department -->
 <a href="http://cas.umw.edu/computerscience/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

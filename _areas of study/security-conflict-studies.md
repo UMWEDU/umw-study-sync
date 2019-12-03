@@ -31,7 +31,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/security-and-conflict-studies-minor/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -51,6 +51,8 @@ The minor in security and conflict studies is designed to provide students with 
 
 <!-- End requirements -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/security-and-conflict-studies-minor/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -58,5 +60,7 @@ The minor in security and conflict studies is designed to provide students with 
 <!-- department -->
 <a href="http://cas.umw.edu/polisci/requirements-for-minor-in-security-and-conflict-studies/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/international-business/
+  http://www.umw.edu/study/areas/international-business/
 published: true
 post_date: 2018-12-04 22:26:56
 wpcf-value-proposition: >
@@ -74,7 +74,7 @@ wpcf-department: >
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/international-business/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -108,6 +108,8 @@ International business includes a semester abroad in marketing or business admin
 <h2>Scholarships</h2>Many <a href="http://business.umw.edu/current-students/undergraduate-scholarships/">scholarships</a> are available for business majors.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/international-business/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -115,5 +117,7 @@ International business includes a semester abroad in marketing or business admin
 <!-- department -->
 <a href="https://business.umw.edu/degree-programs/undergraduate-degree-bs-in-business-administration/international-business-major/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

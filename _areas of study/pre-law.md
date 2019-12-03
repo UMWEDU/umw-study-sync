@@ -4,7 +4,7 @@ post_title: 'Philosophy: Pre-Law'
 author: Emily
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/pre-law/
+permalink: http://www.umw.edu/study/areas/pre-law/
 published: true
 post_date: 2015-11-18 19:58:49
 wpcf-value-proposition: >
@@ -48,7 +48,7 @@ wpcf-department: >
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/phil/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -86,6 +86,8 @@ In addition, UMW offers the “<a href="http://www.umw.edu/careercenter/students
 <h2>Scholarships</h2>The Department of Classics, Philosophy, and Religion offers several <a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards">scholarships and awards</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/phil/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -93,5 +95,7 @@ In addition, UMW offers the “<a href="http://www.umw.edu/careercenter/students
 <!-- department -->
 <a href="http://cas.umw.edu/clpr/philosophy-program/prelaw-concentration/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

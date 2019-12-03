@@ -5,7 +5,7 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/classics-and-latin/
+  http://www.umw.edu/study/areas/classics-and-latin/
 published: true
 post_date: 2015-08-06 15:51:04
 wpcf-value-proposition: "The ideas and principles of ancient Greece and Rome resonate throughout modern Western culture. Study the languages, literatures, and civilizations of the ancients, and you'll gain a deeper understanding of today's liberal arts and sciences. At UMW, you can major in Latin or in classics with a concentration in classical civilization or classical archaeology."
@@ -35,7 +35,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/clas/
 wpcf-video: https://vimeo.com/130598210
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -82,6 +82,8 @@ The ideas and principles of ancient Greece and Rome resonate throughout modern 
 <p class="p3"></p>
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/clas/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -89,5 +91,7 @@ The ideas and principles of ancient Greece and Rome resonate throughout modern 
 <!-- department -->
 <a href="http://cas.umw.edu/clpr/classics-program/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

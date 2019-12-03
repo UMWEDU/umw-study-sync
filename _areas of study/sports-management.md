@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/sports-management/
+  http://www.umw.edu/study/areas/sports-management/
 published: true
 post_date: 2015-12-11 17:01:24
 wpcf-value-proposition: "In North America alone, the sports industry weighs in at more then $60 billion, according to Pricewaterhouse Coopers. If you love all things athletic, why not get in on the action? UMW's interdisciplinary minor program in sports management is designed for students from all majors who want to understand management as it impacts sports. You'll discover the challenges and opportunities of the sports industry; explore basic principles of management, marketing, law, finance, and ethics in sports; and have a ball while you're doing it!"
@@ -30,7 +30,7 @@ wpcf-scholarships: |
 wpcf-department: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/sports-management-minor/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -62,8 +62,12 @@ In North America alone, the sports industry weighs in at more then $60 billion, 
 <h2>Scholarships</h2>UMW's sports management minor is an interdisciplinary program. Depending on which major you choose, scholarships are available through the appropriate department. For information on all scholarships available at the University of Mary Washington, visit the <a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">Office of Financial Aid</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- department -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/sports-management-minor/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

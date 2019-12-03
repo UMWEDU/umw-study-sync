@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/contemplative-studies/
+  http://www.umw.edu/study/areas/contemplative-studies/
 published: true
 post_date: 2018-12-04 21:53:42
 wpcf-value-proposition: >
@@ -40,7 +40,7 @@ wpcf-department: https://cas.umw.edu/clpr/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/contemplative-studies-minor/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -70,6 +70,8 @@ When you minor in contemplative studies at the University of Mary Washington, yo
 <h2>Scholarships</h2>There are no scholarships specifically for contemplative studies. Here is a link to all <a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/">scholarships in Classics, Philosophy, &amp; Religion</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/contemplative-studies-minor/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -77,5 +79,7 @@ When you minor in contemplative studies at the University of Mary Washington, yo
 <!-- department -->
 <a href="https://cas.umw.edu/clpr/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

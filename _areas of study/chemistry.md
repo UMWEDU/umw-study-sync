@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/chemistry/
+  http://www.umw.edu/study/areas/chemistry/
 published: true
 post_date: 2015-07-28 18:06:57
 wpcf-home-page-feature: >
@@ -37,7 +37,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=Ulp7ITFjFY4
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -81,6 +81,8 @@ Our bachelor's program in chemistry takes you beyond beakers and test tubes, dee
 <h2>Scholarships</h2>Numerous <a href="http://cas.umw.edu/chemistry/scholarships-and-awards/">scholarships and awards</a> are available for chemistry majors.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/chem/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -88,5 +90,7 @@ Our bachelor's program in chemistry takes you beyond beakers and test tubes, dee
 <!-- department -->
 <a href="http://cas.umw.edu/chemistry/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

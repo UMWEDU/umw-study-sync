@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/practical-ethics/
+  http://www.umw.edu/study/areas/practical-ethics/
 published: true
 post_date: 2015-12-11 18:03:01
 wpcf-value-proposition: "Ethics are key to understanding some of the most challenging and controversial social problems of the 21st century. In UMW's minor program in practical ethics, you'll explore the fundamental theories, concepts, and methodologies of ethics; ways of identifying and analyzing contemporary moral issues; and how theory and practice inform one another. How do you feel about reproductive technologies, euthanasia, the treatment of animals, sustainability? Question your own beliefs, and learn how reason and argument affect everyday ethical decision-making."
@@ -36,7 +36,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/practical-ethics/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -68,6 +68,8 @@ Ethics are key to understanding some of the most challenging and controversial s
 <h2>Scholarships</h2>The Department of Classics, Philosophy, and Religion, which hosts the practical ethics minor, offers several <a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/">scholarship opportunities</a>. In addition, the <a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">Office of Financial Aid</a> maintains a complete list of all scholarship opportunities available to UMW students.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/practical-ethics/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -75,5 +77,7 @@ Ethics are key to understanding some of the most challenging and controversial s
 <!-- department -->
 <a href="http://cas.umw.edu/clpr/philosophy-program/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

@@ -39,7 +39,7 @@ wpcf-department: http://cas.umw.edu/bsn-program/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/nursing/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -66,6 +66,8 @@ ENGLISH 306Q- Writing for Nursing
 
 <!-- End requirements -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/nursing/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -73,5 +75,7 @@ ENGLISH 306Q- Writing for Nursing
 <!-- department -->
 <a href="http://cas.umw.edu/bsn-program/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

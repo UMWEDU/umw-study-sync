@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/psychology/
+  http://www.umw.edu/study/areas/psychology/
 published: true
 post_date: 2015-07-28 18:17:31
 wpcf-home-page-feature: >
@@ -49,7 +49,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=KW3d7L1zUs4
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -93,6 +93,8 @@ Our bachelor’s program in psychology takes you into the human mind. Learn the 
 <h2>Scholarships</h2>The Department of Psychological Science offers three named <a href="http://cas.umw.edu/psychology/for-students/scholarship-information/">scholarships</a>, each of which may have more than one recipient in an academic year.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/psyc/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -100,5 +102,7 @@ Our bachelor’s program in psychology takes you into the human mind. Learn the 
 <!-- department -->
 <a href="http://cas.umw.edu/psychology/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

@@ -4,7 +4,7 @@ post_title: Pre-Med
 author: Emily
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/pre-med/
+permalink: http://www.umw.edu/study/areas/pre-med/
 published: true
 post_date: 2015-11-23 19:18:45
 wpcf-value-proposition: "Doctors make a difference. Our pre-medical program walks you through the steps it takes to become a physician, dentist, or other medical specialist. Rigorous academics - in your chosen bachelor's program; required courses like biology, physics, and math; and extras like genetics and history - mirror the challenges of med school. Passionate professors, clinical experience at the region's largest hospital, research, and community service will help you ace the MCAT and slide into med school."
@@ -16,7 +16,7 @@ wpcf-department: http://cas.umw.edu/prehealth/
 wpcf-video: >
   https://www.youtube.com/watch?v=715ADeDz4ns
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -40,8 +40,12 @@ Doctors make a difference. Our pre-medical program walks you through the steps i
 <h2>Honors</h2>UMW students who are accepted into and fulfill the requirements of an early selection program will be provided provisional admission to the <a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/11/GWMed_Handout.pdf">four-year M.D. program</a> at The George Washington University School of Medicine and Health Sciences. Select individuals are exempt from taking the MCAT, allowing these students time to pursue other academic, clinical, and volunteer opportunities, including undergraduate research and/or study abroad.
 <!-- End honors -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- department -->
 <a href="http://cas.umw.edu/prehealth/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

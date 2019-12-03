@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/geography/
+  http://www.umw.edu/study/areas/geography/
 published: true
 post_date: 2015-07-28 17:08:47
 wpcf-home-page-feature: >
@@ -51,7 +51,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geog/
 wpcf-video: https://vimeo.com/129830476
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -96,6 +96,8 @@ As a University of Mary Washington geography major, you'll take classes in cultu
 <h2>Scholarships</h2>The Geography Alumni Scholarship is granted to a rising junior or senior geography major who demonstrates excellence and a commitment to the discipline.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geog/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -103,5 +105,7 @@ As a University of Mary Washington geography major, you'll take classes in cultu
 <!-- department -->
 <a href="http://cas.umw.edu/geography/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

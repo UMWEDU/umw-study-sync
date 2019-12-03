@@ -4,7 +4,7 @@ post_title: Biology
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/biology/
+permalink: http://www.umw.edu/study/areas/biology/
 published: true
 post_date: 2015-07-28 16:22:21
 wpcf-home-page-feature: >
@@ -29,7 +29,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/biology/
 wpcf-video: 'https://www.youtube.com/watch?v=hELFiuaHPwE&index=2&list=PLZfjMaRP_C8Em3hSDVFMhglNk1ody2qsu'
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -81,6 +81,8 @@ https://www.youtube.com/watch?v=hELFiuaHPwE&index=2&list=PLZfjMaRP_C8Em3hSDVFMhg
 <p class="p1"></p>
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/biology/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -88,5 +90,7 @@ https://www.youtube.com/watch?v=hELFiuaHPwE&index=2&list=PLZfjMaRP_C8Em3hSDVFMhg
 <!-- department -->
 <a href="http://cas.umw.edu/biology/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

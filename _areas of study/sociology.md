@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/sociology/
+  http://www.umw.edu/study/areas/sociology/
 published: true
 post_date: 2015-07-28 17:26:13
 wpcf-value-proposition: >
@@ -62,7 +62,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=nXL5mz8fJa4
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -115,6 +115,8 @@ Learn more about <a href="http://cas.umw.edu/sociologyanthropology/resources/int
 <h2>Scholarships</h2>One <a href="http://cas.umw.edu/sociologyanthropology/bill-hanson-memorial-scholarship/">Bill Hanson Memorial Scholarship</a> is awarded in a late professor’s honor each year to a deserving student. The award is based on merit, financial need, and commitment to peace and social justice.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/socg/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -122,5 +124,7 @@ Learn more about <a href="http://cas.umw.edu/sociologyanthropology/resources/int
 <!-- department -->
 <a href="http://cas.umw.edu/sociologyanthropology/sociology-program/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

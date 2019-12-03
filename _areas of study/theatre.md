@@ -4,7 +4,7 @@ post_title: Theatre
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/theatre/
+permalink: http://www.umw.edu/study/areas/theatre/
 published: true
 post_date: 2015-07-28 19:29:26
 wpcf-home-page-feature: >
@@ -48,7 +48,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/the/
 wpcf-video: https://vimeo.com/131317845
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -92,6 +92,8 @@ A major in theatre at the University of Mary Washington prepares you for the wor
 <h2>Scholarships</h2>The Department of Theatre &amp; Dance offers many awards to continuing students who are active in the production program. These merit-based scholarships vary in size and award criteria.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/the/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -99,5 +101,7 @@ A major in theatre at the University of Mary Washington prepares you for the wor
 <!-- department -->
 <a href="http://cas.umw.edu/theatre/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

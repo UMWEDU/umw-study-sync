@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/environmental-science-natural-science/
+  http://www.umw.edu/study/areas/environmental-science-natural-science/
 published: true
 post_date: 2015-07-28 15:30:32
 wpcf-home-page-feature: >
@@ -41,7 +41,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=9LGu_F_PoR4
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -85,6 +85,8 @@ UMW's environmental science -- natural science major explores the relationships 
 <h2>Scholarships</h2>Recent awards include the Peggy Ellis Gill Scholarship for an outstanding physical science undergraduate and the Elsa von Muller Leidecker Scholarship for excellence in academics, service, and research.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/eesc-2/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -92,5 +94,7 @@ UMW's environmental science -- natural science major explores the relationships 
 <!-- department -->
 <a href="https://cas.umw.edu/ees/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

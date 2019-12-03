@@ -4,7 +4,7 @@ post_title: History
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/history/
+permalink: http://www.umw.edu/study/areas/history/
 published: true
 post_date: 2015-07-28 18:31:20
 wpcf-home-page-feature: >
@@ -36,7 +36,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=sRZ5OGUqQcY
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -78,6 +78,8 @@ Phi Alpha Theta, the national history honorary society, offers opportunities to 
 <h2>Scholarships</h2>The department awards five <a href="http://cas.umw.edu/historyamericanstudies/scholarships-and-awards/">scholarships</a> annually through competitive application for history and American studies majors.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/hist/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -85,5 +87,7 @@ Phi Alpha Theta, the national history honorary society, offers opportunities to 
 <!-- department -->
 <a href="http://cas.umw.edu/historyamericanstudies/history/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

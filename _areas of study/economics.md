@@ -5,7 +5,7 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/economics/
+  http://www.umw.edu/study/areas/economics/
 published: true
 post_date: 2015-07-28 19:19:10
 wpcf-home-page-feature: >
@@ -30,7 +30,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/econ/
 wpcf-video: 'https://www.youtube.com/watch?v=DNpckL-LzzU&list=PLZfjMaRP_C8Em3hSDVFMhglNk1ody2qsu&index=17'
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -76,6 +76,8 @@ Could you survive on $2 a day? The nationwide $2-a-day challenge began on our ca
 <h2>Scholarships</h2><p class="p1">Numerous <a href="http://cas.umw.edu/economics/majoring-in-economics/honors-and-awards/">scholarships and awards</a> are available for economics majors.</p>
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/econ/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -83,5 +85,7 @@ Could you survive on $2 a day? The nationwide $2-a-day challenge began on our ca
 <!-- department -->
 <a href="http://cas.umw.edu/economics/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

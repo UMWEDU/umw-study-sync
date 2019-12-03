@@ -4,7 +4,7 @@ post_title: Physics
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/physics/
+permalink: http://www.umw.edu/study/areas/physics/
 published: true
 post_date: 2015-08-11 20:13:07
 wpcf-value-proposition: "Why don’t riders fall off the roller coaster? When you look in a window, why do you see what's inside as well as your own reflection? How is music recorded and transmitted? Physics answers these questions and many more. As a UMW physics major, you'll satisfy your curiosity about the physical universe, then analyze and describe your discoveries. You'll leave career-ready, prepared for advanced study, and poised to make an immediate contribution to your field."
@@ -31,7 +31,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/phys/
 wpcf-video: https://vimeo.com/137257108
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -77,6 +77,8 @@ Why don’t riders fall off the roller coaster? When you look in a window, why 
 &nbsp;
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/phys/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -84,5 +86,7 @@ Why don’t riders fall off the roller coaster? When you look in a window, why 
 <!-- department -->
 <a href="http://cas.umw.edu/physics/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

@@ -4,7 +4,7 @@ post_title: Music
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/music/
+permalink: http://www.umw.edu/study/areas/music/
 published: true
 post_date: 2015-07-28 14:05:54
 wpcf-home-page-feature: >
@@ -44,7 +44,7 @@ wpcf-department: http://cas.umw.edu/music/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/musc/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -80,6 +80,8 @@ Music majors at UMW have shared the stage with greats like Itzhak Perlman and Si
 <h2>Scholarships</h2>The Department of Music offers many <a href="http://cas.umw.edu/music/scholarships/">scholarships</a>. In addition, the <a href="http://philharmonic.umw.edu/about-the-orchestra/scholarships/">UMW Philharmonic</a> has one of the largest and most progressive scholarship programs in the nation, and it offers generous scholarships to student members.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/musc/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -87,5 +89,7 @@ Music majors at UMW have shared the stage with greats like Itzhak Perlman and Si
 <!-- department -->
 <a href="http://cas.umw.edu/music/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

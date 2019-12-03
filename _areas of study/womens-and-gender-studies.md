@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/womens-and-gender-studies/
+  http://www.umw.edu/study/areas/womens-and-gender-studies/
 published: true
 post_date: 2015-07-28 15:44:06
 wpcf-value-proposition: >
@@ -59,7 +59,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/wgst/
 wpcf-video: https://vimeo.com/133699287
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -95,6 +95,8 @@ Everyone has a sex and everyone has a gender. Our bachelorâ€™s degree in womenâ€
 <h2>Scholarships</h2>None specific to this major, but UMW offers many <a href="https://umw.scholarships.ngwebsolutions.com/ScholarX_ScholarshipSearch.aspx">scholarships</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/wgst/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -102,5 +104,7 @@ Everyone has a sex and everyone has a gender. Our bachelorâ€™s degree in womenâ€
 <!-- department -->
 <a href="http://cas.umw.edu/wgst/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

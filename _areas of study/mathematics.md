@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/mathematics/
+  http://www.umw.edu/study/areas/mathematics/
 published: true
 post_date: 2015-07-28 19:31:55
 wpcf-home-page-feature: >
@@ -48,7 +48,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=mCWHmbT4lxU
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -92,6 +92,8 @@ Major in mathematics at the University of Mary Washington and you'll expand your
 <h2>Scholarships</h2>Several <a href="http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/">scholarships and honor societies</a> are open to mathematics majors.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/math/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -99,5 +101,7 @@ Major in mathematics at the University of Mary Washington and you'll expand your
 <!-- department -->
 <a href="http://cas.umw.edu/math/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

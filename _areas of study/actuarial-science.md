@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/actuarial-science/
+  http://www.umw.edu/study/areas/actuarial-science/
 published: true
 post_date: 2015-08-05 17:04:56
 wpcf-value-proposition: >
@@ -65,7 +65,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/actuarial-science/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -97,6 +97,8 @@ Love crunching numbers? Open to all majors, UMW’s minor program in actuarial s
 <h2>Scholarships</h2>UMW's Department of Mathematics, which hosts the actuarial science major, offers several <a href="http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/">scholarship opportunities</a> for qualifying students. For a complete list of scholarship opportunities available at UMW, visit the <a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">Office of Financial Aid</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/actuarial-science/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -104,5 +106,7 @@ Love crunching numbers? Open to all majors, UMW’s minor program in actuarial s
 <!-- department -->
 <a href="http://cas.umw.edu/math/courses-and-majorminor-requirements/minor-requirements/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

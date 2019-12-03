@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/english-creative-writing/
+  http://www.umw.edu/study/areas/english-creative-writing/
 published: true
 post_date: 2018-12-04 22:09:00
 wpcf-value-proposition: >
@@ -44,7 +44,7 @@ wpcf-department: https://cas.umw.edu/elc/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/engl/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -76,6 +76,8 @@ When you major in English with a concentration in creative writing at University
 <h2>Scholarships</h2>The Department of English, Linguistics, and Communication offers numerous <a href="http://cas.umw.edu/elc/scholarships-and-prizes/">scholarships and awards</a>, include some available specifically for the study of creative writing.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/engl/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -83,5 +85,7 @@ When you major in English with a concentration in creative writing at University
 <!-- department -->
 <a href="https://cas.umw.edu/elc/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

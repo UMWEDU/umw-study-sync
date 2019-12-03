@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/financial-and-quantitative-analysis/
+  http://www.umw.edu/study/areas/financial-and-quantitative-analysis/
 published: true
 post_date: 2018-12-04 22:23:26
 wpcf-value-proposition: >
@@ -66,7 +66,7 @@ wpcf-department: https://business.umw.edu/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/financial-and-quantitative-analysis/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -94,6 +94,8 @@ Financial decision making is critically important in the business world, whether
 <h2>Scholarships</h2>Many <a href="http://business.umw.edu/current-students/undergraduate-scholarships/">scholarships</a> are available for business majors, including financial and quantitative analysis students.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/financial-and-quantitative-analysis/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -101,5 +103,7 @@ Financial decision making is critically important in the business world, whether
 <!-- department -->
 <a href="https://business.umw.edu/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/biochemistry/
+  http://www.umw.edu/study/areas/biochemistry/
 published: true
 post_date: 2018-08-30 13:24:12
 wpcf-value-proposition: >
@@ -88,7 +88,7 @@ wpcf-department: https://cas.umw.edu/chemistry/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/chem/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -126,6 +126,8 @@ Are you drawn to the chemistry of life? Biochemistry studies life on the molecul
 <h2>Scholarships</h2>Each year, the department awards two UMW Foundation research-focused scholarships (Mahoney and Rodgers fellowships) and two more general scholarships (Cook and Crissman scholarships). These are awarded annually on the basis of merit and, in some cases, financial need. In addition, there are three other scholarships that the department offers on a rotating basis with the other science departments (Cope, Gill, and Rimnac scholarships).
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/chem/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -133,5 +135,7 @@ Are you drawn to the chemistry of life? Biochemistry studies life on the molecul
 <!-- department -->
 <a href="https://cas.umw.edu/chemistry/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

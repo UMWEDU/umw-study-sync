@@ -4,7 +4,7 @@ post_title: Spanish
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/spanish/
+permalink: http://www.umw.edu/study/areas/spanish/
 published: true
 post_date: 2015-07-28 16:32:47
 wpcf-home-page-feature: >
@@ -38,7 +38,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/span/
 wpcf-video: https://vimeo.com/131570016
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -85,6 +85,8 @@ Maybe the Spanish language is part of your heritage, or maybe you just loved the
 <h2>Scholarships</h2>Eligible students can apply for <a href="http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/">scholarships</a> to defray costs of faculty-led travel programs. Multiple awards are made each semester. A complete list of scholarship opportunities available at UMW can be found with the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/span/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -92,5 +94,7 @@ Maybe the Spanish language is part of your heritage, or maybe you just loved the
 <!-- department -->
 <a href="http://cas.umw.edu/spanish/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

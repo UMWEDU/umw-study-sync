@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/political-science/
+  http://www.umw.edu/study/areas/political-science/
 published: true
 post_date: 2015-07-28 18:33:28
 wpcf-home-page-feature: >
@@ -38,7 +38,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=QgStl_s1TyM
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -82,6 +82,8 @@ Study political science at the University of Mary Washington, positioned midway 
 <h2>Scholarships</h2><a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">Scholarships</a> are available specifically for political science majors, but you can also apply for numerous scholarships available to students in all majors.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/psci/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -89,5 +91,7 @@ Study political science at the University of Mary Washington, positioned midway 
 <!-- department -->
 <a href="http://cas.umw.edu/polisci/political-science/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

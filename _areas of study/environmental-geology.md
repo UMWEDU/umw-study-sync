@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/environmental-geology/
+  http://www.umw.edu/study/areas/environmental-geology/
 published: true
 post_date: 2015-12-02 18:41:07
 wpcf-value-proposition: "Driven to understand - and protect - the planet we live on? UMW's bachelor's program in environmental geology arms you with the knowledge and principles you need to understand Earth's evolution and processes. Discover how these fundamentals relate to human interaction with the landscape. Examine such topics as hydrogeology, soil and water chemistry, and geomorphology. Discover ways to curb the hazards that threaten our planet."
@@ -24,7 +24,7 @@ wpcf-scholarships: |
   A complete list of available scholarships is provided by UMW's <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 wpcf-department: https://cas.umw.edu/ees/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -56,8 +56,12 @@ Driven to understand - and protect - the planet we live on? UMW's bachelor's pro
 <h2>Scholarships</h2>A complete list of available scholarships is provided by UMW's <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- department -->
 <a href="https://cas.umw.edu/ees/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

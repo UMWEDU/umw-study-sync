@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/cybersecurity/
+  http://www.umw.edu/study/areas/cybersecurity/
 published: true
 post_date: 2018-12-04 22:16:18
 wpcf-value-proposition: >
@@ -52,7 +52,7 @@ wpcf-department: https://business.umw.edu/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cybersecurity-minor/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -72,6 +72,8 @@ Sensitive data and systems are increasingly in peril. This presents an opportuni
 
 <!-- End requirements -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cybersecurity-minor/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -79,5 +81,7 @@ Sensitive data and systems are increasingly in peril. This presents an opportuni
 <!-- department -->
 <a href="https://business.umw.edu/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

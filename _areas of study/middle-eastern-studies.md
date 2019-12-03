@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/middle-eastern-studies/
+  http://www.umw.edu/study/areas/middle-eastern-studies/
 published: true
 post_date: 2015-12-11 16:37:10
 wpcf-value-proposition: "The Arab World, Afghanistan, Iran, Turkey, and Israel, better known as the Middle East, increasingly influences life in the United States. If you're interested in exploring this area of the world, UMW's interdisciplinary Middle Eastern Studies minor might be for you. Delve into the histories, geographies, cultures, arts, languages, and politics of this important area of the globe and gain a valuable understanding of its tenuous relationship with the Western World."
@@ -29,7 +29,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/mdes/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -61,6 +61,8 @@ The Arab World, Afghanistan, Iran, Turkey, and Israel, better known as the Middl
 <h2>Scholarships</h2>The Department of Geography offers <a href="http://cas.umw.edu/geography/about-the-department/student-and-alumni-awards/">several scholarships</a> each year. The Office of Financial Aid also keeps a complete list of <a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">all scholarships and grants</a> available to UMW students.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/mdes/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -68,5 +70,7 @@ The Arab World, Afghanistan, Iran, Turkey, and Israel, better known as the Middl
 <!-- department -->
 <a href="http://cas.umw.edu/middleeaststudiesminor/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/american-studies/
+  http://www.umw.edu/study/areas/american-studies/
 published: true
 post_date: 2015-07-28 13:43:19
 wpcf-value-proposition: |
@@ -28,7 +28,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/amst/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -67,6 +67,8 @@ wpcf-courses: >
 <h2>Scholarships</h2><p class="p1">American studies majors may qualify for numerous <a href="http://cas.umw.edu/historyamericanstudies/scholarships-and-awards/">scholarships and awards</a> for excellence.</p>
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/amst/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -74,5 +76,7 @@ wpcf-courses: >
 <!-- department -->
 <a href="http://cas.umw.edu/historyamericanstudies/american-studies/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

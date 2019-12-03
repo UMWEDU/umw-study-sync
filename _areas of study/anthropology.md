@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/anthropology/
+  http://www.umw.edu/study/areas/anthropology/
 published: true
 post_date: 2015-07-28 19:09:18
 wpcf-home-page-feature: >
@@ -49,7 +49,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/anth/
 wpcf-video: https://vimeo.com/129708066
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -104,6 +104,8 @@ A successful honors thesis presents an original, informed, persuasive argument b
 </ul>
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/anth/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -111,5 +113,7 @@ A successful honors thesis presents an original, informed, persuasive argument b
 <!-- department -->
 <a href="http://cas.umw.edu/sociologyanthropology/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

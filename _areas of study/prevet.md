@@ -4,7 +4,7 @@ post_title: Pre-Veterinary
 author: Emily
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/prevet/
+permalink: http://www.umw.edu/study/areas/prevet/
 published: true
 post_date: 2016-06-22 19:42:16
 wpcf-value-proposition: >
@@ -51,7 +51,7 @@ wpcf-testimonial: |
 wpcf-department: >
   http://cas.umw.edu/biology/pre-veterinary-program/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -87,8 +87,12 @@ If you’re passionate about animals and their welfare, our program in pre-veter
 <h2>Scholarships</h2>The Department of Biology presents several <a href="http://cas.umw.edu/biology/awards-scholarships/">scholarships and awards</a> annually to outstanding biology majors.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- department -->
 <a href="http://cas.umw.edu/biology/pre-veterinary-program/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

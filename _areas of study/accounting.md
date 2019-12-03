@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/accounting/
+  http://www.umw.edu/study/areas/accounting/
 published: true
 post_date: 2015-07-28 18:22:18
 wpcf-value-proposition: "Accounting majors at University of Mary Washington know their business and find jobs keeping track of it. A recent <em>U.S. News and World Report</em> article put this lucrative profession in the top 20 top-paying jobs. If you're into spreadsheets, accounts receivable, and audits, check out our bachelor’s degree."
@@ -36,7 +36,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/accounting/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -68,6 +68,8 @@ Accounting majors at University of Mary Washington know their business and find 
 <h2>Scholarships</h2>The College of Business offers multiple <a href="http://business.umw.edu/current-students/undergraduate-scholarships/">scholarships</a> for qualified students.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/accounting/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -75,5 +77,7 @@ Accounting majors at University of Mary Washington know their business and find 
 <!-- department -->
 <a href="http://business.umw.edu/about-the-college/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

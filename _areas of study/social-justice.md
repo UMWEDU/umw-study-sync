@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/social-justice/
+  http://www.umw.edu/study/areas/social-justice/
 published: true
 post_date: 2015-12-17 20:34:46
 wpcf-value-proposition: "Are equality and fairness just an illusion? UMW's minor program in social justice attempts to bridge the gap between the ideal and the reality of our social situations. Explore injustices such as cultural imperialism, exploitation, human rights abuses, and physical violence. Study social movements and political philosophy. Become a well-informed citizen with the ability to look at social values and change from multiple perspectives."
@@ -43,7 +43,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/social-justice-minor/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -75,6 +75,8 @@ Are equality and fairness just an illusion? UMW's minor program in social justic
 <h2>Scholarships</h2>UMW's Department of Sociology and Anthropology, which hosts the minor program in social justice, offers <a href="http://cas.umw.edu/sociologyanthropology/departmental-scholarships/">several scholarships</a>. For more information on scholarships offered at UMW, visit the <a href="/financialaid/types/">Office of Financial Aid</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/social-justice-minor/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -82,5 +84,7 @@ Are equality and fairness just an illusion? UMW's minor program in social justic
 <!-- department -->
 <a href="http://cas.umw.edu/sociologyanthropology/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

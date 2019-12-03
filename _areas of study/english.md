@@ -4,7 +4,7 @@ post_title: English
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/english/
+permalink: http://www.umw.edu/study/areas/english/
 published: true
 post_date: 2015-07-28 14:35:20
 wpcf-home-page-feature: >
@@ -23,7 +23,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=HKRqIgvQgRs
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -63,6 +63,8 @@ As a University of Mary Washington English major, you'll investigate the great b
 <h2>Scholarships</h2>The English, Linguistics, and Communication department offers numerous <a href="http://cas.umw.edu/elc/scholarships-and-prizes/">scholarships and awards</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/engl/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -70,5 +72,7 @@ As a University of Mary Washington English major, you'll investigate the great b
 <!-- department -->
 <a href="http://cas.umw.edu/elc/english-at-umw/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

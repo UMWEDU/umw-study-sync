@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/urban-studies/
+  http://www.umw.edu/study/areas/urban-studies/
 published: true
 post_date: 2015-11-18 19:35:43
 wpcf-value-proposition: "What could be more exciting than city living? UMW's urban studies minor gets to the root of the hustle and bustle, revealing in historical, social, cultural, economic, and political contexts the opportunities, problems, and dynamics of living and working in a city. Explore urban life, planning, policy-making, and issues such as housing, education, and crime. This multi-disciplinary minor offers everything from historic preservation and study abroad to a chance to build with LEGOs!"
@@ -33,7 +33,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/urbn/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -65,6 +65,8 @@ What could be more exciting than city living? UMW's urban studies minor gets to 
 <h2>Scholarships</h2>The Department of Historic Preservation, which administers the urban studies minor, offers <a href="http://cas.umw.edu/hisp/scholarships/">several scholarships</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/urbn/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -72,5 +74,7 @@ What could be more exciting than city living? UMW's urban studies minor gets to 
 <!-- department -->
 <a href="http://cas.umw.edu/hisp/requirements/urban-studies-minor/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

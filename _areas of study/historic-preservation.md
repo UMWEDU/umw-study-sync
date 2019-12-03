@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/historic-preservation/
+  http://www.umw.edu/study/areas/historic-preservation/
 published: true
 post_date: 2015-07-28 18:10:34
 wpcf-home-page-feature: >
@@ -34,7 +34,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=Wyx_fTaLaAA
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -74,6 +74,8 @@ The University of Mary Washington in historic Fredericksburg, Virginia, is home 
 <h2>Scholarships</h2>UMW historic preservation majors can apply for numerous dedicated <a href="http://cas.umw.edu/hisp/scholarships/">scholarships</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/hisp/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -81,5 +83,7 @@ The University of Mary Washington in historic Fredericksburg, Virginia, is home 
 <!-- department -->
 <a href="http://cas.umw.edu/hisp/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

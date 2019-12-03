@@ -4,8 +4,7 @@ post_title: Religious Studies
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://www.umw.edu/study/areas/religion/
+permalink: http://www.umw.edu/study/areas/religion/
 published: true
 post_date: 2015-07-28 17:43:42
 wpcf-value-proposition: >
@@ -46,7 +45,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/relg/
 wpcf-video: https://vimeo.com/131563072
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -82,6 +81,8 @@ Religions affect more than beliefs – they influence politics, shape culture, a
 <h2>Scholarships</h2>In addition to general scholarships awarded by the university, religious studies faculty award two <a href="http://cas.umw.edu/clpr/religion-program/honors-awards-scholarships/">scholarships</a> specific to the religious studies major.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/relg/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -89,5 +90,7 @@ Religions affect more than beliefs – they influence politics, shape culture, a
 <!-- department -->
 <a href="http://cas.umw.edu/clpr/religion-program/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

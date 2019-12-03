@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/art-history/
+  http://www.umw.edu/study/areas/art-history/
 published: true
 post_date: 2015-07-28 17:41:37
 wpcf-value-proposition: "Drawn to how people have depicted beauty throughout history? Need to know more of the story behind it? Major in art history at the University of Mary Washington and you'll explore humanity through artistic wonders, from prehistoric cave paintings to the works of Warhol. You'll investigate styles, periods, and movements of Western art; masters and masterpieces of Italy, Egypt, and beyond; and the rich resources of  Washington, Richmond, Baltimore, and New York."
@@ -36,7 +36,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=-hTrkezXVAk
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -79,6 +79,8 @@ Drawn to how people have depicted beauty throughout history? Need to know more o
 <h2>Scholarships</h2>Learn more about <a href="http://cas.umw.edu/art/scholarship-descriptions/">art scholarships</a> at the University of Mary Washington.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arth/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -86,5 +88,7 @@ Drawn to how people have depicted beauty throughout history? Need to know more o
 <!-- department -->
 <a href="http://cas.umw.edu/art/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

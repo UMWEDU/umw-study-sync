@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/arts-administration/
+  http://www.umw.edu/study/areas/arts-administration/
 published: true
 post_date: 2015-09-26 21:22:24
 wpcf-value-proposition: >
@@ -60,7 +60,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/arts-administration-minor/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -88,6 +88,8 @@ Behind every successful art show, every smash-hit theatrical production, every b
 <h2>Scholarships</h2>Information about scholarships is available on the <a href="http://cas.umw.edu/theatre/make-a-gift/friends-of-dance/scholarships/">Department of Theatre and Dance website</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/arts-administration-minor/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -95,5 +97,7 @@ Behind every successful art show, every smash-hit theatrical production, every b
 <!-- department -->
 <a href="http://cas.umw.edu/theatre/current-students/minor-requirements/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

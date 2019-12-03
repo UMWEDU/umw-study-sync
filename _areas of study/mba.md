@@ -9,12 +9,16 @@ published: true
 post_date: 2015-08-07 23:09:52
 wpcf-department: http://business.umw.edu
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- department -->
 <a href="http://business.umw.edu" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

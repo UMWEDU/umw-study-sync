@@ -5,7 +5,7 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/philosophy/
+  http://www.umw.edu/study/areas/philosophy/
 published: true
 post_date: 2015-07-28 15:08:07
 wpcf-home-page-feature: >
@@ -47,7 +47,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/phil/
 wpcf-video: https://vimeo.com/131317843
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -87,6 +87,8 @@ Do you wrestle with the questions that seem to have no answers: What is truth? W
 <h2>Scholarships</h2><a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/">Scholarships</a> are available for all disciplines in the Department of Classics, Religion, and Philosophy.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/phil/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -94,5 +96,7 @@ Do you wrestle with the questions that seem to have no answers: What is truth? W
 <!-- department -->
 <a href="http://cas.umw.edu/clpr/philosophy-program/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

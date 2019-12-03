@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/latin-american-studies/
+  http://www.umw.edu/study/areas/latin-american-studies/
 published: true
 post_date: 2015-12-11 15:45:27
 wpcf-value-proposition: "Complex and colorful, Latin America - and its more than 20 nations - is one of the world's most culturally diverse areas. UMW's interdisciplinary Latin American studies minor explores the history, geography, politics, languages, and traditions of Mexico, Central and South America, and the Caribbean, as well as Latinas and Latinos in the U.S. From the temple-topped ziggurats to spicy salsa music, the program fosters understanding of and engagement with a complicated group of cultures long connected to the United States through migration, trade, and more."
@@ -29,7 +29,7 @@ wpcf-scholarships: '<a href="http://adminfinance.umw.edu/financialaid/scholarshi
 wpcf-department: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/latin-american-studies-minor/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -57,8 +57,12 @@ Complex and colorful, Latin America - and its more than 20 nations - is one of t
 <h2>Scholarships</h2><a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">The Office of Financial Aid</a> the the University of Mary Washington coordinates more than 300 different scholarship and grant programs that include general scholarships and scholarships for specific majors.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- department -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/latin-american-studies-minor/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

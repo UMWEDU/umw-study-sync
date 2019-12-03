@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/interdisciplinary-science-studies/
+  http://www.umw.edu/study/areas/interdisciplinary-science-studies/
 published: true
 post_date: 2015-07-28 18:44:24
 wpcf-value-proposition: "If you have a calling to teach and a passion for the sciences, UMW's interdisciplinary science major will help you prepare for a career in science education. In combination with your education course work, you'll gain broad exposure to all the sciences and in-depth knowledge of a specific science field of your choice. You'll leave with a solid foundation to be an elementary science teacher or an educator for museums, nature centers, or zoos."
@@ -41,7 +41,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/idis/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -69,6 +69,8 @@ If you have a calling to teach and a passion for the sciences, UMW's interdiscip
 
 <!-- End requirements -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/idis/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -76,5 +78,7 @@ If you have a calling to teach and a passion for the sciences, UMW's interdiscip
 <!-- department -->
 <a href="http://cas.umw.edu/ees/interdisciplinary-science-studies/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

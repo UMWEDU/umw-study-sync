@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/climate-science/
+  http://www.umw.edu/study/areas/climate-science/
 published: true
 post_date: 2018-12-04 21:37:49
 wpcf-value-proposition: >
@@ -57,7 +57,7 @@ wpcf-department: https://cas.umw.edu/geography/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/climate-science-minor/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -81,6 +81,8 @@ Earth’s climate is constantly changing. If you are curious about how extreme t
 
 <!-- End requirements -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/climate-science-minor/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -88,5 +90,7 @@ Earth’s climate is constantly changing. If you are curious about how extreme t
 <!-- department -->
 <a href="https://cas.umw.edu/geography/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

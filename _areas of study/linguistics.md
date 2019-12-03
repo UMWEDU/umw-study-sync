@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/linguistics/
+  http://www.umw.edu/study/areas/linguistics/
 published: true
 post_date: 2015-12-02 19:37:35
 wpcf-value-proposition: "Human language is complex and endlessly fascinating. If you agree with these words, UMW's minor program in linguistics might be for you. At a crossroads of the humanities, social sciences, and physical sciences, linguistics complements any major that deals with language, literature, cognition, sociology, or education. Get to the heart of the structure, use, and psychology of language. Study language acquisition. Learn how to describe the sounds languages use. Discover the similarities and differences between the world's various tongues."
@@ -34,7 +34,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/ling/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -66,6 +66,8 @@ Human language is complex and endlessly fascinating. If you agree with these wor
 <h2>Scholarships</h2>A complete list of available scholarships can be found at UMW's <a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">Office of Financial Aid</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/ling/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -73,5 +75,7 @@ Human language is complex and endlessly fascinating. If you agree with these wor
 <!-- department -->
 <a href="http://cas.umw.edu/elc/linguistics-at-umw/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

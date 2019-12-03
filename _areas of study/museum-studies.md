@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/museum-studies/
+  http://www.umw.edu/study/areas/museum-studies/
 published: true
 post_date: 2018-12-04 22:32:51
 wpcf-value-proposition: >
@@ -70,7 +70,7 @@ wpcf-department: https://cas.umw.edu/museumstudies/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/museum-studies/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -108,6 +108,8 @@ I could not ask for more out of a summer-long internship. In addition to learnin
 <h2>Scholarships</h2>While there are no UMW scholarships specifically for the museum studies minor, there are scholarships that may be available to museum studies minors. <a href="https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=886">Search scholarships</a>.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/museum-studies/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -115,5 +117,7 @@ I could not ask for more out of a summer-long internship. In addition to learnin
 <!-- department -->
 <a href="https://cas.umw.edu/museumstudies/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

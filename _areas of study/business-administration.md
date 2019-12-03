@@ -5,7 +5,7 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/business-administration/
+  http://www.umw.edu/study/areas/business-administration/
 published: true
 post_date: 2015-07-28 17:30:56
 wpcf-home-page-feature: >
@@ -45,7 +45,7 @@ wpcf-courses: >
 wpcf-video: >
   https://www.youtube.com/watch?v=TmOr05gTeU0
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -96,6 +96,8 @@ Major in business administration at the University of Mary Washington and you'll
 <h2>Scholarships</h2>Many <a href="http://business.umw.edu/current-students/undergraduate-scholarships/">scholarships</a> are available for business majors.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/buad/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -103,5 +105,7 @@ Major in business administration at the University of Mary Washington and you'll
 <!-- department -->
 <a href="http://business.umw.edu/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/studio-art/
+  http://www.umw.edu/study/areas/studio-art/
 published: true
 post_date: 2015-07-28 17:49:37
 wpcf-home-page-feature: >
@@ -32,7 +32,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arts/
 wpcf-video: https://vimeo.com/117056521
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -72,6 +72,8 @@ Channel your talents and passion through the University of Mary Washington's maj
 <h2>Scholarships</h2>The Department of Art and Art history hosts a number of competitive <a href="http://cas.umw.edu/art/scholarship-descriptions/">scholarships</a> in studio art. Studio art majors wishing to be considered for scholarships must demonstrate outstanding work in studio coursework. Recipients will file an artist statement and images with the scholarship coordinator.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arts/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -79,5 +81,7 @@ Channel your talents and passion through the University of Mary Washington's maj
 <!-- department -->
 <a href="http://cas.umw.edu/art/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

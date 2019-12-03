@@ -4,7 +4,7 @@ post_title: French
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/french/
+permalink: http://www.umw.edu/study/areas/french/
 published: true
 post_date: 2015-07-28 16:37:37
 wpcf-home-page-feature: >
@@ -32,7 +32,7 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/fren/
 wpcf-video: https://vimeo.com/129708067
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -80,6 +80,8 @@ The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/m
 <h2>Scholarships</h2>Eligible students can apply for <a href="http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/">scholarships</a> to defray costs of faculty-led travel programs. Multiple awards are made each semester.
 <!-- End scholarships -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/fren/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -87,5 +89,7 @@ The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/m
 <!-- department -->
 <a href="http://cas.umw.edu/french/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->

@@ -25,7 +25,7 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/
 ---
-
+<!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
@@ -48,6 +48,8 @@ DANC 141, 142 – Beginning Jazz
 
 <!-- End requirements -->
 
+<!-- resource-links -->
+<h2>Resource Links</h2>
 <!-- courses -->
 <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/" class="button">Course Listing</a>
 <!-- End courses -->
@@ -55,5 +57,7 @@ DANC 141, 142 – Beginning Jazz
 <!-- department -->
 <a href="http://cas.umw.edu/theatre/current-students/minor-requirements/" class="button">Department Website</a>
 <!-- End department -->
+
+<!-- End resource-links -->
 
 <!-- End Types Custom Fields -->
