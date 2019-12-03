@@ -8,9 +8,6 @@ permalink: >
   http://www.umw.edu/study/areas/international-business/
 published: true
 post_date: 2018-12-04 22:26:56
-wpcf-degree-awarded: >
-  Please ignore this if you see it. Thank
-  you.
 wpcf-value-proposition: >
   If you are interested in business and
   foreign cultures this may be the major
@@ -84,9 +81,6 @@ wpcf-courses: >
 If you are interested in business and foreign cultures this may be the major for you. An international business major from University of Mary Washington may pursue traditional business careers or craft a major that’s less predictable. For example, if you study international business and minor in art, you might manage an art museum or deal in art.
 <!-- End value-proposition -->
 
-<!-- degree-awarded -->
-<h2>Degree Awarded</h2>Please ignore this if you see it. Thank you.
-<!-- End degree-awarded -->
 <!-- areas-of-study -->
 <h2>Areas of Study</h2>As an international business student, you will graduate with a solid business education, but you also must be able to understand the importance and influence of culture on how people make decisions. The international business major is one of four majors offered within the UMW College of Business that lead to the bachelor of science degree in business administration. All business majors are multi-disciplinary degrees that require students to master concepts from across the business disciplines, which include accounting, business administration, business law, decision sciences, finance, management, and management and information systems.
 <!-- End areas-of-study -->
