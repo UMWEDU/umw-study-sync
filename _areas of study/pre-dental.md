@@ -5,7 +5,7 @@ author: Shelley Keith
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/pre-dental/
+  https://www.umw.edu/study/areas/pre-dental/
 published: true
 post_date: 2015-11-20 18:27:48
 wpcf-value-proposition: "Paired with a biology - or any other - major, UMW's pre-dental program helps you break into a lauded and often lucrative field, whether you plan to work in private practice, research, or academics. The program combines a solid core of biological science with pertinent subjects like chemistry and physics. Our partner clinics and volunteer opportunities provide the hands-on experience dental schools look for. Master teachers guide you through the complex application process with interview practice, recommendations and more."
@@ -21,6 +21,46 @@ wpcf-department: http://cas.umw.edu/prehealth/
 wpcf-video: https://vimeo.com/131562731
 ---
 <!-- End Types Custom Fields -->
+<!-- End Types Custom Fields -->
+<!-- End Types Custom Fields -->
+<!-- Types Custom Fields: -->
+
+<!-- video -->
+https://vimeo.com/131562731
+<!-- End video -->
+
+<!-- value-proposition -->
+Paired with a biology - or any other - major, UMW's pre-dental program helps you break into a lauded and often lucrative field, whether you plan to work in private practice, research, or academics. The program combines a solid core of biological science with pertinent subjects like chemistry and physics. Our partner clinics and volunteer opportunities provide the hands-on experience dental schools look for. Master teachers guide you through the complex application process with interview practice, recommendations and more.
+<!-- End value-proposition -->
+
+<!-- areas-of-study -->
+<h2>Areas of Study</h2>UMW students on the pre-dental track must also choose a major - most often it's biology, but students can target specific career goals with any of UMW's more than 40 majors. Pair courses in chemistry and physics with a core of biological sciences, including cellular, micro, and developmental biology, plus physiology, anatomy, histology, genetics, and immunology. With UMW's liberal arts and sciences curriculum you'll also strengthen your knowledge in English and math, and choose from a rich array of electives.
+<!-- End areas-of-study -->
+
+<!-- internships -->
+<h2>Internships</h2>At UMW, students in the pre-dental program must complete at least two, preferably three, semesters of clinical experience at a licensed dental practice. These are made possible through UMW's affiliations with Fredericksburg-area clinics. Additional summertime opportunities can be found through the <a href="http://cas.umw.edu/premed/summeropportunities">College of Arts and Sciences</a>.
+<!-- End internships -->
+
+<!-- requirements -->
+<h2>Requirements</h2>
+<!-- major-requirements -->
+<h3>Major Requirements</h3>Driven by the VCU School of Dentistry admissions requirements, UMW's pre-dental program requires eight credits in general biology, 16 credits in chemistry, eight in physics, and four in biochemistry (additional biological science courses are recommended), plus a minimum of two semesters of clinical experience at a licensed dental practice or clinic.
+<!-- End major-requirements -->
+
+<!-- End requirements -->
+
+<!-- scholarships -->
+<h2>Scholarships</h2>There are many scholarship opportunities available through UMW's <a href="http://cas.umw.edu/biology/awards-scholarships/">Department of Biology</a>.
+<!-- End scholarships -->
+
+<!-- resource-links -->
+<h2>Resource Links</h2>
+<!-- department -->
+<a href="http://cas.umw.edu/prehealth/" class="button">Department Website</a>
+<!-- End department -->
+
+<!-- End resource-links -->
+
 <!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 

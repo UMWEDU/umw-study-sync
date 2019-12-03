@@ -12,6 +12,22 @@ wpcf-department: http://education.umw.edu
 ---
 <!-- End Types Custom Fields -->
 <!-- End Types Custom Fields -->
+<!-- End Types Custom Fields -->
+<!-- Types Custom Fields: -->
+
+<!-- value-proposition -->
+While UMW doesn't offer a bachelor's degree specifically in education, the University's College of Education does offer, as electives towards a bachelor's degree in another declared major, courses that will prepare you to meet the requirements for teacher licensure.
+<!-- End value-proposition -->
+
+<!-- resource-links -->
+<h2>Resource Links</h2>
+<!-- department -->
+<a href="http://education.umw.edu" class="button">Department Website</a>
+<!-- End department -->
+
+<!-- End resource-links -->
+
+<!-- End Types Custom Fields -->
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->
