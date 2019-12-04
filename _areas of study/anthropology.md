@@ -32,8 +32,8 @@ wpcf-honors: |
   
   A successful honors thesis presents an original, informed, persuasive argument based on extensive, sound, imaginative scholarship; broad knowledge of the topic and understanding of the theoretical framework within which the candidate discusses the topic; and competent writing. An honors candidate should expect to work mostly independently, with minimal guidance from the advisor(s). Ideally, a successful honors project should be publishable in a minor anthropological journal.
 wpcf-minor-requirements: >
-  This is a test. Please disregard. Thank
-  you.
+  More of a test. Please continue to
+  disregard. Thank you.
 wpcf-major-requirements: 'The <a href=\"http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/anth/\">anthropology major</a> requires 30 credit hours, including Introduction to Cultural Anthropology, Ethnography, Theories of Culture, Senior Research, and Senior Seminar, plus 15 credit hours of electives in anthropology, including at least one course that includes a significant field-research component.'
 wpcf-scholarships: |
   <ul>
@@ -64,60 +64,55 @@ wpcf-video: https://vimeo.com/129708066
 <!-- End video -->
 
 <!-- value-proposition -->
-What do West African farmers and Wall Street investors have in common? Our bachelor\'s program in anthropology takes you around the globe and throughout history to learn what it means to be human. Explore morality, religion, and more and take advantage of our summer course in Guyana and opportunities for student research in places like Madagascar, Haiti, and Egypt.
+What do West African farmers and Wall Street investors have in common? Our bachelor\\'s program in anthropology takes you around the globe and throughout history to learn what it means to be human. Explore morality, religion, and more and take advantage of our summer course in Guyana and opportunities for student research in places like Madagascar, Haiti, and Egypt.
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>On your journey through UMW\'s Anthropology program, you\'ll take courses such as Introduction to Cultural and Social Anthropology, Ethnography, Arguments in Anthropology, Anthropology of Art, and Theories of Culture.
+## Areas of StudyOn your journey through UMW\\'s Anthropology program, you\\'ll take courses such as Introduction to Cultural and Social Anthropology, Ethnography, Arguments in Anthropology, Anthropology of Art, and Theories of Culture.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>Internship opportunities abound for UMW Anthropology majors. Snag a spot at the Micah Ecumenical Shelter, Thurman Brisben Homeless Shelter, or disAbility Resource Center. Or you could gather valuable professional experience at places like Empowerhouse, Refugee Resettlement Services, the Lloyd F. Moss Free Clinic, Rappahannock Legal Services, the Virginia Department of Juvenile Justice, Rappahannock Regional Jail, the Human Rights Campaign, the U.S. Census Bureau, and more.
+## InternshipsInternship opportunities abound for UMW Anthropology majors. Snag a spot at the Micah Ecumenical Shelter, Thurman Brisben Homeless Shelter, or disAbility Resource Center. Or you could gather valuable professional experience at places like Empowerhouse, Refugee Resettlement Services, the Lloyd F. Moss Free Clinic, Rappahannock Legal Services, the Virginia Department of Juvenile Justice, Rappahannock Regional Jail, the Human Rights Campaign, the U.S. Census Bureau, and more.
 <!-- End internships -->
 
 <!-- testimonial -->
-<blockquote class="program-testimonial">
-  <div class=\"quote\">I’m finding my anthropology education to be quite helpful in this particular environment. Working in human services has me surrounded by people from many disciplines trying to solve the cultural problems of inequality in a very specific community, and I find I can bring a unique angle to the equation with my \'anthro brain.\'</div>
+> <div class=\"quote\">I’m finding my anthropology education to be quite helpful in this particular environment. Working in human services has me surrounded by people from many disciplines trying to solve the cultural problems of inequality in a very specific community, and I find I can bring a unique angle to the equation with my \'anthro brain.\'</div>
 <div class=\"quoted\">- Rachael Sheaffer ’13, Americorps Volunteer in Raleigh, NC</div>
-</blockquote>
 <!-- End testimonial -->
 
 <!-- honors -->
-<h2>Honors</h2>Departmental honors in anthropology is centered largely on an honors thesis written under the supervision of a committee chaired by the anthropology faculty member with the greatest expertise in the student\'s area of interest. During the candidate’s research, she or he must persuade the committee that the project is worthwhile, moving forward, and deserving of departmental honors.
-
-A successful honors thesis presents an original, informed, persuasive argument based on extensive, sound, imaginative scholarship; broad knowledge of the topic and understanding of the theoretical framework within which the candidate discusses the topic; and competent writing. An honors candidate should expect to work mostly independently, with minimal guidance from the advisor(s). Ideally, a successful honors project should be publishable in a minor anthropological journal.
+## HonorsDepartmental honors in anthropology is centered largely on an honors thesis written under the supervision of a committee chaired by the anthropology faculty member with the greatest expertise in the student\\'s area of interest. During the candidate’s research, she or he must persuade the committee that the project is worthwhile, moving forward, and deserving of departmental honors. A successful honors thesis presents an original, informed, persuasive argument based on extensive, sound, imaginative scholarship; broad knowledge of the topic and understanding of the theoretical framework within which the candidate discusses the topic; and competent writing. An honors candidate should expect to work mostly independently, with minimal guidance from the advisor(s). Ideally, a successful honors project should be publishable in a minor anthropological journal.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The <a href=\"http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/anth/\">anthropology major</a> requires 30 credit hours, including Introduction to Cultural Anthropology, Ethnography, Theories of Culture, Senior Research, and Senior Seminar, plus 15 credit hours of electives in anthropology, including at least one course that includes a significant field-research component.
+### Major RequirementsThe [anthropology major](\"http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/anth/\") requires 30 credit hours, including Introduction to Cultural Anthropology, Ethnography, Theories of Culture, Senior Research, and Senior Seminar, plus 15 credit hours of electives in anthropology, including at least one course that includes a significant field-research component.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>This is a test. Please disregard. Thank you.
+### Minor RequirementsMore of a test. Please continue to disregard. Thank you.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2><ul>
-<li>The Bill Hanson Memorial Scholarship</li>
-<li>Clyde and Virginia Carter Memorial Scholarship</li>
-<li>Amanda Elizabeth Dress \'95 Scholarship in Sociology</li>
-<li>Cora Lee Kaufmann Scholarship in Sociology and Anthropology</li>
-<li>Jarrett and Hazel Small Wilkins Scholarship in Social Sciences</li>
-</ul>
+## Scholarships- The Bill Hanson Memorial Scholarship
+- Clyde and Virginia Carter Memorial Scholarship
+- Amanda Elizabeth Dress \\'95 Scholarship in Sociology
+- Cora Lee Kaufmann Scholarship in Sociology and Anthropology
+- Jarrett and Hazel Small Wilkins Scholarship in Social Sciences
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links</h2>
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/anth/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/anth/)
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/sociologyanthropology/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/sociologyanthropology/)
 <!-- End department -->
 
 <!-- End resource-links -->
