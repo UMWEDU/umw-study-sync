@@ -34,6 +34,11 @@ wpcf-department: >
   http://business.umw.edu/about-the-college/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/accounting/
+terms:
+  department:
+    - cob
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

@@ -30,6 +30,11 @@ wpcf-department: http://cas.umw.edu/art/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arts/
 wpcf-video: https://vimeo.com/117056521
+terms:
+  department:
+    - art
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

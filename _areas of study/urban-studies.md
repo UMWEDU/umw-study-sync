@@ -31,6 +31,15 @@ wpcf-department: >
   http://cas.umw.edu/hisp/requirements/urban-studies-minor/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/urbn/
+terms:
+  department:
+    - cas
+    - economics
+    - geo
+    - hp
+    - sa
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

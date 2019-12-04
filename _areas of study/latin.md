@@ -11,6 +11,11 @@ wpcf-department: >
   http://cas.umw.edu/clpr/classics-program/latin-concentration/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/latn/
+terms:
+  department:
+    - cpr
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

@@ -35,6 +35,11 @@ wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduate
 wpcf-department: http://cas.umw.edu/geography/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/
+terms:
+  department:
+    - geo
+  key:
+    - certificate
 ---
 
 <!-- Types Custom Fields: -->

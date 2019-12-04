@@ -32,6 +32,11 @@ wpcf-department: >
   http://cas.umw.edu/elc/linguistics-at-umw/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/ling/
+terms:
+  department:
+    - elc
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

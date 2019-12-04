@@ -25,6 +25,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/communication-and-digital-studies-major/
 wpcf-video: >
   https://www.youtube.com/watch?v=DKSETeykJQY
+terms:
+  department:
+    - elc
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

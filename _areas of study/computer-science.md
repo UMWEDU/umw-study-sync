@@ -33,6 +33,12 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/cpsc/
 wpcf-video: >
   https://www.youtube.com/watch?v=NRYMX4IH4rg
+terms:
+  department:
+    - cs
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

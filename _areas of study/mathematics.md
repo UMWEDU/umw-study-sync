@@ -46,6 +46,12 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/math/
 wpcf-video: >
   https://www.youtube.com/watch?v=mCWHmbT4lxU
+terms:
+  department:
+    - math
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

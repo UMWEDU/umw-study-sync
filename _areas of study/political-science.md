@@ -36,6 +36,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/psci/
 wpcf-video: >
   https://www.youtube.com/watch?v=QgStl_s1TyM
+terms:
+  department:
+    - psia
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

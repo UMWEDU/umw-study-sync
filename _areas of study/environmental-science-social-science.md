@@ -38,6 +38,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/eesc-2/
 wpcf-video: >
   https://www.youtube.com/watch?v=9LGu_F_PoR4
+terms:
+  department:
+    - earth-environmental-sciences
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

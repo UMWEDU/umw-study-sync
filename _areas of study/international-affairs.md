@@ -36,6 +36,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/inaf/
 wpcf-video: >
   https://www.youtube.com/watch?v=UfG8tp1apNo
+terms:
+  department:
+    - psia
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

@@ -43,6 +43,12 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/buad/
 wpcf-video: >
   https://www.youtube.com/watch?v=TmOr05gTeU0
+terms:
+  department:
+    - cob
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

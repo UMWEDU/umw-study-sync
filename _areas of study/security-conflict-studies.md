@@ -30,6 +30,12 @@ wpcf-department: >
   http://cas.umw.edu/polisci/requirements-for-minor-in-security-and-conflict-studies/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/security-and-conflict-studies-minor/
+terms:
+  department:
+    - has
+    - psia
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

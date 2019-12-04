@@ -27,6 +27,15 @@ wpcf-department: >
   http://cas.umw.edu/middleeaststudiesminor/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/mdes/
+terms:
+  department:
+    - cpr
+    - geo
+    - has
+    - mll
+    - psia
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

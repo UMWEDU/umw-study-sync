@@ -38,6 +38,11 @@ wpcf-scholarships: 'There are no scholarships specifically for contemplative stu
 wpcf-department: https://cas.umw.edu/clpr/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/contemplative-studies-minor/
+terms:
+  department:
+    - cpr
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

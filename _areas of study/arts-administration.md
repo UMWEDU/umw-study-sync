@@ -58,6 +58,12 @@ wpcf-department: >
   http://cas.umw.edu/theatre/current-students/minor-requirements/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/arts-administration-minor/
+terms:
+  department:
+    - cob
+    - td
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

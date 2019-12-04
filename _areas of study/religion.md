@@ -44,6 +44,11 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/relg/
 wpcf-video: https://vimeo.com/131563072
+terms:
+  department:
+    - cpr
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

@@ -40,6 +40,16 @@ wpcf-department: >
   http://cas.umw.edu/ees/interdisciplinary-science-studies/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/idis/
+terms:
+  department:
+    - bio
+    - chemistry
+    - coe
+    - cs
+    - earth-environmental-sciences
+    - physics
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

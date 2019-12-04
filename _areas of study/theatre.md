@@ -47,6 +47,11 @@ wpcf-department: http://cas.umw.edu/theatre/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/the/
 wpcf-video: https://vimeo.com/131317845
+terms:
+  department:
+    - td
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

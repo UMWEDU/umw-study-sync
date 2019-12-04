@@ -8,6 +8,11 @@ permalink: /admissions/graduate/degrees/mba.md
 published: true
 post_date: 2015-08-07 23:09:52
 wpcf-department: http://business.umw.edu
+terms:
+  department:
+    - cob
+  key:
+    - graduate
 ---
 
 <!-- Types Custom Fields: -->

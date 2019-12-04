@@ -8,6 +8,11 @@ permalink: /admissions/graduate/degrees/msga.md
 published: true
 post_date: 2015-08-07 16:31:59
 wpcf-department: http://cas.umw.edu/gis/masters/
+terms:
+  department:
+    - geo
+  key:
+    - graduate
 ---
 
 <!-- Types Custom Fields: -->

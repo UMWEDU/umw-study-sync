@@ -86,6 +86,11 @@ wpcf-testimonial: >
 wpcf-department: https://cas.umw.edu/chemistry/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/chem/
+terms:
+  department:
+    - chemistry
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

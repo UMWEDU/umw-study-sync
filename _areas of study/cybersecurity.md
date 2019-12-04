@@ -50,6 +50,11 @@ wpcf-minor-requirements: >
 wpcf-department: https://business.umw.edu/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cybersecurity-minor/
+terms:
+  department:
+    - cob
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

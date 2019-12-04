@@ -42,6 +42,11 @@ wpcf-scholarships: 'The Department of English, Linguistics, and Communication of
 wpcf-department: https://cas.umw.edu/elc/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/engl/
+terms:
+  department:
+    - elc
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

@@ -28,6 +28,12 @@ wpcf-department: http://cas.umw.edu/biology/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/biology/
 wpcf-video: 'https://www.youtube.com/watch?v=hELFiuaHPwE&index=2&list=PLZfjMaRP_C8Em3hSDVFMhglNk1ody2qsu'
+terms:
+  department:
+    - bio
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

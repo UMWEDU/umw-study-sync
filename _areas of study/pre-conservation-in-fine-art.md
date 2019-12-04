@@ -30,6 +30,12 @@ wpcf-scholarships: |
 wpcf-department: http://cas.umw.edu/art/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/pre-conservation-in-fine-art/
+terms:
+  department:
+    - art
+    - chemistry
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

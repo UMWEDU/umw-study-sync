@@ -49,6 +49,11 @@ wpcf-department: http://cas.umw.edu/geography/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geog/
 wpcf-video: https://vimeo.com/129830476
+terms:
+  department:
+    - geo
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

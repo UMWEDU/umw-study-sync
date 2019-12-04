@@ -48,6 +48,11 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/anth/
 wpcf-video: https://vimeo.com/129708066
+terms:
+  department:
+    - sa
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

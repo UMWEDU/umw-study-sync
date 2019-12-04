@@ -50,6 +50,13 @@ wpcf-department: >
   http://cas.umw.edu/computerscience/requirements/data-science/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/data/
+terms:
+  department:
+    - cob
+    - cs
+    - math
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

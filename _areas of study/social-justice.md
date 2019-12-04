@@ -41,6 +41,12 @@ wpcf-department: >
   http://cas.umw.edu/sociologyanthropology/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/social-justice-minor/
+terms:
+  department:
+    - has
+    - sa
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

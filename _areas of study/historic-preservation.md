@@ -32,6 +32,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/hisp/
 wpcf-video: >
   https://www.youtube.com/watch?v=Wyx_fTaLaAA
+terms:
+  department:
+    - hp
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

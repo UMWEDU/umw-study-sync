@@ -33,6 +33,11 @@ wpcf-department: >
   http://business.umw.edu/degree-programs/undergraduate-degree-bs-in-business-administration/marketing-major/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/marketing/
+terms:
+  department:
+    - cob
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

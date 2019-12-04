@@ -37,6 +37,11 @@ wpcf-department: http://cas.umw.edu/spanish/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/span/
 wpcf-video: https://vimeo.com/131570016
+terms:
+  department:
+    - mll
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

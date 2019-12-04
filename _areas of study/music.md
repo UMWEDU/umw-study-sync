@@ -43,6 +43,12 @@ wpcf-scholarships: 'The Department of Music offers many <a href="http://cas.umw.
 wpcf-department: http://cas.umw.edu/music/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/musc/
+terms:
+  department:
+    - music
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

@@ -72,6 +72,11 @@ wpcf-department: >
   https://business.umw.edu/degree-programs/undergraduate-degree-bs-in-business-administration/international-business-major/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/international-business/
+terms:
+  department:
+    - cob
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

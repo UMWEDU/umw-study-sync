@@ -18,6 +18,11 @@ wpcf-scholarships: |
   There are many scholarship opportunities available through UMW's <a href="http://cas.umw.edu/biology/awards-scholarships/">Department of Biology</a>.
 wpcf-department: http://cas.umw.edu/prehealth/
 wpcf-video: https://vimeo.com/131562731
+terms:
+  department:
+    - bio
+  key:
+    - pre-professional
 ---
 
 <!-- Types Custom Fields: -->

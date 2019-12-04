@@ -35,6 +35,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/hist/
 wpcf-video: >
   https://www.youtube.com/watch?v=sRZ5OGUqQcY
+terms:
+  department:
+    - has
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

@@ -47,6 +47,13 @@ wpcf-department: >
   http://cas.umw.edu/clpr/philosophy-program/prelaw-concentration/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/phil/
+terms:
+  department:
+    - cpr
+    - cas
+  key:
+    - major
+    - pre-professional
 ---
 
 <!-- Types Custom Fields: -->

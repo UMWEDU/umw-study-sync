@@ -47,6 +47,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/psyc/
 wpcf-video: >
   https://www.youtube.com/watch?v=KW3d7L1zUs4
+terms:
+  department:
+    - psych
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

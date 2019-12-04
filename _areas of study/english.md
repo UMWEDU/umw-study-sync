@@ -22,6 +22,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/engl/
 wpcf-video: >
   https://www.youtube.com/watch?v=HKRqIgvQgRs
+terms:
+  department:
+    - elc
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

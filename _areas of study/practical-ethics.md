@@ -34,6 +34,18 @@ wpcf-department: >
   http://cas.umw.edu/clpr/philosophy-program/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/practical-ethics/
+terms:
+  department:
+    - cpr
+    - cob
+    - coe
+    - cs
+    - earth-environmental-sciences
+    - geo
+    - hp
+    - sa
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

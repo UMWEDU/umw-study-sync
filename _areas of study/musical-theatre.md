@@ -24,6 +24,11 @@ wpcf-department: >
   http://cas.umw.edu/theatre/current-students/minor-requirements/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/
+terms:
+  department:
+    - td
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

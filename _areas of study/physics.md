@@ -30,6 +30,12 @@ wpcf-department: http://cas.umw.edu/physics/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/phys/
 wpcf-video: https://vimeo.com/137257108
+terms:
+  department:
+    - physics
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

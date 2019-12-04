@@ -65,6 +65,11 @@ wpcf-scholarships: 'Many <a href="http://business.umw.edu/current-students/under
 wpcf-department: https://business.umw.edu/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/financial-and-quantitative-analysis/
+terms:
+  department:
+    - cob
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

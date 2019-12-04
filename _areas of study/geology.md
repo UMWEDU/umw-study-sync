@@ -49,6 +49,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geol/
 wpcf-video: >
   https://www.youtube.com/watch?v=YZ7I9OKizqw
+terms:
+  department:
+    - earth-environmental-sciences
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

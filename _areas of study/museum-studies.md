@@ -68,6 +68,11 @@ wpcf-testimonial: |
 wpcf-department: https://cas.umw.edu/museumstudies/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/museum-studies/
+terms:
+  department:
+    - cpr
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

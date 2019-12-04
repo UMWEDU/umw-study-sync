@@ -50,6 +50,11 @@ wpcf-testimonial: |
   – Alexis Pennings ’14, student, Virginia-Maryland Regional College of Veterinary Medicine
 wpcf-department: >
   http://cas.umw.edu/biology/pre-veterinary-program/
+terms:
+  department:
+    - bio
+  key:
+    - pre-professional
 ---
 
 <!-- Types Custom Fields: -->

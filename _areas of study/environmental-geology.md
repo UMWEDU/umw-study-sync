@@ -22,6 +22,14 @@ wpcf-major-requirements: "UMW's environmental geology major requires 41 to 44 cr
 wpcf-scholarships: |
   A complete list of available scholarships is provided by UMW's <a href="https://umwwebmaster.staging.wpengine.com/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 wpcf-department: https://cas.umw.edu/ees/
+terms:
+  department:
+    - chemistry
+    - cas
+    - earth-environmental-sciences
+    - geo
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

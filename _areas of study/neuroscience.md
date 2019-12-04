@@ -26,6 +26,12 @@ wpcf-scholarships: |
 wpcf-department: https://cas.umw.edu/psychology/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/neuroscience-minor/
+terms:
+  department:
+    - bio
+    - psych
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

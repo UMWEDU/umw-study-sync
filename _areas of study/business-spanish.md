@@ -8,6 +8,13 @@ permalink: /study/areas/spanish.md
 published: true
 post_date: 2015-08-03 14:28:48
 wpcf-department: http://cas.umw.edu/spanish/
+terms:
+  department:
+    - cob
+    - economics
+    - mll
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

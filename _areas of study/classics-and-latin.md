@@ -33,6 +33,11 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/clas/
 wpcf-video: https://vimeo.com/130598210
+terms:
+  department:
+    - cpr
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

@@ -8,6 +8,11 @@ permalink: /admissions/adult/bls.md
 published: true
 post_date: 2015-08-12 14:46:49
 wpcf-department: http://cas.umw.edu/bls/
+terms:
+  department:
+    - cas
+  key:
+    - degree-completion
 ---
 
 <!-- Types Custom Fields: -->

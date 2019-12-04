@@ -9,6 +9,11 @@ published: true
 post_date: 2015-08-03 14:49:52
 wpcf-department: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/apmt/
+terms:
+  department:
+    - math
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

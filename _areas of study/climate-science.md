@@ -55,6 +55,11 @@ wpcf-minor-requirements: >
 wpcf-department: https://cas.umw.edu/geography/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/climate-science-minor/
+terms:
+  department:
+    - geo
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

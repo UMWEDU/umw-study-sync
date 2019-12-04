@@ -45,6 +45,12 @@ wpcf-department: http://cas.umw.edu/german/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/germ/
 wpcf-video: https://vimeo.com/130598201
+terms:
+  department:
+    - mll
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

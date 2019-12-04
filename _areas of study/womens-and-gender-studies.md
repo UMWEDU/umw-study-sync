@@ -57,6 +57,11 @@ wpcf-department: http://cas.umw.edu/wgst/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/wgst/
 wpcf-video: https://vimeo.com/133699287
+terms:
+  department:
+    - wgs
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

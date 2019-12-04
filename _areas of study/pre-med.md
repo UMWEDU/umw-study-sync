@@ -15,6 +15,10 @@ wpcf-honors: 'UMW students who are accepted into and fulfill the requirements of
 wpcf-department: http://cas.umw.edu/prehealth/
 wpcf-video: >
   https://www.youtube.com/watch?v=715ADeDz4ns
+terms:
+  department: [ ]
+  key:
+    - pre-professional
 ---
 
 <!-- Types Custom Fields: -->

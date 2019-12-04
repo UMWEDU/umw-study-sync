@@ -50,6 +50,11 @@ wpcf-department: >
   http://cas.umw.edu/asian/asian-studies-minor/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/asns/
+terms:
+  department:
+    - cas
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

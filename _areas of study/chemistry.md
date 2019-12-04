@@ -35,6 +35,12 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/chem/
 wpcf-video: >
   https://www.youtube.com/watch?v=Ulp7ITFjFY4
+terms:
+  department:
+    - chemistry
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

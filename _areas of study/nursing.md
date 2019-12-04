@@ -38,6 +38,12 @@ wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduate
 wpcf-department: http://cas.umw.edu/bsn-program/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/nursing/
+terms:
+  department:
+    - cas
+  key:
+    - degree-completion
+    - major
 ---
 
 <!-- Types Custom Fields: -->

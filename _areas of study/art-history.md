@@ -34,6 +34,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arth/
 wpcf-video: >
   https://www.youtube.com/watch?v=-hTrkezXVAk
+terms:
+  department:
+    - art
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

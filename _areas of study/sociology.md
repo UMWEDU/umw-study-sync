@@ -60,6 +60,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/socg/
 wpcf-video: >
   https://www.youtube.com/watch?v=nXL5mz8fJa4
+terms:
+  department:
+    - sa
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

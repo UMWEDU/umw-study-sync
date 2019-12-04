@@ -31,6 +31,12 @@ wpcf-department: http://cas.umw.edu/french/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/fren/
 wpcf-video: https://vimeo.com/129708067
+terms:
+  department:
+    - mll
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

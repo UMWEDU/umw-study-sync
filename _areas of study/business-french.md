@@ -9,6 +9,13 @@ published: true
 post_date: 2015-08-03 14:39:59
 wpcf-department: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/bus-fren/
+terms:
+  department:
+    - cob
+    - economics
+    - mll
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

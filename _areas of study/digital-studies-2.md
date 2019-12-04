@@ -9,6 +9,18 @@ published: true
 post_date: 2015-08-04 19:25:26
 wpcf-department: >
   http://cas.umw.edu/elc/communication-at-umw/
+terms:
+  department:
+    - art
+    - cs
+    - elc
+    - hp
+    - has
+    - music
+    - psia
+    - td
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

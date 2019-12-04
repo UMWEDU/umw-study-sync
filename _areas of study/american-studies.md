@@ -26,6 +26,11 @@ wpcf-department: >
   http://cas.umw.edu/historyamericanstudies/american-studies/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/amst/
+terms:
+  department:
+    - has
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->

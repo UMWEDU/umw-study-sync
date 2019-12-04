@@ -27,6 +27,16 @@ wpcf-minor-requirements: "UMW's Latin American studies minor requires 18 credits
 wpcf-scholarships: '<a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">The Office of Financial Aid</a> the the University of Mary Washington coordinates more than 300 different scholarship and grant programs that include general scholarships and scholarships for specific majors.'
 wpcf-department: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/latin-american-studies-minor/
+terms:
+  department:
+    - cas
+    - geo
+    - has
+    - mll
+    - psia
+    - sa
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->

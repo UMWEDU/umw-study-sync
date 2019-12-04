@@ -28,6 +28,12 @@ wpcf-department: http://cas.umw.edu/economics/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/econ/
 wpcf-video: 'https://www.youtube.com/watch?v=DNpckL-LzzU&list=PLZfjMaRP_C8Em3hSDVFMhglNk1ody2qsu&index=17'
+terms:
+  department:
+    - economics
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->
