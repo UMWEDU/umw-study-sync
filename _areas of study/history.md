@@ -4,8 +4,7 @@ post_title: History
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/history/
+permalink: //areas/history/.md
 published: true
 post_date: 2015-07-28 18:31:20
 wpcf-home-page-feature: >

@@ -4,8 +4,7 @@ post_title: Economics
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/economics/
+permalink: //areas/economics/.md
 published: true
 post_date: 2015-07-28 19:19:10
 wpcf-home-page-feature: >

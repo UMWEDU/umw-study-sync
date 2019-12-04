@@ -4,8 +4,7 @@ post_title: Studio Art
 author: ntrenis
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/studio-art/
+permalink: //areas/studio-art/.md
 published: true
 post_date: 2015-07-28 17:49:37
 wpcf-home-page-feature: >

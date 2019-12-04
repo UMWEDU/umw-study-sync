@@ -4,8 +4,7 @@ post_title: International Business
 author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/international-business/
+permalink: //areas/international-business/.md
 published: true
 post_date: 2018-12-04 22:26:56
 wpcf-value-proposition: >

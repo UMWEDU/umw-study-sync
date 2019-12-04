@@ -4,8 +4,7 @@ post_title: Climate Science
 author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/climate-science/
+permalink: //areas/climate-science/.md
 published: true
 post_date: 2018-12-04 21:37:49
 wpcf-value-proposition: >

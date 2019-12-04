@@ -4,8 +4,7 @@ post_title: Business Administration
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/business-administration/
+permalink: //areas/business-administration/.md
 published: true
 post_date: 2015-07-28 17:30:56
 wpcf-home-page-feature: >

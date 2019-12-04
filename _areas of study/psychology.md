@@ -4,8 +4,7 @@ post_title: Psychology
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/psychology/
+permalink: //areas/psychology/.md
 published: true
 post_date: 2015-07-28 18:17:31
 wpcf-home-page-feature: >

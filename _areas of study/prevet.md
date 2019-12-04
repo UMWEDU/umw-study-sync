@@ -4,8 +4,7 @@ post_title: Pre-Veterinary
 author: Emily
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/prevet/
+permalink: //areas/prevet/.md
 published: true
 post_date: 2016-06-22 19:42:16
 wpcf-value-proposition: >

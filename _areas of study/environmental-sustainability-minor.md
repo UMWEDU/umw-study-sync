@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/environmental-sustainability-minor/
+  //areas/environmental-sustainability-minor/.md
 published: true
 post_date: 2016-02-01 18:30:47
 wpcf-value-proposition: >

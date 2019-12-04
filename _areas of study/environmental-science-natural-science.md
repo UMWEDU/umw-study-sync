@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/environmental-science-natural-science/
+  //areas/environmental-science-natural-science/.md
 published: true
 post_date: 2015-07-28 15:30:32
 wpcf-home-page-feature: >

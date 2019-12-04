@@ -4,8 +4,7 @@ post_title: Contemplative Studies
 author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/contemplative-studies/
+permalink: //areas/contemplative-studies/.md
 published: true
 post_date: 2018-12-04 21:53:42
 wpcf-value-proposition: >

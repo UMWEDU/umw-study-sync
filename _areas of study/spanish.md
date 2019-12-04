@@ -4,8 +4,7 @@ post_title: Spanish
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/spanish/
+permalink: //areas/spanish/.md
 published: true
 post_date: 2015-07-28 16:32:47
 wpcf-home-page-feature: >

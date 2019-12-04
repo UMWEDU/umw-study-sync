@@ -4,8 +4,7 @@ post_title: Geology
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/geology/
+permalink: //areas/geology/.md
 published: true
 post_date: 2015-07-28 17:34:34
 wpcf-home-page-feature: >

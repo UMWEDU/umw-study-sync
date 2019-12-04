@@ -4,8 +4,7 @@ post_title: German
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/german/
+permalink: //areas/german/.md
 published: true
 post_date: 2015-07-28 17:53:04
 wpcf-home-page-feature: >

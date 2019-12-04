@@ -4,8 +4,7 @@ post_title: Political Science
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/political-science/
+permalink: //areas/political-science/.md
 published: true
 post_date: 2015-07-28 18:33:28
 wpcf-home-page-feature: >

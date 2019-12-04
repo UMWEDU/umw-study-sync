@@ -4,8 +4,7 @@ post_title: Historic Preservation
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/historic-preservation/
+permalink: //areas/historic-preservation/.md
 published: true
 post_date: 2015-07-28 18:10:34
 wpcf-home-page-feature: >

@@ -4,7 +4,7 @@ post_title: Business German
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /study/areas/german/
+permalink: /study/areas/german/.md
 published: true
 post_date: 2015-08-03 14:37:23
 wpcf-department: >

@@ -4,8 +4,7 @@ post_title: Geography
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/geography/
+permalink: //areas/geography/.md
 published: true
 post_date: 2015-07-28 17:08:47
 wpcf-home-page-feature: >

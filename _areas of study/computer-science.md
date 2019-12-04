@@ -4,8 +4,7 @@ post_title: Computer Science
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/computer-science/
+permalink: //areas/computer-science/.md
 published: true
 post_date: 2015-07-28 18:39:09
 wpcf-home-page-feature: >

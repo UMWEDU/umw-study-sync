@@ -4,8 +4,7 @@ post_title: Art History
 author: ntrenis
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/art-history/
+permalink: //areas/art-history/.md
 published: true
 post_date: 2015-07-28 17:41:37
 wpcf-value-proposition: "Drawn to how people have depicted beauty throughout history? Need to know more of the story behind it? Major in art history at the University of Mary Washington and you'll explore humanity through artistic wonders, from prehistoric cave paintings to the works of Warhol. You'll investigate styles, periods, and movements of Western art; masters and masterpieces of Italy, Egypt, and beyond; and the rich resources of  Washington, Richmond, Baltimore, and New York."

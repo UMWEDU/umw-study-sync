@@ -4,8 +4,7 @@ post_title: Pre-Dental
 author: Shelley Keith
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/pre-dental/
+permalink: //areas/pre-dental/.md
 published: true
 post_date: 2015-11-20 18:27:48
 wpcf-value-proposition: "Paired with a biology - or any other - major, UMW's pre-dental program helps you break into a lauded and often lucrative field, whether you plan to work in private practice, research, or academics. The program combines a solid core of biological science with pertinent subjects like chemistry and physics. Our partner clinics and volunteer opportunities provide the hands-on experience dental schools look for. Master teachers guide you through the complex application process with interview practice, recommendations and more."

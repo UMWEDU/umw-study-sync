@@ -4,8 +4,7 @@ post_title: Arts Administration
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/arts-administration/
+permalink: //areas/arts-administration/.md
 published: true
 post_date: 2015-09-26 21:22:24
 wpcf-value-proposition: >

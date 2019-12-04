@@ -4,8 +4,7 @@ post_title: Biology
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://umwwebmaster.staging.wpengine.com/study/areas/biology/
+permalink: //areas/biology/.md
 published: true
 post_date: 2015-07-28 16:22:21
 wpcf-home-page-feature: >

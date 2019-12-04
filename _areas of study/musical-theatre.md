@@ -4,7 +4,7 @@ post_title: Musical Theatre
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /study/areas/theatre/
+permalink: /study/areas/theatre/.md
 published: true
 post_date: 2015-08-05 17:50:40
 wpcf-value-proposition: >
