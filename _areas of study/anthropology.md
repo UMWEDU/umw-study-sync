@@ -31,9 +31,7 @@ wpcf-honors: |
   Departmental honors in anthropology is centered largely on an honors thesis written under the supervision of a committee chaired by the anthropology faculty member with the greatest expertise in the student\'s area of interest. During the candidate’s research, she or he must persuade the committee that the project is worthwhile, moving forward, and deserving of departmental honors.
   
   A successful honors thesis presents an original, informed, persuasive argument based on extensive, sound, imaginative scholarship; broad knowledge of the topic and understanding of the theoretical framework within which the candidate discusses the topic; and competent writing. An honors candidate should expect to work mostly independently, with minimal guidance from the advisor(s). Ideally, a successful honors project should be publishable in a minor anthropological journal.
-wpcf-minor-requirements: >
-  More of a test. Please continue to
-  disregard. Thank you.
+wpcf-minor-requirements: 'Still <em>testing</em>. Please continue to disregard. Thank you.'
 wpcf-major-requirements: 'The <a href=\"http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/anth/\">anthropology major</a> requires 30 credit hours, including Introduction to Cultural Anthropology, Ethnography, Theories of Culture, Senior Research, and Senior Seminar, plus 15 credit hours of electives in anthropology, including at least one course that includes a significant field-research component.'
 wpcf-scholarships: |
   <ul>
@@ -54,13 +52,11 @@ wpcf-video: https://vimeo.com/129708066
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg)](https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
-<a href="https://vimeo.com/129708066"><img src="https://i.vimeocdn.com/video/521295654_960.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.vimeocdn.com/video/521295654_960.jpg)](https://vimeo.com/129708066)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -91,7 +87,7 @@ What do West African farmers and Wall Street investors have in common? Our bache
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
-### Minor RequirementsMore of a test. Please continue to disregard. Thank you.
+### Minor RequirementsStill *testing*. Please continue to disregard. Thank you.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
