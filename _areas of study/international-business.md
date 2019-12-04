@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://www.umw.edu/study/areas/international-business/
+  http://umwwebmaster.staging.wpengine.com/study/areas/international-business/
 published: true
 post_date: 2018-12-04 22:26:56
 wpcf-value-proposition: >
@@ -63,12 +63,12 @@ wpcf-internships: >
   development, Chamber of Commerce
   communications, financial planning, and
   automotive business operations.
-wpcf-honors: "To be eligible for honors in international, you must have a 3.25 grade-point average in upper-division business administration courses and a 3.0 GPA overall. You\'ll do a research project, write a thesis, and defend it before a faculty honors committee."
+wpcf-honors: "To be eligible for honors in international, you must have a 3.25 grade-point average in upper-division business administration courses and a 3.0 GPA overall. You'll do a research project, write a thesis, and defend it before a faculty honors committee."
 wpcf-major-requirements: |
   All business majors share a common core of 30 hours of business classes from accounting, business administration, business law, decision sciences, finance, management, management and information systems, and marketing. International business majors take an additional 18 credits in upper-level international business electives.
   
   International business includes a semester abroad in marketing or business administration. International business majors also may benefit from upper-level classes in geography, economics, history, and political science.
-wpcf-scholarships: 'Many <a href=\"http://business.umw.edu/current-students/undergraduate-scholarships/\">scholarships</a> are available for business majors.'
+wpcf-scholarships: 'Many <a href="http://business.umw.edu/current-students/undergraduate-scholarships/">scholarships</a> are available for business majors.'
 wpcf-department: >
   https://business.umw.edu/degree-programs/undergraduate-degree-bs-in-business-administration/international-business-major/
 wpcf-courses: >
@@ -90,7 +90,7 @@ If you are interested in business and foreign cultures this may be the major for
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>To be eligible for honors in international, you must have a 3.25 grade-point average in upper-division business administration courses and a 3.0 GPA overall. You\'ll do a research project, write a thesis, and defend it before a faculty honors committee.
+<h2>Honors</h2>To be eligible for honors in international, you must have a 3.25 grade-point average in upper-division business administration courses and a 3.0 GPA overall. You'll do a research project, write a thesis, and defend it before a faculty honors committee.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -104,7 +104,7 @@ International business includes a semester abroad in marketing or business admin
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>Many <a href=\"http://business.umw.edu/current-students/undergraduate-scholarships/\">scholarships</a> are available for business majors.
+<h2>Scholarships</h2>Many <a href="http://business.umw.edu/current-students/undergraduate-scholarships/">scholarships</a> are available for business majors.
 <!-- End scholarships -->
 
 <!-- resource-links -->

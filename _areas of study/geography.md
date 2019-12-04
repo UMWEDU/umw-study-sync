@@ -5,11 +5,11 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/geography/
+  http://umwwebmaster.staging.wpengine.com/study/areas/geography/
 published: true
 post_date: 2015-07-28 17:08:47
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg
+  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg
 wpcf-value-proposition: "As a University of Mary Washington geography major, you'll take classes in cultural, political, economic, and physical aspects of places around the globe. You'll learn how humans interact with their environments, both human-made and natural, and you'll have opportunities to broaden your life experience by studying abroad. Thanks to UMW's strong liberal arts program and interdisciplinary approach, you'll gain communication and technical skills that will enhance your career -- and your whole life."
 wpcf-areas-of-study: |
   The <a href="http://cas.umw.edu/geography/courses/">geography major</a> has three areas of emphasis:
@@ -55,7 +55,7 @@ wpcf-video: https://vimeo.com/129830476
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

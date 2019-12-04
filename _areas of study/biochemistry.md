@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/biochemistry/
+  http://umwwebmaster.staging.wpengine.com/study/areas/biochemistry/
 published: true
 post_date: 2018-08-30 13:24:12
 wpcf-value-proposition: >

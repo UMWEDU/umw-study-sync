@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/pre-conservation-in-fine-art/
+  http://umwwebmaster.staging.wpengine.com/study/areas/pre-conservation-in-fine-art/
 published: true
 post_date: 2016-01-13 20:05:08
 wpcf-value-proposition: "Michelangelo's masterpieces on the ceiling of the Sistine Chapel, da Vinci's <em>The Last Supper</em>, Rembrandt's <em>The Night Watch</em> - all examples of extraordinary works preserved to be appreciated for the ages. UMW's pre-conservation in fine art minor program - open to art history, studio art, and chemistry majors - combines these disciplines. Learn to apply basic chemistry to artifact deterioration, evaluate conservation strategies, understand the ethics of art preservation, and advocate to preserve cultural heritage. This UMW program is designed to prepare students for graduate programs in conservation."
@@ -27,7 +27,7 @@ wpcf-minor-requirements: |
   
   For studio art majors: 28 credits, including 16 credits in chemistry and 12 credits from 300-level art history.
 wpcf-scholarships: |
-  The <a href="http://cas.umw.edu/art/art-history/current-students/scholarships/">Department of Art and Art History</a>, which hosts UMW's pre-conservation in fine art minor program, offers scholarships, undergraduate research grants, and departmental awards. A complete list of scholarship opportunities available at UMW can be found with the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
+  The <a href="http://cas.umw.edu/art/art-history/current-students/scholarships/">Department of Art and Art History</a>, which hosts UMW's pre-conservation in fine art minor program, offers scholarships, undergraduate research grants, and departmental awards. A complete list of scholarship opportunities available at UMW can be found with the <a href="https://umwwebmaster.staging.wpengine.com/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 wpcf-department: http://cas.umw.edu/art/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/pre-conservation-in-fine-art/
@@ -66,7 +66,7 @@ For studio art majors: 28 credits, including 16 credits in chemistry and 12 cred
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>The <a href="http://cas.umw.edu/art/art-history/current-students/scholarships/">Department of Art and Art History</a>, which hosts UMW's pre-conservation in fine art minor program, offers scholarships, undergraduate research grants, and departmental awards. A complete list of scholarship opportunities available at UMW can be found with the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
+<h2>Scholarships</h2>The <a href="http://cas.umw.edu/art/art-history/current-students/scholarships/">Department of Art and Art History</a>, which hosts UMW's pre-conservation in fine art minor program, offers scholarships, undergraduate research grants, and departmental awards. A complete list of scholarship opportunities available at UMW can be found with the <a href="https://umwwebmaster.staging.wpengine.com/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 <!-- End scholarships -->
 
 <!-- resource-links -->

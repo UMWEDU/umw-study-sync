@@ -4,11 +4,12 @@ post_title: History
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/history/
+permalink: >
+  http://umwwebmaster.staging.wpengine.com/study/areas/history/
 published: true
 post_date: 2015-07-28 18:31:20
 wpcf-home-page-feature: >
-  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/history-class-2014_candice-leahe.jpg
+  http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/history-class-2014_candice-leahe.jpg
 wpcf-value-proposition: |
   <p class="p1">Explore world and American history in Fredericksburg, Virginia, a city with a long human story of its own. Here you can study pre-European cultures, the American Revolution, the Civil War, and the 20th century -- and that's just outside the classroom. UMW's master teachers will ground you in a broad knowledge of history and help you narrow your focus to gain specialized expertise. You'll leave ready to make a difference in a career or graduate school.</p>
 wpcf-areas-of-study: >
@@ -40,7 +41,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/history-class-2014_candice-leahe.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/history-class-2014_candice-leahe.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/history-class-2014_candice-leahe.jpg"><img src="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/history-class-2014_candice-leahe.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

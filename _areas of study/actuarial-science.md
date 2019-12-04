@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/actuarial-science/
+  http://umwwebmaster.staging.wpengine.com/study/areas/actuarial-science/
 published: true
 post_date: 2015-08-05 17:04:56
 wpcf-value-proposition: >

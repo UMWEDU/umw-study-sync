@@ -4,11 +4,12 @@ post_title: German
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/german/
+permalink: >
+  http://umwwebmaster.staging.wpengine.com/study/areas/german/
 published: true
 post_date: 2015-07-28 17:53:04
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg
+  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg
 wpcf-value-proposition: "If you're passionate about learning spoken and written German, its literature, and its diverse cultures, the University of Mary Washington can help you attain mastery. Our program brings language and culture to life through small, intensive classes and fully equipped labs. At UMW, you'll study with expert teachers, converse with native speakers, and take advantage of cultural events in nearby Richmond, Virginia, and Washington, D.C. UMW strongly encourages German majors to study abroad through our partner university in Erfurt, Germany, or in programs in Austria and Switzerland."
 wpcf-areas-of-study: >
   UMW offers beginning and intermediate
@@ -50,7 +51,7 @@ wpcf-video: https://vimeo.com/130598201
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

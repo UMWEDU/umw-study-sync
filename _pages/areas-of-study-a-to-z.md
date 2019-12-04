@@ -5,7 +5,7 @@ author: Curtiss Grymala
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/study/areas-of-study-a-to-z/
+  http://umwwebmaster.staging.wpengine.com/study/areas-of-study-a-to-z/
 published: true
 post_date: 2015-07-29 19:57:20
 ---
