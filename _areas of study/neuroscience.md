@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/neuroscience/
+  http://umwwebmaster.staging.wpengine.com/study/areas/neuroscience/
 published: true
 post_date: 2015-12-11 17:37:48
 wpcf-value-proposition: "Do you like to think about how people think? UMW's interdisciplinary minor program in neuroscience deepens your understanding of the brain and nervous system. Learn how nerves form networks and how these connections control behavior. Explore stress, memory, psychiatric disorders, and all the varied mysteries surrounding the human mind. The neuroscience minor is particularly useful to psychology and biology majors, helping them stay aware of scientific progress and prepare for emerging career opportunities and graduate programs in neuroscience or psychobiology."
@@ -23,7 +23,7 @@ wpcf-minor-requirements: >
   neuroscience, biological psychology, and
   psychopharmacology.
 wpcf-scholarships: |
-  <a href="http://cas.umw.edu/psychology/for-students/scholarship-information/">The Department of Psychological Science</a>, which hosts UMW's neuroscience minor program, offers scholarships to qualified students. <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">The Office of Financial Aid</a> also keeps a complete list of all scholarships available to UMW students.
+  <a href="http://cas.umw.edu/psychology/for-students/scholarship-information/">The Department of Psychological Science</a>, which hosts UMW's neuroscience minor program, offers scholarships to qualified students. <a href="https://umwwebmaster.staging.wpengine.com/financialaid/types/scholarship-opportunities/">The Office of Financial Aid</a> also keeps a complete list of all scholarships available to UMW students.
 wpcf-department: https://cas.umw.edu/psychology/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/neuroscience-minor/
@@ -56,7 +56,7 @@ Do you like to think about how people think? UMW's interdisciplinary minor progr
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2><a href="http://cas.umw.edu/psychology/for-students/scholarship-information/">The Department of Psychological Science</a>, which hosts UMW's neuroscience minor program, offers scholarships to qualified students. <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">The Office of Financial Aid</a> also keeps a complete list of all scholarships available to UMW students.
+<h2>Scholarships</h2><a href="http://cas.umw.edu/psychology/for-students/scholarship-information/">The Department of Psychological Science</a>, which hosts UMW's neuroscience minor program, offers scholarships to qualified students. <a href="https://umwwebmaster.staging.wpengine.com/financialaid/types/scholarship-opportunities/">The Office of Financial Aid</a> also keeps a complete list of all scholarships available to UMW students.
 <!-- End scholarships -->
 
 <!-- resource-links -->

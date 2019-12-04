@@ -5,11 +5,11 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/computer-science/
+  http://umwwebmaster.staging.wpengine.com/study/areas/computer-science/
 published: true
 post_date: 2015-07-28 18:39:09
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg
+  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg
 wpcf-value-proposition: >
   Want to write cutting-edge software?
   Code the next killer app? Computer
@@ -39,7 +39,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

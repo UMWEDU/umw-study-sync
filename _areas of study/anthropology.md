@@ -5,11 +5,11 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/anthropology/
+  http://umwwebmaster.staging.wpengine.com/study/areas/anthropology/
 published: true
 post_date: 2015-07-28 19:09:18
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg
+  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg
 wpcf-value-proposition: "What do West African farmers and Wall Street investors have in common? Our bachelor's program in anthropology takes you around the globe and throughout history to learn what it means to be human. Explore morality, religion, and more and take advantage of our summer course in Guyana and opportunities for student research in places like Madagascar, Haiti, and Egypt."
 wpcf-areas-of-study: "On your journey through UMW's Anthropology program, you'll take courses such as Introduction to Cultural and Social Anthropology, Ethnography, Arguments in Anthropology, Anthropology of Art, and Theories of Culture."
 wpcf-career-opportunties: "The strong background in what it means to be human across the globe, and throughout time, and the experiential learning opportunities you'll gain in completing UMW's Anthropology program will prepare you for a variety of careers. Work in marketing, advertising, diversity training, social advocacy,  historic preservation, community development, communications, international development, genetics counseling, documentary film-making, government, education, you name it."
@@ -53,7 +53,7 @@ wpcf-video: https://vimeo.com/129708066
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

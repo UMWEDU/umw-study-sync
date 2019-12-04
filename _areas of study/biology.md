@@ -4,11 +4,12 @@ post_title: Biology
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/biology/
+permalink: >
+  http://umwwebmaster.staging.wpengine.com/study/areas/biology/
 published: true
 post_date: 2015-07-28 16:22:21
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg
+  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg
 wpcf-value-proposition: '<p class="p1">As a University of Mary Washington biology major, you might collect samples on the Rappahannock River one day then contribute to a class discussion on ecology the next. Our biology major goes beyond molecules and microscopes, feeding your curiosity about living things, fostering the scientific process, and challenging you to find fresh approaches to research.</p>'
 wpcf-areas-of-study: '<p class="p1">Course offerings include human biology, organism function and diversity, botany, chordate anatomy, plant ecology, animal ecology, entomology, histology, genetics, nutrition and metabolism, microbiology, parasitology, animal behavior, neurobiology, endocrinology, vertebrate zoology, ornithology, virology, biology of cancer, and more.</p>'
 wpcf-career-opportunties: '<p class="p1">Biology graduates may find employment in research, health care, environmental conservation, education, biotechnology, forensic science, government and policy, and science publishing, among other fields. Many UMW biology graduates pursue advanced degrees.</p>'
@@ -33,7 +34,7 @@ wpcf-video: 'https://www.youtube.com/watch?v=hELFiuaHPwE&index=2&list=PLZfjMaRP_
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

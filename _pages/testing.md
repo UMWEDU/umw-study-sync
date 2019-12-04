@@ -4,7 +4,8 @@ post_title: Testing
 author: Curtiss Grymala
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/study/testing/
+permalink: >
+  http://umwwebmaster.staging.wpengine.com/study/testing/
 published: true
 post_date: 2015-07-24 15:54:13
 ---

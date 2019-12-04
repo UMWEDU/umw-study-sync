@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/social-justice/
+  http://umwwebmaster.staging.wpengine.com/study/areas/social-justice/
 published: true
 post_date: 2015-12-17 20:34:46
 wpcf-value-proposition: "Are equality and fairness just an illusion? UMW's minor program in social justice attempts to bridge the gap between the ideal and the reality of our social situations. Explore injustices such as cultural imperialism, exploitation, human rights abuses, and physical violence. Study social movements and political philosophy. Become a well-informed citizen with the ability to look at social values and change from multiple perspectives."

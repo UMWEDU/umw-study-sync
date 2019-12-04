@@ -4,11 +4,12 @@ post_title: English
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/english/
+permalink: >
+  http://umwwebmaster.staging.wpengine.com/study/areas/english/
 published: true
 post_date: 2015-07-28 14:35:20
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg
+  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg
 wpcf-value-proposition: "As a University of Mary Washington English major, you'll investigate the great body of literature in the English language and develop your skills in analytic, creative, and journalistic writing. You'll learn to think critically and communicate clearly, skills that will enhance your value in a career or graduate school."
 wpcf-areas-of-study: "At UMW, you'll find relevant course offerings in ancient to modern literatures, literary theory, memoir, poetry, creative writing, journalism, magazine writing, digital storytelling, and more."
 wpcf-career-opportunties: |
@@ -27,7 +28,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

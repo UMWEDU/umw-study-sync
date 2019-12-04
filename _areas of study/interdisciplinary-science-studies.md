@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  https://www.umw.edu/study/areas/interdisciplinary-science-studies/
+  http://umwwebmaster.staging.wpengine.com/study/areas/interdisciplinary-science-studies/
 published: true
 post_date: 2015-07-28 18:44:24
 wpcf-value-proposition: "If you have a calling to teach and a passion for the sciences, UMW's interdisciplinary science major will help you prepare for a career in science education. In combination with your education course work, you'll gain broad exposure to all the sciences and in-depth knowledge of a specific science field of your choice. You'll leave with a solid foundation to be an elementary science teacher or an educator for museums, nature centers, or zoos."
