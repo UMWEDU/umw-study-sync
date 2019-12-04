@@ -43,6 +43,8 @@ wpcf-career-opportunties: >
 wpcf-internships: |
   The<a href="http://cas.umw.edu/math/student-opportunities/summer-internships/"> Department of Mathematics</a>, which hosts UMW's minor program in actuarial science, offers internships at the Naval Surface Warfare Center in Dahlgren, Geico Insurance, and others.
 wpcf-honors: 'Founded in 1982, the UMW chapter of the <a href="http://pme-math.org">Pi Mu Epsilon (PME)</a> honorary national mathematics society, promotes scholarly activities in math. The Mary Washington chapter inducts new members each April.'
+wpcf-major-requirements: >
+  This is a test. Please disregard this. Thank you.
 wpcf-minor-requirements: >
   UMW’s minor in actuarial science
   requires 21 to 22 credits, including
