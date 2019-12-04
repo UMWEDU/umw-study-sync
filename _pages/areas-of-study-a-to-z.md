@@ -10,28 +10,3 @@ published: true
 post_date: 2015-07-29 19:57:20
 ---
 [atoz post_type="areas" alpha_links=0 view=106 return_link=0]
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- Types Custom Fields: -->
-
-<!-- End Types Custom Fields -->
-<!-- Types Custom Fields: -->
-
-<!-- resource-links -->
-<h2>Resource Links</h2>
-<!-- End resource-links -->
-
-<!-- End Types Custom Fields -->
-<!-- Types Custom Fields: -->
-
-<!-- resource-links -->
-<h2>Resource Links</h2>
-<!-- End resource-links -->
-
-<!-- End Types Custom Fields -->
