@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2015-07-29 19:57:20
 ---
-[atoz post_type="areas" alpha_links=0 view=106 return_link=0]
+[atoz post_type="areas" alpha_links="0" view="106" return_link="0"]
