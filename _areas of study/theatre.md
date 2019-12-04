@@ -4,12 +4,11 @@ post_title: Theatre
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/theatre/
+permalink: https://www.umw.edu/study/areas/theatre/
 published: true
 post_date: 2015-07-28 19:29:26
 wpcf-home-page-feature: >
-  http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg
 wpcf-value-proposition: >
   A major in theatre at the University of
   Mary Washington prepares you for the
@@ -53,7 +52,7 @@ wpcf-video: https://vimeo.com/131317845
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg"><img src="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

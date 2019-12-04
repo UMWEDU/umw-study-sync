@@ -5,11 +5,11 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/chemistry/
+  https://www.umw.edu/study/areas/chemistry/
 published: true
 post_date: 2015-07-28 18:06:57
 wpcf-home-page-feature: >
-  http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Nicole-Crowder-1e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nicole-Crowder-1e.jpg
 wpcf-value-proposition: "Our bachelor's program in chemistry takes you beyond beakers and test tubes, deep into a discipline that touches every aspect of our lives. Core courses in organic, analytical, and physical chemistry spark important connections between physics and math, biology and medicine. Hands-on opportunities and research in our-state-of-the-art labs put you in a position to make breakthroughs that matter."
 wpcf-areas-of-study: "UMW's bachelor's program in chemistry covers societal, organic, physical, and environmental chemistry, and offers courses in biochemistry, chemical analysis, chemical outreach, and more."
 wpcf-career-opportunties: >
@@ -41,7 +41,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Nicole-Crowder-1e.jpg"><img src="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Nicole-Crowder-1e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nicole-Crowder-1e.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nicole-Crowder-1e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

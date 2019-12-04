@@ -5,11 +5,11 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/philosophy/
+  https://www.umw.edu/study/areas/philosophy/
 published: true
 post_date: 2015-07-28 15:08:07
 wpcf-home-page-feature: >
-  http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Colin-Spangler_mock-trial-homepagee.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Colin-Spangler_mock-trial-homepagee.jpg
 wpcf-value-proposition: 'Do you wrestle with the questions that seem to have no answers: What is truth? What is the nature of existence? What is free will? If so, philosophy – the love of wisdom, the science of argument – might be the major for you. Our bachelor’s program teaches you to think critically, communicate clearly, and be open to opposing views – rich skills for all fields.'
 wpcf-areas-of-study: >
   Explore introductory logic and ethics,
@@ -51,7 +51,7 @@ wpcf-video: https://vimeo.com/131317843
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Colin-Spangler_mock-trial-homepagee.jpg"><img src="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Colin-Spangler_mock-trial-homepagee.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Colin-Spangler_mock-trial-homepagee.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Colin-Spangler_mock-trial-homepagee.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

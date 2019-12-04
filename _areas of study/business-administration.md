@@ -5,11 +5,11 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/business-administration/
+  https://www.umw.edu/study/areas/business-administration/
 published: true
 post_date: 2015-07-28 17:30:56
 wpcf-home-page-feature: >
-  http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Business-class-1e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Business-class-1e.jpg
 wpcf-value-proposition: "Major in business administration at the University of Mary Washington and you'll position yourself to succeed in the corporate world or as an entrepreneur. You'll learn ethics, strategy, legalities, and more from master teachers, some who’ve worked for Fortune 500s. And our research and internship opportunities will give you the real-world experience you need to make a difference."
 wpcf-areas-of-study: "UMW's bachelor's program in business administration lets you major in accounting, general business, or marketing. In addition, the program covers information systems and applications, applied statistics and business research, legal environment of business, principles of management, federal taxation, organizational behavior, human resource management, decision analysis, principles of finance, commercial law, consumer behavior, leadership theory and practice, negotiation, and more."
 wpcf-career-opportunties: >
@@ -49,7 +49,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Business-class-1e.jpg"><img src="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Business-class-1e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Business-class-1e.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Business-class-1e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

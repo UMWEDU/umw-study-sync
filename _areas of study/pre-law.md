@@ -4,8 +4,7 @@ post_title: 'Philosophy: Pre-Law'
 author: Emily
 post_excerpt: ""
 layout: areas
-permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/pre-law/
+permalink: https://www.umw.edu/study/areas/pre-law/
 published: true
 post_date: 2015-11-18 19:58:49
 wpcf-value-proposition: >
@@ -25,7 +24,7 @@ wpcf-value-proposition: >
 wpcf-areas-of-study: |
   Many students in UMW’s pre-law program choose to major in philosophy, but even if you decide to pair your pre-law studies with another of our majors – political science or psychology, for example – you’ll still study the philosophy of ancient Greece, the early modern era, law, ethics, logic, and more.
   
-  In addition, UMW offers the “<a href="http://umwwebmaster.staging.wpengine.com/careercenter/students/graduate-school/umwgeorge-mason-33-program/">3+3 Accelerated Program</a>” with George Mason University. It allows highly motivated students a fast track to earn both a bachelor’s degree and a law degree in six, rather than seven, years of study.
+  In addition, UMW offers the “<a href="http://www.umw.edu/careercenter/students/graduate-school/umwgeorge-mason-33-program/">3+3 Accelerated Program</a>” with George Mason University. It allows highly motivated students a fast track to earn both a bachelor’s degree and a law degree in six, rather than seven, years of study.
 wpcf-career-opportunties: >
   The pre-law track in philosophy prepares
   you for entry to law school.
@@ -59,7 +58,7 @@ Curious about a career in the courtroom? UMW pre-law grads go on to earn juris d
 <!-- areas-of-study -->
 <h2>Areas of Study</h2>Many students in UMW’s pre-law program choose to major in philosophy, but even if you decide to pair your pre-law studies with another of our majors – political science or psychology, for example – you’ll still study the philosophy of ancient Greece, the early modern era, law, ethics, logic, and more.
 
-In addition, UMW offers the “<a href="http://umwwebmaster.staging.wpengine.com/careercenter/students/graduate-school/umwgeorge-mason-33-program/">3+3 Accelerated Program</a>” with George Mason University. It allows highly motivated students a fast track to earn both a bachelor’s degree and a law degree in six, rather than seven, years of study.
+In addition, UMW offers the “<a href="http://www.umw.edu/careercenter/students/graduate-school/umwgeorge-mason-33-program/">3+3 Accelerated Program</a>” with George Mason University. It allows highly motivated students a fast track to earn both a bachelor’s degree and a law degree in six, rather than seven, years of study.
 <!-- End areas-of-study -->
 
 <!-- internships -->

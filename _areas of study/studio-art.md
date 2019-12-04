@@ -5,11 +5,11 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/studio-art/
+  https://www.umw.edu/study/areas/studio-art/
 published: true
 post_date: 2015-07-28 17:49:37
 wpcf-home-page-feature: >
-  http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Art-show-5e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Art-show-5e.jpg
 wpcf-value-proposition: "Channel your talents and passion through the University of Mary Washington's major in studio art. Our master teachers will help you hone your skills in drawing, painting, sculpture, photography, ceramics, printmaking, and digital media, and explore contemporary issues and conceptual approaches to making art. You'll enhance your portfolio, exhibit your work, and create a vision for your artistic career."
 wpcf-areas-of-study: "UMW's bachelor's program in studio art will challenge you with courses in drawing, ceramics, sculpture, photography, painting, and other media. You'll learn color theory, professional practices, and more."
 wpcf-career-opportunties: "With a bachelor's degree in studio art from UMW, you'll be prepared for such careers as graphic artist, illustrator, photographer, cartoonist, sketch artist, animator, designer, gallery owner, visual merchandiser, or art appraiser, among other possibilities."
@@ -36,7 +36,7 @@ wpcf-video: https://vimeo.com/117056521
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Art-show-5e.jpg"><img src="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Art-show-5e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Art-show-5e.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Art-show-5e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

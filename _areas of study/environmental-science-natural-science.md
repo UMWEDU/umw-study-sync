@@ -5,11 +5,11 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/environmental-science-natural-science/
+  https://www.umw.edu/study/areas/environmental-science-natural-science/
 published: true
 post_date: 2015-07-28 15:30:32
 wpcf-home-page-feature: >
-  http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Soil-Project-07e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Soil-Project-07e.jpg
 wpcf-value-proposition: "UMW's environmental science -- natural science major explores the relationships among biology, chemistry, physics, geology, and Earth science. Our interdisciplinary program encourages undergraduate research and fosters the analytical, critical-thinking, and communications skills you'll need as a working scientist or graduate scholar."
 wpcf-areas-of-study: |
   The environmental science-natural science major gives you a solid background in biological, ecological, chemical, and geological principles. With this foundation, and with guidance from faculty advisors, you'll craft a <a href="http://publications.umw.red/undergraduatecatalog/courses-of-study/course-descriptions/eesc-2/">course of study</a> that meets your interests and career goals.
@@ -45,7 +45,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Soil-Project-07e.jpg"><img src="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Soil-Project-07e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Soil-Project-07e.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Soil-Project-07e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

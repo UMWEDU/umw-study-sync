@@ -4,12 +4,11 @@ post_title: Music
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/music/
+permalink: https://www.umw.edu/study/areas/music/
 published: true
 post_date: 2015-07-28 14:05:54
 wpcf-home-page-feature: >
-  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg
+  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg
 wpcf-value-proposition: >
   Music majors at UMW have shared the
   stage with greats like Itzhak Perlman
@@ -49,7 +48,7 @@ wpcf-courses: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- value-proposition -->

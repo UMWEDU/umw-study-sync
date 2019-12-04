@@ -5,11 +5,11 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/political-science/
+  https://www.umw.edu/study/areas/political-science/
 published: true
 post_date: 2015-07-28 18:33:28
 wpcf-home-page-feature: >
-  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-Political-Science-2e.jpg
+  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Political-Science-2e.jpg
 wpcf-value-proposition: 'Study political science at the University of Mary Washington, positioned midway between Washington, D.C., and Virginia’s capital city, Richmond. You’ll learn the theory of political science and connect it with the real world through on-site learning, internships, and involvement in political events. Become career-ready through work with UMW’s <a href="/clms/">Center for Leadership and Media Studies</a>.'
 wpcf-areas-of-study: >
   Learn how political systems function
@@ -42,7 +42,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-Political-Science-2e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-Political-Science-2e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Political-Science-2e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Political-Science-2e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

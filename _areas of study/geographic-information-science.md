@@ -5,11 +5,11 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/geographic-information-science/
+  https://www.umw.edu/study/areas/geographic-information-science/
 published: true
 post_date: 2015-08-07 16:20:56
 wpcf-home-page-feature: >
-  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/08/NS-GIS-9-1024x719e.jpg
+  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/08/NS-GIS-9-1024x719e.jpg
 wpcf-value-proposition: >
   The Geographic Information Science
   certificate at the University of Mary
@@ -41,7 +41,7 @@ wpcf-courses: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/08/NS-GIS-9-1024x719e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/08/NS-GIS-9-1024x719e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/08/NS-GIS-9-1024x719e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/08/NS-GIS-9-1024x719e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- value-proposition -->

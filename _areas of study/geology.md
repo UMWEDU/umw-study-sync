@@ -4,12 +4,11 @@ post_title: Geology
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/geology/
+permalink: https://www.umw.edu/study/areas/geology/
 published: true
 post_date: 2015-07-28 17:34:34
 wpcf-home-page-feature: >
-  http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg
 wpcf-value-proposition: "For you, it's not enough to know that a mountain, ocean, or crater exists. You have to know why the Earth's physical features are where they are, and how they came to be. If you're fascinated by the Earth's physical structures and processes, and you want to do some of your learning outdoors and on location, UMW's geology major may be your niche. Here -- beside the Rappahannock River and just a short drive from the Chesapeake Bay or the Shenandoah Valley -- you'll get one-on-one time with our master teachers, and you'll take a range of courses that will help you find your passion. Our strong liberal arts program will help you develop the critical-thinking, problem-solving, and communications skills you'll need to begin your geology career or pursue an advanced degree."
 wpcf-areas-of-study: >
   Geology majors build on the principles
@@ -55,7 +54,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg"><img src="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

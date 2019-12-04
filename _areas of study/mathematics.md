@@ -5,11 +5,11 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/mathematics/
+  https://www.umw.edu/study/areas/mathematics/
 published: true
 post_date: 2015-07-28 19:31:55
 wpcf-home-page-feature: >
-  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg
+  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg
 wpcf-value-proposition: "Major in mathematics at the University of Mary Washington and you'll expand your analytical and critical-thinking abilities. You'll work on original mathematics, present at professional meetings, and maybe even publish your work. You'll graduate ready to solve problems creatively in any professional field or in graduate school."
 wpcf-areas-of-study: "You'll choose from courses in algebra, analysis, topology (modern geometry), discrete mathematics (mathematics of computer science), number theory, statistics, dynamical systems, stochastic partial differential equations (mathematical models), scientific computation (numerical analysis and simulation), and financial mathematics."
 wpcf-career-opportunties: >
@@ -52,7 +52,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

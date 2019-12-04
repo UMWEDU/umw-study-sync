@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/american-studies/
+  https://www.umw.edu/study/areas/american-studies/
 published: true
 post_date: 2015-07-28 13:43:19
 wpcf-value-proposition: |

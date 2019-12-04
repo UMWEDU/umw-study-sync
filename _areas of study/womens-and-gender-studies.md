@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/womens-and-gender-studies/
+  https://www.umw.edu/study/areas/womens-and-gender-studies/
 published: true
 post_date: 2015-07-28 15:44:06
 wpcf-value-proposition: >

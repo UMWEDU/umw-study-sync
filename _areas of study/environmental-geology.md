@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/environmental-geology/
+  https://www.umw.edu/study/areas/environmental-geology/
 published: true
 post_date: 2015-12-02 18:41:07
 wpcf-value-proposition: "Driven to understand - and protect - the planet we live on? UMW's bachelor's program in environmental geology arms you with the knowledge and principles you need to understand Earth's evolution and processes. Discover how these fundamentals relate to human interaction with the landscape. Examine such topics as hydrogeology, soil and water chemistry, and geomorphology. Discover ways to curb the hazards that threaten our planet."
@@ -21,7 +21,7 @@ wpcf-honors: >
   and defending a thesis.
 wpcf-major-requirements: "UMW's environmental geology major requires 41 to 44 credits, including two required chemistry courses and six required geology courses, with the remainder of the required credits in geology, geography, or environmental science. Environmental geology majors also are encouraged to do independent study and research during their senior year."
 wpcf-scholarships: |
-  A complete list of available scholarships is provided by UMW's <a href="https://umwwebmaster.staging.wpengine.com/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
+  A complete list of available scholarships is provided by UMW's <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 wpcf-department: https://cas.umw.edu/ees/
 ---
 
@@ -52,7 +52,7 @@ Driven to understand - and protect - the planet we live on? UMW's bachelor's pro
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>A complete list of available scholarships is provided by UMW's <a href="https://umwwebmaster.staging.wpengine.com/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
+<h2>Scholarships</h2>A complete list of available scholarships is provided by UMW's <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 <!-- End scholarships -->
 
 <!-- resource-links -->

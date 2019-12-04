@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/environmental-sustainability-minor/
+  https://www.umw.edu/study/areas/environmental-sustainability-minor/
 published: true
 post_date: 2016-02-01 18:30:47
 wpcf-value-proposition: >
@@ -83,7 +83,7 @@ wpcf-minor-requirements: >
   economics, geography, philosophy,
   sociology, history, geology, and
   Spanish.
-wpcf-scholarships: 'The <a href="http://cas.umw.edu/ees/news-3/">Department of Earth and Environmental Sciences</a>, which hosts the environmental sustainability minor, offers scholarships to aid students in their studies. For a complete list of scholarships offered at UMW, visit the <a href="https://umwwebmaster.staging.wpengine.com/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.'
+wpcf-scholarships: 'The <a href="http://cas.umw.edu/ees/news-3/">Department of Earth and Environmental Sciences</a>, which hosts the environmental sustainability minor, offers scholarships to aid students in their studies. For a complete list of scholarships offered at UMW, visit the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.'
 wpcf-department: https://cas.umw.edu/ees/
 ---
 
@@ -114,7 +114,7 @@ With businesses blamed for damaging rain forests and overfishing oceans, sustain
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>The <a href="http://cas.umw.edu/ees/news-3/">Department of Earth and Environmental Sciences</a>, which hosts the environmental sustainability minor, offers scholarships to aid students in their studies. For a complete list of scholarships offered at UMW, visit the <a href="https://umwwebmaster.staging.wpengine.com/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
+<h2>Scholarships</h2>The <a href="http://cas.umw.edu/ees/news-3/">Department of Earth and Environmental Sciences</a>, which hosts the environmental sustainability minor, offers scholarships to aid students in their studies. For a complete list of scholarships offered at UMW, visit the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 <!-- End scholarships -->
 
 <!-- resource-links -->

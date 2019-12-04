@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/arts-administration/
+  https://www.umw.edu/study/areas/arts-administration/
 published: true
 post_date: 2015-09-26 21:22:24
 wpcf-value-proposition: >

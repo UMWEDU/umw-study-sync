@@ -8,7 +8,7 @@ permalink: /admissions/adult/bsn/
 published: true
 post_date: 2015-08-12 13:21:11
 wpcf-home-page-feature: >
-  http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Nursinge.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nursinge.jpg
 wpcf-value-proposition: >
   The BSN Completion Program is a
   post-licensure degree program
@@ -43,7 +43,7 @@ wpcf-courses: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Nursinge.jpg"><img src="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Nursinge.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nursinge.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nursinge.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- value-proposition -->

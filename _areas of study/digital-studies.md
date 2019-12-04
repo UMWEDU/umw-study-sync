@@ -5,7 +5,7 @@ author: ntrenis
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/digital-studies/
+  https://www.umw.edu/study/areas/digital-studies/
 published: true
 post_date: 2015-08-04 14:51:32
 wpcf-value-proposition: "Communication and technology are in constant motion. Our bachelor's program in communications and digital studies teaches adults - and tech-savvy teens - to share ideas in a media-driven world. A cutting-edge curriculum targets emerging technology and teaches you to create powerful messaging, design multi-media campaigns, and build a digital identity."

@@ -5,11 +5,11 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/psychology/
+  https://www.umw.edu/study/areas/psychology/
 published: true
 post_date: 2015-07-28 18:17:31
 wpcf-home-page-feature: >
-  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg
+  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg
 wpcf-value-proposition: >
   Our bachelor’s program in psychology
   takes you into the human mind. Learn the
@@ -53,7 +53,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

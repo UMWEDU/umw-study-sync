@@ -5,11 +5,11 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/economics/
+  https://www.umw.edu/study/areas/economics/
 published: true
 post_date: 2015-07-28 19:19:10
 wpcf-home-page-feature: >
-  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg
+  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg
 wpcf-value-proposition: |
   Could you survive on $2 a day? The nationwide $2-a-day challenge began on our campus and exemplifies the creative teaching and thinking you'll find in our economics program. Here you'll mix macro-<span class="Apple-converted-space">  </span>and microeconomics with electives like money, banking, and global finance. You'll analyze and apply data, publish original research in our undergraduate journal, and become<span class="Apple-converted-space">  </span>a creative, problem-solving economist.
 wpcf-areas-of-study: '<p class="p1">Study micro-, macro-, industrial, environmental, health, urban and regional economics. You can take courses in the economics of social issues; government and business; money and banking; public finance; philanthropy; the<span class="Apple-converted-space">  </span>history of economics; investment analysis; poverty, affluence, and equality; and more.</p>'
@@ -34,7 +34,7 @@ wpcf-video: 'https://www.youtube.com/watch?v=DNpckL-LzzU&list=PLZfjMaRP_C8Em3hSD
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

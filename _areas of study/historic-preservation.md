@@ -5,11 +5,11 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/historic-preservation/
+  https://www.umw.edu/study/areas/historic-preservation/
 published: true
 post_date: 2015-07-28 18:10:34
 wpcf-home-page-feature: >
-  http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/DSC_8115_HP-1024x489e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/DSC_8115_HP-1024x489e.jpg
 wpcf-value-proposition: "The University of Mary Washington in historic Fredericksburg, Virginia, is home to one of the nation's oldest and most respected programs in historic preservation. Here, you'll join fellow scholars and master teachers who are passionate about preserving the physical links to our past. You'll come to understand the people of earlier times through the buildings, objects, and landscapes they left behind -- and you'll help to preserve those important tangible pieces of history. Through UMW's rigorous  interdisciplinary liberal arts program, you'll gain the critical-thinking, research, and communications skills you'll need to make a difference as a working preservationist."
 wpcf-areas-of-study: >
   Historic preservation at the University
@@ -38,7 +38,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/DSC_8115_HP-1024x489e.jpg"><img src="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/DSC_8115_HP-1024x489e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/DSC_8115_HP-1024x489e.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/DSC_8115_HP-1024x489e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

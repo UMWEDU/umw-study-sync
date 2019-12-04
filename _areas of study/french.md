@@ -4,12 +4,11 @@ post_title: French
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/french/
+permalink: https://www.umw.edu/study/areas/french/
 published: true
 post_date: 2015-07-28 16:37:37
 wpcf-home-page-feature: >
-  https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg
+  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg
 wpcf-value-proposition: "Maybe the French language is part of your heritage, or maybe you just loved the courses you took in high school. Now you're seeking mastery of the language, broad exposure to its rich literatures, and knowledge of  the French-speaking cultures. At UMW, you'll challenge yourself with compelling coursework, aided by our language labs and access to computer tutorials. In  conjunction with UMW's strong liberal arts program, you'll prepare yourself for a variety of international careers."
 wpcf-areas-of-study: "UMW's French offerings include composition, phonetics and oral proficiency, a variety of French-language literatures, translation, senior seminars, business French, French cultures, and French cinema. You may spend a semester abroad, or learn intensively in spring and summer faculty-led trips to Paris, Provence, or Quebec."
 wpcf-career-opportunties: |
@@ -37,7 +36,7 @@ wpcf-video: https://vimeo.com/129708067
 <!-- Types Custom Fields: -->
 
 <!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg" style="width: 100%; height: auto;" alt=""/></a>
 <!-- End home-page-feature -->
 
 <!-- video -->

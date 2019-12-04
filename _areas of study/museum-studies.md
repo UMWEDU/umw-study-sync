@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/museum-studies/
+  https://www.umw.edu/study/areas/museum-studies/
 published: true
 post_date: 2018-12-04 22:32:51
 wpcf-value-proposition: >
