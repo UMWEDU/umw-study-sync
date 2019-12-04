@@ -36,9 +36,11 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/accounting/
 terms:
   department:
-    - cob
+    - cas
+    - bio
   key:
-    - major
+    - minor
+    - certificate
 ---
 
 <!-- Types Custom Fields: -->
