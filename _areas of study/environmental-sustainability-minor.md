@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: areas
 permalink: >
-  //areas/environmental-sustainability-minor/.md
+  /areas/environmental-sustainability-minor.md
 published: true
 post_date: 2016-02-01 18:30:47
 wpcf-value-proposition: >

@@ -4,7 +4,7 @@ post_title: Biology
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: //areas/biology/.md
+permalink: /areas/biology.md
 published: true
 post_date: 2015-07-28 16:22:21
 wpcf-home-page-feature: >

@@ -4,7 +4,7 @@ post_title: Theatre
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: //areas/theatre/.md
+permalink: /areas/theatre.md
 published: true
 post_date: 2015-07-28 19:29:26
 wpcf-home-page-feature: >

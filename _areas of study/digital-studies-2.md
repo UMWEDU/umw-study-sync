@@ -4,7 +4,7 @@ post_title: Digital Studies
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /study/areas/digital-studies/.md
+permalink: /study/areas/digital-studies.md
 published: true
 post_date: 2015-08-04 19:25:26
 wpcf-department: >

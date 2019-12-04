@@ -4,7 +4,7 @@ post_title: Philosophy
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: //areas/philosophy/.md
+permalink: /areas/philosophy.md
 published: true
 post_date: 2015-07-28 15:08:07
 wpcf-home-page-feature: >

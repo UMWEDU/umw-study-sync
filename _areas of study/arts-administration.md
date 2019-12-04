@@ -4,7 +4,7 @@ post_title: Arts Administration
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: //areas/arts-administration/.md
+permalink: /areas/arts-administration.md
 published: true
 post_date: 2015-09-26 21:22:24
 wpcf-value-proposition: >

@@ -4,7 +4,7 @@ post_title: Biochemistry
 author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
-permalink: //areas/biochemistry/.md
+permalink: /areas/biochemistry.md
 published: true
 post_date: 2018-08-30 13:24:12
 wpcf-value-proposition: >

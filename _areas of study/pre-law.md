@@ -4,7 +4,7 @@ post_title: 'Philosophy: Pre-Law'
 author: Emily
 post_excerpt: ""
 layout: areas
-permalink: //areas/pre-law/.md
+permalink: /areas/pre-law.md
 published: true
 post_date: 2015-11-18 19:58:49
 wpcf-value-proposition: >

@@ -4,7 +4,7 @@ post_title: Music
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: //areas/music/.md
+permalink: /areas/music.md
 published: true
 post_date: 2015-07-28 14:05:54
 wpcf-home-page-feature: >

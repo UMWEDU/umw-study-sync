@@ -4,7 +4,7 @@ post_title: Actuarial Science
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: //areas/actuarial-science/.md
+permalink: /areas/actuarial-science.md
 published: true
 post_date: 2015-08-05 17:04:56
 wpcf-value-proposition: >

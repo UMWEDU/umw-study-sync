@@ -4,7 +4,7 @@ post_title: Pre-Med
 author: Emily
 post_excerpt: ""
 layout: areas
-permalink: //areas/pre-med/.md
+permalink: /areas/pre-med.md
 published: true
 post_date: 2015-11-23 19:18:45
 wpcf-value-proposition: "Doctors make a difference. Our pre-medical program walks you through the steps it takes to become a physician, dentist, or other medical specialist. Rigorous academics - in your chosen bachelor's program; required courses like biology, physics, and math; and extras like genetics and history - mirror the challenges of med school. Passionate professors, clinical experience at the region's largest hospital, research, and community service will help you ace the MCAT and slide into med school."

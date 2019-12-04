@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  //areas/environmental-science-social-science/.md
+  /areas/environmental-science-social-science.md
 published: true
 post_date: 2015-07-28 16:07:40
 wpcf-value-proposition: "UMW's environmental science - social science major explores the effects humans have on the natural world, from the nearby Rappahannock River to the planet's most threatened ecosystems. Our interdisciplinary program encourages undergraduate research and gives you the knowledge and problem-solving skills to make a difference right away as a working scientist."

@@ -4,7 +4,7 @@ post_title: Sociology
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: //areas/sociology/.md
+permalink: /areas/sociology.md
 published: true
 post_date: 2015-07-28 17:26:13
 wpcf-value-proposition: >

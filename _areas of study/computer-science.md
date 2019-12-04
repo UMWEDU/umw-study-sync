@@ -4,7 +4,7 @@ post_title: Computer Science
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: //areas/computer-science/.md
+permalink: /areas/computer-science.md
 published: true
 post_date: 2015-07-28 18:39:09
 wpcf-home-page-feature: >

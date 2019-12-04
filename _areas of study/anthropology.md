@@ -4,7 +4,7 @@ post_title: Anthropology
 author: ntrenis
 post_excerpt: ""
 layout: areas
-permalink: //areas/anthropology/.md
+permalink: /areas/anthropology.md
 published: true
 post_date: 2015-07-28 19:09:18
 wpcf-home-page-feature: >

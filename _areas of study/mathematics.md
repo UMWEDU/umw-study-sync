@@ -4,7 +4,7 @@ post_title: Mathematics
 author: ntrenis
 post_excerpt: ""
 layout: areas
-permalink: //areas/mathematics/.md
+permalink: /areas/mathematics.md
 published: true
 post_date: 2015-07-28 19:31:55
 wpcf-home-page-feature: >

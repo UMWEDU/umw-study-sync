@@ -4,7 +4,7 @@ post_title: Practical Ethics
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: //areas/practical-ethics/.md
+permalink: /areas/practical-ethics.md
 published: true
 post_date: 2015-12-11 18:03:01
 wpcf-value-proposition: "Ethics are key to understanding some of the most challenging and controversial social problems of the 21st century. In UMW's minor program in practical ethics, you'll explore the fundamental theories, concepts, and methodologies of ethics; ways of identifying and analyzing contemporary moral issues; and how theory and practice inform one another. How do you feel about reproductive technologies, euthanasia, the treatment of animals, sustainability? Question your own beliefs, and learn how reason and argument affect everyday ethical decision-making."

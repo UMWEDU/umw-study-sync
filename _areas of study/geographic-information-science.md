@@ -4,8 +4,7 @@ post_title: Geographic Information Science
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: >
-  //areas/geographic-information-science/.md
+permalink: /areas/geographic-information-science.md
 published: true
 post_date: 2015-08-07 16:20:56
 wpcf-home-page-feature: >
