@@ -5,7 +5,7 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/biology/
+  https://umwwebmaster.staging.wpengine.com/study/areas/biology/
 published: true
 post_date: 2015-07-28 16:22:21
 wpcf-home-page-feature: >
@@ -32,63 +32,69 @@ wpcf-video: 'https://www.youtube.com/watch?v=hELFiuaHPwE&index=2&list=PLZfjMaRP_
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg)](https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
-<a href="https://www.youtube.com/watch?v=hELFiuaHPwE&index=2&list=PLZfjMaRP_C8Em3hSDVFMhglNk1ody2qsu"><img src="https://i.ytimg.com/vi/hELFiuaHPwE/hqdefault.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.ytimg.com/vi/hELFiuaHPwE/hqdefault.jpg)](https://www.youtube.com/watch?v=hELFiuaHPwE&index=2&list=PLZfjMaRP_C8Em3hSDVFMhglNk1ody2qsu)
 <!-- End video -->
 
 <!-- value-proposition -->
-<p class="p1">As a University of Mary Washington biology major, you might collect samples on the Rappahannock River one day then contribute to a class discussion on ecology the next. Our biology major goes beyond molecules and microscopes, feeding your curiosity about living things, fostering the scientific process, and challenging you to find fresh approaches to research.</p>
+As a University of Mary Washington biology major, you might collect samples on the Rappahannock River one day then contribute to a class discussion on ecology the next. Our biology major goes beyond molecules and microscopes, feeding your curiosity about living things, fostering the scientific process, and challenging you to find fresh approaches to research.
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2><p class="p1">Course offerings include human biology, organism function and diversity, botany, chordate anatomy, plant ecology, animal ecology, entomology, histology, genetics, nutrition and metabolism, microbiology, parasitology, animal behavior, neurobiology, endocrinology, vertebrate zoology, ornithology, virology, biology of cancer, and more.</p>
+## Areas of Study
+Course offerings include human biology, organism function and diversity, botany, chordate anatomy, plant ecology, animal ecology, entomology, histology, genetics, nutrition and metabolism, microbiology, parasitology, animal behavior, neurobiology, endocrinology, vertebrate zoology, ornithology, virology, biology of cancer, and more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2><p class="p1">UMW biology majors may qualify for paid internships through the <a href="http://csiip.spacegrant.org/students">Commonwealth STEM Industry Internship Program</a>. The Department of Biology helps students learn about and apply for internships in the fields of research, medicine, zoology, botany, and ecology. Students also may find internships with museums in the Fredericksburg area or nearby Richmond, Virginia, and Washington, D.C.</p>
+## Internships
+UMW biology majors may qualify for paid internships through the [Commonwealth STEM Industry Internship Program](http://csiip.spacegrant.org/students). The Department of Biology helps students learn about and apply for internships in the fields of research, medicine, zoology, botany, and ecology. Students also may find internships with museums in the Fredericksburg area or nearby Richmond, Virginia, and Washington, D.C.
 <!-- End internships -->
 
 <!-- testimonial -->
-<blockquote class="program-testimonial">
-  <div class="quote">The biology program at UMW was the perfect stepping-stone on my way to veterinary school. The professors and other faculty were so encouraging to me and my peers, and having small classes where I could know them personally made that relationship all the more meaningful. I got a solid education and felt very prepared for my entrance into a professional school.</div>
+> <div class="quote">The biology program at UMW was the perfect stepping-stone on my way to veterinary school. The professors and other faculty were so encouraging to me and my peers, and having small classes where I could know them personally made that relationship all the more meaningful. I got a solid education and felt very prepared for my entrance into a professional school.</div>
 <div class="quoted">- Alexis Pennings ’14, student, Virginia-Maryland Regional College of Veterinary Medicine</div>
-</blockquote>
 <!-- End testimonial -->
 
 <!-- honors -->
-<h2>Honors</h2><p class="p1">To receive honors in biology, you must have a 3.0 grade-point average overall and 3.25 in the major. You'll complete a research project, write an honors thesis, and deliver an oral presentation to department faculty.</p>
+## Honors
+To receive honors in biology, you must have a 3.0 grade-point average overall and 3.25 in the major. You'll complete a research project, write an honors thesis, and deliver an oral presentation to department faculty.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3><p class="p1">The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/biology/">biology major</a> requires 40 credits including five required courses, a required senior seminar, one course designated research-intensive, and one additional upper-level course with a laboratory component.</p>
+### Major Requirements
+The [biology major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/biology/) requires 40 credits including five required courses, a required senior seminar, one course designated research-intensive, and one additional upper-level course with a laboratory component.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3><p class="p1">The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/biology/">minor in biology</a> requires 22 credits in core and elective biology courses. You'll take at least three 300- to 400-level biology courses, two with a<span class="Apple-converted-space">  </span>laboratory component.</p>
+### Minor Requirements
+The [minor in biology](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/biology/) requires 22 credits in core and elective biology courses. You'll take at least three 300- to 400-level biology courses, two with a<span class="Apple-converted-space"> </span>laboratory component.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2><p class="p1">The Department of Biology presents several <a href="http://cas.umw.edu/biology/awards-scholarships/">scholarships and awards</a> annually to outstanding biology majors.</p>
-<p class="p1"></p>
+## Scholarships
+The Department of Biology presents several [scholarships and awards](http://cas.umw.edu/biology/awards-scholarships/) annually to outstanding biology majors.
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/biology/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/biology/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/biology/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/biology/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

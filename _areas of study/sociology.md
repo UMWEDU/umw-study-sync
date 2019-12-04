@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/sociology/
+  https://umwwebmaster.staging.wpengine.com/study/areas/sociology/
 published: true
 post_date: 2015-07-28 17:26:13
 wpcf-value-proposition: >
@@ -66,7 +66,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-<a href="https://www.youtube.com/watch?v=nXL5mz8fJa4"><img src="https://i.ytimg.com/vi/nXL5mz8fJa4/hqdefault.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.ytimg.com/vi/nXL5mz8fJa4/hqdefault.jpg)](https://www.youtube.com/watch?v=nXL5mz8fJa4)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -74,54 +74,64 @@ Our bachelor’s program in sociology unravels some of the mysteries of human re
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>At UMW, you’ll get a strong foundation in sociological theory and research methods through the study of socialization, culture, social organization, social change, differentiation, and inequality. Courses focus on such topics as ethnic and racial relations, family, gender, medicine, occupations and professions, organizations, politics and the state, popular culture, population, religion, urban life, aging, juvenile delinquency, and criminology.
+## Areas of Study
+At UMW, you’ll get a strong foundation in sociological theory and research methods through the study of socialization, culture, social organization, social change, differentiation, and inequality. Courses focus on such topics as ethnic and racial relations, family, gender, medicine, occupations and professions, organizations, politics and the state, popular culture, population, religion, urban life, aging, juvenile delinquency, and criminology.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>Sociology student interns often work with agencies in the Fredericksburg region, but also in Washington, D.C., and Richmond, Virginia. UMW sociology and anthropology majors have completed internships at many organizations, including the following:
-<ul>
-<li>Thurman Brisben Homeless Shelter</li>
-<li>disAbility Resource Center</li>
-<li>Empowerhouse (against domestic assault)</li>
-<li>Refugee Resettlement Services of the Catholic Diocese</li>
-<li>Lloyd F. Moss Free Clinic</li>
-<li>Rappahannock Legal Services</li>
-<li>Probation and Parole District 21</li>
-<li>Virginia Department of Juvenile Justice</li>
-<li>First Nations Development Institute</li>
-<li>The Community Foundation of the Rappahannock River Region</li>
-<li>The Valentine Richmond History Center</li>
-<li>Human Rights Campaign – LGBT equality group based in Washington, D.C.</li>
-<li>U.S. Census Bureau (D.C.)</li>
-<li>U.S. Sentencing Commission (D.C.)</li>
-</ul>
-Learn more about <a href="http://cas.umw.edu/sociologyanthropology/resources/internships-socg-or-anth-499/">internships in sociology</a>.
+## Internships
+Sociology student interns often work with agencies in the Fredericksburg region, but also in Washington, D.C., and Richmond, Virginia. UMW sociology and anthropology majors have completed internships at many organizations, including the following:
+
+- Thurman Brisben Homeless Shelter
+- disAbility Resource Center
+- Empowerhouse (against domestic assault)
+- Refugee Resettlement Services of the Catholic Diocese
+- Lloyd F. Moss Free Clinic
+- Rappahannock Legal Services
+- Probation and Parole District 21
+- Virginia Department of Juvenile Justice
+- First Nations Development Institute
+- The Community Foundation of the Rappahannock River Region
+- The Valentine Richmond History Center
+- Human Rights Campaign – LGBT equality group based in Washington, D.C.
+- U.S. Census Bureau (D.C.)
+- U.S. Sentencing Commission (D.C.)
+
+Learn more about [internships in sociology](http://cas.umw.edu/sociologyanthropology/resources/internships-socg-or-anth-499/).
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>To graduate with honors in sociology, majors must have maintained a grade point average of 3.5 or better and completed all honors requirements including certain upper-level classes and an honors thesis. Find the details at the <a href="http://cas.umw.edu/sociologyanthropology/resources/departmental-honors/">Sociology Departmental Honors page</a>.
+## Honors
+To graduate with honors in sociology, majors must have maintained a grade point average of 3.5 or better and completed all honors requirements including certain upper-level classes and an honors thesis. Find the details at the [Sociology Departmental Honors page](http://cas.umw.edu/sociologyanthropology/resources/departmental-honors/).
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The requirements for a degree in <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/socg/">sociology</a> include one introductory sociology course, three upper-level sociology courses that include research methods, history, and contemporary theory, and 18 credits of upper-level sociology courses.
+### Major Requirements
+The requirements for a degree in [sociology](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/socg/) include one introductory sociology course, three upper-level sociology courses that include research methods, history, and contemporary theory, and 18 credits of upper-level sociology courses.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>One <a href="http://cas.umw.edu/sociologyanthropology/bill-hanson-memorial-scholarship/">Bill Hanson Memorial Scholarship</a> is awarded in a late professor’s honor each year to a deserving student. The award is based on merit, financial need, and commitment to peace and social justice.
+## Scholarships
+One [Bill Hanson Memorial Scholarship](http://cas.umw.edu/sociologyanthropology/bill-hanson-memorial-scholarship/) is awarded in a late professor’s honor each year to a deserving student. The award is based on merit, financial need, and commitment to peace and social justice.
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/socg/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/socg/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/sociologyanthropology/sociology-program/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/sociologyanthropology/sociology-program/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

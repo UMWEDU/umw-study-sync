@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/pre-med/
+  https://umwwebmaster.staging.wpengine.com/study/areas/pre-med/
 published: true
 post_date: 2015-11-23 19:18:45
 wpcf-value-proposition: "Doctors make a difference. Our pre-medical program walks you through the steps it takes to become a physician, dentist, or other medical specialist. Rigorous academics - in your chosen bachelor's program; required courses like biology, physics, and math; and extras like genetics and history - mirror the challenges of med school. Passionate professors, clinical experience at the region's largest hospital, research, and community service will help you ace the MCAT and slide into med school."
@@ -21,7 +21,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-<a href="https://www.youtube.com/watch?v=715ADeDz4ns"><img src="https://i.ytimg.com/vi/715ADeDz4ns/hqdefault.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.ytimg.com/vi/715ADeDz4ns/hqdefault.jpg)](https://www.youtube.com/watch?v=715ADeDz4ns)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -29,21 +29,26 @@ Doctors make a difference. Our pre-medical program walks you through the steps i
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>UMW's pre-medical program includes course and clinical requirements, elective extracurricular activities, and optional research work. Students must choose a discipline in which to major and fulfill its requirements along with pre-med requirements, including courses in biology concepts, phage hunters, general and organic chemistry, biochemistry, physics, English composition, math (calculus and statistics are recommended), sociology, and psychology. Cell biology, genetics, histology, and anatomy are also recommended in preparation for the MCAT. Pre-med students must acquire, as well, a minimum of 100 hours of clinical experience at a licensed medical practice or hospital.
+## Areas of Study
+UMW's pre-medical program includes course and clinical requirements, elective extracurricular activities, and optional research work. Students must choose a discipline in which to major and fulfill its requirements along with pre-med requirements, including courses in biology concepts, phage hunters, general and organic chemistry, biochemistry, physics, English composition, math (calculus and statistics are recommended), sociology, and psychology. Cell biology, genetics, histology, and anatomy are also recommended in preparation for the MCAT. Pre-med students must acquire, as well, a minimum of 100 hours of clinical experience at a licensed medical practice or hospital.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>Pre-med students must have a minimum of 100 hours of clinical experience at a licensed medical practice, clinic, or hospital, served over a minimum of two semesters. <a href="http://cas.umw.edu/premed/summeropportunities">Summer opportunities</a> are also available. Check also with the <a href="http://academics.umw.edu/academicandcareerservices/links-to-internship-opportunities">Department of Academic and Career Services</a>.
+## Internships
+Pre-med students must have a minimum of 100 hours of clinical experience at a licensed medical practice, clinic, or hospital, served over a minimum of two semesters. [Summer opportunities](http://cas.umw.edu/premed/summeropportunities) are also available. Check also with the [Department of Academic and Career Services](http://academics.umw.edu/academicandcareerservices/links-to-internship-opportunities).
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>UMW students who are accepted into and fulfill the requirements of an early selection program will be provided provisional admission to the <a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/11/GWMed_Handout.pdf">four-year M.D. program</a> at The George Washington University School of Medicine and Health Sciences. Select individuals are exempt from taking the MCAT, allowing these students time to pursue other academic, clinical, and volunteer opportunities, including undergraduate research and/or study abroad.
+## Honors
+UMW students who are accepted into and fulfill the requirements of an early selection program will be provided provisional admission to the [four-year M.D. program](https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/11/GWMed_Handout.pdf) at The George Washington University School of Medicine and Health Sciences. Select individuals are exempt from taking the MCAT, allowing these students time to pursue other academic, clinical, and volunteer opportunities, including undergraduate research and/or study abroad.
 <!-- End honors -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- department -->
-<a href="http://cas.umw.edu/prehealth/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/prehealth/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

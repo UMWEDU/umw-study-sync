@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/climate-science/
+  https://umwwebmaster.staging.wpengine.com/study/areas/climate-science/
 published: true
 post_date: 2018-12-04 21:37:49
 wpcf-value-proposition: >
@@ -65,29 +65,37 @@ Earth’s climate is constantly changing. If you are curious about how extreme t
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>The UMW climate science minor is interdisciplinary, including courses from the departments of biology, chemistry, earth and environmental science, geography, and physics. It is also flexible – you can combine classes to fit your interests, skills, and goals. This minor is housed in the Department of Geography.
+## Areas of Study
+The UMW climate science minor is interdisciplinary, including courses from the departments of biology, chemistry, earth and environmental science, geography, and physics. It is also flexible – you can combine classes to fit your interests, skills, and goals. This minor is housed in the Department of Geography.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>University of Mary Washington’s proximity to Washington, D.C., gives students access to internships with federal agencies, local governments, private industry, and nonprofit organizations.
+## Internships
+University of Mary Washington’s proximity to Washington, D.C., gives students access to internships with federal agencies, local governments, private industry, and nonprofit organizations.
 <!-- End internships -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>The climate science minor requires 16 to 18 credits from among geography, environmental science, biology, and physics classes. Required courses include the subjects of weather and climate, dynamic climatology, and climate change.
+### Minor Requirements
+The climate science minor requires 16 to 18 credits from among geography, environmental science, biology, and physics classes. Required courses include the subjects of weather and climate, dynamic climatology, and climate change.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/climate-science-minor/" class="button">Course Listing</a>
+[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/climate-science-minor/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="https://cas.umw.edu/geography/" class="button">Department Website</a>
+[Department Website](https://cas.umw.edu/geography/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

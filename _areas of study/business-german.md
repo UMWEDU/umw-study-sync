@@ -14,9 +14,11 @@ wpcf-department: >
 <!-- Types Custom Fields: -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- department -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/" class="button">Department Website</a>
+[Department Website](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

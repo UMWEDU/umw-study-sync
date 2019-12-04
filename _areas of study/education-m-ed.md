@@ -18,9 +18,11 @@ While UMW doesn't offer a bachelor's degree specifically in education, the Unive
 <!-- End value-proposition -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- department -->
-<a href="http://education.umw.edu" class="button">Department Website</a>
+[Department Website](http://education.umw.edu)
+
 <!-- End department -->
 
 <!-- End resource-links -->

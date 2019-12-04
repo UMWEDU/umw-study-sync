@@ -16,13 +16,17 @@ wpcf-courses: >
 <!-- Types Custom Fields: -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/latn/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/latn/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/clpr/classics-program/latin-concentration/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/clpr/classics-program/latin-concentration/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

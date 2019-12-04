@@ -13,9 +13,11 @@ wpcf-department: http://cas.umw.edu/spanish/
 <!-- Types Custom Fields: -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- department -->
-<a href="http://cas.umw.edu/spanish/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/spanish/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/environmental-science-social-science/
+  https://umwwebmaster.staging.wpengine.com/study/areas/environmental-science-social-science/
 published: true
 post_date: 2015-07-28 16:07:40
 wpcf-value-proposition: "UMW's environmental science - social science major explores the effects humans have on the natural world, from the nearby Rappahannock River to the planet's most threatened ecosystems. Our interdisciplinary program encourages undergraduate research and gives you the knowledge and problem-solving skills to make a difference right away as a working scientist."
@@ -43,7 +43,7 @@ wpcf-video: >
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-<a href="https://www.youtube.com/watch?v=9LGu_F_PoR4"><img src="https://i.ytimg.com/vi/9LGu_F_PoR4/hqdefault.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.ytimg.com/vi/9LGu_F_PoR4/hqdefault.jpg)](https://www.youtube.com/watch?v=9LGu_F_PoR4)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -51,41 +51,52 @@ UMW's environmental science - social science major explores the effects humans h
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>The social sciences major starts with a firm foundation in chemistry, biology, and geology. Then you'll select from environmental science, geography, political science, economics, and sociology classes to create a <a href="http://cas.umw.edu/ees/environmental-science-program/social-environmental-science/">course of study</a> that meets your interests and career goals.
+## Areas of Study
+The social sciences major starts with a firm foundation in chemistry, biology, and geology. Then you'll select from environmental science, geography, political science, economics, and sociology classes to create a [course of study](http://cas.umw.edu/ees/environmental-science-program/social-environmental-science/) that meets your interests and career goals.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>In recent years, UMW environmental sciences graduates have served <a href="http://cas.umw.edu/ees/internships/">internships</a> with the City of Fredericksburg, the Army Corps of Engineers, the Virginia Department of Game and Inland Fisheries, Friends of the Rappahannock, Marstel-Day LLC, the Chesapeake Climate Action Network, Greenpeace, the U.S. Environmental Protection Agency, the U.S. Department of Agriculture, and more.
+## Internships
+In recent years, UMW environmental sciences graduates have served [internships](http://cas.umw.edu/ees/internships/) with the City of Fredericksburg, the Army Corps of Engineers, the Virginia Department of Game and Inland Fisheries, Friends of the Rappahannock, Marstel-Day LLC, the Chesapeake Climate Action Network, Greenpeace, the U.S. Environmental Protection Agency, the U.S. Department of Agriculture, and more.
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>Highly motivated and talented students can engage in rigorous honors-designated coursework, interdisciplinary seminars, internships, extended research and creative projects, and community service. Honors students often present at professional conferences and publish in journals, making them highly sought-after by employers or graduate programs.
+## Honors
+Highly motivated and talented students can engage in rigorous honors-designated coursework, interdisciplinary seminars, internships, extended research and creative projects, and community service. Honors students often present at professional conferences and publish in journals, making them highly sought-after by employers or graduate programs.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/eesc-natural/">environmental science-social science major</a> requires 38 or 39 credits including environmental science, geography or GIS, biology, chemistry, and economics. Electives may include philosophy, political science, or sociology.
+### Major Requirements
+The [environmental science-social science major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/eesc-natural/) requires 38 or 39 credits including environmental science, geography or GIS, biology, chemistry, and economics. Electives may include philosophy, political science, or sociology.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/sust/">environmental sustainability minor</a> requires eighteen to twenty-one credits.
+### Minor Requirements
+The [environmental sustainability minor](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/sust/) requires eighteen to twenty-one credits.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>Recent awards include the Peggy Ellis Gill Scholarship for an outstanding physical science undergraduate and the Elsa von Muller Leidecker Scholarship for excellence in academics, service, and research.
+## Scholarships
+Recent awards include the Peggy Ellis Gill Scholarship for an outstanding physical science undergraduate and the Elsa von Muller Leidecker Scholarship for excellence in academics, service, and research.
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/eesc-2/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/eesc-2/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="https://cas.umw.edu/ees/" class="button">Department Website</a>
+[Department Website](https://cas.umw.edu/ees/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

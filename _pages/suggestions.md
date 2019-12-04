@@ -5,7 +5,7 @@ author: Shelley Keith
 post_excerpt: ""
 layout: page
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/suggestions/
+  https://umwwebmaster.staging.wpengine.com/study/suggestions/
 published: true
 post_date: 2015-08-07 02:29:21
 ---

@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/financial-and-quantitative-analysis/
+  https://umwwebmaster.staging.wpengine.com/study/areas/financial-and-quantitative-analysis/
 published: true
 post_date: 2018-12-04 22:23:26
 wpcf-value-proposition: >
@@ -74,33 +74,42 @@ Financial decision making is critically important in the business world, whether
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>UMW’s minor in financial and quantitative analysis is designed to provide you with the core fundamental coursework in mathematics, economics, and business to succeed in these areas. The minor will teach you principles and build the skills you will need for the field of finance, and it will build your credentials in a many other of disciplines.
+## Areas of Study
+UMW’s minor in financial and quantitative analysis is designed to provide you with the core fundamental coursework in mathematics, economics, and business to succeed in these areas. The minor will teach you principles and build the skills you will need for the field of finance, and it will build your credentials in a many other of disciplines.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>At UMW, you’ll find internship opportunities close to campus and in nearby Washington, D.C., and Richmond, Virginia. Intern positions include real estate social media, advertising, marketing research and brand development, Chamber of Commerce communications, financial planning, and automotive business operations.
+## Internships
+At UMW, you’ll find internship opportunities close to campus and in nearby Washington, D.C., and Richmond, Virginia. Intern positions include real estate social media, advertising, marketing research and brand development, Chamber of Commerce communications, financial planning, and automotive business operations.
 <!-- End internships -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>To earn a minor in financial and quantitative analysis, you’ll earn 18 credits from disciplines within the College of Business, including accounting, decision sciences, economics, finance, marketing, and mathematics. College of Business students may not earn double-count for electives toward both their major and minor.
+### Minor Requirements
+To earn a minor in financial and quantitative analysis, you’ll earn 18 credits from disciplines within the College of Business, including accounting, decision sciences, economics, finance, marketing, and mathematics. College of Business students may not earn double-count for electives toward both their major and minor.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>Many <a href="http://business.umw.edu/current-students/undergraduate-scholarships/">scholarships</a> are available for business majors, including financial and quantitative analysis students.
+## Scholarships
+Many [scholarships](http://business.umw.edu/current-students/undergraduate-scholarships/) are available for business majors, including financial and quantitative analysis students.
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/financial-and-quantitative-analysis/" class="button">Course Listing</a>
+[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/financial-and-quantitative-analysis/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="https://business.umw.edu/" class="button">Department Website</a>
+[Department Website](https://business.umw.edu/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/cybersecurity/
+  https://umwwebmaster.staging.wpengine.com/study/areas/cybersecurity/
 published: true
 post_date: 2018-12-04 22:16:18
 wpcf-value-proposition: >
@@ -60,25 +60,32 @@ Sensitive data and systems are increasingly in peril. This presents an opportuni
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>The minor will provide you with a broad introduction to current cybersecurity topics. It not only gives you a solid foundation in security fundamentals but also flexibly combines with a number of majors, such as business, computer science, and mathematics.
+## Areas of Study
+The minor will provide you with a broad introduction to current cybersecurity topics. It not only gives you a solid foundation in security fundamentals but also flexibly combines with a number of majors, such as business, computer science, and mathematics.
 <!-- End areas-of-study -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>The cybersecurity minor, within the UMW College of Business, requires 17 credits that include classes from computer science, business, and management information systems. You will take such courses as programming and problem solving, software development, network principles and applications, computer and information security, computer ethics, practical ethics, business ethics, and business administration.
+### Minor Requirements
+The cybersecurity minor, within the UMW College of Business, requires 17 credits that include classes from computer science, business, and management information systems. You will take such courses as programming and problem solving, software development, network principles and applications, computer and information security, computer ethics, practical ethics, business ethics, and business administration.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cybersecurity-minor/" class="button">Course Listing</a>
+[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cybersecurity-minor/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="https://business.umw.edu/" class="button">Department Website</a>
+[Department Website](https://business.umw.edu/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

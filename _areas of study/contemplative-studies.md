@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/contemplative-studies/
+  https://umwwebmaster.staging.wpengine.com/study/areas/contemplative-studies/
 published: true
 post_date: 2018-12-04 21:53:42
 wpcf-value-proposition: >
@@ -48,35 +48,42 @@ When you minor in contemplative studies at the University of Mary Washington, yo
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>This minor offers students a foundation in:
-<ol>
-<li>the theory of contemplation across traditions and history</li>
-<li>the application of contemplation in human life, including philosophy, religion, art, and performance</li>
-<li>the scientific study of meditation, its cutting-edge technologies, and the data gathered to document its effects on the brain and well-being</li>
-<li>significant practical training and experience in secular meditative techniques to develop skills such as concentration and empathy and reduce qualities such as stress and self-critique.</li>
-</ol>
+## Areas of Study
+This minor offers students a foundation in:
+
+1. the theory of contemplation across traditions and history
+2. the application of contemplation in human life, including philosophy, religion, art, and performance
+3. the scientific study of meditation, its cutting-edge technologies, and the data gathered to document its effects on the brain and well-being
+4. significant practical training and experience in secular meditative techniques to develop skills such as concentration and empathy and reduce qualities such as stress and self-critique.
 <!-- End areas-of-study -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>The Contemplative Studies Minor requires 18 credits. They will come from a choice of classes in contemplative practice, psychology, philosophy, religion, art history, biology, classics, geography, and anthropology.
+### Minor Requirements
+The Contemplative Studies Minor requires 18 credits. They will come from a choice of classes in contemplative practice, psychology, philosophy, religion, art history, biology, classics, geography, and anthropology.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>There are no scholarships specifically for contemplative studies. Here is a link to all <a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/">scholarships in Classics, Philosophy, &amp; Religion</a>.
+## Scholarships
+There are no scholarships specifically for contemplative studies. Here is a link to all [scholarships in Classics, Philosophy, & Religion](http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/).
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/contemplative-studies-minor/" class="button">Course Listing</a>
+[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/contemplative-studies-minor/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="https://cas.umw.edu/clpr/" class="button">Department Website</a>
+[Department Website](https://cas.umw.edu/clpr/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

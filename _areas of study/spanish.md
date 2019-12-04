@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/spanish/
+  https://umwwebmaster.staging.wpengine.com/study/areas/spanish/
 published: true
 post_date: 2015-07-28 16:32:47
 wpcf-home-page-feature: >
@@ -41,13 +41,11 @@ wpcf-video: https://vimeo.com/131570016
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/869-1024x680e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/869-1024x680e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/869-1024x680e.jpg)](https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/869-1024x680e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
-<a href="https://vimeo.com/131570016"><img src="https://i.vimeocdn.com/video/523872705_960.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.vimeocdn.com/video/523872705_960.jpg)](https://vimeo.com/131570016)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -55,44 +53,52 @@ Maybe the Spanish language is part of your heritage, or maybe you just loved the
 <!-- End value-proposition -->
 
 <!-- internships -->
-<h2>Internships</h2>For-credit internships may be available to junior and senior Spanish majors. UMW Spanish majors have found internships in Washington, D.C., and with local agencies including Rappahannock Adult Education Programs, the Virginia Department of Health, Hugh Mercer Elementary School, Rappahannock Council Against Sexual Assault, Bragg Hill Family Life Center, Moss Free Clinic, and Rappahannock Legal Services. You may also complete an internship, volunteer, or participate in service learning in Spain or Latin America.
+## Internships
+For-credit internships may be available to junior and senior Spanish majors. UMW Spanish majors have found internships in Washington, D.C., and with local agencies including Rappahannock Adult Education Programs, the Virginia Department of Health, Hugh Mercer Elementary School, Rappahannock Council Against Sexual Assault, Bragg Hill Family Life Center, Moss Free Clinic, and Rappahannock Legal Services. You may also complete an internship, volunteer, or participate in service learning in Spain or Latin America.
 <!-- End internships -->
 
 <!-- testimonial -->
-<blockquote class="program-testimonial">
-  <div class="quote">My Spanish degree, plus working as a Peace Corps Volunteer in El Salvador, set me up later to pursue an MA in Latin American Studies, then join the US Department of State as a Foreign Service Officer. I’ve now served in Colombia, Mexico, and currently Brazil, where learning Portuguese was a snap after my Mary Washington Spanish background. But the broader liberal arts education I got at Mary Wash prepared me for plenty of other adventures and challenges: I’ve also worked in China, Iraq, and Uganda, but was not out of my depths. Mary Washington helped make me a flexible and well-rounded person, and it all began in the Spanish program.</div>
+> <div class="quote">My Spanish degree, plus working as a Peace Corps Volunteer in El Salvador, set me up later to pursue an MA in Latin American Studies, then join the US Department of State as a Foreign Service Officer. I’ve now served in Colombia, Mexico, and currently Brazil, where learning Portuguese was a snap after my Mary Washington Spanish background. But the broader liberal arts education I got at Mary Wash prepared me for plenty of other adventures and challenges: I’ve also worked in China, Iraq, and Uganda, but was not out of my depths. Mary Washington helped make me a flexible and well-rounded person, and it all began in the Spanish program.</div>
 <div class="quoted"><a href="http://cas.umw.edu/spanish/experiential-learning-and-careers/">Brian Straight</a>. B.A. Spanish '99</div>
-</blockquote>
 <!-- End testimonial -->
 
 <!-- honors -->
-<h2>Honors</h2>Students who have at least a 3.5 grade-point average in the Spanish major and a 3.0 GPA overall by the beginning of senior year can apply to complete and defend a research-based thesis for <a href="http://cas.umw.edu/modernlanguages/departmental-honors/">departmental honors</a>. An undergraduate research grant, awarded through the Office of Academic Affairs, may be available for travel and other thesis-related expenses.
+## Honors
+Students who have at least a 3.5 grade-point average in the Spanish major and a 3.0 GPA overall by the beginning of senior year can apply to complete and defend a research-based thesis for [departmental honors](http://cas.umw.edu/modernlanguages/departmental-honors/). An undergraduate research grant, awarded through the Office of Academic Affairs, may be available for travel and other thesis-related expenses.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/span/">Spanish major</a> requires 13 courses totaling 39 credits in language, literature, linguistics, and culture courses, plus a required experiential component.
+### Major Requirements
+The [Spanish major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/span/) requires 13 courses totaling 39 credits in language, literature, linguistics, and culture courses, plus a required experiential component.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>A <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/bus-span/">minor in business Spanish</a> requires 27 credits including both Spanish and business classes.
+### Minor Requirements
+A [minor in business Spanish](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/bus-span/) requires 27 credits including both Spanish and business classes.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>Eligible students can apply for <a href="http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/">scholarships</a> to defray costs of faculty-led travel programs. Multiple awards are made each semester. A complete list of scholarship opportunities available at UMW can be found with the <a href="https://umwwebmaster.staging.wpengine.com/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
+## Scholarships
+Eligible students can apply for [scholarships](http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/) to defray costs of faculty-led travel programs. Multiple awards are made each semester. A complete list of scholarship opportunities available at UMW can be found with the [Office of Financial Aid](https://umwwebmaster.staging.wpengine.com/financialaid/types/scholarship-opportunities/).
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/span/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/span/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/spanish/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/spanish/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

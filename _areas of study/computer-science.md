@@ -5,7 +5,7 @@ author: Laura Moyer
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/computer-science/
+  https://umwwebmaster.staging.wpengine.com/study/areas/computer-science/
 published: true
 post_date: 2015-07-28 18:39:09
 wpcf-home-page-feature: >
@@ -37,13 +37,11 @@ wpcf-video: >
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg)](https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
-<a href="https://www.youtube.com/watch?v=NRYMX4IH4rg"><img src="https://i.ytimg.com/vi/NRYMX4IH4rg/hqdefault.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.ytimg.com/vi/NRYMX4IH4rg/hqdefault.jpg)](https://www.youtube.com/watch?v=NRYMX4IH4rg)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -51,41 +49,52 @@ Want to write cutting-edge software? Code the next killer app? Computer scientis
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>The bachelor’s program in computer science offers an <a href="http://cas.umw.edu/computerscience/course-offerings/">array of courses</a>, including problem solving with databases, digital storytelling, computer ethics, theoretical foundations of computing, Web application development, artificial intelligence, data mining, software engineering, and more.
+## Areas of Study
+The bachelor’s program in computer science offers an [array of courses](http://cas.umw.edu/computerscience/course-offerings/), including problem solving with databases, digital storytelling, computer ethics, theoretical foundations of computing, Web application development, artificial intelligence, data mining, software engineering, and more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2><p class="p1">Internships allow qualified students to earn academic credit, gain real-world experience, and boost their resumes by working at technical firms, government offices, or software development agencies. Companies that have sponsored recent student internships include Zope Corp., CACI Inc., Systems Technology Forum Ltd., SimVentions, and Computer Sciences Corp.</p>
+## Internships
+Internships allow qualified students to earn academic credit, gain real-world experience, and boost their resumes by working at technical firms, government offices, or software development agencies. Companies that have sponsored recent student internships include Zope Corp., CACI Inc., Systems Technology Forum Ltd., SimVentions, and Computer Sciences Corp.
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2><p class="p1">To earn honors in computer science, students who meet GPA and course prerequisites can undertake individual study under the direction of a department member.</p>
+## Honors
+To earn honors in computer science, students who meet GPA and course prerequisites can undertake individual study under the direction of a department member.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3><p class="p1">UMW’s <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cpsc/">major in computer science</a> requires 46 credits, including courses in business administration, economics, and math, along with multiple core courses in computer science.</p>
+### Major Requirements
+UMW’s [major in computer science](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cpsc/) requires 46 credits, including courses in business administration, economics, and math, along with multiple core courses in computer science.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cpsc/">minor</a> builds strong programming and problem-solving skills, and is particularly useful when combined with a major in any of the sciences, mathematics, business, economics, linguistics, or geography.
+### Minor Requirements
+The [minor](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cpsc/) builds strong programming and problem-solving skills, and is particularly useful when combined with a major in any of the sciences, mathematics, business, economics, linguistics, or geography.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>Computer science majors can apply for several <a href="http://cas.umw.edu/computerscience/scholarships-and-awards/">scholarships and awards</a>.
+## Scholarships
+Computer science majors can apply for several [scholarships and awards](http://cas.umw.edu/computerscience/scholarships-and-awards/).
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/cpsc/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/cpsc/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/computerscience/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/computerscience/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

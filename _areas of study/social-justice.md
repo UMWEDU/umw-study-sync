@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/social-justice/
+  https://umwwebmaster.staging.wpengine.com/study/areas/social-justice/
 published: true
 post_date: 2015-12-17 20:34:46
 wpcf-value-proposition: "Are equality and fairness just an illusion? UMW's minor program in social justice attempts to bridge the gap between the ideal and the reality of our social situations. Explore injustices such as cultural imperialism, exploitation, human rights abuses, and physical violence. Study social movements and political philosophy. Become a well-informed citizen with the ability to look at social values and change from multiple perspectives."
@@ -51,37 +51,47 @@ Are equality and fairness just an illusion? UMW's minor program in social justic
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>Choose from courses in economics, history, philosophy, anthropology, sociology, geography, and other disciplines. Course titles include Anthropology of Gender; World Regional Geography; Social and Political Philosophy; Introduction to Women's and Gender Studies; Poverty, Influence, and Equality; Migration Politics in a Globalizing World; History of Sexuality in the U.S.; Racial and Ethnic Relations; and many more.
+## Areas of Study
+Choose from courses in economics, history, philosophy, anthropology, sociology, geography, and other disciplines. Course titles include Anthropology of Gender; World Regional Geography; Social and Political Philosophy; Introduction to Women's and Gender Studies; Poverty, Influence, and Equality; Migration Politics in a Globalizing World; History of Sexuality in the U.S.; Racial and Ethnic Relations; and many more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>UMW's Department of Sociology and Anthropology, which hosts the minor program in social justice, offers students real-world experience through a variety of available internships. Students in the sociology and anthropology programs have held recent internships at Micha Ecumenical Center, Thurman Brisben Homeless Shelter, disABILITY Resource Center, Empowerhouse, Stafford Junction, Refugee Resettlement Services of the Catholic Diocese, Lloyd F. Moss Free Clinic, Rappahannock Legal Services, and many more. Check out <a href="http://cas.umw.edu/sociologyanthropology/resources/internships-socg-or-anth-499/">the entire list</a>!
+## Internships
+UMW's Department of Sociology and Anthropology, which hosts the minor program in social justice, offers students real-world experience through a variety of available internships. Students in the sociology and anthropology programs have held recent internships at Micha Ecumenical Center, Thurman Brisben Homeless Shelter, disABILITY Resource Center, Empowerhouse, Stafford Junction, Refugee Resettlement Services of the Catholic Diocese, Lloyd F. Moss Free Clinic, Rappahannock Legal Services, and many more. Check out [the entire list](http://cas.umw.edu/sociologyanthropology/resources/internships-socg-or-anth-499/)!
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>Students with a cumulative GPA of at least 3.5 are eligible to pursue an Honors distinction in sociology. To proceed, students must have completed the appropriate prerequisites to pursue a research project, as well as either History of Social Theory or Contemporary Sociological Theories, and three credits of Individual Study and Research. Students then prepare a formal, written honors project proposal and, if accepted, submit and defend an honors thesis.
+## Honors
+Students with a cumulative GPA of at least 3.5 are eligible to pursue an Honors distinction in sociology. To proceed, students must have completed the appropriate prerequisites to pursue a research project, as well as either History of Social Theory or Contemporary Sociological Theories, and three credits of Individual Study and Research. Students then prepare a formal, written honors project proposal and, if accepted, submit and defend an honors thesis.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>Hosted by the Department of Sociology and Anthropology, UMW's minor program in social justice requires 18 credits, including Introduction to American Studies; four electives, three of which must be upper-level, drawn from at least three disciplines (including economics, history, philosophy, and more); and either Public Sociology (which includes training on participatory action research methods), an approved three-credit internship, or an approved three-credit course within a study abroad program.
+### Minor Requirements
+Hosted by the Department of Sociology and Anthropology, UMW's minor program in social justice requires 18 credits, including Introduction to American Studies; four electives, three of which must be upper-level, drawn from at least three disciplines (including economics, history, philosophy, and more); and either Public Sociology (which includes training on participatory action research methods), an approved three-credit internship, or an approved three-credit course within a study abroad program.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>UMW's Department of Sociology and Anthropology, which hosts the minor program in social justice, offers <a href="http://cas.umw.edu/sociologyanthropology/departmental-scholarships/">several scholarships</a>. For more information on scholarships offered at UMW, visit the <a href="/financialaid/types/">Office of Financial Aid</a>.
+## Scholarships
+UMW's Department of Sociology and Anthropology, which hosts the minor program in social justice, offers [several scholarships](http://cas.umw.edu/sociologyanthropology/departmental-scholarships/). For more information on scholarships offered at UMW, visit the [Office of Financial Aid](/financialaid/types/).
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/social-justice-minor/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/social-justice-minor/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/sociologyanthropology/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/sociologyanthropology/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

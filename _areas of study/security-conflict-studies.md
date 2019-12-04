@@ -39,25 +39,32 @@ The minor in security and conflict studies is designed to provide students with 
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>Coursework covers topics encompassing the historical (e.g., the origins of World War II) to the contemporary (cyberwarfare) and the conventional (threats to territorial integrity) to the cutting edge (disease as a security issue).
+## Areas of Study
+Coursework covers topics encompassing the historical (e.g., the origins of World War II) to the contemporary (cyberwarfare) and the conventional (threats to territorial integrity) to the cutting edge (disease as a security issue).
 <!-- End areas-of-study -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/security-and-conflict-studies-minor/">minor in security and conflict studies</a> requires eighteen credits.
+### Minor Requirements
+The [minor in security and conflict studies](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/security-and-conflict-studies-minor/) requires eighteen credits.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/security-and-conflict-studies-minor/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/security-and-conflict-studies-minor/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/polisci/requirements-for-minor-in-security-and-conflict-studies/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/polisci/requirements-for-minor-in-security-and-conflict-studies/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

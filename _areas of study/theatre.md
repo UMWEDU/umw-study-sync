@@ -5,7 +5,7 @@ author: Katherine Stosch
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/theatre/
+  https://umwwebmaster.staging.wpengine.com/study/areas/theatre/
 published: true
 post_date: 2015-07-28 19:29:26
 wpcf-home-page-feature: >
@@ -51,13 +51,11 @@ wpcf-video: https://vimeo.com/131317845
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg"><img src="http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg)](http://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
-<a href="https://vimeo.com/131317845"><img src="https://i.vimeocdn.com/video/523520715_960.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.vimeocdn.com/video/523520715_960.jpg)](https://vimeo.com/131317845)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -65,41 +63,52 @@ A major in theatre at the University of Mary Washington prepares you for the wor
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>UMW offers courses in acting, theatre design, technical production, dramatic literature, voice and body movement, dance, stage makeup, costume construction, stage management, arts administration, scene painting, fashion history, playwriting, musical theatre performance, directing, lighting design, and more.
+## Areas of Study
+UMW offers courses in acting, theatre design, technical production, dramatic literature, voice and body movement, dance, stage makeup, costume construction, stage management, arts administration, scene painting, fashion history, playwriting, musical theatre performance, directing, lighting design, and more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>UMW students have found internships and full-time work with such employers as the Virginia Ballet Company, Wolf Trap National Park for the Performing Arts, Rainmaker Studios, Impressions of Fredericksburg, and Ford's Theatre. Many theatre majors gain work experience right on campus, with part-time jobs in the UMW box office, management office, scene shop, costume shop, and electrics shop.
+## Internships
+UMW students have found internships and full-time work with such employers as the Virginia Ballet Company, Wolf Trap National Park for the Performing Arts, Rainmaker Studios, Impressions of Fredericksburg, and Ford's Theatre. Many theatre majors gain work experience right on campus, with part-time jobs in the UMW box office, management office, scene shop, costume shop, and electrics shop.
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>Learn about earning <a href="http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/">academic honors</a> for your major.
+## Honors
+Learn about earning [academic honors](http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/) for your major.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/thea/">theatre major</a> requires 41 credits including core courses and electives. All theatre majors must enroll in theatre practicum each semester except during the semester of the senior project. Eight practicum credits may count toward graduation.
+### Major Requirements
+The [theatre major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/thea/) requires 41 credits including core courses and electives. All theatre majors must enroll in theatre practicum each semester except during the semester of the senior project. Eight practicum credits may count toward graduation.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>Twenty-four credits are required for the <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/">musical theatre minor</a>.
+### Minor Requirements
+Twenty-four credits are required for the [musical theatre minor](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/).
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>The Department of Theatre &amp; Dance offers many awards to continuing students who are active in the production program. These merit-based scholarships vary in size and award criteria.
+## Scholarships
+The Department of Theatre & Dance offers many awards to continuing students who are active in the production program. These merit-based scholarships vary in size and award criteria.
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/the/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/the/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/theatre/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/theatre/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

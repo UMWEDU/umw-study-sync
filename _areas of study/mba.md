@@ -13,9 +13,11 @@ wpcf-department: http://business.umw.edu
 <!-- Types Custom Fields: -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- department -->
-<a href="http://business.umw.edu" class="button">Department Website</a>
+[Department Website](http://business.umw.edu)
+
 <!-- End department -->
 
 <!-- End resource-links -->

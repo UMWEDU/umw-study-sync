@@ -5,7 +5,7 @@ author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/geography/
+  https://umwwebmaster.staging.wpengine.com/study/areas/geography/
 published: true
 post_date: 2015-07-28 17:08:47
 wpcf-home-page-feature: >
@@ -53,13 +53,11 @@ wpcf-video: https://vimeo.com/129830476
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg"><img src="https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg)](https://umwwebmaster.staging.wpengine.com/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
-<a href="https://vimeo.com/129830476"><img src="https://i.vimeocdn.com/video/521463371_960.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.vimeocdn.com/video/521463371_960.jpg)](https://vimeo.com/129830476)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -67,42 +65,51 @@ As a University of Mary Washington geography major, you'll take classes in cultu
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>The <a href="http://cas.umw.edu/geography/courses/">geography major</a> has three areas of emphasis:
-<ul>
-<li>Globalization: A focus on the geographies of globalization and its political, cultural, and economic dimensions.</li>
-<li>Community, Development, and Culture: A focus on how people living in specific places and regions experience and affect social, cultural, economic, and environmental processes.</li>
-<li>Nature and Society: A focus on the climatologic, geomorphic, biogeographic, and social processes that shape the natural environment and affect human life.</li>
-</ul>
+## Areas of Study
+The [geography major](http://cas.umw.edu/geography/courses/) has three areas of emphasis:
+
+- Globalization: A focus on the geographies of globalization and its political, cultural, and economic dimensions.
+- Community, Development, and Culture: A focus on how people living in specific places and regions experience and affect social, cultural, economic, and environmental processes.
+- Nature and Society: A focus on the climatologic, geomorphic, biogeographic, and social processes that shape the natural environment and affect human life.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>University of Mary Washington’s proximity to Washington, D.C., gives students access to the greatest concentration of geography-related work sites in the United States. UMW students have held internships with federal agencies, local governments, private industry, and nonprofit organizations.
+## Internships
+University of Mary Washington’s proximity to Washington, D.C., gives students access to the greatest concentration of geography-related work sites in the United States. UMW students have held internships with federal agencies, local governments, private industry, and nonprofit organizations.
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>To graduate with departmental honors, you must be a declared geography major by the beginning of your senior year. You must have a grade-point average of 3.5 in major courses and a 3.0 grade point average overall at the beginning of the second semester of your senior year. In consultation with an advisor, you'll propose, research, and write a thesis. You'll defend it before a committee, which determines whether it merits departmental honors.
+## Honors
+To graduate with departmental honors, you must be a declared geography major by the beginning of your senior year. You must have a grade-point average of 3.5 in major courses and a 3.0 grade point average overall at the beginning of the second semester of your senior year. In consultation with an advisor, you'll propose, research, and write a thesis. You'll defend it before a committee, which determines whether it merits departmental honors.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>At least <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/geog/">35 credits</a> including required introductory and intermediate classes; methods; and upper-level electives. Study abroad may fulfill some requirements.
+### Major Requirements
+At least [35 credits](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/geog/) including required introductory and intermediate classes; methods; and upper-level electives. Study abroad may fulfill some requirements.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>The Geography Alumni Scholarship is granted to a rising junior or senior geography major who demonstrates excellence and a commitment to the discipline.
+## Scholarships
+The Geography Alumni Scholarship is granted to a rising junior or senior geography major who demonstrates excellence and a commitment to the discipline.
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geog/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geog/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/geography/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/geography/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: areas
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/study/areas/latin-american-studies/
+  https://umwwebmaster.staging.wpengine.com/study/areas/latin-american-studies/
 published: true
 post_date: 2015-12-11 15:45:27
 wpcf-value-proposition: "Complex and colorful, Latin America - and its more than 20 nations - is one of the world's most culturally diverse areas. UMW's interdisciplinary Latin American studies minor explores the history, geography, politics, languages, and traditions of Mexico, Central and South America, and the Caribbean, as well as Latinas and Latinos in the U.S. From the temple-topped ziggurats to spicy salsa music, the program fosters understanding of and engagement with a complicated group of cultures long connected to the United States through migration, trade, and more."
@@ -37,29 +37,36 @@ Complex and colorful, Latin America - and its more than 20 nations - is one of t
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>UMW's interdisciplinary Latin American studies minor draws from anthropology, geography, history, political science, and Spanish with the goal of providing several approaches to the study of this complex region. Course titles include Culture and Literature of the Caribbean, Latin American Politics, Amazonian Societies, and many more.
+## Areas of Study
+UMW's interdisciplinary Latin American studies minor draws from anthropology, geography, history, political science, and Spanish with the goal of providing several approaches to the study of this complex region. Course titles include Culture and Literature of the Caribbean, Latin American Politics, Amazonian Societies, and many more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>Internships are available in the Fredericksburg area at such organizations as Rappahannock Area Regional Adult Education, Bragg Hill Family Life Center, LUCHA Ministries, and Students Helping Honduras. Entities offering internships in the Washington, D.C., area include the Smithsonian and the Library of Congress Hispanic Division. A complete list of internships available through the University of Mary Washington can be found through the <a href="http://academics.umw.edu/academicandcareerservices/links-to-internship-opportunities/">Office of Academic and Career Services</a>.
+## Internships
+Internships are available in the Fredericksburg area at such organizations as Rappahannock Area Regional Adult Education, Bragg Hill Family Life Center, LUCHA Ministries, and Students Helping Honduras. Entities offering internships in the Washington, D.C., area include the Smithsonian and the Library of Congress Hispanic Division. A complete list of internships available through the University of Mary Washington can be found through the [Office of Academic and Career Services](http://academics.umw.edu/academicandcareerservices/links-to-internship-opportunities/).
 <!-- End internships -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>UMW's Latin American studies minor requires 18 credits, including an upper-level history course in either Colonial Latin America or Modern Latin America, plus an upper-level Spanish course, and 12 elective credits in at least two disciplines, including anthropology, geography, and political science.
+### Minor Requirements
+UMW's Latin American studies minor requires 18 credits, including an upper-level history course in either Colonial Latin America or Modern Latin America, plus an upper-level Spanish course, and 12 elective credits in at least two disciplines, including anthropology, geography, and political science.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2><a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">The Office of Financial Aid</a> the the University of Mary Washington coordinates more than 300 different scholarship and grant programs that include general scholarships and scholarships for specific majors.
+## Scholarships
+[The Office of Financial Aid](http://adminfinance.umw.edu/financialaid/scholarship-information/) the the University of Mary Washington coordinates more than 300 different scholarship and grant programs that include general scholarships and scholarships for specific majors.
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- department -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/latin-american-studies-minor/" class="button">Department Website</a>
+[Department Website](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/latin-american-studies-minor/)
+
 <!-- End department -->
 
 <!-- End resource-links -->
