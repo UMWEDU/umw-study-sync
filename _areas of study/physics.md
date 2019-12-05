@@ -4,7 +4,7 @@ post_title: Physics
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /areas/physics.md
+permalink: /study/areas/physics/index.html
 published: true
 post_date: 2015-08-11 20:13:07
 wpcf-value-proposition: "Why don’t riders fall off the roller coaster? When you look in a window, why do you see what's inside as well as your own reflection? How is music recorded and transmitted? Physics answers these questions and many more. As a UMW physics major, you'll satisfy your curiosity about the physical universe, then analyze and describe your discoveries. You'll leave career-ready, prepared for advanced study, and poised to make an immediate contribution to your field."

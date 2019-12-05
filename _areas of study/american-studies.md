@@ -4,7 +4,7 @@ post_title: American Studies
 author: ntrenis
 post_excerpt: ""
 layout: areas
-permalink: /areas/american-studies.md
+permalink: /study/areas/american-studies/index.html
 published: true
 post_date: 2015-07-28 13:43:19
 wpcf-value-proposition: |

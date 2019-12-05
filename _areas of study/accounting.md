@@ -4,7 +4,7 @@ post_title: Accounting
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /areas/accounting.md
+permalink: /study/areas/accounting/index.html
 published: true
 post_date: 2015-07-28 18:22:18
 wpcf-value-proposition: "Accounting majors at University of Mary Washington know their business and find jobs keeping track of it. A recent <em>U.S. News and World Report</em> article put this lucrative profession in the top 20 top-paying jobs. If you're into spreadsheets, accounts receivable, and audits, check out our bachelor’s degree."

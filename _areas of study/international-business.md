@@ -4,7 +4,8 @@ post_title: International Business
 author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
-permalink: /areas/international-business.md
+permalink: >
+  /study/areas/international-business/index.html
 published: true
 post_date: 2018-12-04 22:26:56
 wpcf-value-proposition: >

@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
 permalink: >
-  /areas/financial-and-quantitative-analysis.md
+  /study/areas/financial-and-quantitative-analysis/index.html
 published: true
 post_date: 2018-12-04 22:23:26
 wpcf-value-proposition: >

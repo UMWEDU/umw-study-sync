@@ -4,7 +4,7 @@ post_title: Religious Studies
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /areas/religion.md
+permalink: /study/areas/religion/index.html
 published: true
 post_date: 2015-07-28 17:43:42
 wpcf-value-proposition: >

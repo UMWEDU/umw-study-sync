@@ -4,7 +4,7 @@ post_title: Testing
 author: Curtiss Grymala
 post_excerpt: ""
 layout: page
-permalink: /testing.md
+permalink: /study/testing/index.html
 published: true
 post_date: 2015-07-24 15:54:13
 ---

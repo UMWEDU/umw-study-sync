@@ -4,7 +4,7 @@ post_title: Asian Studies
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /areas/asian-studies.md
+permalink: /study/areas/asian-studies/index.html
 published: true
 post_date: 2015-08-04 17:55:59
 wpcf-value-proposition: >

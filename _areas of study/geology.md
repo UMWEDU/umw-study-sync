@@ -4,7 +4,7 @@ post_title: Geology
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: /areas/geology.md
+permalink: /study/areas/geology/index.html
 published: true
 post_date: 2015-07-28 17:34:34
 wpcf-home-page-feature: >

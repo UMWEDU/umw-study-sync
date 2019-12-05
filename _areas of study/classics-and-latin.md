@@ -4,7 +4,8 @@ post_title: Classics
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: /areas/classics-and-latin.md
+permalink: >
+  /study/areas/classics-and-latin/index.html
 published: true
 post_date: 2015-08-06 15:51:04
 wpcf-value-proposition: "The ideas and principles of ancient Greece and Rome resonate throughout modern Western culture. Study the languages, literatures, and civilizations of the ancients, and you'll gain a deeper understanding of today's liberal arts and sciences. At UMW, you can major in Latin or in classics with a concentration in classical civilization or classical archaeology."

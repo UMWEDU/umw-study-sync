@@ -4,7 +4,7 @@ post_title: French
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: /areas/french.md
+permalink: /study/areas/french/index.html
 published: true
 post_date: 2015-07-28 16:37:37
 wpcf-home-page-feature: >

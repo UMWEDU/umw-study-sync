@@ -4,7 +4,7 @@ post_title: Areas of Study A to Z
 author: Curtiss Grymala
 post_excerpt: ""
 layout: page
-permalink: /areas-of-study-a-to-z.md
+permalink: /study/areas-of-study-a-to-z/index.html
 published: true
 post_date: 2015-07-29 19:57:20
 ---

@@ -4,7 +4,7 @@ post_title: Climate Science
 author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
-permalink: /areas/climate-science.md
+permalink: /study/areas/climate-science/index.html
 published: true
 post_date: 2018-12-04 21:37:49
 wpcf-value-proposition: >

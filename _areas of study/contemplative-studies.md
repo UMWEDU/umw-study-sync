@@ -4,7 +4,8 @@ post_title: Contemplative Studies
 author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
-permalink: /areas/contemplative-studies.md
+permalink: >
+  /study/areas/contemplative-studies/index.html
 published: true
 post_date: 2018-12-04 21:53:42
 wpcf-value-proposition: >

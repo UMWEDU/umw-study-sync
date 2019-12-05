@@ -4,7 +4,8 @@ post_title: Women’s and Gender Studies
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /areas/womens-and-gender-studies.md
+permalink: >
+  /study/areas/womens-and-gender-studies/index.html
 published: true
 post_date: 2015-07-28 15:44:06
 wpcf-value-proposition: >

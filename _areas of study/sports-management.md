@@ -4,7 +4,8 @@ post_title: Sports Management
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /areas/sports-management.md
+permalink: >
+  /study/areas/sports-management/index.html
 published: true
 post_date: 2015-12-11 17:01:24
 wpcf-value-proposition: "In North America alone, the sports industry weighs in at more then $60 billion, according to Pricewaterhouse Coopers. If you love all things athletic, why not get in on the action? UMW's interdisciplinary minor program in sports management is designed for students from all majors who want to understand management as it impacts sports. You'll discover the challenges and opportunities of the sports industry; explore basic principles of management, marketing, law, finance, and ethics in sports; and have a ball while you're doing it!"

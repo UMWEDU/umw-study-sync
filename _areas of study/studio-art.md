@@ -4,7 +4,7 @@ post_title: Studio Art
 author: ntrenis
 post_excerpt: ""
 layout: areas
-permalink: /areas/studio-art.md
+permalink: /study/areas/studio-art/index.html
 published: true
 post_date: 2015-07-28 17:49:37
 wpcf-home-page-feature: >

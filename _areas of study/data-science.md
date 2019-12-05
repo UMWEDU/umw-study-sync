@@ -4,7 +4,7 @@ post_title: Data Science
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /areas/data-science.md
+permalink: /study/areas/data-science/index.html
 published: true
 post_date: 2015-11-12 19:33:58
 wpcf-value-proposition: >

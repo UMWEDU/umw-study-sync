@@ -4,7 +4,7 @@ post_title: Chemistry
 author: ntrenis
 post_excerpt: ""
 layout: areas
-permalink: /areas/chemistry.md
+permalink: /study/areas/chemistry/index.html
 published: true
 post_date: 2015-07-28 18:06:57
 wpcf-home-page-feature: >

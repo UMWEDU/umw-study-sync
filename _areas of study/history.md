@@ -4,7 +4,7 @@ post_title: History
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: /areas/history.md
+permalink: /study/areas/history/index.html
 published: true
 post_date: 2015-07-28 18:31:20
 wpcf-home-page-feature: >

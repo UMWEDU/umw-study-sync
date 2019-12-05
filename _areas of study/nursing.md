@@ -4,7 +4,7 @@ post_title: Nursing (BSN)
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /admissions/adult/bsn.md
+permalink: /admissions/adult/bsn/index.html
 published: true
 post_date: 2015-08-12 13:21:11
 wpcf-home-page-feature: >

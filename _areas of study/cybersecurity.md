@@ -4,7 +4,7 @@ post_title: Cybersecurity
 author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
-permalink: /areas/cybersecurity.md
+permalink: /study/areas/cybersecurity/index.html
 published: true
 post_date: 2018-12-04 22:16:18
 wpcf-value-proposition: >

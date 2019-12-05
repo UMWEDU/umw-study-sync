@@ -4,7 +4,7 @@ post_title: German
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: /areas/german.md
+permalink: /study/areas/german/index.html
 published: true
 post_date: 2015-07-28 17:53:04
 wpcf-home-page-feature: >

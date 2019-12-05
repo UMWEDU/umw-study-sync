@@ -4,7 +4,7 @@ post_title: Museum Studies
 author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
-permalink: /areas/museum-studies.md
+permalink: /study/areas/museum-studies/index.html
 published: true
 post_date: 2018-12-04 22:32:51
 wpcf-value-proposition: >

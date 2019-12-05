@@ -4,7 +4,8 @@ post_title: Environmental Geology
 author: Emily
 post_excerpt: ""
 layout: areas
-permalink: /areas/environmental-geology.md
+permalink: >
+  /study/areas/environmental-geology/index.html
 published: true
 post_date: 2015-12-02 18:41:07
 wpcf-value-proposition: "Driven to understand - and protect - the planet we live on? UMW's bachelor's program in environmental geology arms you with the knowledge and principles you need to understand Earth's evolution and processes. Discover how these fundamentals relate to human interaction with the landscape. Examine such topics as hydrogeology, soil and water chemistry, and geomorphology. Discover ways to curb the hazards that threaten our planet."

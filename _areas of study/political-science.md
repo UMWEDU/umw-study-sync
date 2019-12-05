@@ -4,7 +4,8 @@ post_title: Political Science
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /areas/political-science.md
+permalink: >
+  /study/areas/political-science/index.html
 published: true
 post_date: 2015-07-28 18:33:28
 wpcf-home-page-feature: >

@@ -4,7 +4,8 @@ post_title: Latin
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /study/areas/classics-and-latin.md
+permalink: >
+  /study/areas/classics-and-latin/index.html
 published: true
 post_date: 2015-08-06 16:08:21
 wpcf-department: >

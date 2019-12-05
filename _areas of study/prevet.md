@@ -4,7 +4,7 @@ post_title: Pre-Veterinary
 author: Emily
 post_excerpt: ""
 layout: areas
-permalink: /areas/prevet.md
+permalink: /study/areas/prevet/index.html
 published: true
 post_date: 2016-06-22 19:42:16
 wpcf-value-proposition: >
