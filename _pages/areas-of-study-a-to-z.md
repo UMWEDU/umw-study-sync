@@ -4,34 +4,8 @@ post_title: Areas of Study A to Z
 author: Curtiss Grymala
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.umw.edu/study/areas-of-study-a-to-z/
+permalink: /areas-of-study-a-to-z.md
 published: true
 post_date: 2015-07-29 19:57:20
 ---
 [atoz post_type="areas" alpha_links=0 view=106 return_link=0]
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- Types Custom Fields: -->
-
-<!-- End Types Custom Fields -->
-<!-- Types Custom Fields: -->
-
-<!-- resource-links -->
-<h2>Resource Links</h2>
-<!-- End resource-links -->
-
-<!-- End Types Custom Fields -->
-<!-- Types Custom Fields: -->
-
-<!-- resource-links -->
-<h2>Resource Links</h2>
-<!-- End resource-links -->
-
-<!-- End Types Custom Fields -->
