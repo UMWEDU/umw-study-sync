@@ -4,8 +4,7 @@ post_title: Museum Studies
 author: Mike Breitenbach
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://www.umw.edu/study/areas/museum-studies/
+permalink: /areas/museum-studies.md
 published: true
 post_date: 2018-12-04 22:32:51
 wpcf-value-proposition: >
@@ -69,6 +68,11 @@ wpcf-testimonial: |
 wpcf-department: https://cas.umw.edu/museumstudies/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/museum-studies/
+terms:
+  department:
+    - cpr
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->
@@ -78,43 +82,50 @@ A minor in museum studies gives you the hands-on practice and theory necessary t
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>Combining theory with practice, the curriculum incorporates classroom study and directed research with practical experiences in the form of field trips, group projects, and internships. The minor incorporates the disciplines of American studies, anthropology, art and art history, classics, historic preservation, and history, from which students may select their own concentration preference. The minor is open to students from any discipline in the arts and sciences, education, or business colleges at UMW.
+## Areas of Study
+Combining theory with practice, the curriculum incorporates classroom study and directed research with practical experiences in the form of field trips, group projects, and internships. The minor incorporates the disciplines of American studies, anthropology, art and art history, classics, historic preservation, and history, from which students may select their own concentration preference. The minor is open to students from any discipline in the arts and sciences, education, or business colleges at UMW.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>Museum studies students have the opportunity to collaborate with UMW alumni working in museums all over the United States. UMW interns have worked in such institutions as the Smithsonian National Museum of African American History and Culture, the National Museum of the Marine Corps, and the U. S. Holocaust Memorial Museum. UMW’s three museums also support this minor with internship opportunities.
+## Internships
+Museum studies students have the opportunity to collaborate with UMW alumni working in museums all over the United States. UMW interns have worked in such institutions as the Smithsonian National Museum of African American History and Culture, the National Museum of the Marine Corps, and the U. S. Holocaust Memorial Museum. UMW’s three museums also support this minor with internship opportunities.
 <!-- End internships -->
 
 <!-- testimonial -->
-<blockquote class="program-testimonial">
-  Michelle King ’14 completed an internship at the Archives Branch of the U. S. Holocaust Memorial Museum; Rebecca Erbelding ’03, archivist, was her contact and mentor.
+> Michelle King ’14 completed an internship at the Archives Branch of the U. S. Holocaust Memorial Museum; Rebecca Erbelding ’03, archivist, was her contact and mentor.
 
 “My main responsibilities as a collections intern included handling artifacts, cataloging and organizing collections, scanning documents for future scholarly use, and attending meetings with donors. I applied my skills within two larger projects at the museum. The first was the making of a <a href="http://www.youtube.com/watch?v=6iIHqGjpzYg">video clip</a> on a letter donated to the museum by Charlotte Delbo, a French writer and member of the French resistance, who wrote this letter during her imprisonment at Auschwitz. The second project pertained to the processing of a large family collection of documents and artifacts, which I sorted, organized, scanned, cataloged, and created a finding aid for. I was assigned to do this work alone and accomplishing it gave me confidence in my abilities.
 
 I could not ask for more out of a summer-long internship. In addition to learning more about the history of the Holocaust and World War II, I gained a better understanding of the museum professions and the museum world in general. My internship coordinators and the museum staff encouraged me to ask questions and learn as much as I could. This internship confirmed that by declaring my minor in Museum Studies, I have chosen the perfect career path for me.”
-</blockquote>
 <!-- End testimonial -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>The museum studies minor requires 18 credits. You must take two basic museum studies courses (6 credits) and complete an internship (3 credits) through one of the following departments: American studies, anthropology, art history, classics, historic preservation, or history. You will complete three elective courses (9 credits) from among the same departments, including such classes as the anthropology of art, archives and society, digital history, and introduction to conservation. Approved special topics courses may count as electives.
+### Minor Requirements
+The museum studies minor requires 18 credits. You must take two basic museum studies courses (6 credits) and complete an internship (3 credits) through one of the following departments: American studies, anthropology, art history, classics, historic preservation, or history. You will complete three elective courses (9 credits) from among the same departments, including such classes as the anthropology of art, archives and society, digital history, and introduction to conservation. Approved special topics courses may count as electives.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>While there are no UMW scholarships specifically for the museum studies minor, there are scholarships that may be available to museum studies minors. <a href="https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=886">Search scholarships</a>.
+## Scholarships
+While there are no UMW scholarships specifically for the museum studies minor, there are scholarships that may be available to museum studies minors. [Search scholarships](https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=886).
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/museum-studies/" class="button">Course Listing</a>
+[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/museum-studies/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="https://cas.umw.edu/museumstudies/" class="button">Department Website</a>
+[Department Website](https://cas.umw.edu/museumstudies/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

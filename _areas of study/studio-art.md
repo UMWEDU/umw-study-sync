@@ -4,8 +4,7 @@ post_title: Studio Art
 author: ntrenis
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://www.umw.edu/study/areas/studio-art/
+permalink: /areas/studio-art.md
 published: true
 post_date: 2015-07-28 17:49:37
 wpcf-home-page-feature: >
@@ -31,16 +30,19 @@ wpcf-department: http://cas.umw.edu/art/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arts/
 wpcf-video: https://vimeo.com/117056521
+terms:
+  department:
+    - art
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Art-show-5e.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Art-show-5e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Art-show-5e.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Art-show-5e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
-<a href="https://vimeo.com/117056521"><img src="https://i.vimeocdn.com/video/503624386_960.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.vimeocdn.com/video/503624386_960.jpg)](https://vimeo.com/117056521)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -48,37 +50,47 @@ Channel your talents and passion through the University of Mary Washington's maj
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>UMW's bachelor's program in studio art will challenge you with courses in drawing, ceramics, sculpture, photography, painting, and other media. You'll learn color theory, professional practices, and more.
+## Areas of Study
+UMW's bachelor's program in studio art will challenge you with courses in drawing, ceramics, sculpture, photography, painting, and other media. You'll learn color theory, professional practices, and more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>A rich arts community in Fredericksburg and surrounding areas, including Richmond and Washington, D.C., offers many internship opportunities. UMW students have gained work experience at  LibertyTown Arts Workshop, Sophia Street Studios, the Visual Arts Center, and the Virginia Museum of Fine Arts, and at galleries and museums in Washington.
+## Internships
+A rich arts community in Fredericksburg and surrounding areas, including Richmond and Washington, D.C., offers many internship opportunities. UMW students have gained work experience at LibertyTown Arts Workshop, Sophia Street Studios, the Visual Arts Center, and the Virginia Museum of Fine Arts, and at galleries and museums in Washington.
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>To qualify for honors in studio art, you must have a 3.5 grade-point average in the major and a 3.25 average overall. You'll participate in all phases of a senior exhibition (including  planning and selecting work, installation, advertising, reception, and de-installation) and in a studio art faculty group critique.
+## Honors
+To qualify for honors in studio art, you must have a 3.5 grade-point average in the major and a 3.25 average overall. You'll participate in all phases of a senior exhibition (including planning and selecting work, installation, advertising, reception, and de-installation) and in a studio art faculty group critique.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/arts/">studio art major</a> requires 39 credits, including 12 in required courses, 21 in a chosen area of studio art, and nine in art history. Studio art majors also are required to participate in a major assessment before their senior year, and a senior assessment involving either an exhibition or an exit portfolio.
+### Major Requirements
+The [studio art major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/arts/) requires 39 credits, including 12 in required courses, 21 in a chosen area of studio art, and nine in art history. Studio art majors also are required to participate in a major assessment before their senior year, and a senior assessment involving either an exhibition or an exit portfolio.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>The Department of Art and Art history hosts a number of competitive <a href="http://cas.umw.edu/art/scholarship-descriptions/">scholarships</a> in studio art. Studio art majors wishing to be considered for scholarships must demonstrate outstanding work in studio coursework. Recipients will file an artist statement and images with the scholarship coordinator.
+## Scholarships
+The Department of Art and Art history hosts a number of competitive [scholarships](http://cas.umw.edu/art/scholarship-descriptions/) in studio art. Studio art majors wishing to be considered for scholarships must demonstrate outstanding work in studio coursework. Recipients will file an artist statement and images with the scholarship coordinator.
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arts/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arts/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/art/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/art/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

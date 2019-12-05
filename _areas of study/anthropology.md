@@ -4,8 +4,7 @@ post_title: Anthropology
 author: ntrenis
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://www.umw.edu/study/areas/anthropology/
+permalink: /areas/anthropology.md
 published: true
 post_date: 2015-07-28 19:09:18
 wpcf-home-page-feature: >
@@ -29,7 +28,7 @@ wpcf-internships: >
   U.S. Census Bureau, and more.
 wpcf-honors: |
   Departmental honors in anthropology is centered largely on an honors thesis written under the supervision of a committee chaired by the anthropology faculty member with the greatest expertise in the student's area of interest. During the candidate’s research, she or he must persuade the committee that the project is worthwhile, moving forward, and deserving of departmental honors.
-
+  
   A successful honors thesis presents an original, informed, persuasive argument based on extensive, sound, imaginative scholarship; broad knowledge of the topic and understanding of the theoretical framework within which the candidate discusses the topic; and competent writing. An honors candidate should expect to work mostly independently, with minimal guidance from the advisor(s). Ideally, a successful honors project should be publishable in a minor anthropological journal.
 wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/anth/">anthropology major</a> requires 30 credit hours, including Introduction to Cultural Anthropology, Ethnography, Theories of Culture, Senior Research, and Senior Seminar, plus 15 credit hours of electives in anthropology, including at least one course that includes a significant field-research component.'
 wpcf-scholarships: |
@@ -48,69 +47,76 @@ wpcf-department: >
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/anth/
 wpcf-video: https://vimeo.com/129708066
+terms:
+  department:
+    - sa
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
-<a href="https://vimeo.com/129708066"><img src="https://i.vimeocdn.com/video/521295654_960.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.vimeocdn.com/video/521295654_960.jpg)](https://vimeo.com/129708066)
 <!-- End video -->
 
 <!-- value-proposition -->
-What do West African farmers and Wall Street investors have in common? Our bachelor's program in anthropology takes you around the globe and throughout history to learn what it means to be human. Explore morality, religion, and more and take advantage of our summer course in Guyana and opportunities for student research in places like Madagascar, Haiti, and Egypt.
+What do West African farmers and Wall Street investors have in common? Our bachelor's program in anthropology takes you around the globe and throughout history to learn what it means to be human. Explore morality, religion, and more and take advantage of our summer course in Guyana and opportunities for student research in places like Madagascar, Haiti, and Egypt.
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>On your journey through UMW's Anthropology program, you'll take courses such as Introduction to Cultural and Social Anthropology, Ethnography, Arguments in Anthropology, Anthropology of Art, and Theories of Culture.
+## Areas of Study
+On your journey through UMW's Anthropology program, you'll take courses such as Introduction to Cultural and Social Anthropology, Ethnography, Arguments in Anthropology, Anthropology of Art, and Theories of Culture.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>Internship opportunities abound for UMW Anthropology majors. Snag a spot at the Micah Ecumenical Shelter, Thurman Brisben Homeless Shelter, or disAbility Resource Center. Or you could gather valuable professional experience at places like Empowerhouse, Refugee Resettlement Services, the Lloyd F. Moss Free Clinic, Rappahannock Legal Services, the Virginia Department of Juvenile Justice, Rappahannock Regional Jail, the Human Rights Campaign, the U.S. Census Bureau, and more.
+## Internships
+Internship opportunities abound for UMW Anthropology majors. Snag a spot at the Micah Ecumenical Shelter, Thurman Brisben Homeless Shelter, or disAbility Resource Center. Or you could gather valuable professional experience at places like Empowerhouse, Refugee Resettlement Services, the Lloyd F. Moss Free Clinic, Rappahannock Legal Services, the Virginia Department of Juvenile Justice, Rappahannock Regional Jail, the Human Rights Campaign, the U.S. Census Bureau, and more.
 <!-- End internships -->
 
 <!-- testimonial -->
-<blockquote class="program-testimonial">
-  <div class="quote">I’m finding my anthropology education to be quite helpful in this particular environment. Working in human services has me surrounded by people from many disciplines trying to solve the cultural problems of inequality in a very specific community, and I find I can bring a unique angle to the equation with my 'anthro brain.'</div>
+> <div class="quote">I’m finding my anthropology education to be quite helpful in this particular environment. Working in human services has me surrounded by people from many disciplines trying to solve the cultural problems of inequality in a very specific community, and I find I can bring a unique angle to the equation with my 'anthro brain.'</div>
 <div class="quoted">- Rachael Sheaffer ’13, Americorps Volunteer in Raleigh, NC</div>
-</blockquote>
 <!-- End testimonial -->
 
 <!-- honors -->
-<h2>Honors</h2>Departmental honors in anthropology is centered largely on an honors thesis written under the supervision of a committee chaired by the anthropology faculty member with the greatest expertise in the student's area of interest. During the candidate’s research, she or he must persuade the committee that the project is worthwhile, moving forward, and deserving of departmental honors.
-
-A successful honors thesis presents an original, informed, persuasive argument based on extensive, sound, imaginative scholarship; broad knowledge of the topic and understanding of the theoretical framework within which the candidate discusses the topic; and competent writing. An honors candidate should expect to work mostly independently, with minimal guidance from the advisor(s). Ideally, a successful honors project should be publishable in a minor anthropological journal.
+## Honors
+Departmental honors in anthropology is centered largely on an honors thesis written under the supervision of a committee chaired by the anthropology faculty member with the greatest expertise in the student's area of interest. During the candidate’s research, she or he must persuade the committee that the project is worthwhile, moving forward, and deserving of departmental honors. A successful honors thesis presents an original, informed, persuasive argument based on extensive, sound, imaginative scholarship; broad knowledge of the topic and understanding of the theoretical framework within which the candidate discusses the topic; and competent writing. An honors candidate should expect to work mostly independently, with minimal guidance from the advisor(s). Ideally, a successful honors project should be publishable in a minor anthropological journal.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/anth/">anthropology major</a> requires 30 credit hours, including Introduction to Cultural Anthropology, Ethnography, Theories of Culture, Senior Research, and Senior Seminar, plus 15 credit hours of electives in anthropology, including at least one course that includes a significant field-research component.
+### Major Requirements
+The [anthropology major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/anth/) requires 30 credit hours, including Introduction to Cultural Anthropology, Ethnography, Theories of Culture, Senior Research, and Senior Seminar, plus 15 credit hours of electives in anthropology, including at least one course that includes a significant field-research component.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2><ul>
-<li>The Bill Hanson Memorial Scholarship</li>
-<li>Clyde and Virginia Carter Memorial Scholarship</li>
-<li>Amanda Elizabeth Dress '95 Scholarship in Sociology</li>
-<li>Cora Lee Kaufmann Scholarship in Sociology and Anthropology</li>
-<li>Jarrett and Hazel Small Wilkins Scholarship in Social Sciences</li>
-</ul>
+## Scholarships
+- The Bill Hanson Memorial Scholarship
+- Clyde and Virginia Carter Memorial Scholarship
+- Amanda Elizabeth Dress '95 Scholarship in Sociology
+- Cora Lee Kaufmann Scholarship in Sociology and Anthropology
+- Jarrett and Hazel Small Wilkins Scholarship in Social Sciences
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/anth/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/anth/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/sociologyanthropology/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/sociologyanthropology/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

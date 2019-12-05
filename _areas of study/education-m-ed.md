@@ -4,11 +4,15 @@ post_title: Education
 author: Shelley Keith
 post_excerpt: ""
 layout: areas
-permalink: http://education.umw.edu/
+permalink: education.umw.edu.md
 published: true
 post_date: 2015-08-07 23:16:45
 wpcf-value-proposition: "While UMW doesn't offer a bachelor's degree specifically in education, the University's College of Education does offer, as electives towards a bachelor's degree in another declared major, courses that will prepare you to meet the requirements for teacher licensure."
 wpcf-department: http://education.umw.edu
+terms:
+  department:
+    - coe
+  key: [ ]
 ---
 
 <!-- Types Custom Fields: -->
@@ -18,9 +22,11 @@ While UMW doesn't offer a bachelor's degree specifically in education, the Unive
 <!-- End value-proposition -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- department -->
-<a href="http://education.umw.edu" class="button">Department Website</a>
+[Department Website](http://education.umw.edu)
+
 <!-- End department -->
 
 <!-- End resource-links -->

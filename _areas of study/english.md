@@ -4,7 +4,7 @@ post_title: English
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/english/
+permalink: /areas/english.md
 published: true
 post_date: 2015-07-28 14:35:20
 wpcf-home-page-feature: >
@@ -22,16 +22,19 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/engl/
 wpcf-video: >
   https://www.youtube.com/watch?v=HKRqIgvQgRs
+terms:
+  department:
+    - elc
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
-<a href="https://www.youtube.com/watch?v=HKRqIgvQgRs"><img src="https://i.ytimg.com/vi/HKRqIgvQgRs/hqdefault.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.ytimg.com/vi/HKRqIgvQgRs/hqdefault.jpg)](https://www.youtube.com/watch?v=HKRqIgvQgRs)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -39,37 +42,47 @@ As a University of Mary Washington English major, you'll investigate the great b
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>At UMW, you'll find relevant course offerings in ancient to modern literatures, literary theory, memoir, poetry, creative writing, journalism, magazine writing, digital storytelling, and more.
+## Areas of Study
+At UMW, you'll find relevant course offerings in ancient to modern literatures, literary theory, memoir, poetry, creative writing, journalism, magazine writing, digital storytelling, and more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>Students may complete for-credit <a href="http://cas.umw.edu/elc/careers/career-preparation/making-yourself-employable/internships/">internships</a> to gain knowledge and job experience. Many students study abroad to increase cultural awareness, broaden their perspectives, and develop skills for an increasingly international employment marketplace.
+## Internships
+Students may complete for-credit [internships](http://cas.umw.edu/elc/careers/career-preparation/making-yourself-employable/internships/) to gain knowledge and job experience. Many students study abroad to increase cultural awareness, broaden their perspectives, and develop skills for an increasingly international employment marketplace.
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>To earn <a href="http://cas.umw.edu/elc/elc-programs-and-related-information/honors/">honors in English</a>, you must have a 3.7 GPA in the major and earn an A on an honors project approved by your advisor.
+## Honors
+To earn [honors in English](http://cas.umw.edu/elc/elc-programs-and-related-information/honors/), you must have a 3.7 GPA in the major and earn an A on an honors project approved by your advisor.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/engl/">major</a> requires 36 credits in English, Linguistics, and Communication including introductory and upper-level linguistics, literature, and writing courses; one 400-level seminar; and electives including internships or individual projects. You may also major in English with a concentration in <a href="http://cas.umw.edu/elc/english-at-umw/requirements-for-the-english-major/">literary studies or creative writing</a>.
+### Major Requirements
+The [major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/engl/) requires 36 credits in English, Linguistics, and Communication including introductory and upper-level linguistics, literature, and writing courses; one 400-level seminar; and electives including internships or individual projects. You may also major in English with a concentration in [literary studies or creative writing](http://cas.umw.edu/elc/english-at-umw/requirements-for-the-english-major/).
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>The English, Linguistics, and Communication department offers numerous <a href="http://cas.umw.edu/elc/scholarships-and-prizes/">scholarships and awards</a>.
+## Scholarships
+The English, Linguistics, and Communication department offers numerous [scholarships and awards](http://cas.umw.edu/elc/scholarships-and-prizes/).
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/engl/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/engl/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/elc/english-at-umw/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/elc/english-at-umw/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

@@ -4,7 +4,7 @@ post_title: Music
 author: Laura Moyer
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/music/
+permalink: /areas/music.md
 published: true
 post_date: 2015-07-28 14:05:54
 wpcf-home-page-feature: >
@@ -43,12 +43,16 @@ wpcf-scholarships: 'The Department of Music offers many <a href="http://cas.umw.
 wpcf-department: http://cas.umw.edu/music/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/musc/
+terms:
+  department:
+    - music
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg)
 <!-- End home-page-feature -->
 
 <!-- value-proposition -->
@@ -56,37 +60,47 @@ Music majors at UMW have shared the stage with greats like Itzhak Perlman and Si
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>Music majors get a broad background through courses in a performance area, music theory, and music history. All music graduates earn a bachelor’s degree in music, and some choose to add education courses for teacher certification. To specialize, students need to plan and schedule courses carefully to include elective courses, independent study, and internships.
+## Areas of Study
+Music majors get a broad background through courses in a performance area, music theory, and music history. All music graduates earn a bachelor’s degree in music, and some choose to add education courses for teacher certification. To specialize, students need to plan and schedule courses carefully to include elective courses, independent study, and internships.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>Music majors have the opportunity to complete internships under faculty supervision in music performance and music education.
+## Internships
+Music majors have the opportunity to complete internships under faculty supervision in music performance and music education.
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>Learn more about how to <a href="http://publications.umw.edu/undergraduatecatalog/colleges/cas/honors-program/">earn honors</a> in music at the Honors Program page of the undergraduate catalog.
+## Honors
+Learn more about how to [earn honors](http://publications.umw.edu/undergraduatecatalog/colleges/cas/honors-program/) in music at the Honors Program page of the undergraduate catalog.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>Students seeking a degree in <a href="http://publications.umw.red/undergraduatecatalog/courses-of-study/majors/musc/">music</a> must complete courses in music theory, music history, and music performance. Placement in individual lessons and ensembles is based on audition, which all music majors must complete. Majors pursuing teaching certification must register with the College of Education and take music education classes.
+### Major Requirements
+Students seeking a degree in [music](http://publications.umw.red/undergraduatecatalog/courses-of-study/majors/musc/) must complete courses in music theory, music history, and music performance. Placement in individual lessons and ensembles is based on audition, which all music majors must complete. Majors pursuing teaching certification must register with the College of Education and take music education classes.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>The Department of Music offers many <a href="http://cas.umw.edu/music/scholarships/">scholarships</a>. In addition, the <a href="http://philharmonic.umw.edu/about-the-orchestra/scholarships/">UMW Philharmonic</a> has one of the largest and most progressive scholarship programs in the nation, and it offers generous scholarships to student members.
+## Scholarships
+The Department of Music offers many [scholarships](http://cas.umw.edu/music/scholarships/). In addition, the [UMW Philharmonic](http://philharmonic.umw.edu/about-the-orchestra/scholarships/) has one of the largest and most progressive scholarship programs in the nation, and it offers generous scholarships to student members.
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/musc/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/musc/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/music/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/music/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

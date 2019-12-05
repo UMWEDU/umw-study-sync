@@ -4,7 +4,7 @@ post_title: French
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/french/
+permalink: /areas/french.md
 published: true
 post_date: 2015-07-28 16:37:37
 wpcf-home-page-feature: >
@@ -31,62 +31,73 @@ wpcf-department: http://cas.umw.edu/french/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/fren/
 wpcf-video: https://vimeo.com/129708067
+terms:
+  department:
+    - mll
+  key:
+    - major
+    - minor
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg"><img src="https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
-<a href="https://vimeo.com/129708067"><img src="https://i.vimeocdn.com/video/521295645_960.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.vimeocdn.com/video/521295645_960.jpg)](https://vimeo.com/129708067)
 <!-- End video -->
 
 <!-- value-proposition -->
-Maybe the French language is part of your heritage, or maybe you just loved the courses you took in high school. Now you're seeking mastery of the language, broad exposure to its rich literatures, and knowledge of  the French-speaking cultures. At UMW, you'll challenge yourself with compelling coursework, aided by our language labs and access to computer tutorials. In  conjunction with UMW's strong liberal arts program, you'll prepare yourself for a variety of international careers.
+Maybe the French language is part of your heritage, or maybe you just loved the courses you took in high school. Now you're seeking mastery of the language, broad exposure to its rich literatures, and knowledge of the French-speaking cultures. At UMW, you'll challenge yourself with compelling coursework, aided by our language labs and access to computer tutorials. In conjunction with UMW's strong liberal arts program, you'll prepare yourself for a variety of international careers.
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>UMW's French offerings include composition, phonetics and oral proficiency, a variety of French-language literatures, translation, senior seminars, business French, French cultures, and French cinema. You may spend a semester abroad, or learn intensively in spring and summer faculty-led trips to Paris, Provence, or Quebec.
+## Areas of Study
+UMW's French offerings include composition, phonetics and oral proficiency, a variety of French-language literatures, translation, senior seminars, business French, French cultures, and French cinema. You may spend a semester abroad, or learn intensively in spring and summer faculty-led trips to Paris, Provence, or Quebec.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2><a href="http://cas.umw.edu/modernlanguages/internships/">Internships</a> offer hands-on experience and course credit to juniors and seniors. Recent UMW language majors have done internships with Rappahannock Adult Education Programs (teaching ESL), the Virginia Department of Health, Fredericksburg public schools, the Rappahannock Council Against Sexual Assault, the Rappahannock Council Against Domestic Violence, the Moss Free Clinic, and Rappahannock Legal Services. Some students have taken advantage of UMW's proximity to Washington, D.C., to intern with the Smithsonian Institution, the Library of Congress, and the French embassy.
+## Internships
+[Internships](http://cas.umw.edu/modernlanguages/internships/) offer hands-on experience and course credit to juniors and seniors. Recent UMW language majors have done internships with Rappahannock Adult Education Programs (teaching ESL), the Virginia Department of Health, Fredericksburg public schools, the Rappahannock Council Against Sexual Assault, the Rappahannock Council Against Domestic Violence, the Moss Free Clinic, and Rappahannock Legal Services. Some students have taken advantage of UMW's proximity to Washington, D.C., to intern with the Smithsonian Institution, the Library of Congress, and the French embassy.
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>Students who have at least a 3.5 grade-point average in the French major and a 3.0 GPA overall by the beginning of senior year can apply to complete and defend a research-based thesis for <a href="http://cas.umw.edu/modernlanguages/departmental-honors/">departmental honors.</a>
-
-An undergraduate research grant, awarded through the Office of Academic Affairs, may be available for travel and other thesis-related expenses.
+## Honors
+Students who have at least a 3.5 grade-point average in the French major and a 3.0 GPA overall by the beginning of senior year can apply to complete and defend a research-based thesis for [departmental honors.](http://cas.umw.edu/modernlanguages/departmental-honors/)An undergraduate research grant, awarded through the Office of Academic Affairs, may be available for travel and other thesis-related expenses.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/fren/">major in French</a> requires 36 credits, including composition, phonetics and oral proficiency, literature, stylistics, translation, senior seminar, and electives including business French, culture, cinema, and advanced literature.
+### Major Requirements
+The [major in French](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/fren/) requires 36 credits, including composition, phonetics and oral proficiency, literature, stylistics, translation, senior seminar, and electives including business French, culture, cinema, and advanced literature.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/fren/">minor in French</a> requires 24 credits including lower- and upper-level courses.
-
-The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/bus-fren/">minor in business French</a> also requires 24 credits including a sequence of business or economics courses.
+### Minor Requirements
+The [minor in French](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/fren/) requires 24 credits including lower- and upper-level courses. The [minor in business French](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/bus-fren/) also requires 24 credits including a sequence of business or economics courses.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>Eligible students can apply for <a href="http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/">scholarships</a> to defray costs of faculty-led travel programs. Multiple awards are made each semester.
+## Scholarships
+Eligible students can apply for [scholarships](http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/) to defray costs of faculty-led travel programs. Multiple awards are made each semester.
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/fren/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/fren/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/french/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/french/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

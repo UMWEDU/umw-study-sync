@@ -4,8 +4,7 @@ post_title: Women’s and Gender Studies
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://www.umw.edu/study/areas/womens-and-gender-studies/
+permalink: /areas/womens-and-gender-studies.md
 published: true
 post_date: 2015-07-28 15:44:06
 wpcf-value-proposition: >
@@ -58,12 +57,17 @@ wpcf-department: http://cas.umw.edu/wgst/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/wgst/
 wpcf-video: https://vimeo.com/133699287
+terms:
+  department:
+    - wgs
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-<a href="https://vimeo.com/133699287"><img src="https://i.vimeocdn.com/video/526867822_960.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.vimeocdn.com/video/526867822_960.jpg)](https://vimeo.com/133699287)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -71,37 +75,47 @@ Everyone has a sex and everyone has a gender. Our bachelor’s degree in women�
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>Our 33 affiliated faculty members with expertise in nine separate disciplines will introduce a breadth of gendered experiences. Professors in such fields as art, Spanish literature, history, political science, sociology, and psychology will support you as you identify your interests and craft your major. In the classroom, they will challenge your assumptions about our similarities and differences and lead you to reflect on the concerns that sex and gender create in society. You will design a capstone project with faculty guidance, and you may do up to two faculty-supervised independent studies.
+## Areas of Study
+Our 33 affiliated faculty members with expertise in nine separate disciplines will introduce a breadth of gendered experiences. Professors in such fields as art, Spanish literature, history, political science, sociology, and psychology will support you as you identify your interests and craft your major. In the classroom, they will challenge your assumptions about our similarities and differences and lead you to reflect on the concerns that sex and gender create in society. You will design a capstone project with faculty guidance, and you may do up to two faculty-supervised independent studies.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>Majors have completed internships at local agencies and national organizations. You will craft an internship that will reflect your area of interest and course concentration.
+## Internships
+Majors have completed internships at local agencies and national organizations. You will craft an internship that will reflect your area of interest and course concentration.
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>Learn more about how to earn honors in this major at the <a href="http://publications.umw.edu/undergraduatecatalog/colleges/cas/honors-program/">honors program section</a> of the undergraduate catalog.
+## Honors
+Learn more about how to earn honors in this major at the [honors program section](http://publications.umw.edu/undergraduatecatalog/colleges/cas/honors-program/) of the undergraduate catalog.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/wgst/">women’s and gender studies </a>major requires 33 credits from across disciplines. Its advisory board – made up of faculty from the departments of political science; sociology and anthropology; art and art history; and English, linguistics, and communication – encourages the majors to work with faculty advisors to formulate their coursework around issues or themes that interest the students. The foundation courses are women's studies and feminism. Other requirements include a methods course, approved electives, an internship, and a student-designed capstone course.
+### Major Requirements
+The [women’s and gender studies ](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/wgst/)major requires 33 credits from across disciplines. Its advisory board – made up of faculty from the departments of political science; sociology and anthropology; art and art history; and English, linguistics, and communication – encourages the majors to work with faculty advisors to formulate their coursework around issues or themes that interest the students. The foundation courses are women's studies and feminism. Other requirements include a methods course, approved electives, an internship, and a student-designed capstone course.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>None specific to this major, but UMW offers many <a href="https://umw.scholarships.ngwebsolutions.com/ScholarX_ScholarshipSearch.aspx">scholarships</a>.
+## Scholarships
+None specific to this major, but UMW offers many [scholarships](https://umw.scholarships.ngwebsolutions.com/ScholarX_ScholarshipSearch.aspx).
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/wgst/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/wgst/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/wgst/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/wgst/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

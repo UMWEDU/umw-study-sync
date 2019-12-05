@@ -4,18 +4,25 @@ post_title: Liberal Studies (BLS)
 author: Shelley Keith
 post_excerpt: ""
 layout: areas
-permalink: /admissions/adult/bls/
+permalink: /admissions/adult/bls.md
 published: true
 post_date: 2015-08-12 14:46:49
 wpcf-department: http://cas.umw.edu/bls/
+terms:
+  department:
+    - cas
+  key:
+    - degree-completion
 ---
 
 <!-- Types Custom Fields: -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- department -->
-<a href="http://cas.umw.edu/bls/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/bls/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

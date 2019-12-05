@@ -4,19 +4,28 @@ post_title: Business German
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /study/areas/german/
+permalink: /study/areas/german.md
 published: true
 post_date: 2015-08-03 14:37:23
 wpcf-department: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/
+terms:
+  department:
+    - cob
+    - economics
+    - mll
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- department -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/" class="button">Department Website</a>
+[Department Website](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

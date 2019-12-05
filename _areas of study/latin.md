@@ -4,25 +4,34 @@ post_title: Latin
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: /study/areas/classics-and-latin/
+permalink: /study/areas/classics-and-latin.md
 published: true
 post_date: 2015-08-06 16:08:21
 wpcf-department: >
   http://cas.umw.edu/clpr/classics-program/latin-concentration/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/latn/
+terms:
+  department:
+    - cpr
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/latn/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/latn/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/clpr/classics-program/latin-concentration/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/clpr/classics-program/latin-concentration/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

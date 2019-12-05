@@ -4,8 +4,7 @@ post_title: Arts Administration
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://www.umw.edu/study/areas/arts-administration/
+permalink: /areas/arts-administration.md
 published: true
 post_date: 2015-09-26 21:22:24
 wpcf-value-proposition: >
@@ -59,6 +58,12 @@ wpcf-department: >
   http://cas.umw.edu/theatre/current-students/minor-requirements/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/arts-administration-minor/
+terms:
+  department:
+    - cob
+    - td
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->
@@ -68,33 +73,42 @@ Behind every successful art show, every smash-hit theatrical production, every b
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>UMW arts administration minors learn the principles of accounting, management, and marketing, combined with strategies in essential areas of arts administration. Tie it all together with practical hands-on experience through a theater practicum or an internship in house management, box office, communications, finance, and more.
+## Areas of Study
+UMW arts administration minors learn the principles of accounting, management, and marketing, combined with strategies in essential areas of arts administration. Tie it all together with practical hands-on experience through a theater practicum or an internship in house management, box office, communications, finance, and more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>Gain valuable real-world experience at prestigious art galleries in nearby Washington, D.C., the arts-rich Fredericksburg community, or right here on campus. Part-time jobs and internships are available in UMW’s box and management offices; scene, costume, and electrics shops; and at such celebrated artistic entities as the Virginia Ballet Company, Wolf Trap National Park for the Performing Arts, and Ford’s Theatre.
+## Internships
+Gain valuable real-world experience at prestigious art galleries in nearby Washington, D.C., the arts-rich Fredericksburg community, or right here on campus. Part-time jobs and internships are available in UMW’s box and management offices; scene, costume, and electrics shops; and at such celebrated artistic entities as the Virginia Ballet Company, Wolf Trap National Park for the Performing Arts, and Ford’s Theatre.
 <!-- End internships -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>To complete an arts administration minor at UMW, you will need 15 credits, including principles and resource strategies of arts administration; courses in accounting, management, or marketing; and a theater practicum or internship.
+### Minor Requirements
+To complete an arts administration minor at UMW, you will need 15 credits, including principles and resource strategies of arts administration; courses in accounting, management, or marketing; and a theater practicum or internship.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>Information about scholarships is available on the <a href="http://cas.umw.edu/theatre/make-a-gift/friends-of-dance/scholarships/">Department of Theatre and Dance website</a>.
+## Scholarships
+Information about scholarships is available on the [Department of Theatre and Dance website](http://cas.umw.edu/theatre/make-a-gift/friends-of-dance/scholarships/).
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/arts-administration-minor/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/arts-administration-minor/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/theatre/current-students/minor-requirements/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/theatre/current-students/minor-requirements/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

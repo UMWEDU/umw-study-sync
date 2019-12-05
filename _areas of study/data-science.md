@@ -4,8 +4,7 @@ post_title: Data Science
 author: Katherine Stosch
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://www.umw.edu/study/areas/data-science/
+permalink: /areas/data-science.md
 published: true
 post_date: 2015-11-12 19:33:58
 wpcf-value-proposition: >
@@ -51,6 +50,13 @@ wpcf-department: >
   http://cas.umw.edu/computerscience/requirements/data-science/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/data/
+terms:
+  department:
+    - cob
+    - cs
+    - math
+  key:
+    - minor
 ---
 
 <!-- Types Custom Fields: -->
@@ -60,33 +66,42 @@ Data drives the world. UMW’s minor in data science covers the evidence-based a
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>As a data science minor at UMW, you'll gain fundamentals in math, computer science, statistics, and business analytics. Choose from courses in data mining, modeling and simulation, linear algebra, statistics, and analytics application development.
+## Areas of Study
+As a data science minor at UMW, you'll gain fundamentals in math, computer science, statistics, and business analytics. Choose from courses in data mining, modeling and simulation, linear algebra, statistics, and analytics application development.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>At UMW, internships give data science minors valuable real-world experience and resume-boosting on-the-job training. The Department of Computer Science offers internships at technical firms, government offices, and software development agencies such as Zope Corp., Computer Sciences Corp., and Systems Technology Forum Ltd. Many data science students find internships with the Dahlgren naval base and affiliated defense contractors. Plenty of analytics and data science opportunities, many with nonprofits, exist in nearby Washington, D.C. A complete list of available internships is provided by <a href="http://academics.umw.edu/academicandcareerservices/">Career Services</a>.
+## Internships
+At UMW, internships give data science minors valuable real-world experience and resume-boosting on-the-job training. The Department of Computer Science offers internships at technical firms, government offices, and software development agencies such as Zope Corp., Computer Sciences Corp., and Systems Technology Forum Ltd. Many data science students find internships with the Dahlgren naval base and affiliated defense contractors. Plenty of analytics and data science opportunities, many with nonprofits, exist in nearby Washington, D.C. A complete list of available internships is provided by [Career Services](http://academics.umw.edu/academicandcareerservices/).
 <!-- End internships -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- minor-requirements -->
-<h3>Minor Requirements</h3>UMW’s data science minor requires 15 credits in areas including math, data science, computer science, and business administration.
+### Minor Requirements
+UMW’s data science minor requires 15 credits in areas including math, data science, computer science, and business administration.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
-<h2>Scholarships</h2>At UMW, the Department of Computer Science offers a <a href="http://cas.umw.edu/computerscience/scholarships-and-awards/available-scholarships/">variety of scholarships</a>.
+## Scholarships
+At UMW, the Department of Computer Science offers a [variety of scholarships](http://cas.umw.edu/computerscience/scholarships-and-awards/available-scholarships/).
 <!-- End scholarships -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/data/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/data/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/computerscience/requirements/data-science/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/computerscience/requirements/data-science/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

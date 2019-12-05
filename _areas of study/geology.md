@@ -4,7 +4,7 @@ post_title: Geology
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: https://www.umw.edu/study/areas/geology/
+permalink: /areas/geology.md
 published: true
 post_date: 2015-07-28 17:34:34
 wpcf-home-page-feature: >
@@ -49,16 +49,19 @@ wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geol/
 wpcf-video: >
   https://www.youtube.com/watch?v=YZ7I9OKizqw
+terms:
+  department:
+    - earth-environmental-sciences
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- home-page-feature -->
-<a href="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg"><img src="http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg" style="width: 100%; height: auto;" alt=""/></a>
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
-<a href="https://www.youtube.com/watch?v=YZ7I9OKizqw"><img src="https://i.ytimg.com/vi/YZ7I9OKizqw/hqdefault.jpg" alt="" style="width: 100 height: auto;"/></a>
+[![](https://i.ytimg.com/vi/YZ7I9OKizqw/hqdefault.jpg)](https://www.youtube.com/watch?v=YZ7I9OKizqw)
 <!-- End video -->
 
 <!-- value-proposition -->
@@ -66,33 +69,42 @@ For you, it's not enough to know that a mountain, ocean, or crater exists. You h
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>Geology majors build on the principles of chemistry, physics, biology, and mathematics in their quest to understand our planet. Major course offerings include paleontology, oceanography, mineralogy, petrology, fluvial geomorphology, plate tectonics, structural geology, and climate history and reorganizations through time.
+## Areas of Study
+Geology majors build on the principles of chemistry, physics, biology, and mathematics in their quest to understand our planet. Major course offerings include paleontology, oceanography, mineralogy, petrology, fluvial geomorphology, plate tectonics, structural geology, and climate history and reorganizations through time.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>In recent years, UMW geology and other environmental sciences majors have served internships with the City of Fredericksburg, the Army Corps of Engineers, the Virginia Department of Game and Inland Fisheries, Friends of the Rappahannock, Marstel-Day LLC, the Chesapeake Climate Action Network, Greenpeace, the U.S. Environmental Protection Agency, the U.S. Department of Agriculture, and more.
+## Internships
+In recent years, UMW geology and other environmental sciences majors have served internships with the City of Fredericksburg, the Army Corps of Engineers, the Virginia Department of Game and Inland Fisheries, Friends of the Rappahannock, Marstel-Day LLC, the Chesapeake Climate Action Network, Greenpeace, the U.S. Environmental Protection Agency, the U.S. Department of Agriculture, and more.
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>Students with a 3.0 overall grade-point average and a 3.25 average in geology courses may pursue honors in geology or environmental geology by completing an independent research project and writing and defending a thesis.
+## Honors
+Students with a 3.0 overall grade-point average and a 3.25 average in geology courses may pursue honors in geology or environmental geology by completing an independent research project and writing and defending a thesis.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/geol/">geology major</a> requires 36 credits including core geology courses and upper-level geology electives. With advisor approval, certain chemistry or environmental sciences classes may count toward the major.
+### Major Requirements
+The [geology major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/geol/) requires 36 credits including core geology courses and upper-level geology electives. With advisor approval, certain chemistry or environmental sciences classes may count toward the major.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geol/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geol/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://cas.umw.edu/ees/geology-program/" class="button">Department Website</a>
+[Department Website](http://cas.umw.edu/ees/geology-program/)
+
 <!-- End department -->
 
 <!-- End resource-links -->

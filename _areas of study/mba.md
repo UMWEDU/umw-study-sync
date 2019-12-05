@@ -4,18 +4,25 @@ post_title: Business Administration (MBA)
 author: Shelley Keith
 post_excerpt: ""
 layout: areas
-permalink: /admissions/graduate/degrees/mba/
+permalink: /admissions/graduate/degrees/mba.md
 published: true
 post_date: 2015-08-07 23:09:52
 wpcf-department: http://business.umw.edu
+terms:
+  department:
+    - cob
+  key:
+    - graduate
 ---
 
 <!-- Types Custom Fields: -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- department -->
-<a href="http://business.umw.edu" class="button">Department Website</a>
+[Department Website](http://business.umw.edu)
+
 <!-- End department -->
 
 <!-- End resource-links -->

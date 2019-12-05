@@ -4,8 +4,7 @@ post_title: Marketing
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
-permalink: >
-  https://www.umw.edu/study/areas/marketing/
+permalink: /areas/marketing.md
 published: true
 post_date: 2015-07-28 19:52:02
 wpcf-value-proposition: "There's a greater demand than ever for professionals who can understand consumers' thinking and formulate effective, multi-platform messages about ideas, goods, and services. When you study marketing at the University of Mary Washington, you'll develop the insight, analytical skills, and critical thinking you'll need to make a difference as a marketing professional."
@@ -34,6 +33,11 @@ wpcf-department: >
   http://business.umw.edu/degree-programs/undergraduate-degree-bs-in-business-administration/marketing-major/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/marketing/
+terms:
+  department:
+    - cob
+  key:
+    - major
 ---
 
 <!-- Types Custom Fields: -->
@@ -43,33 +47,42 @@ There's a greater demand than ever for professionals who can understand consumer
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
-<h2>Areas of Study</h2>Core business courses will give you a solid foundation for major-specific offerings including marketing research, marketing strategy, consumer behavior, negotiation, and international marketing.
+## Areas of Study
+Core business courses will give you a solid foundation for major-specific offerings including marketing research, marketing strategy, consumer behavior, negotiation, and international marketing.
 <!-- End areas-of-study -->
 
 <!-- internships -->
-<h2>Internships</h2>The College of Business recognizes that internships not only help students develop academically, they contribute the real-world experience and form connections that can lead to careers after graduation. The COB maintains a <a href="http://business.umw.edu/current-students/student-opportunities/available-internships/">list of local internships</a> that require business and marketing knowledge.
+## Internships
+The College of Business recognizes that internships not only help students develop academically, they contribute the real-world experience and form connections that can lead to careers after graduation. The COB maintains a [list of local internships](http://business.umw.edu/current-students/student-opportunities/available-internships/) that require business and marketing knowledge.
 <!-- End internships -->
 
 <!-- honors -->
-<h2>Honors</h2>Learn about earning <a href="http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/">academic honors</a> for your major.
+## Honors
+Learn about earning [academic honors](http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/) for your major.
 <!-- End honors -->
 
 <!-- requirements -->
-<h2>Requirements</h2>
+## Requirements
+
 <!-- major-requirements -->
-<h3>Major Requirements</h3>The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/marketing-major/">marketing major</a> requires 12 prerequisite credits, 30 core business credits, and 18 upper-level credits in the discipline.
+### Major Requirements
+The [marketing major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/marketing-major/) requires 12 prerequisite credits, 30 core business credits, and 18 upper-level credits in the discipline.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- resource-links -->
-<h2>Resource Links</h2>
+## Resource Links
+
 <!-- courses -->
-<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/marketing/" class="button">Course Listing</a>
+[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/marketing/)
+
 <!-- End courses -->
 
+
 <!-- department -->
-<a href="http://business.umw.edu/degree-programs/undergraduate-degree-bs-in-business-administration/marketing-major/" class="button">Department Website</a>
+[Department Website](http://business.umw.edu/degree-programs/undergraduate-degree-bs-in-business-administration/marketing-major/)
+
 <!-- End department -->
 
 <!-- End resource-links -->
