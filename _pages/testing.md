@@ -4,7 +4,7 @@ post_title: Testing
 author: Curtiss Grymala
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/study/testing/
+permalink: /testing.md
 published: true
 post_date: 2015-07-24 15:54:13
 ---
@@ -27,40 +27,3 @@ post_date: 2015-07-24 15:54:13
 	<li><span class="program-icon pre-professional"><span class="hidden">Pre-Professional</span></span> = Pre-Professional</li>
 	<li><span class="program-icon certificate"><span class="hidden">Certificate</span></span> = Certificate</li>
 </ul>
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- End Types Custom Fields -->
-<!-- Types Custom Fields: -->
-
-<!-- department -->
-<a href="http://www.google.com/" class="button">Department Website</a>
-<!-- End department -->
-
-<!-- End Types Custom Fields -->
-<!-- Types Custom Fields: -->
-
-<!-- resource-links -->
-<h2>Resource Links</h2>
-<!-- department -->
-<a href="http://www.google.com/" class="button">Department Website</a>
-<!-- End department -->
-
-<!-- End resource-links -->
-
-<!-- End Types Custom Fields -->
-<!-- Types Custom Fields: -->
-
-<!-- resource-links -->
-<h2>Resource Links</h2>
-<!-- department -->
-<a href="http://www.google.com/" class="button">Department Website</a>
-<!-- End department -->
-
-<!-- End resource-links -->
-
-<!-- End Types Custom Fields -->
