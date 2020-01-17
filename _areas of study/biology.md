@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/biology/index.html
 published: true
 post_date: 2015-07-28 16:22:21
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Biology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Biology.</span></p>'
 wpcf-home-page-feature: >
   https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg
 wpcf-value-proposition: '<p class="p1">As a University of Mary Washington biology major, you might collect samples on the Rappahannock River one day then contribute to a class discussion on ecology the next. Our biology major goes beyond molecules and microscopes, feeding your curiosity about living things, fostering the scientific process, and challenging you to find fresh approaches to research.</p>'
@@ -48,6 +49,10 @@ terms:
 As a University of Mary Washington biology major, you might collect samples on the Rappahannock River one day then contribute to a class discussion on ecology the next. Our biology major goes beyond molecules and microscopes, feeding your curiosity about living things, fostering the scientific process, and challenging you to find fresh approaches to research.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Biology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Biology.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 Course offerings include human biology, organism function and diversity, botany, chordate anatomy, plant ecology, animal ecology, entomology, histology, genetics, nutrition and metabolism, microbiology, parasitology, animal behavior, neurobiology, endocrinology, vertebrate zoology, ornithology, virology, biology of cancer, and more.
@@ -55,7 +60,7 @@ Course offerings include human biology, organism function and diversity, botany,
 
 <!-- internships -->
 ## Internships
-UMW biology majors may qualify for paid internships through the [Commonwealth STEM Industry Internship Program](http://csiip.spacegrant.org/students). The Department of Biology helps students learn about and apply for internships in the fields of research, medicine, zoology, botany, and ecology. Students also may find internships with museums in the Fredericksburg area or nearby Richmond, Virginia, and Washington, D.C.
+UMW biology majors may qualify for paid internships through the [Commonwealth STEM Industry Internship Program]("http://csiip.spacegrant.org/students"). The Department of Biology helps students learn about and apply for internships in the fields of research, medicine, zoology, botany, and ecology. Students also may find internships with museums in the Fredericksburg area or nearby Richmond, Virginia, and Washington, D.C.
 <!-- End internships -->
 
 <!-- testimonial -->
@@ -65,7 +70,7 @@ UMW biology majors may qualify for paid internships through the [Commonwealth ST
 
 <!-- honors -->
 ## Honors
-To receive honors in biology, you must have a 3.0 grade-point average overall and 3.25 in the major. You'll complete a research project, write an honors thesis, and deliver an oral presentation to department faculty.
+To receive honors in biology, you must have a 3.0 grade-point average overall and 3.25 in the major. You\'ll complete a research project, write an honors thesis, and deliver an oral presentation to department faculty.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -73,19 +78,19 @@ To receive honors in biology, you must have a 3.0 grade-point average overall an
 
 <!-- major-requirements -->
 ### Major Requirements
-The [biology major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/biology/) requires 40 credits including five required courses, a required senior seminar, one course designated research-intensive, and one additional upper-level course with a laboratory component.
+The [biology major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/biology/") requires 40 credits including five required courses, a required senior seminar, one course designated research-intensive, and one additional upper-level course with a laboratory component.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [minor in biology](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/biology/) requires 22 credits in core and elective biology courses. You'll take at least three 300- to 400-level biology courses, two with a<span class="Apple-converted-space"> </span>laboratory component.
+The [minor in biology]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/biology/") requires 22 credits in core and elective biology courses. You\'ll take at least three 300- to 400-level biology courses, two with a<span class=""Apple-converted-space""> </span>laboratory component.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-The Department of Biology presents several [scholarships and awards](http://cas.umw.edu/biology/awards-scholarships/) annually to outstanding biology majors.
+The Department of Biology presents several [scholarships and awards]("http://cas.umw.edu/biology/awards-scholarships/") annually to outstanding biology majors.
 <!-- End scholarships -->
 
 <!-- resource-links -->
