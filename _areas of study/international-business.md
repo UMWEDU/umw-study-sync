@@ -8,6 +8,7 @@ permalink: >
   /study/areas/international-business/index.html
 published: true
 post_date: 2018-12-04 22:26:56
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in International Business who complete all requirements earn the degree of Bachelor of Science (B.S.) in Business Administration.</span></p>'
 wpcf-value-proposition: >
   If you are interested in business and
   foreign cultures this may be the major
@@ -86,6 +87,10 @@ terms:
 If you are interested in business and foreign cultures this may be the major for you. An international business major from University of Mary Washington may pursue traditional business careers or craft a major that’s less predictable. For example, if you study international business and minor in art, you might manage an art museum or deal in art.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in International Business who complete all requirements earn the degree of Bachelor of Science (B.S.) in Business Administration.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 As an international business student, you will graduate with a solid business education, but you also must be able to understand the importance and influence of culture on how people make decisions. The international business major is one of four majors offered within the UMW College of Business that lead to the bachelor of science degree in business administration. All business majors are multi-disciplinary degrees that require students to master concepts from across the business disciplines, which include accounting, business administration, business law, decision sciences, finance, management, and management and information systems.
@@ -98,7 +103,7 @@ At UMW, you’ll find internship opportunities close to campus and in nearby Was
 
 <!-- honors -->
 ## Honors
-To be eligible for honors in international, you must have a 3.25 grade-point average in upper-division business administration courses and a 3.0 GPA overall. You'll do a research project, write a thesis, and defend it before a faculty honors committee.
+To be eligible for honors in international, you must have a 3.25 grade-point average in upper-division business administration courses and a 3.0 GPA overall. You\'ll do a research project, write a thesis, and defend it before a faculty honors committee.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -113,7 +118,7 @@ All business majors share a common core of 30 hours of business classes from acc
 
 <!-- scholarships -->
 ## Scholarships
-Many [scholarships](http://business.umw.edu/current-students/undergraduate-scholarships/) are available for business majors.
+Many [scholarships]("http://business.umw.edu/current-students/undergraduate-scholarships/") are available for business majors.
 <!-- End scholarships -->
 
 <!-- resource-links -->
