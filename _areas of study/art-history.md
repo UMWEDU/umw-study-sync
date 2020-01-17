@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/art-history/index.html
 published: true
 post_date: 2015-07-28 17:41:37
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Art History who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Art History.</span></p>'
 wpcf-value-proposition: "Drawn to how people have depicted beauty throughout history? Need to know more of the story behind it? Major in art history at the University of Mary Washington and you'll explore humanity through artistic wonders, from prehistoric cave paintings to the works of Warhol. You'll investigate styles, periods, and movements of Western art; masters and masterpieces of Italy, Egypt, and beyond; and the rich resources of  Washington, Richmond, Baltimore, and New York."
 wpcf-areas-of-study: 'Course offerings include History of Western Art, Topics in Non-Western &amp; Non-Eurocentric Art, Egyptian and Near Eastern Art and Archaeology, Greek Art, Roman Art, Art Museum Studies, Romanesque &amp; Gothic Art, High Renaissance &amp; Mannerism, Post-Impressionism to Abstract, American Art, and Pop Art to the Present.'
 wpcf-career-opportunties: 'With a background in the artistic masters and movements, UMW grads have created careers at such organizations as the American Association of Museums, Brooklyn Museum, Corcoran College of Art &amp; Design, Delaware Art Museum, Hirschhorn Museum and Sculpture Garden, Metropolitan Museum of Art, National Gallery of Art, Smithsonian Institution, and Virginia Museum of Fine Arts.'
@@ -48,9 +49,13 @@ terms:
 <!-- End video -->
 
 <!-- value-proposition -->
-Drawn to how people have depicted beauty throughout history? Need to know more of the story behind it? Major in art history at the University of Mary Washington and you'll explore humanity through artistic wonders, from prehistoric cave paintings to the works of Warhol. You'll investigate styles, periods, and movements of Western art; masters and masterpieces of Italy, Egypt, and beyond; and the rich resources of Washington, Richmond, Baltimore, and New York.
+Drawn to how people have depicted beauty throughout history? Need to know more of the story behind it? Major in art history at the University of Mary Washington and you\'ll explore humanity through artistic wonders, from prehistoric cave paintings to the works of Warhol. You\'ll investigate styles, periods, and movements of Western art; masters and masterpieces of Italy, Egypt, and beyond; and the rich resources of Washington, Richmond, Baltimore, and New York.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Art History who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Art History.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 Course offerings include History of Western Art, Topics in Non-Western & Non-Eurocentric Art, Egyptian and Near Eastern Art and Archaeology, Greek Art, Roman Art, Art Museum Studies, Romanesque & Gothic Art, High Renaissance & Mannerism, Post-Impressionism to Abstract, American Art, and Pop Art to the Present.
@@ -76,14 +81,14 @@ To receive honors in art history, students must have a 3.25 grade-point average 
 
 <!-- major-requirements -->
 ### Major Requirements
-The [art history major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/arth/) requires 39 credits, including nine credits from required courses; 15 credits from courses covering the major artistic eras from ancient through modern times; three seminar credits; and 12 art history elective credits.
+The [art history major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/arth/") requires 39 credits, including nine credits from required courses; 15 credits from courses covering the major artistic eras from ancient through modern times; three seminar credits; and 12 art history elective credits.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-Learn more about [art scholarships](http://cas.umw.edu/art/scholarship-descriptions/) at the University of Mary Washington.
+Learn more about [art scholarships]("http://cas.umw.edu/art/scholarship-descriptions/") at the University of Mary Washington.
 <!-- End scholarships -->
 
 <!-- resource-links -->
