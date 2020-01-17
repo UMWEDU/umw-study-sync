@@ -8,6 +8,7 @@ permalink: >
   /study/areas/classics-and-latin/index.html
 published: true
 post_date: 2015-08-06 15:51:04
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Classics who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Classics.</span></p>'
 wpcf-value-proposition: "The ideas and principles of ancient Greece and Rome resonate throughout modern Western culture. Study the languages, literatures, and civilizations of the ancients, and you'll gain a deeper understanding of today's liberal arts and sciences. At UMW, you can major in Latin or in classics with a concentration in classical civilization or classical archaeology."
 wpcf-areas-of-study: |
   <p class="p1">Major in Latin at UMW and you'll choose from courses including elementary, intermediate, and advanced Latin language; survey courses in Latin literature; Roman drama; lyric and elegiac poetry; the writings of Roman historians; the works of Vergil, Horace, and Ovid; Roman philosophical thought; Roman satire; and more.</p>
@@ -48,24 +49,28 @@ terms:
 <!-- End video -->
 
 <!-- value-proposition -->
-The ideas and principles of ancient Greece and Rome resonate throughout modern Western culture. Study the languages, literatures, and civilizations of the ancients, and you'll gain a deeper understanding of today's liberal arts and sciences. At UMW, you can major in Latin or in classics with a concentration in classical civilization or classical archaeology.
+The ideas and principles of ancient Greece and Rome resonate throughout modern Western culture. Study the languages, literatures, and civilizations of the ancients, and you\'ll gain a deeper understanding of today\'s liberal arts and sciences. At UMW, you can major in Latin or in classics with a concentration in classical civilization or classical archaeology.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Classics who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Classics.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
-Major in Latin at UMW and you'll choose from courses including elementary, intermediate, and advanced Latin language; survey courses in Latin literature; Roman drama; lyric and elegiac poetry; the writings of Roman historians; the works of Vergil, Horace, and Ovid; Roman philosophical thought; Roman satire; and more.
+Major in Latin at UMW and you\'ll choose from courses including elementary, intermediate, and advanced Latin language; survey courses in Latin literature; Roman drama; lyric and elegiac poetry; the writings of Roman historians; the works of Vergil, Horace, and Ovid; Roman philosophical thought; Roman satire; and more.
 
 Classics offerings include Greek and Roman ideas and culture; Greek and Roman mythology in art and literature; the dramas of Aeschylus, Sophocles, and Euripides; epic traditions; Greek and Roman religion; Egyptian and Near Eastern art and archaeology; women in antiquity; the ancient city; and Greek and Roman archaeology.
 <!-- End areas-of-study -->
 
 <!-- internships -->
 ## Internships
-Latin and classics majors have opportunities to conduct [research](http://cas.umw.edu/clpr/undergraduate-research/) and present their findings, to seek for-credit or paid internships, and to study abroad.
+Latin and classics majors have opportunities to conduct [research]("http://cas.umw.edu/clpr/undergraduate-research/") and present their findings, to seek for-credit or paid internships, and to study abroad.
 <!-- End internships -->
 
 <!-- honors -->
 ## Honors
-To earn [honors in classics](http://cas.umw.edu/clpr/classics-program/undergraduate-research-2/), you'll need a GPA of at least 3.5 in the major and 3.2 overall. You'll research, write, and defend a thesis and complete an exit interview.
+To earn [honors in classics]("http://cas.umw.edu/clpr/classics-program/undergraduate-research-2/"), you\'ll need a GPA of at least 3.5 in the major and 3.2 overall. You\'ll research, write, and defend a thesis and complete an exit interview.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -73,21 +78,21 @@ To earn [honors in classics](http://cas.umw.edu/clpr/classics-program/undergradu
 
 <!-- major-requirements -->
 ### Major Requirements
-Students seeking a classics major can choose from concentrations in classical civilization (often paired with teaching licensure) or [classical archaeology](https://vimeo.com/129708065) (preparation for museum or field work). Either concentration requires 33 credits in core and elective courses, including courses at the 300 level or higher.
+Students seeking a classics major can choose from concentrations in classical civilization (often paired with teaching licensure) or [classical archaeology]("https://vimeo.com/129708065") (preparation for museum or field work). Either concentration requires 33 credits in core and elective courses, including courses at the 300 level or higher.
 
-Students seeking a Latin major will need 33 credits in [core courses and electives](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/latn/), including at least 15 credits in Latin courses beyond the intermediate level and at least nine credits in approved courses relating to classical civilization.
+Students seeking a Latin major will need 33 credits in [core courses and electives]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/latn/"), including at least 15 credits in Latin courses beyond the intermediate level and at least nine credits in approved courses relating to classical civilization.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-Classics offers a [museum studies minor](http://cas.umw.edu/museumstudies/), which requires 18 credits including core and elective courses.
+Classics offers a [museum studies minor]("http://cas.umw.edu/museumstudies/"), which requires 18 credits including core and elective courses.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-Students who major in Latin and the classics can apply for several [scholarships and awards](http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/) through the Department of Classics, Philosophy, and Religion.
+Students who major in Latin and the classics can apply for several [scholarships and awards]("http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/") through the Department of Classics, Philosophy, and Religion.
 <!-- End scholarships -->
 
 <!-- resource-links -->
