@@ -8,6 +8,7 @@ permalink: >
   /study/areas/business-administration/index.html
 published: true
 post_date: 2015-07-28 17:30:56
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Business Administration who complete all requirements earn the degree of Bachelor of Science (B.S.) in Business Administration.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Business-class-1e.jpg
 wpcf-value-proposition: "Major in business administration at the University of Mary Washington and you'll position yourself to succeed in the corporate world or as an entrepreneur. You'll learn ethics, strategy, legalities, and more from master teachers, some who’ve worked for Fortune 500s. And our research and internship opportunities will give you the real-world experience you need to make a difference."
@@ -61,12 +62,16 @@ terms:
 <!-- End video -->
 
 <!-- value-proposition -->
-Major in business administration at the University of Mary Washington and you'll position yourself to succeed in the corporate world or as an entrepreneur. You'll learn ethics, strategy, legalities, and more from master teachers, some who’ve worked for Fortune 500s. And our research and internship opportunities will give you the real-world experience you need to make a difference.
+Major in business administration at the University of Mary Washington and you\'ll position yourself to succeed in the corporate world or as an entrepreneur. You\'ll learn ethics, strategy, legalities, and more from master teachers, some who’ve worked for Fortune 500s. And our research and internship opportunities will give you the real-world experience you need to make a difference.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Business Administration who complete all requirements earn the degree of Bachelor of Science (B.S.) in Business Administration.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
-UMW's bachelor's program in business administration lets you major in accounting, general business, or marketing. In addition, the program covers information systems and applications, applied statistics and business research, legal environment of business, principles of management, federal taxation, organizational behavior, human resource management, decision analysis, principles of finance, commercial law, consumer behavior, leadership theory and practice, negotiation, and more.
+UMW\'s bachelor\'s program in business administration lets you major in accounting, general business, or marketing. In addition, the program covers information systems and applications, applied statistics and business research, legal environment of business, principles of management, federal taxation, organizational behavior, human resource management, decision analysis, principles of finance, commercial law, consumer behavior, leadership theory and practice, negotiation, and more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
@@ -81,7 +86,7 @@ At UMW, you’ll find internship opportunities close to campus and in nearby Was
 
 <!-- honors -->
 ## Honors
-To be eligible for honors in business administration, you must have a 3.25 grade-point average in upper-division business administration courses and a 3.0 GPA overall. You'll do a research project, write a thesis, and defend it before a faculty honors committee.
+To be eligible for honors in business administration, you must have a 3.25 grade-point average in upper-division business administration courses and a 3.0 GPA overall. You\'ll do a research project, write a thesis, and defend it before a faculty honors committee.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -89,19 +94,19 @@ To be eligible for honors in business administration, you must have a 3.25 grade
 
 <!-- major-requirements -->
 ### Major Requirements
-To receive a [bachelor's degree in business administration](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/buad/) in your chosen major of accounting, general business, or marketing, you will earn 48 credits, including 30 in core business courses and 18 in upper-level electives.
+To receive a [bachelor\'s degree in business administration]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/buad/") in your chosen major of accounting, general business, or marketing, you will earn 48 credits, including 30 in core business courses and 18 in upper-level electives.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [Business Administration minor](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/buad/) complements many majors and provides an opportunity for students to examine and evaluate the complex components of today’s competitive business environment. Eighteen (18) credits are required.
+The [Business Administration minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/buad/") complements many majors and provides an opportunity for students to examine and evaluate the complex components of today’s competitive business environment. Eighteen (18) credits are required.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-Many [scholarships](http://business.umw.edu/current-students/undergraduate-scholarships/) are available for business majors.
+Many [scholarships]("http://business.umw.edu/current-students/undergraduate-scholarships/") are available for business majors.
 <!-- End scholarships -->
 
 <!-- resource-links -->
