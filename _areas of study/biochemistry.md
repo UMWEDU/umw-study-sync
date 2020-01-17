@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/biochemistry/index.html
 published: true
 post_date: 2018-08-30 13:24:12
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Biochemistry who complete all requirements earn the degree of Bachelor of Science (B.S.) in Chemistry.</span></p>'
 wpcf-value-proposition: >
   Are you drawn to the chemistry of life?
   Biochemistry studies life on the
@@ -99,6 +100,10 @@ terms:
 Are you drawn to the chemistry of life? Biochemistry studies life on the molecular and atomic levels – deep inside of each living organism at its most basic components. It encompasses not only the structures of the chemical components of living matter, but also the metabolism of living matter and molecular genetics. If you find that interesting, this might be the major for you.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Biochemistry who complete all requirements earn the degree of Bachelor of Science (B.S.) in Chemistry.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 In the UMW biochemistry major, which you will pursue through the Department of Chemistry, you’ll take chemistry, biology, and physics as well as biochemistry lectures and labs. If you choose, there are electives in nutrition and metabolism, the biology of cancer, biochemistry of proteins, and more.
@@ -106,7 +111,7 @@ In the UMW biochemistry major, which you will pursue through the Department of C
 
 <!-- internships -->
 ## Internships
-Students are encouraged to pursue research and internship opportunities with such employers as the National Institutes of Health, the National Science Foundation, and the American Chemical Society. Learn more about UMW [internships in chemistry](http://cas.umw.edu/chemistry/research-opportunities/internships/), some of which are specific to biochemistry.
+Students are encouraged to pursue research and internship opportunities with such employers as the National Institutes of Health, the National Science Foundation, and the American Chemical Society. Learn more about UMW [internships in chemistry]("http://cas.umw.edu/chemistry/research-opportunities/internships/"), some of which are specific to biochemistry.
 <!-- End internships -->
 
 <!-- testimonial -->
