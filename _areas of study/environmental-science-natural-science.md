@@ -1,6 +1,8 @@
 ---
 ID: 61
-post_title: 'Environmental Science &#8211; Natural Science'
+post_title: >
+  Environmental Science – Natural
+  Science
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
@@ -8,6 +10,7 @@ permalink: >
   /study/areas/environmental-science-natural-science/index.html
 published: true
 post_date: 2015-07-28 15:30:32
+wpcf-degree-awarded: '<span style="font-size: 12.0pt;">Students majoring in Environmental Science: Natural Science who complete all requirements earn the degree of Bachelor of Science (B.S.) in Environmental Science and Geology.</span>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Soil-Project-07e.jpg
 wpcf-value-proposition: "UMW's environmental science -- natural science major explores the relationships among biology, chemistry, physics, geology, and Earth science. Our interdisciplinary program encourages undergraduate research and fosters the analytical, critical-thinking, and communications skills you'll need as a working scientist or graduate scholar."
@@ -56,17 +59,21 @@ terms:
 <!-- End video -->
 
 <!-- value-proposition -->
-UMW's environmental science -- natural science major explores the relationships among biology, chemistry, physics, geology, and Earth science. Our interdisciplinary program encourages undergraduate research and fosters the analytical, critical-thinking, and communications skills you'll need as a working scientist or graduate scholar.
+UMW\'s environmental science -- natural science major explores the relationships among biology, chemistry, physics, geology, and Earth science. Our interdisciplinary program encourages undergraduate research and fosters the analytical, critical-thinking, and communications skills you\'ll need as a working scientist or graduate scholar.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Environmental Science: Natural Science who complete all requirements earn the degree of Bachelor of Science (B.S.) in Environmental Science and Geology.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
-The environmental science-natural science major gives you a solid background in biological, ecological, chemical, and geological principles. With this foundation, and with guidance from faculty advisors, you'll craft a [course of study](http://publications.umw.red/undergraduatecatalog/courses-of-study/course-descriptions/eesc-2/) that meets your interests and career goals.
+The environmental science-natural science major gives you a solid background in biological, ecological, chemical, and geological principles. With this foundation, and with guidance from faculty advisors, you\'ll craft a [course of study]("http://publications.umw.red/undergraduatecatalog/courses-of-study/course-descriptions/eesc-2/") that meets your interests and career goals.
 <!-- End areas-of-study -->
 
 <!-- internships -->
 ## Internships
-In recent years, UMW environmental sciences majors have served [internships](http://cas.umw.edu/ees/internships/) with the City of Fredericksburg, the Army Corps of Engineers, the Virginia Department of Game and Inland Fisheries, Friends of the Rappahannock, Marstel-Day LLC, the Chesapeake Climate Action Network, Greenpeace, the U.S. Environmental Protection Agency, and the U.S. Department of Agriculture.
+In recent years, UMW environmental sciences majors have served [internships]("http://cas.umw.edu/ees/internships/") with the City of Fredericksburg, the Army Corps of Engineers, the Virginia Department of Game and Inland Fisheries, Friends of the Rappahannock, Marstel-Day LLC, the Chesapeake Climate Action Network, Greenpeace, the U.S. Environmental Protection Agency, and the U.S. Department of Agriculture.
 <!-- End internships -->
 
 <!-- honors -->
@@ -79,12 +86,12 @@ Highly motivated and talented students can engage in rigorous honors-designated 
 
 <!-- major-requirements -->
 ### Major Requirements
-The [environmental science-natural science major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/eesc-natural/) requires 40 or 41 credits including environmental science, biology, chemistry, and electives.
+The [environmental science-natural science major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/eesc-natural/") requires 40 or 41 credits including environmental science, biology, chemistry, and electives.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [environmental sustainability minor](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/sust/) requires eighteen to twenty-one credits.
+The [environmental sustainability minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/sust/") requires eighteen to twenty-one credits.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
