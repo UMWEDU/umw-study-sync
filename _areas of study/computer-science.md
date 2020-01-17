@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/computer-science/index.html
 published: true
 post_date: 2015-07-28 18:39:09
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Computer Science who complete all requirements earn the degree of Bachelor of Science (B.S.) in Computer Science.</span></p>'
 wpcf-home-page-feature: >
   https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg
 wpcf-value-proposition: >
@@ -53,9 +54,13 @@ terms:
 Want to write cutting-edge software? Code the next killer app? Computer scientists find innovative solutions to complex problems. Our bachelor’s program combines theory, application, technique, and design. Explore computer architecture, multi-threaded programming, and software engineering, and choose from electives in networks, 3D graphics, computer security, and more.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Computer Science who complete all requirements earn the degree of Bachelor of Science (B.S.) in Computer Science.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
-The bachelor’s program in computer science offers an [array of courses](http://cas.umw.edu/computerscience/course-offerings/), including problem solving with databases, digital storytelling, computer ethics, theoretical foundations of computing, Web application development, artificial intelligence, data mining, software engineering, and more.
+The bachelor’s program in computer science offers an [array of courses]("http://cas.umw.edu/computerscience/course-offerings/"), including problem solving with databases, digital storytelling, computer ethics, theoretical foundations of computing, Web application development, artificial intelligence, data mining, software engineering, and more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
@@ -73,19 +78,19 @@ To earn honors in computer science, students who meet GPA and course prerequisit
 
 <!-- major-requirements -->
 ### Major Requirements
-UMW’s [major in computer science](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cpsc/) requires 46 credits, including courses in business administration, economics, and math, along with multiple core courses in computer science.
+UMW’s [major in computer science]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cpsc/") requires 46 credits, including courses in business administration, economics, and math, along with multiple core courses in computer science.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [minor](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cpsc/) builds strong programming and problem-solving skills, and is particularly useful when combined with a major in any of the sciences, mathematics, business, economics, linguistics, or geography.
+The [minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cpsc/") builds strong programming and problem-solving skills, and is particularly useful when combined with a major in any of the sciences, mathematics, business, economics, linguistics, or geography.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-Computer science majors can apply for several [scholarships and awards](http://cas.umw.edu/computerscience/scholarships-and-awards/).
+Computer science majors can apply for several [scholarships and awards]("http://cas.umw.edu/computerscience/scholarships-and-awards/").
 <!-- End scholarships -->
 
 <!-- resource-links -->
