@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/american-studies/index.html
 published: true
 post_date: 2015-07-28 13:43:19
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in American Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in General Liberal Arts and Studies.</span></p>'
 wpcf-value-proposition: |
   <p class="p1">Explore the complex nature of U.S. history and culture in Fredericksburg, Virginia, a city rich in Revolutionary, Civil War, and 20th-century history. As an American studies major at the University of Mary Washington you'll examine what it means to be an American, from history and politics to literature, music, and film. You'll find focus in fields such as anthropology, historic preservation, and gender studies.</p>
 wpcf-areas-of-study: |
@@ -36,17 +37,21 @@ terms:
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->
-Explore the complex nature of U.S. history and culture in Fredericksburg, Virginia, a city rich in Revolutionary, Civil War, and 20th-century history. As an American studies major at the University of Mary Washington you'll examine what it means to be an American, from history and politics to literature, music, and film. You'll find focus in fields such as anthropology, historic preservation, and gender studies.
+Explore the complex nature of U.S. history and culture in Fredericksburg, Virginia, a city rich in Revolutionary, Civil War, and 20th-century history. As an American studies major at the University of Mary Washington you\'ll examine what it means to be an American, from history and politics to literature, music, and film. You\'ll find focus in fields such as anthropology, historic preservation, and gender studies.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in American Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in General Liberal Arts and Studies.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
-UMW's American studies curriculum will guide you through U.S. history and culture. You'll choose from such courses as History of the South, American Legal and Constitutional History, U.S. and Vietnam, 20th-Century U.S., and Urban Politics.
+UMW\'s American studies curriculum will guide you through U.S. history and culture. You\'ll choose from such courses as History of the South, American Legal and Constitutional History, U.S. and Vietnam, 20th-Century U.S., and Urban Politics.
 <!-- End areas-of-study -->
 
 <!-- internships -->
 ## Internships
-UMW's American studies majors may find internships at<span class="Apple-converted-space"> </span>Smithsonian Institution sites such as the National Museum of the American Indian and the National Museum of American History. Other opportunities come from the National Park Service, George Washington's Ferry Farm, and the Marine Corps Archives at Quantico.
+UMW\'s American studies majors may find internships at<span class=""Apple-converted-space""> </span>Smithsonian Institution sites such as the National Museum of the American Indian and the National Museum of American History. Other opportunities come from the National Park Service, George Washington\'s Ferry Farm, and the Marine Corps Archives at Quantico.
 <!-- End internships -->
 
 <!-- testimonial -->
@@ -64,14 +69,14 @@ To be considered for honors in American studies, you must have a GPA of at least
 
 <!-- major-requirements -->
 ### Major Requirements
-A [major in American studies](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/amst/) requires 36 credits in core courses plus 24 credits from American studies electives offered by affiliated departments. Fifteen of the elective credits must be organized around a unifying line of inquiry, such as gender and sexuality, race and ethnicity, cultural expression, human rights, politics and society, and space and place. Eighteen credits must come from 300- or 400-level courses.
+A [major in American studies]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/amst/") requires 36 credits in core courses plus 24 credits from American studies electives offered by affiliated departments. Fifteen of the elective credits must be organized around a unifying line of inquiry, such as gender and sexuality, race and ethnicity, cultural expression, human rights, politics and society, and space and place. Eighteen credits must come from 300- or 400-level courses.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-American studies majors may qualify for numerous [scholarships and awards](http://cas.umw.edu/historyamericanstudies/scholarships-and-awards/) for excellence.
+American studies majors may qualify for numerous [scholarships and awards]("http://cas.umw.edu/historyamericanstudies/scholarships-and-awards/") for excellence.
 <!-- End scholarships -->
 
 <!-- resource-links -->
