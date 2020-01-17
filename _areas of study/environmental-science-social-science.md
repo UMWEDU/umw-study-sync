@@ -1,6 +1,6 @@
 ---
 ID: 66
-post_title: 'Environmental Science &#8211; Social Science'
+post_title: Environmental Science – Social Science
 author: Lisa Chinn Marvashti
 post_excerpt: ""
 layout: areas
@@ -8,6 +8,7 @@ permalink: >
   /study/areas/environmental-science-social-science/index.html
 published: true
 post_date: 2015-07-28 16:07:40
+wpcf-degree-awarded: '<span style="font-size: 12.0pt;">Students majoring in Environmental Science: Social Science who complete all requirements earn the degree of Bachelor of Science (B.S.) in Environmental Science and Geology.</span>'
 wpcf-value-proposition: "UMW's environmental science - social science major explores the effects humans have on the natural world, from the nearby Rappahannock River to the planet's most threatened ecosystems. Our interdisciplinary program encourages undergraduate research and gives you the knowledge and problem-solving skills to make a difference right away as a working scientist."
 wpcf-areas-of-study: |
   The social sciences major starts with a firm foundation in chemistry, biology, and geology. Then you'll select from environmental science, geography, political science, economics, and sociology classes to create a <a href="http://cas.umw.edu/ees/environmental-science-program/social-environmental-science/">course of study</a> that meets your interests and career goals.
@@ -52,17 +53,21 @@ terms:
 <!-- End video -->
 
 <!-- value-proposition -->
-UMW's environmental science - social science major explores the effects humans have on the natural world, from the nearby Rappahannock River to the planet's most threatened ecosystems. Our interdisciplinary program encourages undergraduate research and gives you the knowledge and problem-solving skills to make a difference right away as a working scientist.
+UMW\'s environmental science - social science major explores the effects humans have on the natural world, from the nearby Rappahannock River to the planet\'s most threatened ecosystems. Our interdisciplinary program encourages undergraduate research and gives you the knowledge and problem-solving skills to make a difference right away as a working scientist.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Environmental Science: Social Science who complete all requirements earn the degree of Bachelor of Science (B.S.) in Environmental Science and Geology.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
-The social sciences major starts with a firm foundation in chemistry, biology, and geology. Then you'll select from environmental science, geography, political science, economics, and sociology classes to create a [course of study](http://cas.umw.edu/ees/environmental-science-program/social-environmental-science/) that meets your interests and career goals.
+The social sciences major starts with a firm foundation in chemistry, biology, and geology. Then you\'ll select from environmental science, geography, political science, economics, and sociology classes to create a [course of study]("http://cas.umw.edu/ees/environmental-science-program/social-environmental-science/") that meets your interests and career goals.
 <!-- End areas-of-study -->
 
 <!-- internships -->
 ## Internships
-In recent years, UMW environmental sciences graduates have served [internships](http://cas.umw.edu/ees/internships/) with the City of Fredericksburg, the Army Corps of Engineers, the Virginia Department of Game and Inland Fisheries, Friends of the Rappahannock, Marstel-Day LLC, the Chesapeake Climate Action Network, Greenpeace, the U.S. Environmental Protection Agency, the U.S. Department of Agriculture, and more.
+In recent years, UMW environmental sciences graduates have served [internships]("http://cas.umw.edu/ees/internships/") with the City of Fredericksburg, the Army Corps of Engineers, the Virginia Department of Game and Inland Fisheries, Friends of the Rappahannock, Marstel-Day LLC, the Chesapeake Climate Action Network, Greenpeace, the U.S. Environmental Protection Agency, the U.S. Department of Agriculture, and more.
 <!-- End internships -->
 
 <!-- honors -->
@@ -75,12 +80,12 @@ Highly motivated and talented students can engage in rigorous honors-designated 
 
 <!-- major-requirements -->
 ### Major Requirements
-The [environmental science-social science major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/eesc-natural/) requires 38 or 39 credits including environmental science, geography or GIS, biology, chemistry, and economics. Electives may include philosophy, political science, or sociology.
+The [environmental science-social science major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/eesc-natural/") requires 38 or 39 credits including environmental science, geography or GIS, biology, chemistry, and economics. Electives may include philosophy, political science, or sociology.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [environmental sustainability minor](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/sust/) requires eighteen to twenty-one credits.
+The [environmental sustainability minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/sust/") requires eighteen to twenty-one credits.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
