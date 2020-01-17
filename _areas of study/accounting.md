@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/accounting/index.html
 published: true
 post_date: 2015-07-28 18:22:18
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Accounting who complete all requirements earn the degree of Bachelor of Science (B.S.) in Business Administration.</span></p>'
 wpcf-value-proposition: "Accounting majors at University of Mary Washington know their business and find jobs keeping track of it. A recent <em>U.S. News and World Report</em> article put this lucrative profession in the top 20 top-paying jobs. If you're into spreadsheets, accounts receivable, and audits, check out our bachelor’s degree."
 wpcf-areas-of-study: >
   Core business courses will give you a
@@ -44,9 +45,13 @@ terms:
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->
-Accounting majors at University of Mary Washington know their business and find jobs keeping track of it. A recent *U.S. News and World Report* article put this lucrative profession in the top 20 top-paying jobs. If you're into spreadsheets, accounts receivable, and audits, check out our bachelor’s degree.
+Accounting majors at University of Mary Washington know their business and find jobs keeping track of it. A recent *U.S. News and World Report* article put this lucrative profession in the top 20 top-paying jobs. If you\'re into spreadsheets, accounts receivable, and audits, check out our bachelor’s degree.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Accounting who complete all requirements earn the degree of Bachelor of Science (B.S.) in Business Administration.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 Core business courses will give you a solid foundation for major-specific offerings including Accounting for Managers, Business Law for Accountants, and Auditing.
@@ -54,12 +59,12 @@ Core business courses will give you a solid foundation for major-specific offeri
 
 <!-- internships -->
 ## Internships
-The College of Business recognizes that internships not only help students develop academically, they contribute to the real-world experience and form connections that can lead to careers after graduation. The COB maintains a [list of local internships](http://business.umw.edu/current-students/student-opportunities/available-internships/) that require business and accounting knowledge.
+The College of Business recognizes that internships not only help students develop academically, they contribute to the real-world experience and form connections that can lead to careers after graduation. The COB maintains a [list of local internships]("http://business.umw.edu/current-students/student-opportunities/available-internships/") that require business and accounting knowledge.
 <!-- End internships -->
 
 <!-- honors -->
 ## Honors
-Learn about earning [academic honors](http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/) at the University of Mary Washington.
+Learn about earning [academic honors]("http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/") at the University of Mary Washington.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -67,14 +72,14 @@ Learn about earning [academic honors](http://publications.umw.edu/undergraduatec
 
 <!-- major-requirements -->
 ### Major Requirements
-The [accounting major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/accounting-major/) requires 12 prerequisite credits, 30 core business credits, and 18 credits in upper-level accounting courses.
+The [accounting major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/accounting-major/") requires 12 prerequisite credits, 30 core business credits, and 18 credits in upper-level accounting courses.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-The College of Business offers multiple [scholarships](http://business.umw.edu/current-students/undergraduate-scholarships/) for qualified students.
+The College of Business offers multiple [scholarships]("http://business.umw.edu/current-students/undergraduate-scholarships/") for qualified students.
 <!-- End scholarships -->
 
 <!-- resource-links -->
