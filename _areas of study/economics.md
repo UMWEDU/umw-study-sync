@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/economics/index.html
 published: true
 post_date: 2015-07-28 19:19:10
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Economics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Economics.</span></p>'
 wpcf-home-page-feature: >
   https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg
 wpcf-value-proposition: |
@@ -45,22 +46,26 @@ terms:
 <!-- End video -->
 
 <!-- value-proposition -->
-Could you survive on $2 a day? The nationwide $2-a-day challenge began on our campus and exemplifies the creative teaching and thinking you'll find in our economics program. Here you'll mix macro-<span class="Apple-converted-space"> </span>and microeconomics with electives like money, banking, and global finance. You'll analyze and apply data, publish original research in our undergraduate journal, and become<span class="Apple-converted-space"> </span>a creative, problem-solving economist.
+Could you survive on $2 a day? The nationwide $2-a-day challenge began on our campus and exemplifies the creative teaching and thinking you\'ll find in our economics program. Here you\'ll mix macro-<span class=""Apple-converted-space""> </span>and microeconomics with electives like money, banking, and global finance. You\'ll analyze and apply data, publish original research in our undergraduate journal, and become<span class=""Apple-converted-space""> </span>a creative, problem-solving economist.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Economics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Economics.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
-Study micro-, macro-, industrial, environmental, health, urban and regional economics. You can take courses in the economics of social issues; government and business; money and banking; public finance; philanthropy; the<span class="Apple-converted-space"> </span>history of economics; investment analysis; poverty, affluence, and equality; and more.
+Study micro-, macro-, industrial, environmental, health, urban and regional economics. You can take courses in the economics of social issues; government and business; money and banking; public finance; philanthropy; the<span class=""Apple-converted-space""> </span>history of economics; investment analysis; poverty, affluence, and equality; and more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
 ## Internships
-UMW students have benefited from internships with SunTrust Mortgage, Edward Jones Investments, the Washington Capitals, CNN's "Crossfire," Booz Allen Hamilton, the Environmental Protection Agency, Prudential Securities, the First Nations Development Institute, Paine Webber, the Virginia Credit Union, and more.
+UMW students have benefited from internships with SunTrust Mortgage, Edward Jones Investments, the Washington Capitals, CNN\'s \"Crossfire,\" Booz Allen Hamilton, the Environmental Protection Agency, Prudential Securities, the First Nations Development Institute, Paine Webber, the Virginia Credit Union, and more.
 <!-- End internships -->
 
 <!-- honors -->
 ## Honors
-To receive departmental honors in economics you'll need at least a 3.5 GPA in the major. You'll complete an individual study and write and defend an honors thesis during your senior year. UMW also has <span class="s1">a chapter of Omicron Delta Epsilon, an international economics honor society.</span>
+To receive departmental honors in economics you\'ll need at least a 3.5 GPA in the major. You\'ll complete an individual study and write and defend an honors thesis during your senior year. UMW also has <span class=""s1"">a chapter of Omicron Delta Epsilon, an international economics honor society.</span>
 <!-- End honors -->
 
 <!-- requirements -->
@@ -68,19 +73,19 @@ To receive departmental honors in economics you'll need at least a 3.5 GPA in th
 
 <!-- major-requirements -->
 ### Major Requirements
-The [economics major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/econ/) requires 39 credits, including eight core courses and five electives.
+The [economics major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/econ/") requires 39 credits, including eight core courses and five electives.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-An [economics minor](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/econ/) requires 21 credits, including four core courses and three electives.
+An [economics minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/econ/") requires 21 credits, including four core courses and three electives.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-Numerous [scholarships and awards](http://cas.umw.edu/economics/majoring-in-economics/honors-and-awards/) are available for economics majors.
+Numerous [scholarships and awards]("http://cas.umw.edu/economics/majoring-in-economics/honors-and-awards/") are available for economics majors.
 <!-- End scholarships -->
 
 <!-- resource-links -->
