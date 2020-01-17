@@ -8,6 +8,7 @@ permalink: >
   /study/areas/english-creative-writing/index.html
 published: true
 post_date: 2018-12-04 22:09:00
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in English: Creative Writing who complete all requirements earn the degree of Bachelor of Arts (B.A.) in English.</span></p>'
 wpcf-value-proposition: >
   When you major in English with a
   concentration in creative writing at
@@ -56,6 +57,10 @@ terms:
 When you major in English with a concentration in creative writing at University of Mary Washington, you will study multiple genres with award-winning authors. You will learn to be a more thoughtful reader as you develop your writing skills. You’ll learn to think critically and communicate clearly, skills that will enhance your value in a career or graduate school.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in English: Creative Writing who complete all requirements earn the degree of Bachelor of Arts (B.A.) in English.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 Creative writing at the University of Mary Washington includes courses in poetry, fiction, and non-fiction.
@@ -63,12 +68,12 @@ Creative writing at the University of Mary Washington includes courses in poetry
 
 <!-- internships -->
 ## Internships
-Students may complete for-credit [internships](http://cas.umw.edu/elc/careers/career-preparation/making-yourself-employable/internships/) to gain knowledge and job experience. Many students study abroad to increase cultural awareness, broaden their perspectives, and develop skills for an increasingly international employment marketplace.
+Students may complete for-credit [internships]("http://cas.umw.edu/elc/careers/career-preparation/making-yourself-employable/internships/") to gain knowledge and job experience. Many students study abroad to increase cultural awareness, broaden their perspectives, and develop skills for an increasingly international employment marketplace.
 <!-- End internships -->
 
 <!-- honors -->
 ## Honors
-To earn [honors in English](http://cas.umw.edu/elc/elc-programs-and-related-information/honors/), you must have a 3.7 GPA in the major and earn an A on an honors project approved by your advisor.
+To earn [honors in English]("http://cas.umw.edu/elc/elc-programs-and-related-information/honors/"), you must have a 3.7 GPA in the major and earn an A on an honors project approved by your advisor.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -83,7 +88,7 @@ The concentration requires 36 credits, including five creative writing courses a
 
 <!-- scholarships -->
 ## Scholarships
-The Department of English, Linguistics, and Communication offers numerous [scholarships and awards](http://cas.umw.edu/elc/scholarships-and-prizes/), include some available specifically for the study of creative writing.
+The Department of English, Linguistics, and Communication offers numerous [scholarships and awards]("http://cas.umw.edu/elc/scholarships-and-prizes/"), include some available specifically for the study of creative writing.
 <!-- End scholarships -->
 
 <!-- resource-links -->
