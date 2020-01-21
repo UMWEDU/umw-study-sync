@@ -8,6 +8,7 @@ permalink: >
   /study/areas/conservation-biology/index.html
 published: true
 post_date: 2020-01-21 21:46:23
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Conservation Biology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Biology.</span></p>'
 wpcf-value-proposition: >
   Are you passionate about preserving the
   earth’s biological diversity and the
@@ -86,6 +87,10 @@ terms:
 Are you passionate about preserving the earth’s biological diversity and the ecosystems that depend on it? If so, a major in conservation biology may be right for you. From protecting endangered animals to restoring native plant communities, you can pursue your deepest interests through the conservation biology major. This program provides cross-disciplinary approaches and high-impact learning opportunities that will help you land a rewarding career that makes a positive difference.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Conservation Biology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Biology.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 This major combines the strengths of biology, environmental science, and geography to prepare students for careers in conservation biology. Majors must complete core courses in ecology, biodiversity, genetics, research design, and biostatistics. They take one course in GIS and a non-science course addressing the ethical and political aspects of conservation.
