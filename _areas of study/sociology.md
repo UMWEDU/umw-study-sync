@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/sociology/index.html
 published: true
 post_date: 2015-07-28 17:26:13
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Sociology who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Sociology.</span></p>'
 wpcf-value-proposition: >
   Our bachelor’s program in sociology
   unravels some of the mysteries of human
@@ -77,6 +78,10 @@ terms:
 Our bachelor’s program in sociology unravels some of the mysteries of human relationships. What causes us to behave the way we do? Where do our values come from? What fuels peer pressure? How do we develop our attitudes toward others? What affects family life? If you’ve often pondered questions like these, sociology may be the major for you.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Sociology who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Sociology.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 At UMW, you’ll get a strong foundation in sociological theory and research methods through the study of socialization, culture, social organization, social change, differentiation, and inequality. Courses focus on such topics as ethnic and racial relations, family, gender, medicine, occupations and professions, organizations, politics and the state, popular culture, population, religion, urban life, aging, juvenile delinquency, and criminology.
@@ -100,13 +105,13 @@ Sociology student interns often work with agencies in the Fredericksburg region,
 - Human Rights Campaign – LGBT equality group based in Washington, D.C.
 - U.S. Census Bureau (D.C.)
 - U.S. Sentencing Commission (D.C.)
-
-Learn more about [internships in sociology](http://cas.umw.edu/sociologyanthropology/resources/internships-socg-or-anth-499/).
+ 
+ Learn more about [internships in sociology]("http://cas.umw.edu/sociologyanthropology/resources/internships-socg-or-anth-499/").
 <!-- End internships -->
 
 <!-- honors -->
 ## Honors
-To graduate with honors in sociology, majors must have maintained a grade point average of 3.5 or better and completed all honors requirements including certain upper-level classes and an honors thesis. Find the details at the [Sociology Departmental Honors page](http://cas.umw.edu/sociologyanthropology/resources/departmental-honors/).
+To graduate with honors in sociology, majors must have maintained a grade point average of 3.5 or better and completed all honors requirements including certain upper-level classes and an honors thesis. Find the details at the [Sociology Departmental Honors page]("http://cas.umw.edu/sociologyanthropology/resources/departmental-honors/").
 <!-- End honors -->
 
 <!-- requirements -->
@@ -114,14 +119,14 @@ To graduate with honors in sociology, majors must have maintained a grade point 
 
 <!-- major-requirements -->
 ### Major Requirements
-The requirements for a degree in [sociology](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/socg/) include one introductory sociology course, three upper-level sociology courses that include research methods, history, and contemporary theory, and 18 credits of upper-level sociology courses.
+The requirements for a degree in [sociology]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/socg/") include one introductory sociology course, three upper-level sociology courses that include research methods, history, and contemporary theory, and 18 credits of upper-level sociology courses.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-One [Bill Hanson Memorial Scholarship](http://cas.umw.edu/sociologyanthropology/bill-hanson-memorial-scholarship/) is awarded in a late professor’s honor each year to a deserving student. The award is based on merit, financial need, and commitment to peace and social justice.
+One [Bill Hanson Memorial Scholarship]("http://cas.umw.edu/sociologyanthropology/bill-hanson-memorial-scholarship/") is awarded in a late professor’s honor each year to a deserving student. The award is based on merit, financial need, and commitment to peace and social justice.
 <!-- End scholarships -->
 
 <!-- resource-links -->
