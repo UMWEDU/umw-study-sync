@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/religion/index.html
 published: true
 post_date: 2015-07-28 17:43:42
+wpcf-degree-awarded: '<span style="font-size: 12.0pt;">Students majoring in Religious Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Philosophy and Religious Studies.</span>'
 wpcf-value-proposition: >
   Religions affect more than beliefs –
   they influence politics, shape culture,
@@ -61,9 +62,13 @@ terms:
 Religions affect more than beliefs – they influence politics, shape culture, and create conflict and unity. At UMW, you will delve into the languages and beliefs that surround Christianity, Judaism, Islam, Hinduism, Buddhism, and other religions to better understand how religious beliefs affect our lives.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Religious Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Philosophy and Religious Studies.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
-Study traditions, texts, and people to learn the historical and cultural impact of the world's major religions. This program doesn't ascribe to any particular belief system. Students work work one-on-one with faculty on research and a senior thesis and are encouraged to explore other disciplines – such as philosophy and anthropology – to help identify their special interests.
+Study traditions, texts, and people to learn the historical and cultural impact of the world\'s major religions. This program doesn\'t ascribe to any particular belief system. Students work work one-on-one with faculty on research and a senior thesis and are encouraged to explore other disciplines – such as philosophy and anthropology – to help identify their special interests.
 <!-- End areas-of-study -->
 
 <!-- internships -->
@@ -81,14 +86,14 @@ To receive honors in religious studies, you will need at least a 3.5 grade-point
 
 <!-- major-requirements -->
 ### Major Requirements
-The [religious studies](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/relg/) requires 30 credits in approved core and elective courses. All religious studies majors must complete a capstone course, in which they’ll write and present a thesis. Some classics or philosophy courses may count toward the major.
+The [religious studies]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/relg/") requires 30 credits in approved core and elective courses. All religious studies majors must complete a capstone course, in which they’ll write and present a thesis. Some classics or philosophy courses may count toward the major.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-In addition to general scholarships awarded by the university, religious studies faculty award two [scholarships](http://cas.umw.edu/clpr/religion-program/honors-awards-scholarships/) specific to the religious studies major.
+In addition to general scholarships awarded by the university, religious studies faculty award two [scholarships]("http://cas.umw.edu/clpr/religion-program/honors-awards-scholarships/") specific to the religious studies major.
 <!-- End scholarships -->
 
 <!-- resource-links -->
