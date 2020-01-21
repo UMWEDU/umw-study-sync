@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/german/index.html
 published: true
 post_date: 2015-07-28 17:53:04
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in German who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Modern Foreign Languages.</span></p>'
 wpcf-home-page-feature: >
   https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg
 wpcf-value-proposition: "If you're passionate about learning spoken and written German, its literature, and its diverse cultures, the University of Mary Washington can help you attain mastery. Our program brings language and culture to life through small, intensive classes and fully equipped labs. At UMW, you'll study with expert teachers, converse with native speakers, and take advantage of cultural events in nearby Richmond, Virginia, and Washington, D.C. UMW strongly encourages German majors to study abroad through our partner university in Erfurt, Germany, or in programs in Austria and Switzerland."
@@ -62,9 +63,13 @@ terms:
 <!-- End video -->
 
 <!-- value-proposition -->
-If you're passionate about learning spoken and written German, its literature, and its diverse cultures, the University of Mary Washington can help you attain mastery. Our program brings language and culture to life through small, intensive classes and fully equipped labs. At UMW, you'll study with expert teachers, converse with native speakers, and take advantage of cultural events in nearby Richmond, Virginia, and Washington, D.C. UMW strongly encourages German majors to study abroad through our partner university in Erfurt, Germany, or in programs in Austria and Switzerland.
+If you\'re passionate about learning spoken and written German, its literature, and its diverse cultures, the University of Mary Washington can help you attain mastery. Our program brings language and culture to life through small, intensive classes and fully equipped labs. At UMW, you\'ll study with expert teachers, converse with native speakers, and take advantage of cultural events in nearby Richmond, Virginia, and Washington, D.C. UMW strongly encourages German majors to study abroad through our partner university in Erfurt, Germany, or in programs in Austria and Switzerland.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in German who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Modern Foreign Languages.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 UMW offers beginning and intermediate German; introduction to German literature; business German; German civilization; numerous advanced German literature courses; advanced grammar, conversation, and composition; seminars in German; individual studies; and for-credit internships.
@@ -77,7 +82,7 @@ Internships offer hands-on experience and course credit to juniors and seniors. 
 
 <!-- honors -->
 ## Honors
-Students who have at least a 3.5 grade-point average in the French major and a 3.0 GPA overall by the beginning of senior year can apply to complete a research-based thesis for [departmental honors](http://cas.umw.edu/modernlanguages/departmental-honors/). A three-member committee will hear the thesis defense and determine whether honors will be awarded. An undergraduate research grant, awarded through the Office of Academic Affairs, may be available for travel and other thesis-related expenses.
+Students who have at least a 3.5 grade-point average in the French major and a 3.0 GPA overall by the beginning of senior year can apply to complete a research-based thesis for [departmental honors]("http://cas.umw.edu/modernlanguages/departmental-honors/"). A three-member committee will hear the thesis defense and determine whether honors will be awarded. An undergraduate research grant, awarded through the Office of Academic Affairs, may be available for travel and other thesis-related expenses.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -85,19 +90,19 @@ Students who have at least a 3.5 grade-point average in the French major and a 3
 
 <!-- major-requirements -->
 ### Major Requirements
-[Students complete](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/german/) eight courses on the advanced level, including two required courses in writing and speaking; one required course in literature and culture; and five electives in advanced literature, culture, or language.
+[Students complete]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/german/") eight courses on the advanced level, including two required courses in writing and speaking; one required course in literature and culture; and five electives in advanced literature, culture, or language.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [German minor](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/german/) requires 26 credits including core classes and three upper-level electives. The [minor in business German](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/) also requires 26 credits including a sequence of business or economics courses.
+The [German minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/german/") requires 26 credits including core classes and three upper-level electives. The [minor in business German]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/") also requires 26 credits including a sequence of business or economics courses.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-Eligible students can apply for [scholarships](http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/) to defray costs of faculty-led travel programs. Multiple awards are made each semester. Several scholarships also are available to help students spend a semester studying abroad.
+Eligible students can apply for [scholarships]("http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/") to defray costs of faculty-led travel programs. Multiple awards are made each semester. Several scholarships also are available to help students spend a semester studying abroad.
 <!-- End scholarships -->
 
 <!-- resource-links -->
