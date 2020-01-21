@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/psychology/index.html
 published: true
 post_date: 2015-07-28 18:17:31
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Psychology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Psychology.</span></p>'
 wpcf-home-page-feature: >
   https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg
 wpcf-value-proposition: >
@@ -66,6 +67,10 @@ terms:
 Our bachelor’s program in psychology takes you into the human mind. Learn the basics of behavior theory and psychological disorders. Do research, learn statistical analysis, and explore classes in personality and development. Take advantage of facilities for behavioral research with animals; cognitive psychology, social/developmental psychology, and physiology labs; and collaboration rooms and computer labs. Experience internships in criminal justice, mental health, and disability services as you shape your future career.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Psychology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Psychology.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 Psychology majors study traditional areas of psychology and its recent trends and theories. They receive extensive training in methodology and statistics. Many students join faculty-led research teams and conduct yearlong research projects. The psychology major emphasizes developing skills in critical thinking, writing, oral communication, and research.
@@ -73,12 +78,12 @@ Psychology majors study traditional areas of psychology and its recent trends an
 
 <!-- internships -->
 ## Internships
-Psychology majors must take at least one out-of-the-classroom course, called [experiential learning](http://cas.umw.edu/psychology/experiential-learning/). You may do a yearlong research project with a faculty member, then present your work at a conference. Or you can find a relevant internship or opportunity for community service.
+Psychology majors must take at least one out-of-the-classroom course, called [experiential learning]("http://cas.umw.edu/psychology/experiential-learning/"). You may do a yearlong research project with a faculty member, then present your work at a conference. Or you can find a relevant internship or opportunity for community service.
 <!-- End internships -->
 
 <!-- honors -->
 ## Honors
-Psychology majors may qualify to join the [Psi Chi honor society](http://cas.umw.edu/psychology/psi-chi/). Learn more about [earning academic honors](http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/) for your major.
+Psychology majors may qualify to join the [Psi Chi honor society]("http://cas.umw.edu/psychology/psi-chi/"). Learn more about [earning academic honors]("http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/") for your major.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -86,19 +91,19 @@ Psychology majors may qualify to join the [Psi Chi honor society](http://cas.umw
 
 <!-- major-requirements -->
 ### Major Requirements
-The [major in psychology](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/psyc/) requires 37 credit hours, beginning with general psychology. You’ll take five more required courses, then choose upper-level courses from specific psychology disciplines. You’ll complete a research seminar and an out-of-class experience.
+The [major in psychology]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/psyc/") requires 37 credit hours, beginning with general psychology. You’ll take five more required courses, then choose upper-level courses from specific psychology disciplines. You’ll complete a research seminar and an out-of-class experience.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-Those interested in psychiatric healthcare, pharmacology, or related graduate training may be interested in the [neuroscience minor](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/neuroscience-minor/).
+Those interested in psychiatric healthcare, pharmacology, or related graduate training may be interested in the [neuroscience minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/neuroscience-minor/").
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-The Department of Psychological Science offers three named [scholarships](http://cas.umw.edu/psychology/for-students/scholarship-information/), each of which may have more than one recipient in an academic year.
+The Department of Psychological Science offers three named [scholarships]("http://cas.umw.edu/psychology/for-students/scholarship-information/"), each of which may have more than one recipient in an academic year.
 <!-- End scholarships -->
 
 <!-- resource-links -->
