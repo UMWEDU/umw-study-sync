@@ -8,6 +8,7 @@ permalink: >
   /study/areas/historic-preservation/index.html
 published: true
 post_date: 2015-07-28 18:10:34
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Historic Preservation who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Historic Preservation.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/DSC_8115_HP-1024x489e.jpg
 wpcf-value-proposition: "The University of Mary Washington in historic Fredericksburg, Virginia, is home to one of the nation's oldest and most respected programs in historic preservation. Here, you'll join fellow scholars and master teachers who are passionate about preserving the physical links to our past. You'll come to understand the people of earlier times through the buildings, objects, and landscapes they left behind -- and you'll help to preserve those important tangible pieces of history. Through UMW's rigorous  interdisciplinary liberal arts program, you'll gain the critical-thinking, research, and communications skills you'll need to make a difference as a working preservationist."
@@ -49,9 +50,13 @@ terms:
 <!-- End video -->
 
 <!-- value-proposition -->
-The University of Mary Washington in historic Fredericksburg, Virginia, is home to one of the nation's oldest and most respected programs in historic preservation. Here, you'll join fellow scholars and master teachers who are passionate about preserving the physical links to our past. You'll come to understand the people of earlier times through the buildings, objects, and landscapes they left behind -- and you'll help to preserve those important tangible pieces of history. Through UMW's rigorous interdisciplinary liberal arts program, you'll gain the critical-thinking, research, and communications skills you'll need to make a difference as a working preservationist.
+The University of Mary Washington in historic Fredericksburg, Virginia, is home to one of the nation\'s oldest and most respected programs in historic preservation. Here, you\'ll join fellow scholars and master teachers who are passionate about preserving the physical links to our past. You\'ll come to understand the people of earlier times through the buildings, objects, and landscapes they left behind -- and you\'ll help to preserve those important tangible pieces of history. Through UMW\'s rigorous interdisciplinary liberal arts program, you\'ll gain the critical-thinking, research, and communications skills you\'ll need to make a difference as a working preservationist.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Historic Preservation who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Historic Preservation.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 Historic preservation at the University of Mary Washington encompasses architectural conservation, archaeology, urban planning and design, documentation, folk studies and folklore, fieldwork, material culture, museum curatorship and management, and international preservation.
@@ -59,12 +64,12 @@ Historic preservation at the University of Mary Washington encompasses architect
 
 <!-- internships -->
 ## Internships
-Fredericksburg's many museums and historic sites are a fertile ground for internships for historic preservation majors. And our proximity to Richmond, Virginia, and Washington, D.C., creates even more opportunities. Many UMW students find paid internship opportunities with the National Park Service and the Department of the Interior, and some positions are open only to historic preservation majors.
+Fredericksburg\'s many museums and historic sites are a fertile ground for internships for historic preservation majors. And our proximity to Richmond, Virginia, and Washington, D.C., creates even more opportunities. Many UMW students find paid internship opportunities with the National Park Service and the Department of the Interior, and some positions are open only to historic preservation majors.
 <!-- End internships -->
 
 <!-- honors -->
 ## Honors
-To be considered for honors in historic preservation, you must have achieved a cumulative grade-point average of 3.0 overall and at least 3.25 in historic preservation by the end of junior year. During the senior year, you'll complete an honors thesis involving two semesters of original research and writing. It may be in any area of preservation, including archaeology, architectural conservation or history, folk culture, landscape, museums, preservation law, and preservation planning. The thesis must be accepted by the historic preservation faculty, which then decides whether to grant honors upon commencement.
+To be considered for honors in historic preservation, you must have achieved a cumulative grade-point average of 3.0 overall and at least 3.25 in historic preservation by the end of junior year. During the senior year, you\'ll complete an honors thesis involving two semesters of original research and writing. It may be in any area of preservation, including archaeology, architectural conservation or history, folk culture, landscape, museums, preservation law, and preservation planning. The thesis must be accepted by the historic preservation faculty, which then decides whether to grant honors upon commencement.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -72,14 +77,14 @@ To be considered for honors in historic preservation, you must have achieved a c
 
 <!-- major-requirements -->
 ### Major Requirements
-The [historic preservation major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/historic-preservation-major/) requires 36 credits from introductory, intermediate, and advanced course offerings within the department. Independent study and an internship are strongly encouraged.
+The [historic preservation major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/historic-preservation-major/") requires 36 credits from introductory, intermediate, and advanced course offerings within the department. Independent study and an internship are strongly encouraged.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-UMW historic preservation majors can apply for numerous dedicated [scholarships](http://cas.umw.edu/hisp/scholarships/).
+UMW historic preservation majors can apply for numerous dedicated [scholarships]("http://cas.umw.edu/hisp/scholarships/").
 <!-- End scholarships -->
 
 <!-- resource-links -->
