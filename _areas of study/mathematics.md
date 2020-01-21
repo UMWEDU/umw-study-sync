@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/mathematics/index.html
 published: true
 post_date: 2015-07-28 19:31:55
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Mathematics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Mathematics.</span></p>'
 wpcf-home-page-feature: >
   https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg
 wpcf-value-proposition: "Major in mathematics at the University of Mary Washington and you'll expand your analytical and critical-thinking abilities. You'll work on original mathematics, present at professional meetings, and maybe even publish your work. You'll graduate ready to solve problems creatively in any professional field or in graduate school."
@@ -63,12 +64,16 @@ terms:
 <!-- End video -->
 
 <!-- value-proposition -->
-Major in mathematics at the University of Mary Washington and you'll expand your analytical and critical-thinking abilities. You'll work on original mathematics, present at professional meetings, and maybe even publish your work. You'll graduate ready to solve problems creatively in any professional field or in graduate school.
+Major in mathematics at the University of Mary Washington and you\'ll expand your analytical and critical-thinking abilities. You\'ll work on original mathematics, present at professional meetings, and maybe even publish your work. You\'ll graduate ready to solve problems creatively in any professional field or in graduate school.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Mathematics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Mathematics.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
-You'll choose from courses in algebra, analysis, topology (modern geometry), discrete mathematics (mathematics of computer science), number theory, statistics, dynamical systems, stochastic partial differential equations (mathematical models), scientific computation (numerical analysis and simulation), and financial mathematics.
+You\'ll choose from courses in algebra, analysis, topology (modern geometry), discrete mathematics (mathematics of computer science), number theory, statistics, dynamical systems, stochastic partial differential equations (mathematical models), scientific computation (numerical analysis and simulation), and financial mathematics.
 <!-- End areas-of-study -->
 
 <!-- internships -->
@@ -78,7 +83,7 @@ The Fredericksburg and Washington, D.C., metropolitan areas offer many internshi
 
 <!-- honors -->
 ## Honors
-As a mathematics major, you may graduate with honors. Requirements include a grade-point average of 3.5 in the major (3.0 overall) and two 400-level mathematics courses. Under the supervision of an advisor, you'll complete either a directed study or undergraduate research project. You'll write a thesis and present it to the mathematics department.
+As a mathematics major, you may graduate with honors. Requirements include a grade-point average of 3.5 in the major (3.0 overall) and two 400-level mathematics courses. Under the supervision of an advisor, you\'ll complete either a directed study or undergraduate research project. You\'ll write a thesis and present it to the mathematics department.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -86,19 +91,19 @@ As a mathematics major, you may graduate with honors. Requirements include a gra
 
 <!-- major-requirements -->
 ### Major Requirements
-The [mathematics major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/math/) requires 36 credits, of which 15 must come from specified courses in calculus, multivariable calculus, linear algebra, abstract algebra, and real analysis. Additional credits must be earned from 300- and 400-level classes. Mathematics electives or certain computer science, physics, and philosophy courses also may count toward the major.
+The [mathematics major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/math/") requires 36 credits, of which 15 must come from specified courses in calculus, multivariable calculus, linear algebra, abstract algebra, and real analysis. Additional credits must be earned from 300- and 400-level classes. Mathematics electives or certain computer science, physics, and philosophy courses also may count toward the major.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-Students from any discipline may [minor in mathematics](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/math/). The mathematics minor requires 18 mathematics credits. At least 12 credits must be earned from mathematics courses at the 300 level or above. Students can also minor in [applied mathematics](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/apmt/) or [actuarial science](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/actuarial-science/).
+Students from any discipline may [minor in mathematics]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/math/"). The mathematics minor requires 18 mathematics credits. At least 12 credits must be earned from mathematics courses at the 300 level or above. Students can also minor in [applied mathematics]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/apmt/") or [actuarial science]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/actuarial-science/").
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-Several [scholarships and honor societies](http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/) are open to mathematics majors.
+Several [scholarships and honor societies]("http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/") are open to mathematics majors.
 <!-- End scholarships -->
 
 <!-- resource-links -->
