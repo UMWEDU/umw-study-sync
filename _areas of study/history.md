@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/history/index.html
 published: true
 post_date: 2015-07-28 18:31:20
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in History who complete all requirements earn the degree of Bachelor of Arts (B.A.) in History.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/history-class-2014_candice-leahe.jpg
 wpcf-value-proposition: |
@@ -51,9 +52,13 @@ terms:
 <!-- End video -->
 
 <!-- value-proposition -->
-Explore world and American history in Fredericksburg, Virginia, a city with a long human story of its own. Here you can study pre-European cultures, the American Revolution, the Civil War, and the 20th century -- and that's just outside the classroom. UMW's master teachers will ground you in a broad knowledge of history and help you narrow your focus to gain specialized expertise. You'll leave ready to make a difference in a career or graduate school.
+Explore world and American history in Fredericksburg, Virginia, a city with a long human story of its own. Here you can study pre-European cultures, the American Revolution, the Civil War, and the 20th century -- and that\'s just outside the classroom. UMW\'s master teachers will ground you in a broad knowledge of history and help you narrow your focus to gain specialized expertise. You\'ll leave ready to make a difference in a career or graduate school.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in History who complete all requirements earn the degree of Bachelor of Arts (B.A.) in History.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 The history curriculum offers courses from ancient to modern times in the Americas and around the world. The major is distinctive for courses that develop critical judgment, including first-year seminars, history colloquium and practicum, and a senior-level historical research class.
@@ -61,7 +66,7 @@ The history curriculum offers courses from ancient to modern times in the Americ
 
 <!-- internships -->
 ## Internships
-UMW is in history-rich Fredericksburg and an hour's drive from Washington, D.C., and Richmond, Virginia, making our campus an excellent base for a [history-focused internship](http://cas.umw.edu/historyamericanstudies/careers/internships/). UMW students have found internships with the Smithsonian Institution, the National Archives, the U.S. Marine Corps at Quantico, the Fredericksburg and Spotsylvania National Military Park, Mount Vernon, and regional museums.
+UMW is in history-rich Fredericksburg and an hour\'s drive from Washington, D.C., and Richmond, Virginia, making our campus an excellent base for a [history-focused internship]("http://cas.umw.edu/historyamericanstudies/careers/internships/"). UMW students have found internships with the Smithsonian Institution, the National Archives, the U.S. Marine Corps at Quantico, the Fredericksburg and Spotsylvania National Military Park, Mount Vernon, and regional museums.
 <!-- End internships -->
 
 <!-- honors -->
@@ -74,14 +79,14 @@ To be considered for honors in history at graduation, you must have at least a 3
 
 <!-- major-requirements -->
 ### Major Requirements
-The [history major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/hist/) requires 36 credits including survey courses, electives at the 200 level or higher, and electives at the 400 level. Internships are encouraged and may receive academic credit at the discretion of the department chair.
+The [history major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/hist/") requires 36 credits including survey courses, electives at the 200 level or higher, and electives at the 400 level. Internships are encouraged and may receive academic credit at the discretion of the department chair.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-The department awards five [scholarships](http://cas.umw.edu/historyamericanstudies/scholarships-and-awards/) annually through competitive application for history and American studies majors.
+The department awards five [scholarships]("http://cas.umw.edu/historyamericanstudies/scholarships-and-awards/") annually through competitive application for history and American studies majors.
 <!-- End scholarships -->
 
 <!-- resource-links -->
