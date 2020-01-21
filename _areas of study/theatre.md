@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/theatre/index.html
 published: true
 post_date: 2015-07-28 19:29:26
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Theatre who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Performing Arts.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg
 wpcf-value-proposition: >
@@ -66,6 +67,10 @@ terms:
 A major in theatre at the University of Mary Washington prepares you for the world beyond college. Whether you intend to work in theatre professionally, start a career in a related field, or pursue professional training or graduate school, the liberal arts education you receive at the University of Mary Washington will give you a solid foundation. Our flexible major program allows you to concentrate in the area of your greatest interest. You may also pursue a double major or obtain a teaching license.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Theatre who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Performing Arts.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 UMW offers courses in acting, theatre design, technical production, dramatic literature, voice and body movement, dance, stage makeup, costume construction, stage management, arts administration, scene painting, fashion history, playwriting, musical theatre performance, directing, lighting design, and more.
@@ -73,12 +78,12 @@ UMW offers courses in acting, theatre design, technical production, dramatic lit
 
 <!-- internships -->
 ## Internships
-UMW students have found internships and full-time work with such employers as the Virginia Ballet Company, Wolf Trap National Park for the Performing Arts, Rainmaker Studios, Impressions of Fredericksburg, and Ford's Theatre. Many theatre majors gain work experience right on campus, with part-time jobs in the UMW box office, management office, scene shop, costume shop, and electrics shop.
+UMW students have found internships and full-time work with such employers as the Virginia Ballet Company, Wolf Trap National Park for the Performing Arts, Rainmaker Studios, Impressions of Fredericksburg, and Ford\'s Theatre. Many theatre majors gain work experience right on campus, with part-time jobs in the UMW box office, management office, scene shop, costume shop, and electrics shop.
 <!-- End internships -->
 
 <!-- honors -->
 ## Honors
-Learn about earning [academic honors](http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/) for your major.
+Learn about earning [academic honors]("http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/") for your major.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -86,12 +91,12 @@ Learn about earning [academic honors](http://publications.umw.edu/undergraduatec
 
 <!-- major-requirements -->
 ### Major Requirements
-The [theatre major](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/thea/) requires 41 credits including core courses and electives. All theatre majors must enroll in theatre practicum each semester except during the semester of the senior project. Eight practicum credits may count toward graduation.
+The [theatre major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/thea/") requires 41 credits including core courses and electives. All theatre majors must enroll in theatre practicum each semester except during the semester of the senior project. Eight practicum credits may count toward graduation.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-Twenty-four credits are required for the [musical theatre minor](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/).
+Twenty-four credits are required for the [musical theatre minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/").
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
