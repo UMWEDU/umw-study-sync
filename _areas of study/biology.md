@@ -9,8 +9,8 @@ published: true
 post_date: 2015-07-28 16:22:21
 wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Biology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Biology.</span></p>'
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg
-wpcf-value-proposition: '<p class="p1">As a University of Mary Washington biology major, you might collect samples on the Rappahannock River one day then contribute to a class discussion on ecology the next. Our biology major goes beyond molecules and microscopes, feeding your curiosity about living things, fostering the scientific process, and challenging you to find fresh approaches to research.</p>'
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg
+wpcf-value-proposition: '<p class="p1">The biology major presents a wealth of opportunities. From investigating the molecular genetics of microbes to observing the wildlife of the Galapagos Islands, the biology major can meet you where your passions lie, open doors for exploration, and pave the way to an exciting career. Our research intensive program will prepare you to think like a scientist and creatively tackle tomorrow’s challenges in the life sciences.</p>'
 wpcf-areas-of-study: '<p class="p1">Course offerings include human biology, organism function and diversity, botany, chordate anatomy, plant ecology, animal ecology, entomology, histology, genetics, nutrition and metabolism, microbiology, parasitology, animal behavior, neurobiology, endocrinology, vertebrate zoology, ornithology, virology, biology of cancer, and more.</p>'
 wpcf-career-opportunties: '<p class="p1">Biology graduates may find employment in research, health care, environmental conservation, education, biotechnology, forensic science, government and policy, and science publishing, among other fields. Many UMW biology graduates pursue advanced degrees.</p>'
 wpcf-internships: '<p class="p1">UMW biology majors may qualify for paid internships through the <a href="http://csiip.spacegrant.org/students">Commonwealth STEM Industry Internship Program</a>. The Department of Biology helps students learn about and apply for internships in the fields of research, medicine, zoology, botany, and ecology. Students also may find internships with museums in the Fredericksburg area or nearby Richmond, Virginia, and Washington, D.C.</p>'
@@ -38,7 +38,7 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Turtle-08e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
@@ -46,7 +46,7 @@ terms:
 <!-- End video -->
 
 <!-- value-proposition -->
-As a University of Mary Washington biology major, you might collect samples on the Rappahannock River one day then contribute to a class discussion on ecology the next. Our biology major goes beyond molecules and microscopes, feeding your curiosity about living things, fostering the scientific process, and challenging you to find fresh approaches to research.
+The biology major presents a wealth of opportunities. From investigating the molecular genetics of microbes to observing the wildlife of the Galapagos Islands, the biology major can meet you where your passions lie, open doors for exploration, and pave the way to an exciting career. Our research intensive program will prepare you to think like a scientist and creatively tackle tomorrow’s challenges in the life sciences.
 <!-- End value-proposition -->
 
 <!-- degree-awarded -->
