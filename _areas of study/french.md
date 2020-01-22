@@ -7,9 +7,9 @@ layout: areas
 permalink: /study/areas/french/index.html
 published: true
 post_date: 2015-07-28 16:37:37
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in French who complete all requirements earn the degree of Bachelor of Arts (B.A.) in French.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in French who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Modern Foreign Languages.</span></p>'
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg
 wpcf-value-proposition: "Maybe the French language is part of your heritage, or maybe you just loved the courses you took in high school. Now you're seeking mastery of the language, broad exposure to its rich literatures, and knowledge of  the French-speaking cultures. At UMW, you'll challenge yourself with compelling coursework, aided by our language labs and access to computer tutorials. In  conjunction with UMW's strong liberal arts program, you'll prepare yourself for a variety of international careers."
 wpcf-areas-of-study: "UMW's French offerings include composition, phonetics and oral proficiency, a variety of French-language literatures, translation, senior seminars, business French, French cultures, and French cinema. You may spend a semester abroad, or learn intensively in spring and summer faculty-led trips to Paris, Provence, or Quebec."
 wpcf-career-opportunties: |
@@ -41,7 +41,7 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Provence2Paris20152-1024x438e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
@@ -54,7 +54,7 @@ Maybe the French language is part of your heritage, or maybe you just loved the 
 
 <!-- degree-awarded -->
 ## Degree Awarded
-<span style=""font-size:">Students majoring in French who complete all requirements earn the degree of Bachelor of Arts (B.A.) in French.</span>
+<span style=""font-size:">Students majoring in French who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Modern Foreign Languages.</span>
 <!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
