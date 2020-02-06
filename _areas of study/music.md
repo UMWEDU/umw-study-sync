@@ -7,9 +7,9 @@ layout: areas
 permalink: /study/areas/music/index.html
 published: true
 post_date: 2015-07-28 14:05:54
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Music who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Music.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Music who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Music.</span></p>'
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg
 wpcf-value-proposition: >
   Music majors at UMW have shared the
   stage with greats like Itzhak Perlman
@@ -32,15 +32,21 @@ wpcf-areas-of-study: >
   need to plan and schedule courses
   carefully to include elective courses,
   independent study, and internships.
-wpcf-career-opportunties: 'UMW music majors<a href="http://cas.umw.edu/music/mission/"> leave prepared</a> for graduate study, performance, composition, research, production, sound engineering, and more. Graduates who include music education often teach in public schools.'
+wpcf-career-opportunties: >
+  UMW music majors leave prepared for
+  graduate study, performance,
+  composition, research, production, sound
+  engineering, and more. Graduates who
+  include music education often teach in
+  public schools.
 wpcf-internships: >
   Music majors have the opportunity to
   complete internships under faculty
   supervision in music performance and
   music education.
 wpcf-honors: 'Learn more about how to <a href="http://publications.umw.edu/undergraduatecatalog/colleges/cas/honors-program/">earn honors</a> in music at the Honors Program page of the undergraduate catalog.'
-wpcf-major-requirements: 'Students seeking a degree in <a href="http://publications.umw.red/undergraduatecatalog/courses-of-study/majors/musc/">music</a> must complete courses in music theory, music history, and music performance. Placement in individual lessons and ensembles is based on audition, which all music majors must complete. Majors pursuing teaching certification must register with the College of Education and take music education classes.'
-wpcf-scholarships: 'The Department of Music offers many <a href="http://cas.umw.edu/music/scholarships/">scholarships</a>. In addition, the <a href="http://philharmonic.umw.edu/about-the-orchestra/scholarships/">UMW Philharmonic</a> has one of the largest and most progressive scholarship programs in the nation, and it offers generous scholarships to student members.'
+wpcf-major-requirements: 'Students seeking a degree in <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/musc/">music</a> must complete courses in music theory, music history, and music performance. Placement in individual lessons and ensembles is based on audition, which all music majors must complete. Majors pursuing teaching certification must register with the College of Education and take music education classes.'
+wpcf-scholarships: 'The Department of Music offers many <a href="https://cas.umw.edu/music/music-scholarships/">scholarships</a>. In addition, the <a href="http://www.umwphilharmonic.com/">UMW Philharmonic</a> has one of the largest and most progressive scholarship programs in the nation, and it offers generous scholarships to student members.'
 wpcf-department: http://cas.umw.edu/music/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/musc/
@@ -53,7 +59,7 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Music-11e.jpg)
 <!-- End home-page-feature -->
 
 <!-- value-proposition -->
@@ -84,14 +90,14 @@ Learn more about how to [earn honors]("http://publications.umw.edu/undergraduate
 
 <!-- major-requirements -->
 ### Major Requirements
-Students seeking a degree in [music]("http://publications.umw.red/undergraduatecatalog/courses-of-study/majors/musc/") must complete courses in music theory, music history, and music performance. Placement in individual lessons and ensembles is based on audition, which all music majors must complete. Majors pursuing teaching certification must register with the College of Education and take music education classes.
+Students seeking a degree in [music]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/musc/") must complete courses in music theory, music history, and music performance. Placement in individual lessons and ensembles is based on audition, which all music majors must complete. Majors pursuing teaching certification must register with the College of Education and take music education classes.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-The Department of Music offers many [scholarships]("http://cas.umw.edu/music/scholarships/"). In addition, the [UMW Philharmonic]("http://philharmonic.umw.edu/about-the-orchestra/scholarships/") has one of the largest and most progressive scholarship programs in the nation, and it offers generous scholarships to student members.
+The Department of Music offers many [scholarships]("https://cas.umw.edu/music/music-scholarships/"). In addition, the [UMW Philharmonic]("http://www.umwphilharmonic.com/") has one of the largest and most progressive scholarship programs in the nation, and it offers generous scholarships to student members.
 <!-- End scholarships -->
 
 <!-- resource-links -->
