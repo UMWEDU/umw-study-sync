@@ -9,7 +9,7 @@ published: true
 post_date: 2015-07-28 18:39:09
 wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Computer Science who complete all requirements earn the degree of Bachelor of Science (B.S.) in Computer Science.</span></p>'
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg
 wpcf-value-proposition: >
   Want to write cutting-edge software?
   Code the next killer app? Computer
@@ -27,7 +27,7 @@ wpcf-career-opportunties: '<p class="p1"><i>U.S. News &amp; World Report</i> ran
 wpcf-internships: '<p class="p1">Internships allow qualified students to earn academic credit, gain real-world experience, and boost their resumes by working at technical firms, government offices, or software development agencies. Companies that have sponsored recent student internships include Zope Corp., CACI Inc., Systems Technology Forum Ltd., SimVentions, and Computer Sciences Corp.</p>'
 wpcf-honors: '<p class="p1">To earn honors in computer science, students who meet GPA and course prerequisites can undertake individual study under the direction of a department member.</p>'
 wpcf-minor-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cpsc/">minor</a> builds strong programming and problem-solving skills, and is particularly useful when combined with a major in any of the sciences, mathematics, business, economics, linguistics, or geography.'
-wpcf-major-requirements: '<p class="p1">UMW’s <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cpsc/">major in computer science</a> requires 46 credits, including courses in business administration, economics, and math, along with multiple core courses in computer science.</p>'
+wpcf-major-requirements: '<p class="p1">UMW’s <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cpsc/">major in computer science</a> requires 46 credits, including multiple core courses in computer science, as well as electives in areas such as cybersecurity, machine learning and game programming.</p>'
 wpcf-scholarships: 'Computer science majors can apply for several <a href="http://cas.umw.edu/computerscience/scholarships-and-awards/">scholarships and awards</a>.'
 wpcf-department: http://cas.umw.edu/computerscience/
 wpcf-courses: >
@@ -43,7 +43,7 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
@@ -78,7 +78,7 @@ To earn honors in computer science, students who meet GPA and course prerequisit
 
 <!-- major-requirements -->
 ### Major Requirements
-UMW’s [major in computer science]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cpsc/") requires 46 credits, including courses in business administration, economics, and math, along with multiple core courses in computer science.
+UMW’s [major in computer science]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cpsc/") requires 46 credits, including multiple core courses in computer science, as well as electives in areas such as cybersecurity, machine learning and game programming.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
