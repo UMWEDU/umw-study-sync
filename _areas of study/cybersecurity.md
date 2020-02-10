@@ -7,7 +7,25 @@ layout: areas
 permalink: /study/areas/cybersecurity/index.html
 published: true
 post_date: 2018-12-04 22:16:18
-wpcf-value-proposition: 'Cybersecurity is a critical interdisciplinary field that seeks to mitigate the ever-growing number of cyber threats that we all face in a more and more connected world. Whether defending government systems from intrusion, developing more secure software, managing a corporation’s network security, analyzing new forms of malicious software, exploring new software vulnerabilities, managing user security, or implementing new  cryptographic methods, there is a wealth of different areas in cybersecurity that need talented professionals who can not only handle the tasks of today, but also innovate and tackle the security challenges of tomorrow.'
+wpcf-value-proposition: >
+  Cybersecurity is a critical
+  interdisciplinary field that seeks to
+  mitigate the ever-growing number of
+  cyber threats that we all face in a more
+  and more connected world. Whether
+  defending government systems from
+  intrusion, developing more secure
+  software, managing a corporation’s
+  network security, analyzing new forms of
+  malicious software, exploring new
+  software vulnerabilities, managing user
+  security, or implementing new
+  cryptographic methods, there is a wealth
+  of different areas in cybersecurity that
+  need talented professionals who can not
+  only handle the tasks of today, but also
+  innovate and tackle the security
+  challenges of tomorrow.
 wpcf-areas-of-study: >
   The bachelor’s degree program in
   cybersecurity offers an array of
@@ -43,11 +61,11 @@ wpcf-honors: >
   study under the direction of an
   affiliated faculty member.
 wpcf-minor-requirements: 'The cybersecurity <a href="https://cas.umw.edu/computerscience/requirements/cybersecurity-minor/">minor</a>, within the UMW College of Business, requires 17 credits that include classes from computer science, business, and management information systems. You will take such courses as programming and problem solving, software development, network principles and applications, computer and information security, computer ethics, practical ethics, business ethics, and business administration.'
-wpcf-major-requirements: 'UMW’s major in <a href="https://cas.umw.edu/computerscience/requirements/cybersecurity-major/" rel="noopener" target="_blank">cybersecurity</a> requires 44 credits, including a core program of cybersecurity coursework and courses in computer coding, mathematics, networks, and business law.'
-wpcf-scholarships: 'Cybersecurity majors can apply for several <a href="https://cas.umw.edu/computerscience/scholarships-and-awards/" rel="noopener" target="_blank">scholarships and awards.</a>'
+wpcf-major-requirements: 'UMW’s major in <a href="https://cas.umw.edu/computerscience/requirements/cybersecurity-major/" target="_blank" rel="noopener">cybersecurity</a> requires 44 credits, including a core program of cybersecurity coursework and courses in computer coding, mathematics, networks, and business law.'
+wpcf-scholarships: 'Cybersecurity majors can apply for several <a href="https://cas.umw.edu/computerscience/scholarships-and-awards/" target="_blank" rel="noopener">scholarships and awards.</a>'
 wpcf-department: https://cas.umw.edu/computerscience/
 wpcf-courses: >
-  https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cybersecurity-minor/
+  https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cybersecurity-major/
 terms:
   department:
     - cs
@@ -101,7 +119,7 @@ Cybersecurity majors can apply for several [scholarships and awards.]("https://c
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cybersecurity-minor/)
+[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cybersecurity-major/)
 
 <!-- End courses -->
 
