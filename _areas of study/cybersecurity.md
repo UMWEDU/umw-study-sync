@@ -47,12 +47,12 @@ wpcf-minor-requirements: >
   and information security, computer
   ethics, practical ethics, business
   ethics, and business administration.
-wpcf-department: https://business.umw.edu/
+wpcf-department: https://cas.umw.edu/computerscience/
 wpcf-courses: >
   https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cybersecurity-minor/
 terms:
   department:
-    - cob
+    - cs
   key:
     - minor
 ---
@@ -88,7 +88,7 @@ The cybersecurity minor, within the UMW College of Business, requires 17 credits
 
 
 <!-- department -->
-[Department Website](https://business.umw.edu/)
+[Department Website](https://cas.umw.edu/computerscience/)
 
 <!-- End department -->
 
