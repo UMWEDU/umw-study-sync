@@ -7,6 +7,11 @@ layout: areas
 permalink: /study/areas/cybersecurity/index.html
 published: true
 post_date: 2018-12-04 22:16:18
+wpcf-degree-awarded: >
+  Students majoring in Cybersecurity who
+  complete all requirements earn the
+  degree of Bachelor of Science (B.S.) in
+  Computer Science.
 wpcf-value-proposition: >
   Cybersecurity is a critical
   interdisciplinary field that seeks to
@@ -80,6 +85,10 @@ terms:
 Cybersecurity is a critical interdisciplinary field that seeks to mitigate the ever-growing number of cyber threats that we all face in a more and more connected world. Whether defending government systems from intrusion, developing more secure software, managing a corporation’s network security, analyzing new forms of malicious software, exploring new software vulnerabilities, managing user security, or implementing new cryptographic methods, there is a wealth of different areas in cybersecurity that need talented professionals who can not only handle the tasks of today, but also innovate and tackle the security challenges of tomorrow.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+Students majoring in Cybersecurity who complete all requirements earn the degree of Bachelor of Science (B.S.) in Computer Science.
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 The bachelor’s degree program in cybersecurity offers an array of courses, including computer security, system administration, ethics, software security, penetration testing, networking, and more.
