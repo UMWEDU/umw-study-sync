@@ -48,8 +48,7 @@ wpcf-testimonial: |
   “The biology program at UMW was the perfect stepping-stone on my way to veterinary school. The professors and other faculty were so encouraging to me and my peers, and having small classes where I could know them personally made that relationship all the more meaningful. I got a solid education and felt very prepared for my entrance into a professional school.”
   
   – Alexis Pennings ’14, student, Virginia-Maryland Regional College of Veterinary Medicine
-wpcf-department: >
-  http://cas.umw.edu/biology/pre-veterinary-program/
+wpcf-department: https://cas.umw.edu/prehealth/
 terms:
   department:
     - bio
@@ -84,21 +83,21 @@ Students may pursue honors in their major course of study. To receive honors in 
 
 <!-- major-requirements -->
 ### Major Requirements
-Most pre-vet students pursue a [biology degree](http://cas.umw.edu/biology/), but other degrees majors work, too. Most veterinary schools require a rounded undergraduate curriculum including classes in English, biology, chemistry, biochemistry, physics, math, and humanities.
+Most pre-vet students pursue a [biology degree]("http://cas.umw.edu/biology/"), but other degrees majors work, too. Most veterinary schools require a rounded undergraduate curriculum including classes in English, biology, chemistry, biochemistry, physics, math, and humanities.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-The Department of Biology presents several [scholarships and awards](http://cas.umw.edu/biology/awards-scholarships/) annually to outstanding biology majors.
+The Department of Biology presents several [scholarships and awards]("http://cas.umw.edu/biology/awards-scholarships/") annually to outstanding biology majors.
 <!-- End scholarships -->
 
 <!-- resource-links -->
 ## Resource Links
 
 <!-- department -->
-[Department Website](http://cas.umw.edu/biology/pre-veterinary-program/)
+[Department Website](https://cas.umw.edu/prehealth/)
 
 <!-- End department -->
 
