@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/religion/index.html
 published: true
 post_date: 2015-07-28 17:43:42
-wpcf-degree-awarded: '<span style="font-size: 12.0pt;">Students majoring in Religious Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Philosophy and Religious Studies.</span>'
+wpcf-degree-awarded: '<span style="font-size: 12.0pt">Students majoring in Religious Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Philosophy and Religious Studies.</span>'
 wpcf-value-proposition: >
   Religions affect more than beliefs –
   they influence politics, shape culture,
@@ -41,7 +41,7 @@ wpcf-honors: 'To receive honors in religious studies, you will need at least a 3
 wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/relg/">religious studies</a> requires 30 credits in approved core and elective courses. All religious studies majors must complete a capstone course, in which they’ll write and present a thesis. Some classics or philosophy courses may count toward the major.'
 wpcf-scholarships: 'In addition to general scholarships awarded by the university, religious studies faculty award two <a href="http://cas.umw.edu/clpr/religion-program/honors-awards-scholarships/">scholarships</a> specific to the religious studies major.'
 wpcf-department: >
-  http://cas.umw.edu/clpr/religion-program/
+  https://cas.umw.edu/clpr/religious-studies-program/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/relg/
 wpcf-video: https://vimeo.com/131563072
@@ -106,7 +106,7 @@ In addition to general scholarships awarded by the university, religious studies
 
 
 <!-- department -->
-[Department Website](http://cas.umw.edu/clpr/religion-program/)
+[Department Website](https://cas.umw.edu/clpr/religious-studies-program/)
 
 <!-- End department -->
 
