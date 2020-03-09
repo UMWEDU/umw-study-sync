@@ -34,7 +34,9 @@ wpcf-areas-of-study: >
   China, and the politics of East and
   South Asia.
 wpcf-career-opportunties: .
-wpcf-internships: 'The University of Mary Washington’s unique location near the nation’s capital offers plenty of prestigious internships to boost students’ resumes and international understanding. More information on internship opportunities can be found on the <a href="http://academics.umw.edu/academicandcareerservices/links-to-internship-opportunities/">Academic and Career Services site</a>.'
+wpcf-internships: |
+  The University of Mary Washington’s unique location near the nation’s capital offers plenty of prestigious internships to boost students’ resumes and international understanding. More information on internship opportunities can be found on the <a href="https://www.umw.edu/careercenter/students/internships/
+  ">Academic and Career Services site</a>.
 wpcf-minor-requirements: >
   The Asian Studies minor requires 24
   credits, including two semesters of an
@@ -70,7 +72,7 @@ The Asian studies minor at UMW explores Asian art, civilization, and geography. 
 
 <!-- internships -->
 ## Internships
-The University of Mary Washington’s unique location near the nation’s capital offers plenty of prestigious internships to boost students’ resumes and international understanding. More information on internship opportunities can be found on the [Academic and Career Services site](http://academics.umw.edu/academicandcareerservices/links-to-internship-opportunities/).
+The University of Mary Washington’s unique location near the nation’s capital offers plenty of prestigious internships to boost students’ resumes and international understanding. More information on internship opportunities can be found on the [Academic and Career Services site]("https://www.umw.edu/careercenter/students/internships/).
 <!-- End internships -->
 
 <!-- requirements -->
@@ -85,7 +87,7 @@ The Asian Studies minor requires 24 credits, including two semesters of an Asian
 
 <!-- scholarships -->
 ## Scholarships
-Find out more information about [scholarships available](http://cas.umw.edu/asian/scholarship/) to Asian studies minors.
+Find out more information about [scholarships available]("http://cas.umw.edu/asian/scholarship/") to Asian studies minors.
 <!-- End scholarships -->
 
 <!-- resource-links -->
