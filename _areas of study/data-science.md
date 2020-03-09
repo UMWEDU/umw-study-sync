@@ -39,13 +39,13 @@ wpcf-career-opportunties: >
   people with deep analytical expertise
   and 1.5 million managers with basic
   analytics skills by 2018.
-wpcf-internships: 'At UMW, internships give data science minors valuable real-world experience and resume-boosting on-the-job training. The Department of Computer Science offers internships at technical firms, government offices, and software development agencies such as Zope Corp., Computer Sciences Corp., and Systems Technology Forum Ltd. Many data science students find internships with the Dahlgren naval base and affiliated defense contractors. Plenty of analytics and data science opportunities, many with nonprofits, exist in nearby Washington, D.C. A complete list of available internships is provided by <a href="http://academics.umw.edu/academicandcareerservices/">Career Services</a>.'
+wpcf-internships: 'At UMW, internships give data science minors valuable real-world experience and resume-boosting on-the-job training. The Department of Computer Science offers internships at technical firms, government offices, and software development agencies such as Zope Corp., Computer Sciences Corp., and Systems Technology Forum Ltd. Many data science students find internships with the Dahlgren naval base and affiliated defense contractors. Plenty of analytics and data science opportunities, many with nonprofits, exist in nearby Washington, D.C. A complete list of available internships is provided by <a href="https://www.umw.edu/careercenter/students/internships/">Career Services</a>.'
 wpcf-minor-requirements: >
   UMW’s data science minor requires 15
   credits in areas including math, data
   science, computer science, and business
   administration.
-wpcf-scholarships: 'At UMW, the Department of Computer Science offers a <a href="http://cas.umw.edu/computerscience/scholarships-and-awards/available-scholarships/">variety of scholarships</a>.'
+wpcf-scholarships: 'At UMW, the Department of Computer Science offers a <a href="https://cas.umw.edu/computerscience/scholarships-and-awards/">variety of scholarships</a>.'
 wpcf-department: >
   http://cas.umw.edu/computerscience/requirements/data-science/
 wpcf-courses: >
@@ -67,12 +67,12 @@ Data drives the world. UMW’s minor in data science covers the evidence-based a
 
 <!-- areas-of-study -->
 ## Areas of Study
-As a data science minor at UMW, you'll gain fundamentals in math, computer science, statistics, and business analytics. Choose from courses in data mining, modeling and simulation, linear algebra, statistics, and analytics application development.
+As a data science minor at UMW, you\'ll gain fundamentals in math, computer science, statistics, and business analytics. Choose from courses in data mining, modeling and simulation, linear algebra, statistics, and analytics application development.
 <!-- End areas-of-study -->
 
 <!-- internships -->
 ## Internships
-At UMW, internships give data science minors valuable real-world experience and resume-boosting on-the-job training. The Department of Computer Science offers internships at technical firms, government offices, and software development agencies such as Zope Corp., Computer Sciences Corp., and Systems Technology Forum Ltd. Many data science students find internships with the Dahlgren naval base and affiliated defense contractors. Plenty of analytics and data science opportunities, many with nonprofits, exist in nearby Washington, D.C. A complete list of available internships is provided by [Career Services](http://academics.umw.edu/academicandcareerservices/).
+At UMW, internships give data science minors valuable real-world experience and resume-boosting on-the-job training. The Department of Computer Science offers internships at technical firms, government offices, and software development agencies such as Zope Corp., Computer Sciences Corp., and Systems Technology Forum Ltd. Many data science students find internships with the Dahlgren naval base and affiliated defense contractors. Plenty of analytics and data science opportunities, many with nonprofits, exist in nearby Washington, D.C. A complete list of available internships is provided by [Career Services]("https://www.umw.edu/careercenter/students/internships/").
 <!-- End internships -->
 
 <!-- requirements -->
@@ -87,7 +87,7 @@ UMW’s data science minor requires 15 credits in areas including math, data sci
 
 <!-- scholarships -->
 ## Scholarships
-At UMW, the Department of Computer Science offers a [variety of scholarships](http://cas.umw.edu/computerscience/scholarships-and-awards/available-scholarships/).
+At UMW, the Department of Computer Science offers a [variety of scholarships]("https://cas.umw.edu/computerscience/scholarships-and-awards/").
 <!-- End scholarships -->
 
 <!-- resource-links -->
