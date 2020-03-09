@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/chemistry/index.html
 published: true
 post_date: 2015-07-28 18:06:57
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Chemistry who complete all requirements earn the degree of Bachelor of Science (B.S.) in Chemistry.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Chemistry who complete all requirements earn the degree of Bachelor of Science (B.S.) in Chemistry.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nicole-Crowder-1e.jpg
 wpcf-value-proposition: "Our bachelor's program in chemistry takes you beyond beakers and test tubes, deep into a discipline that touches every aspect of our lives. Core courses in organic, analytical, and physical chemistry spark important connections between physics and math, biology and medicine. Hands-on opportunities and research in our-state-of-the-art labs put you in a position to make breakthroughs that matter."
@@ -30,7 +30,7 @@ wpcf-internships: 'Students are encouraged to pursue research and internship opp
 wpcf-honors: "To earn honors in chemistry, you must have at least a 3.25 grade-point average in chemistry and 3.0 overall. You'll complete an independent research project, then write and defend a thesis. Students accepted for the honors program enroll in Chemistry 491 for four credits in each semester of the senior year."
 wpcf-minor-requirements: 'A <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/chem/">minor in chemistry</a> requires at least 15 credits, including general chemistry with a lab, either organic chemistry or chemical analysis, each with a lab, and three more courses, to include no more than one lab, chosen from biochemistry, environmental chemistry, inorganic chemistry, and physical chemistry.'
 wpcf-major-requirements: '<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/chem/">Chemistry majors</a> must complete 39 credits, including 19 upper-level courses. Students may complete extra coursework to earn an American Chemical Society-certified degree.'
-wpcf-scholarships: 'Numerous <a href="http://cas.umw.edu/chemistry/scholarships-and-awards/">scholarships and awards</a> are available for chemistry majors.'
+wpcf-scholarships: 'Numerous <a href="https://cas.umw.edu/chemistry/scholarships-fellowships-and-awards/">scholarships and awards</a> are available for chemistry majors.'
 wpcf-department: http://cas.umw.edu/chemistry/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/chem/
@@ -92,7 +92,7 @@ A [minor in chemistry]("http://publications.umw.edu/undergraduatecatalog/courses
 
 <!-- scholarships -->
 ## Scholarships
-Numerous [scholarships and awards]("http://cas.umw.edu/chemistry/scholarships-and-awards/") are available for chemistry majors.
+Numerous [scholarships and awards]("https://cas.umw.edu/chemistry/scholarships-fellowships-and-awards/") are available for chemistry majors.
 <!-- End scholarships -->
 
 <!-- resource-links -->
