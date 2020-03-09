@@ -59,7 +59,7 @@ wpcf-minor-requirements: >
   Numerical Analysis I and II, Probability
   and Statistical Inference.
 wpcf-scholarships: |
-  UMW's Department of Mathematics, which hosts the actuarial science major, offers several <a href="http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/">scholarship opportunities</a> for qualifying students. For a complete list of scholarship opportunities available at UMW, visit the <a href="http://adminfinance.umw.edu/financialaid/scholarship-information/">Office of Financial Aid</a>.
+  UMW's Department of Mathematics, which hosts the actuarial science major, offers several <a href="http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/">scholarship opportunities</a> for qualifying students. For a complete list of scholarship opportunities available at UMW, visit the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 wpcf-department: >
   http://cas.umw.edu/math/courses-and-majorminor-requirements/minor-requirements/
 wpcf-courses: >
@@ -86,12 +86,12 @@ Open to all majors, the UMW minor in actuarial science includes courses in the d
 
 <!-- internships -->
 ## Internships
-The[ Department of Mathematics](http://cas.umw.edu/math/student-opportunities/summer-internships/), which hosts UMW's minor program in actuarial science, offers internships at the Naval Surface Warfare Center in Dahlgren, Geico Insurance, and others.
+The[ Department of Mathematics]("http://cas.umw.edu/math/student-opportunities/summer-internships/"), which hosts UMW\'s minor program in actuarial science, offers internships at the Naval Surface Warfare Center in Dahlgren, Geico Insurance, and others.
 <!-- End internships -->
 
 <!-- honors -->
 ## Honors
-Founded in 1982, the UMW chapter of the [Pi Mu Epsilon (PME)](http://pme-math.org) honorary national mathematics society, promotes scholarly activities in math. The Mary Washington chapter inducts new members each April.
+Founded in 1982, the UMW chapter of the [Pi Mu Epsilon (PME)]("http://pme-math.org") honorary national mathematics society, promotes scholarly activities in math. The Mary Washington chapter inducts new members each April.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -106,7 +106,7 @@ UMW’s minor in actuarial science requires 21 to 22 credits, including Calculus
 
 <!-- scholarships -->
 ## Scholarships
-UMW's Department of Mathematics, which hosts the actuarial science major, offers several [scholarship opportunities](http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/) for qualifying students. For a complete list of scholarship opportunities available at UMW, visit the [Office of Financial Aid](http://adminfinance.umw.edu/financialaid/scholarship-information/).
+UMW\'s Department of Mathematics, which hosts the actuarial science major, offers several [scholarship opportunities]("http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/") for qualifying students. For a complete list of scholarship opportunities available at UMW, visit the [Office of Financial Aid]("https://www.umw.edu/financialaid/types/scholarship-opportunities/").
 <!-- End scholarships -->
 
 <!-- resource-links -->
