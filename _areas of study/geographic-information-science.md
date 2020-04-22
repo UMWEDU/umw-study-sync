@@ -9,30 +9,24 @@ permalink: >
 published: true
 post_date: 2015-08-07 16:20:56
 wpcf-home-page-feature: >
-  http://www.umw.edu/study/wp-content/uploads/sites/5/2020/04/WebGIS_2-scaled.jpg
-wpcf-value-proposition: >
-  The Geographic Information Science
-  certificate at the University of Mary
-  Washington addresses the growing demand
-  for GIS-trained personnel in today’s
-  working world. Built on a vision
-  combining core theory with real-world
-  applications to provide a
-  state-of-the-art GIS educational
-  experience, the certificate introduces
-  students to a wide array of critical
-  functions in ArcGIS.
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2020/04/WebGIS_2.jpg
+wpcf-value-proposition: |
+  Geographic Information Science (GIS) is the study and practice of methods used to collect, store, manage, visualize, analyze, and present geographic data. Examples of the use of GIS include <strong>routing</strong> school buses or delivery trucks; <strong>locating</strong> a landfill, an airport, or a restaurant; <strong>predicting</strong> locations of greatest risk during a hurricane storm surge; and <strong>mapping</strong> the spread of the COVID-19 virus and analyzing how it spreads, where it is more prevalent, and what types of communities are most at risk.
+  
+  GIS is considered a high growth field by the Department of Labor and is in much demand in the region. Its study results in valuable skills that can be combined with almost any major – employers look for students with a broad liberal arts background combined with the in-depth technical skills provided by this certificate.
 wpcf-areas-of-study: >
-  The field encompasses integrated
-  hardware, software, and database systems
-  that are capable of capturing, storing,
-  analyzing, and displaying geographical
-  information. Upon completion of the
-  certificate, students may be eligible to
-  apply for an additional professional
-  certification in GIS administrated by
-  the GIS Certification Institute (GISCI).
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/">certificate</a> requires 19 credit hours of GIS course work introducing students to advanced spatial analysis, Python programming in ArcGIS, geodatabase design, spatial statistics and modeling, image analysis and more. The certificate can be obtained solely through evening classes.'
+  The GIS Certificate can be taken with
+  any major, but is most commonly combined
+  with Geography, Geology, Environmental
+  Science, Biology, Historic Preservation,
+  Political Science, International
+  Affairs, and Marketing. It is housed
+  within the Department of Geography,
+  where faculty specialize in spatial
+  analysis, Python programming, remote
+  sensing, spatial statistics, and
+  geovisualization.
+wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/">certificate</a> requires 19 credit hours of GIS course work, taken in four 4-credit courses and one 3-credit capstone. It may be taken by undergraduates just like a minor, or by professional non-degree-seeking students. <em>Introduction to GIS</em> and <em>Spatial Analysis</em> are required. Students take one elective, and they take either <em>GIS Programming</em> or <em>Web GIS</em>. The capstone is either an internship or a directed study. The certificate can be obtained solely through evening classes.'
 wpcf-department: https://cas.umw.edu/gis/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/
@@ -44,16 +38,16 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2020/04/WebGIS_2-scaled.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2020/04/WebGIS_2-scaled.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2020/04/WebGIS_2.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2020/04/WebGIS_2.jpg)
 <!-- End home-page-feature -->
 
 <!-- value-proposition -->
-The Geographic Information Science certificate at the University of Mary Washington addresses the growing demand for GIS-trained personnel in today’s working world. Built on a vision combining core theory with real-world applications to provide a state-of-the-art GIS educational experience, the certificate introduces students to a wide array of critical functions in ArcGIS.
+Geographic Information Science (GIS) is the study and practice of methods used to collect, store, manage, visualize, analyze, and present geographic data. Examples of the use of GIS include **routing** school buses or delivery trucks; **locating** a landfill, an airport, or a restaurant; **predicting** locations of greatest risk during a hurricane storm surge; and **mapping** the spread of the COVID-19 virus and analyzing how it spreads, where it is more prevalent, and what types of communities are most at risk. GIS is considered a high growth field by the Department of Labor and is in much demand in the region. Its study results in valuable skills that can be combined with almost any major – employers look for students with a broad liberal arts background combined with the in-depth technical skills provided by this certificate.
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
 ## Areas of Study
-The field encompasses integrated hardware, software, and database systems that are capable of capturing, storing, analyzing, and displaying geographical information. Upon completion of the certificate, students may be eligible to apply for an additional professional certification in GIS administrated by the GIS Certification Institute (GISCI).
+The GIS Certificate can be taken with any major, but is most commonly combined with Geography, Geology, Environmental Science, Biology, Historic Preservation, Political Science, International Affairs, and Marketing. It is housed within the Department of Geography, where faculty specialize in spatial analysis, Python programming, remote sensing, spatial statistics, and geovisualization.
 <!-- End areas-of-study -->
 
 <!-- requirements -->
@@ -61,7 +55,7 @@ The field encompasses integrated hardware, software, and database systems that a
 
 <!-- major-requirements -->
 ### Major Requirements
-The [certificate]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/") requires 19 credit hours of GIS course work introducing students to advanced spatial analysis, Python programming in ArcGIS, geodatabase design, spatial statistics and modeling, image analysis and more. The certificate can be obtained solely through evening classes.
+The [certificate]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/") requires 19 credit hours of GIS course work, taken in four 4-credit courses and one 3-credit capstone. It may be taken by undergraduates just like a minor, or by professional non-degree-seeking students. *Introduction to GIS* and *Spatial Analysis* are required. Students take one elective, and they take either *GIS Programming* or *Web GIS*. The capstone is either an internship or a directed study. The certificate can be obtained solely through evening classes.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
