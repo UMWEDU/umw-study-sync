@@ -30,7 +30,7 @@ wpcf-scholarships: |
 wpcf-department: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/sports-management-minor/
 wpcf-video: >
-  https://www.youtube.com/watch?v=Rhja0kid0Xs
+  https://www.youtube.com/embed/Rhja0kid0Xs
 terms:
   department:
     - cas
@@ -42,7 +42,7 @@ terms:
 <!-- Types Custom Fields: -->
 
 <!-- video -->
-[![](https://i.ytimg.com/vi/Rhja0kid0Xs/hqdefault.jpg)](https://www.youtube.com/watch?v=Rhja0kid0Xs)
+[![]()](https://www.youtube.com/embed/Rhja0kid0Xs)
 <!-- End video -->
 
 <!-- value-proposition -->
