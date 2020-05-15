@@ -1,7 +1,7 @@
 ---
 ID: 76
 post_title: Art History
-author: ntrenis
+author: Neva Trenis
 post_excerpt: ""
 layout: areas
 permalink: /study/areas/art-history/index.html
@@ -32,7 +32,7 @@ wpcf-testimonial: |
   <div class="quoted">- Jennifer Davis Bangoura, Project Coordinator, World Resources Institute</div>
 wpcf-department: http://cas.umw.edu/art/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arth/
+  https://catalog.umw.edu/undergraduate/course-descriptions/arth/
 wpcf-video: >
   https://www.youtube.com/watch?v=-hTrkezXVAk
 terms:
@@ -95,7 +95,7 @@ Learn more about [art scholarships]("http://cas.umw.edu/art/scholarship-descript
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arth/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/arth/)
 
 <!-- End courses -->
 
