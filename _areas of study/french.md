@@ -30,7 +30,7 @@ wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduate
 wpcf-scholarships: 'Eligible students can apply for <a href="http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/">scholarships</a> to defray costs of faculty-led travel programs. Multiple awards are made each semester.'
 wpcf-department: http://cas.umw.edu/french/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/fren/
+  https://catalog.umw.edu/undergraduate/course-descriptions/fren/
 wpcf-video: https://vimeo.com/129708067
 terms:
   department:
@@ -95,7 +95,7 @@ Eligible students can apply for [scholarships]("http://international.umw.edu/stu
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/fren/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/fren/)
 
 <!-- End courses -->
 
