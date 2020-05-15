@@ -9,7 +9,7 @@ published: true
 post_date: 2015-07-28 14:35:20
 wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in English who complete all requirements earn the degree of Bachelor of Arts (B.A.) in English.</span></p>'
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg
 wpcf-value-proposition: "As a University of Mary Washington English major, you'll investigate the great body of literature in the English language and develop your skills in analytic, creative, and journalistic writing. You'll learn to think critically and communicate clearly, skills that will enhance your value in a career or graduate school."
 wpcf-areas-of-study: "At UMW, you'll find relevant course offerings in ancient to modern literatures, literary theory, memoir, poetry, creative writing, journalism, magazine writing, digital storytelling, and more."
 wpcf-career-opportunties: |
@@ -20,7 +20,7 @@ wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduate
 wpcf-scholarships: 'The English, Linguistics, and Communication department offers numerous <a href="http://cas.umw.edu/elc/scholarships-and-prizes/">scholarships and awards</a>.'
 wpcf-department: http://cas.umw.edu/elc/english-at-umw/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/engl/
+  https://catalog.umw.edu/undergraduate/course-descriptions/engl/
 wpcf-video: >
   https://www.youtube.com/watch?v=HKRqIgvQgRs
 terms:
@@ -31,7 +31,7 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
@@ -80,7 +80,7 @@ The English, Linguistics, and Communication department offers numerous [scholars
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/engl/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/engl/)
 
 <!-- End courses -->
 
