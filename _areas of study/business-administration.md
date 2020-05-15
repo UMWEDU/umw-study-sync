@@ -42,7 +42,7 @@ wpcf-testimonial: |
   <div class="quoted">- Dave Carrey '96, CEO and co-founder, ROI Training</div>
 wpcf-department: http://business.umw.edu/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/buad/
+  https://catalog.umw.edu/undergraduate/course-descriptions/buad/
 wpcf-video: >
   https://www.youtube.com/watch?v=TmOr05gTeU0
 terms:
@@ -113,7 +113,7 @@ Many [scholarships]("http://business.umw.edu/current-students/undergraduate-scho
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/buad/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/buad/)
 
 <!-- End courses -->
 
