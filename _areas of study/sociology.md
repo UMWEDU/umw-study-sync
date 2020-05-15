@@ -58,7 +58,7 @@ wpcf-scholarships: 'One <a href="http://cas.umw.edu/sociologyanthropology/bill-h
 wpcf-department: >
   http://cas.umw.edu/sociologyanthropology/sociology-program/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/socg/
+  https://catalog.umw.edu/undergraduate/course-descriptions/socg/
 wpcf-video: >
   https://www.youtube.com/watch?v=nXL5mz8fJa4
 terms:
@@ -133,7 +133,7 @@ One [Bill Hanson Memorial Scholarship]("http://cas.umw.edu/sociologyanthropology
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/socg/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/socg/)
 
 <!-- End courses -->
 
