@@ -5,7 +5,7 @@ author: Shelley Keith
 post_excerpt: ""
 layout: areas
 permalink: >
-  /admissions/graduate/degrees/msga/index.html
+  /study/areas/geospatial-analysis/index.html
 published: true
 post_date: 2015-08-07 16:31:59
 wpcf-home-page-feature: >
@@ -33,7 +33,7 @@ wpcf-major-requirements: >
   available at the department website.
 wpcf-department: https://cas.umw.edu/gis/msga/
 wpcf-courses: >
-  https://publications.umw.edu/undergraduatecatalog/courses-of-study/special-programs/undergraduate-graduate-program-geography-geospatial-analysis/
+  https://catalog.umw.edu/graduate/course-descriptions/msga/
 terms:
   department:
     - geo
@@ -68,7 +68,7 @@ Undergraduates interested in this 4+1 program should take courses in Geographic 
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/special-programs/undergraduate-graduate-program-geography-geospatial-analysis/)
+[Course Listing](https://catalog.umw.edu/graduate/course-descriptions/msga/)
 
 <!-- End courses -->
 
