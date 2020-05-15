@@ -31,7 +31,7 @@ wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduate
 wpcf-scholarships: 'UMW historic preservation majors can apply for numerous dedicated <a href="http://cas.umw.edu/hisp/scholarships/">scholarships</a>.'
 wpcf-department: http://cas.umw.edu/hisp/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/hisp/
+  https://catalog.umw.edu/undergraduate/course-descriptions/hisp/
 wpcf-video: >
   https://www.youtube.com/watch?v=Wyx_fTaLaAA
 terms:
@@ -91,7 +91,7 @@ UMW historic preservation majors can apply for numerous dedicated [scholarships]
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/hisp/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/hisp/)
 
 <!-- End courses -->
 
