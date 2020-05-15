@@ -29,7 +29,7 @@ wpcf-scholarships: |
   &nbsp;
 wpcf-department: http://cas.umw.edu/physics/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/phys/
+  https://catalog.umw.edu/undergraduate/course-descriptions/phys/
 terms:
   department:
     - physics
@@ -87,7 +87,7 @@ Physics majors may qualify for valuable [scholarships]("https://www.umw.edu/fina
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/phys/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/phys/)
 
 <!-- End courses -->
 
