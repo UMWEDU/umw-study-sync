@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/physics/index.html
 published: true
 post_date: 2015-08-11 20:13:07
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Physics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Physics.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Physics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Physics.</span></p>'
 wpcf-value-proposition: "Why don’t riders fall off the roller coaster? When you look in a window, why do you see what's inside as well as your own reflection? How is music recorded and transmitted? Physics answers these questions and many more. As a UMW physics major, you'll satisfy your curiosity about the physical universe, then analyze and describe your discoveries. You'll leave career-ready, prepared for advanced study, and poised to make an immediate contribution to your field."
 wpcf-areas-of-study: "The principles of physics underlie other natural sciences and are essential to many applied sciences and technical programs. UMW's course offerings include general physics, astronomy, thermodynamics and statistical mechanics, nuclear physics, modern physics, electronics, optics, mathematical physics, mechanics, quantum mechanics, electricity and magnetism, solid state physics, and more."
 wpcf-career-opportunties: |
@@ -30,7 +30,6 @@ wpcf-scholarships: |
 wpcf-department: http://cas.umw.edu/physics/
 wpcf-courses: >
   http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/phys/
-wpcf-video: https://vimeo.com/137257108
 terms:
   department:
     - physics
@@ -40,10 +39,6 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-
-<!-- video -->
-[![](https://i.vimeocdn.com/video/532086770_960.jpg)](https://vimeo.com/137257108)
-<!-- End video -->
 
 <!-- value-proposition -->
 Why don’t riders fall off the roller coaster? When you look in a window, why do you see what\'s inside as well as your own reflection? How is music recorded and transmitted? Physics answers these questions and many more. As a UMW physics major, you\'ll satisfy your curiosity about the physical universe, then analyze and describe your discoveries. You\'ll leave career-ready, prepared for advanced study, and poised to make an immediate contribution to your field.
