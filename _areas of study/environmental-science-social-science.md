@@ -36,7 +36,7 @@ wpcf-scholarships: >
   and research.
 wpcf-department: https://cas.umw.edu/ees/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/eesc-2/
+  https://catalog.umw.edu/undergraduate/course-descriptions/eesc/
 wpcf-video: >
   https://www.youtube.com/watch?v=9LGu_F_PoR4
 terms:
@@ -99,7 +99,7 @@ Recent awards include the Peggy Ellis Gill Scholarship for an outstanding physic
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/eesc-2/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/eesc/)
 
 <!-- End courses -->
 
