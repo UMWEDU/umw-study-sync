@@ -73,7 +73,7 @@ wpcf-scholarships: >
   Conservation Leadership Scholarship.
 wpcf-department: https://cas.umw.edu/biology/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/conservation-biology-major/
+  https://catalog.umw.edu/undergraduate/course-descriptions/biol/
 terms:
   department:
     - bio
@@ -125,7 +125,7 @@ Conservation biology majors will be encouraged to apply for such scholarships as
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/conservation-biology-major/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/biol/)
 
 <!-- End courses -->
 
