@@ -35,7 +35,7 @@ wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduate
 wpcf-department: >
   http://cas.umw.edu/polisci/international-affairs/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/inaf/
+  https://catalog.umw.edu/undergraduate/course-descriptions/inaf/
 wpcf-video: >
   https://www.youtube.com/watch?v=UfG8tp1apNo
 terms:
@@ -93,7 +93,7 @@ UMW offers a [minor in security and conflict studies]("http://publications.umw.e
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/inaf/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/inaf/)
 
 <!-- End courses -->
 
