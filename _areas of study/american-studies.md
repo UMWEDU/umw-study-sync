@@ -1,7 +1,7 @@
 ---
 ID: 51
 post_title: American Studies
-author: ntrenis
+author: Neva Trenis
 post_excerpt: ""
 layout: areas
 permalink: /study/areas/american-studies/index.html
@@ -26,7 +26,7 @@ wpcf-testimonial: |
 wpcf-department: >
   http://cas.umw.edu/historyamericanstudies/american-studies/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/amst/
+  https://catalog.umw.edu/undergraduate/course-descriptions/amst/
 terms:
   department:
     - has
@@ -83,7 +83,7 @@ American studies majors may qualify for numerous [scholarships and awards]("http
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/amst/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/amst/)
 
 <!-- End courses -->
 
