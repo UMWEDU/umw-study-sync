@@ -47,7 +47,7 @@ wpcf-honors: >
 wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/geol/">geology major</a> requires 36 credits including core geology courses and upper-level geology electives. With advisor approval, certain chemistry or environmental sciences classes may count toward the major.'
 wpcf-department: http://cas.umw.edu/ees/geology-program/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geol/
+  https://catalog.umw.edu/undergraduate/course-descriptions/eesc/
 wpcf-video: >
   https://www.youtube.com/watch?v=YZ7I9OKizqw
 terms:
@@ -102,7 +102,7 @@ The [geology major]("http://publications.umw.edu/undergraduatecatalog/courses-of
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geol/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/eesc/)
 
 <!-- End courses -->
 
