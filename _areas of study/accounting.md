@@ -34,7 +34,7 @@ wpcf-scholarships: 'The College of Business offers multiple <a href="http://busi
 wpcf-department: >
   http://business.umw.edu/about-the-college/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/accounting/
+  https://catalog.umw.edu/undergraduate/course-descriptions/acct/
 terms:
   department:
     - cob
@@ -86,7 +86,7 @@ The College of Business offers multiple [scholarships]("http://business.umw.edu/
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/accounting/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/acct/)
 
 <!-- End courses -->
 
