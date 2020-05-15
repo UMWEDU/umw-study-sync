@@ -44,7 +44,7 @@ wpcf-scholarships: '<a href="http://cas.umw.edu/clpr/undergraduate-scholarships-
 wpcf-department: >
   http://cas.umw.edu/clpr/philosophy-program/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/phil/
+  https://catalog.umw.edu/undergraduate/course-descriptions/phil/
 wpcf-video: https://vimeo.com/131317843
 terms:
   department:
@@ -103,7 +103,7 @@ The [philosophy major]("http://publications.umw.edu/undergraduatecatalog/courses
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/phil/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/phil/)
 
 <!-- End courses -->
 
