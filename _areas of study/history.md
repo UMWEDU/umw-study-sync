@@ -33,7 +33,7 @@ wpcf-scholarships: 'The department awards five <a href="http://cas.umw.edu/hist
 wpcf-department: >
   http://cas.umw.edu/historyamericanstudies/history/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/hist/
+  https://catalog.umw.edu/undergraduate/course-descriptions/hist/
 wpcf-video: >
   https://www.youtube.com/watch?v=sRZ5OGUqQcY
 terms:
@@ -93,7 +93,7 @@ The department awards five [scholarships]("http://cas.umw.edu/historyamericanstu
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/hist/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/hist/)
 
 <!-- End courses -->
 
