@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/spanish/index.html
 published: true
 post_date: 2015-07-28 16:32:47
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Spanish who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Modern Foreign Languages.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Spanish who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Modern Foreign Languages.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/869-1024x680e.jpg
 wpcf-value-proposition: "Maybe the Spanish language is part of your heritage, or maybe you just loved the courses you took in high school. Now you're seeking mastery of the language, broad exposure to its rich literatures, and knowledge of Spanish-speaking cultures. At UMW, you'll challenge yourself with compelling coursework, aided by our language labs and access to computer tutorials. In conjunction with UMW's strong liberal arts program, you'll prepare yourself for a variety of international careers."
@@ -36,7 +36,7 @@ wpcf-testimonial: |
   <div class="quoted"><a href="http://cas.umw.edu/spanish/experiential-learning-and-careers/">Brian Straight</a>. B.A. Spanish '99</div>
 wpcf-department: http://cas.umw.edu/spanish/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/span/
+  https://catalog.umw.edu/undergraduate/course-descriptions/span/
 wpcf-video: https://vimeo.com/131570016
 terms:
   department:
@@ -101,7 +101,7 @@ Eligible students can apply for [scholarships]("http://international.umw.edu/stu
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/span/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/span/)
 
 <!-- End courses -->
 
