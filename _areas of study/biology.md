@@ -27,7 +27,7 @@ wpcf-testimonial: |
   <div class="quoted">- Alexis Pennings ’14, student, Virginia-Maryland Regional College of Veterinary Medicine</div>
 wpcf-department: http://cas.umw.edu/biology/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/biology/
+  https://catalog.umw.edu/undergraduate/course-descriptions/biol/
 wpcf-video: 'https://www.youtube.com/watch?v=hELFiuaHPwE&index=2&list=PLZfjMaRP_C8Em3hSDVFMhglNk1ody2qsu'
 terms:
   department:
@@ -97,7 +97,7 @@ The Department of Biology presents several [scholarships and awards]("http://cas
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/biology/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/biol/)
 
 <!-- End courses -->
 
