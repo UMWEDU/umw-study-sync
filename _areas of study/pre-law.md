@@ -47,7 +47,7 @@ wpcf-scholarships: 'The Department of Classics, Philosophy, and Religion offers 
 wpcf-department: >
   http://cas.umw.edu/clpr/philosophy-program/prelaw-concentration/
 wpcf-courses: >
-  https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/phil/
+  https://catalog.umw.edu/undergraduate/course-descriptions/phil/
 terms:
   department:
     - cpr
@@ -106,7 +106,7 @@ The Department of Classics, Philosophy, and Religion offers several [scholarship
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/phil/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/phil/)
 
 <!-- End courses -->
 
