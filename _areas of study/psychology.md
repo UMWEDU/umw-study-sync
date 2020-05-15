@@ -9,7 +9,7 @@ published: true
 post_date: 2015-07-28 18:17:31
 wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Psychology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Psychology.</span></p>'
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg
 wpcf-value-proposition: >
   Our bachelor’s program in psychology
   takes you into the human mind. Learn the
@@ -45,7 +45,7 @@ wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduate
 wpcf-scholarships: 'The Department of Psychological Science offers three named <a href="http://cas.umw.edu/psychology/for-students/scholarship-information/">scholarships</a>, each of which may have more than one recipient in an academic year.'
 wpcf-department: http://cas.umw.edu/psychology/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/psyc/
+  https://catalog.umw.edu/undergraduate/course-descriptions/psyc/
 wpcf-video: >
   https://www.youtube.com/watch?v=KW3d7L1zUs4
 terms:
@@ -56,7 +56,7 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Class-16e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
@@ -110,7 +110,7 @@ The Department of Psychological Science offers three named [scholarships]("http:
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/psyc/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/psyc/)
 
 <!-- End courses -->
 
