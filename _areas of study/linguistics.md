@@ -31,7 +31,7 @@ wpcf-scholarships: |
 wpcf-department: >
   http://cas.umw.edu/elc/linguistics-at-umw/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/ling/
+  https://catalog.umw.edu/undergraduate/course-descriptions/ling/
 terms:
   department:
     - elc
@@ -79,7 +79,7 @@ A complete list of available scholarships can be found at UMW\'s [Office of Fina
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/ling/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/ling/)
 
 <!-- End courses -->
 
