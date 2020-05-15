@@ -9,7 +9,7 @@ published: true
 post_date: 2015-07-28 19:19:10
 wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Economics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Economics.</span></p>'
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg
 wpcf-value-proposition: |
   Could you survive on $2 a day? The nationwide $2-a-day challenge began on our campus and exemplifies the creative teaching and thinking you'll find in our economics program. Here you'll mix macro-<span class="Apple-converted-space">  </span>and microeconomics with electives like money, banking, and global finance. You'll analyze and apply data, publish original research in our undergraduate journal, and become<span class="Apple-converted-space">  </span>a creative, problem-solving economist.
 wpcf-areas-of-study: '<p class="p1">Study micro-, macro-, industrial, environmental, health, urban and regional economics. You can take courses in the economics of social issues; government and business; money and banking; public finance; philanthropy; the<span class="Apple-converted-space">  </span>history of economics; investment analysis; poverty, affluence, and equality; and more.</p>'
@@ -27,7 +27,7 @@ wpcf-major-requirements: |
 wpcf-scholarships: '<p class="p1">Numerous <a href="http://cas.umw.edu/economics/majoring-in-economics/honors-and-awards/">scholarships and awards</a> are available for economics majors.</p>'
 wpcf-department: http://cas.umw.edu/economics/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/econ/
+  https://catalog.umw.edu/undergraduate/course-descriptions/econ/
 wpcf-video: 'https://www.youtube.com/watch?v=DNpckL-LzzU&list=PLZfjMaRP_C8Em3hSDVFMhglNk1ody2qsu&index=17'
 terms:
   department:
@@ -38,7 +38,7 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
@@ -92,7 +92,7 @@ Numerous [scholarships and awards]("http://cas.umw.edu/economics/majoring-in-eco
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/econ/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/econ/)
 
 <!-- End courses -->
 
