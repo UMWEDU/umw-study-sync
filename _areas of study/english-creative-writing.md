@@ -43,7 +43,7 @@ wpcf-major-requirements: >
 wpcf-scholarships: 'The Department of English, Linguistics, and Communication offers numerous <a href="http://cas.umw.edu/elc/scholarships-and-prizes/">scholarships and awards</a>, include some available specifically for the study of creative writing.'
 wpcf-department: https://cas.umw.edu/elc/
 wpcf-courses: >
-  https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/engl/
+  https://catalog.umw.edu/undergraduate/course-descriptions/engl/
 terms:
   department:
     - elc
@@ -95,7 +95,7 @@ The Department of English, Linguistics, and Communication offers numerous [schol
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/engl/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/engl/)
 
 <!-- End courses -->
 
