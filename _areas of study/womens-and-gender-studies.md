@@ -58,7 +58,7 @@ wpcf-major-requirements: |
 wpcf-scholarships: 'None specific to this major, but UMW offers many <a href="https://umw.scholarships.ngwebsolutions.com/ScholarX_ScholarshipSearch.aspx">scholarships</a>.'
 wpcf-department: http://cas.umw.edu/wgst/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/wgst/
+  https://catalog.umw.edu/undergraduate/course-descriptions/wgst/
 wpcf-video: https://vimeo.com/133699287
 terms:
   department:
@@ -115,7 +115,7 @@ None specific to this major, but UMW offers many [scholarships]("https://umw.sch
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/wgst/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/wgst/)
 
 <!-- End courses -->
 
