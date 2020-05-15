@@ -1,7 +1,7 @@
 ---
 ID: 94
 post_title: Anthropology
-author: ntrenis
+author: Neva Trenis
 post_excerpt: ""
 layout: areas
 permalink: /study/areas/anthropology/index.html
@@ -9,7 +9,7 @@ published: true
 post_date: 2015-07-28 19:09:18
 wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Anthropology who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Anthropology.</span></p>'
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg
 wpcf-value-proposition: "What do West African farmers and Wall Street investors have in common? Our bachelor's program in anthropology takes you around the globe and throughout history to learn what it means to be human. Explore morality, religion, and more and take advantage of our summer course in Guyana and opportunities for student research in places like Madagascar, Haiti, and Egypt."
 wpcf-areas-of-study: "On your journey through UMW's Anthropology program, you'll take courses such as Introduction to Cultural and Social Anthropology, Ethnography, Arguments in Anthropology, Anthropology of Art, and Theories of Culture."
 wpcf-career-opportunties: "The strong background in what it means to be human across the globe, and throughout time, and the experiential learning opportunities you'll gain in completing UMW's Anthropology program will prepare you for a variety of careers. Work in marketing, advertising, diversity training, social advocacy,  historic preservation, community development, communications, international development, genetics counseling, documentary film-making, government, education, you name it."
@@ -46,7 +46,7 @@ wpcf-testimonial: |
 wpcf-department: >
   http://cas.umw.edu/sociologyanthropology/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/anth/
+  https://catalog.umw.edu/undergraduate/course-descriptions/anth/
 wpcf-video: https://vimeo.com/129708066
 terms:
   department:
@@ -56,7 +56,7 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Kristen-Powell-3_HP-1024x489e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
@@ -114,7 +114,7 @@ The [anthropology major]("http://publications.umw.edu/undergraduatecatalog/cours
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/anth/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/anth/)
 
 <!-- End courses -->
 
