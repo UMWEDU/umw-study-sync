@@ -1,7 +1,7 @@
 ---
 ID: 101
 post_title: Mathematics
-author: ntrenis
+author: Neva Trenis
 post_excerpt: ""
 layout: areas
 permalink: /study/areas/mathematics/index.html
@@ -9,7 +9,7 @@ published: true
 post_date: 2015-07-28 19:31:55
 wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Mathematics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Mathematics.</span></p>'
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg
 wpcf-value-proposition: "Major in mathematics at the University of Mary Washington and you'll expand your analytical and critical-thinking abilities. You'll work on original mathematics, present at professional meetings, and maybe even publish your work. You'll graduate ready to solve problems creatively in any professional field or in graduate school."
 wpcf-areas-of-study: "You'll choose from courses in algebra, analysis, topology (modern geometry), discrete mathematics (mathematics of computer science), number theory, statistics, dynamical systems, stochastic partial differential equations (mathematical models), scientific computation (numerical analysis and simulation), and financial mathematics."
 wpcf-career-opportunties: >
@@ -44,7 +44,7 @@ wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduate
 wpcf-scholarships: 'Several <a href="http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/">scholarships and honor societies</a> are open to mathematics majors.'
 wpcf-department: http://cas.umw.edu/math/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/math/
+  https://catalog.umw.edu/undergraduate/course-descriptions/math/
 wpcf-video: >
   https://www.youtube.com/watch?v=mCWHmbT4lxU
 terms:
@@ -56,7 +56,7 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Calculus-3.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
@@ -110,7 +110,7 @@ Several [scholarships and honor societies]("http://cas.umw.edu/math/student-oppo
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/math/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/math/)
 
 <!-- End courses -->
 
