@@ -33,7 +33,7 @@ wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduate
 wpcf-department: >
   http://business.umw.edu/degree-programs/undergraduate-degree-bs-in-business-administration/marketing-major/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/marketing/
+  https://catalog.umw.edu/undergraduate/course-descriptions/mktg/
 terms:
   department:
     - cob
@@ -80,7 +80,7 @@ The [marketing major]("http://publications.umw.edu/undergraduatecatalog/courses-
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/marketing/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/mktg/)
 
 <!-- End courses -->
 
