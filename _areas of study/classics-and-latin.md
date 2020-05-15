@@ -33,7 +33,7 @@ wpcf-scholarships: |
 wpcf-department: >
   http://cas.umw.edu/clpr/classics-program/
 wpcf-courses: >
-  https://catalog.umw.edu/undergraduate/course-descriptions/clas/
+  https://catalog.umw.edu/undergraduate/course-descriptions/latn/
 wpcf-video: https://vimeo.com/130598210
 terms:
   department:
@@ -99,7 +99,7 @@ Students who major in Latin and the classics can apply for several [scholarships
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/clas/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/latn/)
 
 <!-- End courses -->
 
