@@ -8,7 +8,7 @@ permalink: >
   /study/areas/political-science/index.html
 published: true
 post_date: 2015-07-28 18:33:28
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Political Science who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Political Science.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Political Science who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Political Science.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-Political-Science-2e.jpg
 wpcf-value-proposition: 'Study political science at the University of Mary Washington, positioned midway between Washington, D.C., and Virginia’s capital city, Richmond. You’ll learn the theory of political science and connect it with the real world through on-site learning, internships, and involvement in political events. Become career-ready through work with UMW’s <a href="/clms/">Center for Leadership and Media Studies</a>.'
@@ -35,7 +35,7 @@ wpcf-scholarships: '<a href="https://www.umw.edu/financialaid/types/scholarship-
 wpcf-department: >
   http://cas.umw.edu/polisci/political-science/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/psci/
+  https://catalog.umw.edu/undergraduate/course-descriptions/psci/
 wpcf-video: >
   https://www.youtube.com/watch?v=QgStl_s1TyM
 terms:
@@ -100,7 +100,7 @@ The Department of Political Science and International Affairs offers a [minor in
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/psci/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/psci/)
 
 <!-- End courses -->
 
