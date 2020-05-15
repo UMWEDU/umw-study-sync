@@ -49,7 +49,7 @@ wpcf-scholarships: 'At UMW, the Department of Computer Science offers a <a href=
 wpcf-department: >
   http://cas.umw.edu/computerscience/requirements/data-science/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/data/
+  https://catalog.umw.edu/undergraduate/course-descriptions/data/
 terms:
   department:
     - cob
@@ -94,7 +94,7 @@ At UMW, the Department of Computer Science offers a [variety of scholarships]("h
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/data/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/data/)
 
 <!-- End courses -->
 
