@@ -46,7 +46,7 @@ wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduate
 wpcf-scholarships: 'The Department of Theatre &amp; Dance offers many awards to continuing students who are active in the production program. These merit-based scholarships vary in size and award criteria.'
 wpcf-department: http://cas.umw.edu/theatre/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/the/
+  https://catalog.umw.edu/undergraduate/course-descriptions/thea/
 wpcf-video: https://vimeo.com/131317845
 terms:
   department:
@@ -110,7 +110,7 @@ The Department of Theatre & Dance offers many awards to continuing students who 
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/the/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/thea/)
 
 <!-- End courses -->
 
