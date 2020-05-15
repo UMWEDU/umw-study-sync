@@ -1,13 +1,13 @@
 ---
 ID: 83
 post_title: Chemistry
-author: ntrenis
+author: Neva Trenis
 post_excerpt: ""
 layout: areas
 permalink: /study/areas/chemistry/index.html
 published: true
 post_date: 2015-07-28 18:06:57
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Chemistry who complete all requirements earn the degree of Bachelor of Science (B.S.) in Chemistry.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Chemistry who complete all requirements earn the degree of Bachelor of Science (B.S.) in Chemistry.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Nicole-Crowder-1e.jpg
 wpcf-value-proposition: "Our bachelor's program in chemistry takes you beyond beakers and test tubes, deep into a discipline that touches every aspect of our lives. Core courses in organic, analytical, and physical chemistry spark important connections between physics and math, biology and medicine. Hands-on opportunities and research in our-state-of-the-art labs put you in a position to make breakthroughs that matter."
@@ -33,7 +33,7 @@ wpcf-major-requirements: '<a href="http://publications.umw.edu/undergraduatecata
 wpcf-scholarships: 'Numerous <a href="https://cas.umw.edu/chemistry/scholarships-fellowships-and-awards/">scholarships and awards</a> are available for chemistry majors.'
 wpcf-department: http://cas.umw.edu/chemistry/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/chem/
+  https://catalog.umw.edu/undergraduate/course-descriptions/chem/
 wpcf-video: >
   https://www.youtube.com/watch?v=Ulp7ITFjFY4
 terms:
@@ -99,7 +99,7 @@ Numerous [scholarships and awards]("https://cas.umw.edu/chemistry/scholarships-f
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/chem/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/chem/)
 
 <!-- End courses -->
 
