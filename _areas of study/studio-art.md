@@ -1,7 +1,7 @@
 ---
 ID: 79
 post_title: Studio Art
-author: ntrenis
+author: Neva Trenis
 post_excerpt: ""
 layout: areas
 permalink: /study/areas/studio-art/index.html
@@ -29,7 +29,7 @@ wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduate
 wpcf-scholarships: 'The Department of Art and Art history hosts a number of competitive <a href="http://cas.umw.edu/art/scholarship-descriptions/">scholarships</a> in studio art. Studio art majors wishing to be considered for scholarships must demonstrate outstanding work in studio coursework. Recipients will file an artist statement and images with the scholarship coordinator.'
 wpcf-department: http://cas.umw.edu/art/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arts/
+  https://catalog.umw.edu/undergraduate/course-descriptions/arts/
 wpcf-video: https://vimeo.com/117056521
 terms:
   department:
@@ -88,7 +88,7 @@ The Department of Art and Art history hosts a number of competitive [scholarship
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/arts/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/arts/)
 
 <!-- End courses -->
 
