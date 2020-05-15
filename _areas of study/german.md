@@ -9,7 +9,7 @@ published: true
 post_date: 2015-07-28 17:53:04
 wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in German who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Modern Foreign Languages.</span></p>'
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg
 wpcf-value-proposition: "If you're passionate about learning spoken and written German, its literature, and its diverse cultures, the University of Mary Washington can help you attain mastery. Our program brings language and culture to life through small, intensive classes and fully equipped labs. At UMW, you'll study with expert teachers, converse with native speakers, and take advantage of cultural events in nearby Richmond, Virginia, and Washington, D.C. UMW strongly encourages German majors to study abroad through our partner university in Erfurt, Germany, or in programs in Austria and Switzerland."
 wpcf-areas-of-study: >
   UMW offers beginning and intermediate
@@ -44,7 +44,7 @@ wpcf-major-requirements: '<a href="http://publications.umw.edu/undergraduatecata
 wpcf-scholarships: 'Eligible students can apply for <a href="http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/">scholarships</a> to defray costs of faculty-led travel programs. Multiple awards are made each semester. Several scholarships also are available to help students spend a semester studying abroad.'
 wpcf-department: http://cas.umw.edu/german/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/germ/
+  https://catalog.umw.edu/undergraduate/course-descriptions/germ/
 wpcf-video: https://vimeo.com/130598201
 terms:
   department:
@@ -55,7 +55,7 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Holocauste.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
@@ -109,7 +109,7 @@ Eligible students can apply for [scholarships]("http://international.umw.edu/stu
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/germ/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/germ/)
 
 <!-- End courses -->
 
