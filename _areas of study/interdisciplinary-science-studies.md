@@ -40,7 +40,7 @@ wpcf-major-requirements: '<a href="http://publications.umw.edu/undergraduatecata
 wpcf-department: >
   http://cas.umw.edu/ees/interdisciplinary-science-studies/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/idis/
+  https://catalog.umw.edu/undergraduate/course-descriptions/idis/
 terms:
   department:
     - bio
@@ -92,7 +92,7 @@ Students with high academic achievement are invited to become members of the Nu 
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/idis/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/idis/)
 
 <!-- End courses -->
 
