@@ -1,7 +1,7 @@
 ---
 ID: 223
 post_title: Communication and Digital Studies
-author: ntrenis
+author: Neva Trenis
 post_excerpt: ""
 layout: areas
 permalink: /study/areas/digital-studies/index.html
@@ -23,7 +23,7 @@ wpcf-scholarships: 'Scholarships are awarded by the department of <a href="http
 wpcf-department: >
   http://cas.umw.edu/elc/communication-at-umw/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/communication-and-digital-studies-major/
+  https://catalog.umw.edu/undergraduate/course-descriptions/comm/
 wpcf-video: >
   https://www.youtube.com/watch?v=DKSETeykJQY
 terms:
@@ -71,7 +71,7 @@ Scholarships are awarded by the department of [English, Linguistics, and Communi
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/communication-and-digital-studies-major/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/comm/)
 
 <!-- End courses -->
 
