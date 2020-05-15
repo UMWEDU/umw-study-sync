@@ -70,7 +70,7 @@ wpcf-major-requirements: 'UMW’s major in <a href="https://cas.umw.edu/computer
 wpcf-scholarships: 'Cybersecurity majors can apply for several <a href="https://cas.umw.edu/computerscience/scholarships-and-awards/" target="_blank" rel="noopener">scholarships and awards.</a>'
 wpcf-department: https://cas.umw.edu/computerscience/
 wpcf-courses: >
-  https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cybersecurity-major/
+  https://catalog.umw.edu/undergraduate/course-descriptions/cybr/
 terms:
   department:
     - cs
@@ -128,7 +128,7 @@ Cybersecurity majors can apply for several [scholarships and awards.]("https://c
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cybersecurity-major/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/cybr/)
 
 <!-- End courses -->
 
