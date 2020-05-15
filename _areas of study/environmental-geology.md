@@ -8,7 +8,7 @@ permalink: >
   /study/areas/environmental-geology/index.html
 published: true
 post_date: 2015-12-02 18:41:07
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Environmental Geology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Environmental Science and Geology.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Environmental Geology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Environmental Science and Geology.</span></p>'
 wpcf-value-proposition: "Driven to understand - and protect - the planet we live on? UMW's bachelor's program in environmental geology arms you with the knowledge and principles you need to understand Earth's evolution and processes. Discover how these fundamentals relate to human interaction with the landscape. Examine such topics as hydrogeology, soil and water chemistry, and geomorphology. Discover ways to curb the hazards that threaten our planet."
 wpcf-areas-of-study: "UMW's bachelor's program in environmental geology includes courses in soil and water chemistry, geography, environmental science, and geographic information science. Geology courses from which to choose include Evolution of the Earth, Mineralogy, Sedimentation and Stratigraphy, Hydrogeology, and Icehouse-Greenhouse Earth. Independent research is highly recommended."
 wpcf-career-opportunties: "Thanks to plentiful opportunities for independent study, research, and internships, and the state-of-the-art facilities available in UMW's Jepson Science Center, students who earn their degrees in environmental geology from UMW are poised to find work in environmental consulting, government, teaching, and several other fields. Many go on to graduate study at highly competitive universities."
@@ -24,6 +24,8 @@ wpcf-major-requirements: "UMW's environmental geology major requires 41 to 44 cr
 wpcf-scholarships: |
   A complete list of available scholarships is provided by UMW's <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 wpcf-department: https://cas.umw.edu/ees/
+wpcf-courses: >
+  https://catalog.umw.edu/undergraduate/course-descriptions/eesc/
 terms:
   department:
     - chemistry
@@ -76,6 +78,12 @@ A complete list of available scholarships is provided by UMW\'s [Office of Finan
 
 <!-- resource-links -->
 ## Resource Links
+
+<!-- courses -->
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/eesc/)
+
+<!-- End courses -->
+
 
 <!-- department -->
 [Department Website](https://cas.umw.edu/ees/)
