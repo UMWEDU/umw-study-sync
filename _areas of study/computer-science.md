@@ -31,7 +31,7 @@ wpcf-major-requirements: '<p class="p1">UMW’s <a href="http://publications.umw
 wpcf-scholarships: 'Computer science majors can apply for several <a href="http://cas.umw.edu/computerscience/scholarships-and-awards/">scholarships and awards</a>.'
 wpcf-department: http://cas.umw.edu/computerscience/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/cpsc/
+  https://catalog.umw.edu/undergraduate/course-descriptions/cpsc/
 wpcf-video: >
   https://www.youtube.com/watch?v=NRYMX4IH4rg
 terms:
@@ -97,7 +97,7 @@ Computer science majors can apply for several [scholarships and awards]("http://
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/cpsc/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/cpsc/)
 
 <!-- End courses -->
 
