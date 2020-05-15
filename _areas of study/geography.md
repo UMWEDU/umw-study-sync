@@ -9,7 +9,7 @@ published: true
 post_date: 2015-07-28 17:08:47
 wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Geography who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Geography.</span></p>'
 wpcf-home-page-feature: >
-  https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg
+  http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg
 wpcf-value-proposition: "As a University of Mary Washington geography major, you'll take classes in cultural, political, economic, and physical aspects of places around the globe. You'll learn how humans interact with their environments, both human-made and natural, and you'll have opportunities to broaden your life experience by studying abroad. Thanks to UMW's strong liberal arts program and interdisciplinary approach, you'll gain communication and technical skills that will enhance your career -- and your whole life."
 wpcf-areas-of-study: |
   The <a href="http://cas.umw.edu/geography/courses/">geography major</a> has three areas of emphasis:
@@ -48,7 +48,7 @@ wpcf-scholarships: >
   discipline.
 wpcf-department: http://cas.umw.edu/geography/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geog/
+  https://catalog.umw.edu/undergraduate/course-descriptions/geog/
 wpcf-video: https://vimeo.com/129830476
 terms:
   department:
@@ -58,7 +58,7 @@ terms:
 ---
 
 <!-- Types Custom Fields: -->
-[![](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg)](https://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg)
+[![](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg)](http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/NS-GIS-15e.jpg)
 <!-- End home-page-feature -->
 
 <!-- video -->
@@ -111,7 +111,7 @@ The Geography Alumni Scholarship is granted to a rising junior or senior geograp
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/geog/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/geog/)
 
 <!-- End courses -->
 
