@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/religion/index.html
 published: true
 post_date: 2015-07-28 17:43:42
-wpcf-degree-awarded: '<span style="font-size: 12.0pt">Students majoring in Religious Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Philosophy and Religious Studies.</span>'
+wpcf-degree-awarded: '<span style="font-size: 12.0pt;">Students majoring in Religious Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Philosophy and Religious Studies.</span>'
 wpcf-value-proposition: >
   Religions affect more than beliefs –
   they influence politics, shape culture,
@@ -43,7 +43,7 @@ wpcf-scholarships: 'In addition to general scholarships awarded by the universit
 wpcf-department: >
   https://cas.umw.edu/clpr/religious-studies-program/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/relg/
+  https://catalog.umw.edu/undergraduate/course-descriptions/relg/
 wpcf-video: https://vimeo.com/131563072
 terms:
   department:
@@ -100,7 +100,7 @@ In addition to general scholarships awarded by the university, religious studies
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/course-descriptions/relg/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/relg/)
 
 <!-- End courses -->
 
