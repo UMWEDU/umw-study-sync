@@ -66,8 +66,7 @@ wpcf-testimonial: |
   
   I could not ask for more out of a summer-long internship. In addition to learning more about the history of the Holocaust and World War II, I gained a better understanding of the museum professions and the museum world in general. My internship coordinators and the museum staff encouraged me to ask questions and learn as much as I could. This internship confirmed that by declaring my minor in Museum Studies, I have chosen the perfect career path for me.”
 wpcf-department: https://cas.umw.edu/museumstudies/
-wpcf-courses: >
-  https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/museum-studies/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/museum-studies/#requirementstext'
 terms:
   department:
     - cpr
@@ -111,14 +110,14 @@ The museum studies minor requires 18 credits. You must take two basic museum stu
 
 <!-- scholarships -->
 ## Scholarships
-While there are no UMW scholarships specifically for the museum studies minor, there are scholarships that may be available to museum studies minors. [Search scholarships](https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=886).
+While there are no UMW scholarships specifically for the museum studies minor, there are scholarships that may be available to museum studies minors. [Search scholarships]("https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=886").
 <!-- End scholarships -->
 
 <!-- resource-links -->
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/museum-studies/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/museum-studies/#requirementstext)
 
 <!-- End courses -->
 
