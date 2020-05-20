@@ -57,8 +57,7 @@ wpcf-minor-requirements: >
 wpcf-scholarships: 'Information about scholarships is available on the <a href="http://cas.umw.edu/theatre/make-a-gift/friends-of-dance/scholarships/">Department of Theatre and Dance website</a>.'
 wpcf-department: >
   http://cas.umw.edu/theatre/current-students/minor-requirements/
-wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/arts-administration-minor/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/arts-administration/#requirementstext'
 terms:
   department:
     - cob
@@ -95,14 +94,14 @@ To complete an arts administration minor at UMW, you will need 15 credits, inclu
 
 <!-- scholarships -->
 ## Scholarships
-Information about scholarships is available on the [Department of Theatre and Dance website](http://cas.umw.edu/theatre/make-a-gift/friends-of-dance/scholarships/).
+Information about scholarships is available on the [Department of Theatre and Dance website]("http://cas.umw.edu/theatre/make-a-gift/friends-of-dance/scholarships/").
 <!-- End scholarships -->
 
 <!-- resource-links -->
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/arts-administration-minor/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/arts-administration/#requirementstext)
 
 <!-- End courses -->
 
