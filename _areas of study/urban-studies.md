@@ -29,8 +29,7 @@ wpcf-minor-requirements: "UMW's urban studies minor requires 18 credits: one int
 wpcf-scholarships: 'The Department of Historic Preservation, which administers the urban studies minor, offers <a href="http://cas.umw.edu/hisp/scholarships/">several scholarships</a>.'
 wpcf-department: >
   http://cas.umw.edu/hisp/requirements/urban-studies-minor/
-wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/urbn/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/urban-studies/#requirementstext'
 terms:
   department:
     - cas
@@ -45,7 +44,7 @@ terms:
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->
-What could be more exciting than city living? UMW's urban studies minor gets to the root of the hustle and bustle, revealing in historical, social, cultural, economic, and political contexts the opportunities, problems, and dynamics of living and working in a city. Explore urban life, planning, policy-making, and issues such as housing, education, and crime. This multi-disciplinary minor offers everything from historic preservation and study abroad to a chance to build with LEGOs!
+What could be more exciting than city living? UMW\'s urban studies minor gets to the root of the hustle and bustle, revealing in historical, social, cultural, economic, and political contexts the opportunities, problems, and dynamics of living and working in a city. Explore urban life, planning, policy-making, and issues such as housing, education, and crime. This multi-disciplinary minor offers everything from historic preservation and study abroad to a chance to build with LEGOs!
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
@@ -60,7 +59,7 @@ Working closely with the Department of Historic Preservation, urban studies mino
 
 <!-- honors -->
 ## Honors
-[Learn about earning academic honors for your major.](http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/)
+[Learn about earning academic honors for your major.]("http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/")
 <!-- End honors -->
 
 <!-- requirements -->
@@ -68,21 +67,21 @@ Working closely with the Department of Historic Preservation, urban studies mino
 
 <!-- minor-requirements -->
 ### Minor Requirements
-UMW's urban studies minor requires 18 credits: one introductory class, one methods or research oriented class, three electives (special topics courses, independent studies, and internships in relevant topics may be substituted), and an urban studies capstone course. Required courses span the disciplines of anthropology, art history, classics, economics, geography, historic preservation, history, political science, and sociology.
+UMW\'s urban studies minor requires 18 credits: one introductory class, one methods or research oriented class, three electives (special topics courses, independent studies, and internships in relevant topics may be substituted), and an urban studies capstone course. Required courses span the disciplines of anthropology, art history, classics, economics, geography, historic preservation, history, political science, and sociology.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-The Department of Historic Preservation, which administers the urban studies minor, offers [several scholarships](http://cas.umw.edu/hisp/scholarships/).
+The Department of Historic Preservation, which administers the urban studies minor, offers [several scholarships]("http://cas.umw.edu/hisp/scholarships/").
 <!-- End scholarships -->
 
 <!-- resource-links -->
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/urbn/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/urban-studies/#requirementstext)
 
 <!-- End courses -->
 
