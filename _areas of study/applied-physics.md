@@ -7,6 +7,7 @@ layout: areas
 permalink: /study/areas/applied-physics/index.html
 published: true
 post_date: 2020-05-19 13:44:23
+wpcf-degree-awarded: '<span style="font-size: 12.0pt;">Students majoring in Applied Physics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Physics.</span>'
 wpcf-value-proposition: >
   Are you filled with wonder about how the
   natural world works and want to be able
@@ -85,6 +86,10 @@ terms:
 Are you filled with wonder about how the natural world works and want to be able to apply that knowledge? Are you interested in the mathematical underpinnings of fundamental physics but desire to take it to the next level with computer and data science? Are you looking to use your abilities to analyze complex problems, work with high-tech equipment and put into practice your strong quantitative background by preparing for in-demand careers? If you answered “yes” to these questions, then the practical approach of our applied physics program provides a seamless transition from your liberal arts education to industry and government labs.
 <!-- End value-proposition -->
 
+<!-- degree-awarded -->
+## Degree Awarded
+<span style=""font-size:">Students majoring in Applied Physics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Physics.</span>
+<!-- End degree-awarded -->
 <!-- areas-of-study -->
 ## Areas of Study
 The applied physics major includes several core physics courses, such as university physics, modern physics, mathematical methods of physics, and several other. It also has a core requirement of three mathematics courses, including calculus I and II, and required courses in data science and computer science.
