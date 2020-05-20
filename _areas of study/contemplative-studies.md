@@ -37,8 +37,7 @@ wpcf-minor-requirements: >
   and anthropology.
 wpcf-scholarships: 'There are no scholarships specifically for contemplative studies. Here is a link to all <a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/">scholarships in Classics, Philosophy, &amp; Religion</a>.'
 wpcf-department: https://cas.umw.edu/clpr/
-wpcf-courses: >
-  https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/contemplative-studies-minor/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext'
 terms:
   department:
     - cpr
@@ -74,14 +73,14 @@ The Contemplative Studies Minor requires 18 credits. They will come from a choic
 
 <!-- scholarships -->
 ## Scholarships
-There are no scholarships specifically for contemplative studies. Here is a link to all [scholarships in Classics, Philosophy, & Religion](http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/).
+There are no scholarships specifically for contemplative studies. Here is a link to all [scholarships in Classics, Philosophy, & Religion]("http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/").
 <!-- End scholarships -->
 
 <!-- resource-links -->
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/contemplative-studies-minor/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext)
 
 <!-- End courses -->
 
