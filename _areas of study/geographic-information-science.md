@@ -29,7 +29,7 @@ wpcf-areas-of-study: >
 wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/">certificate</a> requires 19 credit hours of GIS course work, taken in four 4-credit courses and one 3-credit capstone. It may be taken by undergraduates just like a minor, or by professional non-degree-seeking students. <em>Introduction to GIS</em> and <em>Spatial Analysis</em> are required. Students take one elective, and they take either <em>GIS Programming</em> or <em>Web GIS</em>. The capstone is either an internship or a directed study. The certificate can be obtained solely through evening classes.'
 wpcf-department: https://cas.umw.edu/gis/
 wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/
+  https://catalog.umw.edu/undergraduate/course-descriptions/gisc/
 terms:
   department:
     - geo
@@ -64,7 +64,7 @@ The [certificate]("http://publications.umw.edu/undergraduatecatalog/courses-of-s
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/)
+[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/gisc/)
 
 <!-- End courses -->
 
