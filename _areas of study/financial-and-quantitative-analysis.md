@@ -63,8 +63,7 @@ wpcf-minor-requirements: >
   minor.
 wpcf-scholarships: 'Many <a href="http://business.umw.edu/current-students/undergraduate-scholarships/">scholarships</a> are available for business majors, including financial and quantitative analysis students.'
 wpcf-department: https://business.umw.edu/
-wpcf-courses: >
-  https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/financial-and-quantitative-analysis/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext'
 terms:
   department:
     - cob
@@ -100,14 +99,14 @@ To earn a minor in financial and quantitative analysis, you’ll earn 18 credits
 
 <!-- scholarships -->
 ## Scholarships
-Many [scholarships](http://business.umw.edu/current-students/undergraduate-scholarships/) are available for business majors, including financial and quantitative analysis students.
+Many [scholarships]("http://business.umw.edu/current-students/undergraduate-scholarships/") are available for business majors, including financial and quantitative analysis students.
 <!-- End scholarships -->
 
 <!-- resource-links -->
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/financial-and-quantitative-analysis/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext)
 
 <!-- End courses -->
 
