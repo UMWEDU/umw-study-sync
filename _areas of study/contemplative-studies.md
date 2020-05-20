@@ -37,7 +37,7 @@ wpcf-minor-requirements: >
   and anthropology.
 wpcf-scholarships: 'There are no scholarships specifically for contemplative studies. Here is a link to all <a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/">scholarships in Classics, Philosophy, &amp; Religion</a>.'
 wpcf-department: https://cas.umw.edu/clpr/
-wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext'
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/contemplative-studies/#requirementstext'
 terms:
   department:
     - cpr
@@ -80,7 +80,7 @@ There are no scholarships specifically for contemplative studies. Here is a link
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/contemplative-studies/#requirementstext)
 
 <!-- End courses -->
 
