@@ -63,7 +63,7 @@ wpcf-minor-requirements: >
   minor.
 wpcf-scholarships: 'Many <a href="http://business.umw.edu/current-students/undergraduate-scholarships/">scholarships</a> are available for business majors, including financial and quantitative analysis students.'
 wpcf-department: https://business.umw.edu/
-wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext'
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/financial-quantitative-analysis/#requirementstext'
 terms:
   department:
     - cob
@@ -106,7 +106,7 @@ Many [scholarships]("http://business.umw.edu/current-students/undergraduate-scho
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/financial-quantitative-analysis/#requirementstext)
 
 <!-- End courses -->
 
