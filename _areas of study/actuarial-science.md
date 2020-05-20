@@ -62,8 +62,7 @@ wpcf-scholarships: |
   UMW's Department of Mathematics, which hosts the actuarial science major, offers several <a href="http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/">scholarship opportunities</a> for qualifying students. For a complete list of scholarship opportunities available at UMW, visit the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 wpcf-department: >
   http://cas.umw.edu/math/courses-and-majorminor-requirements/minor-requirements/
-wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/actuarial-science/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/actuarial-science/#requirementstext'
 terms:
   department:
     - cob
@@ -113,7 +112,7 @@ UMW\'s Department of Mathematics, which hosts the actuarial science major, offer
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/actuarial-science/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/actuarial-science/#requirementstext)
 
 <!-- End courses -->
 
