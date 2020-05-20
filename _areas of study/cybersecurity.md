@@ -69,8 +69,7 @@ wpcf-minor-requirements: 'The cybersecurity <a href="https://cas.umw.edu/compute
 wpcf-major-requirements: 'UMW’s major in <a href="https://cas.umw.edu/computerscience/requirements/cybersecurity-major/" target="_blank" rel="noopener">cybersecurity</a> requires 44 credits, including a core program of cybersecurity coursework and courses in computer coding, mathematics, networks, and business law.'
 wpcf-scholarships: 'Cybersecurity majors can apply for several <a href="https://cas.umw.edu/computerscience/scholarships-and-awards/" target="_blank" rel="noopener">scholarships and awards.</a>'
 wpcf-department: https://cas.umw.edu/computerscience/
-wpcf-courses: >
-  https://catalog.umw.edu/undergraduate/course-descriptions/cybr/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/majors/cybersecurity/#requirementstext'
 terms:
   department:
     - cs
@@ -128,7 +127,7 @@ Cybersecurity majors can apply for several [scholarships and awards.]("https://c
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/cybr/)
+[Course Listing](https://catalog.umw.edu/undergraduate/majors/cybersecurity/#requirementstext)
 
 <!-- End courses -->
 
