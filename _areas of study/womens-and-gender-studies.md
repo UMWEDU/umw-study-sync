@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2015-07-28 15:44:06
 wpcf-degree-awarded: |
-  <p class="p2"><span style="font-size: 12.0pt;">Students majoring in Women's and Gender Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in General Liberal Arts and Studies.</span></p>
+  <p class="p2"><span style="font-size: 12.0pt">Students majoring in Women's and Gender Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in General Liberal Arts and Studies.</span></p>
 wpcf-value-proposition: >
   Everyone has a sex and everyone has a
   gender. Our bachelor’s degree in
@@ -57,8 +57,7 @@ wpcf-major-requirements: |
   The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/wgst/">women’s and gender studies </a>major requires 33 credits from across disciplines. Its advisory board – made up of faculty from the departments of political science; sociology and anthropology; art and art history; and English, linguistics, and communication – encourages the majors to work with faculty advisors to formulate their coursework around issues or themes that interest the students. The foundation courses are women's studies and feminism. Other requirements include a methods course, approved electives, an internship, and a student-designed capstone course.
 wpcf-scholarships: 'None specific to this major, but UMW offers many <a href="https://umw.scholarships.ngwebsolutions.com/ScholarX_ScholarshipSearch.aspx">scholarships</a>.'
 wpcf-department: http://cas.umw.edu/wgst/
-wpcf-courses: >
-  https://catalog.umw.edu/undergraduate/course-descriptions/wgst/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/majors/womens-gender-studies/#requirementstext'
 wpcf-video: https://vimeo.com/133699287
 terms:
   department:
@@ -115,7 +114,7 @@ None specific to this major, but UMW offers many [scholarships]("https://umw.sch
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/wgst/)
+[Course Listing](https://catalog.umw.edu/undergraduate/majors/womens-gender-studies/#requirementstext)
 
 <!-- End courses -->
 
