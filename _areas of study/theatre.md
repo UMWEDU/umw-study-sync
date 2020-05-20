@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/theatre/index.html
 published: true
 post_date: 2015-07-28 19:29:26
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Theatre who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Performing Arts.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Theatre who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Performing Arts.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg
 wpcf-value-proposition: >
@@ -45,8 +45,7 @@ wpcf-minor-requirements: 'Twenty-four credits are required for the <a href="http
 wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/thea/">theatre major</a> requires 41 credits including core courses and electives. All theatre majors must enroll in theatre practicum each semester except during the semester of the senior project. Eight practicum credits may count toward graduation.'
 wpcf-scholarships: 'The Department of Theatre &amp; Dance offers many awards to continuing students who are active in the production program. These merit-based scholarships vary in size and award criteria.'
 wpcf-department: http://cas.umw.edu/theatre/
-wpcf-courses: >
-  https://catalog.umw.edu/undergraduate/course-descriptions/thea/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/digital-studies/#requirementstext'
 wpcf-video: https://vimeo.com/131317845
 terms:
   department:
@@ -110,7 +109,7 @@ The Department of Theatre & Dance offers many awards to continuing students who 
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/thea/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/digital-studies/#requirementstext)
 
 <!-- End courses -->
 
