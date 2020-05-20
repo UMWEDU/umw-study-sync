@@ -85,7 +85,7 @@ wpcf-minor-requirements: >
   Spanish.
 wpcf-scholarships: 'The <a href="http://cas.umw.edu/ees/news-3/">Department of Earth and Environmental Sciences</a>, which hosts the environmental sustainability minor, offers scholarships to aid students in their studies. For a complete list of scholarships offered at UMW, visit the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.'
 wpcf-department: https://cas.umw.edu/ees/
-wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext'
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/environmental-sustainability/#requirementstext'
 terms:
   department:
     - bio
@@ -136,7 +136,7 @@ The [Department of Earth and Environmental Sciences]("http://cas.umw.edu/ees/new
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/environmental-sustainability/#requirementstext)
 
 <!-- End courses -->
 
