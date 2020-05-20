@@ -24,8 +24,7 @@ wpcf-minor-requirements: >
 wpcf-scholarships: |
   <a href="http://cas.umw.edu/psychology/for-students/scholarship-information/">The Department of Psychological Science</a>, which hosts UMW's neuroscience minor program, offers scholarships to qualified students. <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">The Office of Financial Aid</a> also keeps a complete list of all scholarships available to UMW students.
 wpcf-department: https://cas.umw.edu/psychology/
-wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/neuroscience-minor/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/neuroscience/#requirementstext'
 terms:
   department:
     - bio
@@ -74,7 +73,7 @@ The neuroscience minor at UMW requires 17 credits, including four credits each o
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/neuroscience-minor/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/neuroscience/#requirementstext)
 
 <!-- End courses -->
 
