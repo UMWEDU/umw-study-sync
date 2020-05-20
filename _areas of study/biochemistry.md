@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/biochemistry/index.html
 published: true
 post_date: 2018-08-30 13:24:12
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Biochemistry who complete all requirements earn the degree of Bachelor of Science (B.S.) in Chemistry.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Biochemistry who complete all requirements earn the degree of Bachelor of Science (B.S.) in Chemistry.</span></p>'
 wpcf-value-proposition: >
   Are you drawn to the chemistry of life?
   Biochemistry studies life on the
@@ -85,8 +85,7 @@ wpcf-testimonial: >
   work as a neurosurgeon. “I feel
   that’s my calling."
 wpcf-department: https://cas.umw.edu/chemistry/
-wpcf-courses: >
-  https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/chem/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/majors/biochemistry/#requirementstext'
 terms:
   department:
     - chemistry
@@ -142,7 +141,7 @@ Each year, the department awards two UMW Foundation research-focused scholarship
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/chem/)
+[Course Listing](https://catalog.umw.edu/undergraduate/majors/biochemistry/#requirementstext)
 
 <!-- End courses -->
 
