@@ -8,7 +8,7 @@ permalink: >
   /study/areas/conservation-biology/index.html
 published: true
 post_date: 2020-01-21 21:46:23
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Conservation Biology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Biology.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Conservation Biology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Biology.</span></p>'
 wpcf-value-proposition: >
   Are you passionate about preserving the
   earth’s biological diversity and the
@@ -72,8 +72,7 @@ wpcf-scholarships: >
   scholarships as the Thyra Vedel Valade
   Conservation Leadership Scholarship.
 wpcf-department: https://cas.umw.edu/biology/
-wpcf-courses: >
-  https://catalog.umw.edu/undergraduate/course-descriptions/biol/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/majors/conservation-biology/#requirementstext'
 terms:
   department:
     - bio
@@ -125,7 +124,7 @@ Conservation biology majors will be encouraged to apply for such scholarships as
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/biol/)
+[Course Listing](https://catalog.umw.edu/undergraduate/majors/conservation-biology/#requirementstext)
 
 <!-- End courses -->
 
