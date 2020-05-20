@@ -8,7 +8,7 @@ permalink: >
   /study/areas/international-affairs/index.html
 published: true
 post_date: 2015-07-28 18:55:26
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in International Affairs who complete all requirements earn the degree of Bachelor of Arts (B.A.) in International Affairs.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in International Affairs who complete all requirements earn the degree of Bachelor of Arts (B.A.) in International Affairs.</span></p>'
 wpcf-value-proposition: "If you're curious about the political, economic, and social systems of other countries, a University of Mary Washington international affairs major will give you the insight you seek. You'll study American foreign policy in the context of international history, politics, economics, religious practices, and social customs. Our proximity to Washington, D.C., lets you  enhance your studies with internships as you work toward an international career."
 wpcf-areas-of-study: >
   The major offers classes in national
@@ -34,8 +34,7 @@ wpcf-minor-requirements: |
 wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/inaf/">major in international affairs</a> requires 19 credits in core classes and 21 elective credits from such disciplines as economics, geography, history, political science, French, German, Italian, and Spanish. To meet the language requirement, a student may complete two foreign languages through the intermediate level or earn six credits in one foreign language at the advanced level.'
 wpcf-department: >
   http://cas.umw.edu/polisci/international-affairs/
-wpcf-courses: >
-  https://catalog.umw.edu/undergraduate/course-descriptions/inaf/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/majors/international-affairs/#requirementstext'
 wpcf-video: >
   https://www.youtube.com/watch?v=UfG8tp1apNo
 terms:
@@ -93,7 +92,7 @@ UMW offers a [minor in security and conflict studies]("http://publications.umw.e
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://catalog.umw.edu/undergraduate/course-descriptions/inaf/)
+[Course Listing](https://catalog.umw.edu/undergraduate/majors/international-affairs/#requirementstext)
 
 <!-- End courses -->
 
