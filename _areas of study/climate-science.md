@@ -53,7 +53,7 @@ wpcf-minor-requirements: >
   climate, dynamic climatology, and
   climate change.
 wpcf-department: https://cas.umw.edu/geography/
-wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext'
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/climate-science/#requirementstext'
 terms:
   department:
     - geo
@@ -91,7 +91,7 @@ The climate science minor requires 16 to 18 credits from among geography, enviro
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/climate-science/#requirementstext)
 
 <!-- End courses -->
 
