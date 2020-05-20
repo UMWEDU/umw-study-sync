@@ -29,8 +29,7 @@ wpcf-minor-requirements: |
 wpcf-scholarships: |
   The <a href="http://cas.umw.edu/art/art-history/current-students/scholarships/">Department of Art and Art History</a>, which hosts UMW's pre-conservation in fine art minor program, offers scholarships, undergraduate research grants, and departmental awards. A complete list of scholarship opportunities available at UMW can be found with the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.
 wpcf-department: http://cas.umw.edu/art/
-wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/pre-conservation-in-fine-art/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/pre-conservation-fine-art/#requirementstext'
 terms:
   department:
     - art
@@ -79,7 +78,7 @@ The [Department of Art and Art History]("http://cas.umw.edu/art/art-history/curr
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/pre-conservation-in-fine-art/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/pre-conservation-fine-art/#requirementstext)
 
 <!-- End courses -->
 
