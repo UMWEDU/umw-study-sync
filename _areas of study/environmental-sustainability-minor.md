@@ -85,6 +85,7 @@ wpcf-minor-requirements: >
   Spanish.
 wpcf-scholarships: 'The <a href="http://cas.umw.edu/ees/news-3/">Department of Earth and Environmental Sciences</a>, which hosts the environmental sustainability minor, offers scholarships to aid students in their studies. For a complete list of scholarships offered at UMW, visit the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.'
 wpcf-department: https://cas.umw.edu/ees/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext'
 terms:
   department:
     - bio
@@ -103,7 +104,7 @@ With businesses blamed for damaging rain forests and overfishing oceans, sustain
 
 <!-- areas-of-study -->
 ## Areas of Study
-UMW's minor in environmental sustainability typically attracts students from the natural and social sciences, philosophy, economics, and business, but the program is open to all majors. Take core courses in Earth and environmental sciences. Then choose from electives carefully selected from such disciplines as biology, environmental science, economics, geography, and philosophy to adapt the program to your own strengths, interests, and career goals.
+UMW\'s minor in environmental sustainability typically attracts students from the natural and social sciences, philosophy, economics, and business, but the program is open to all majors. Take core courses in Earth and environmental sciences. Then choose from electives carefully selected from such disciplines as biology, environmental science, economics, geography, and philosophy to adapt the program to your own strengths, interests, and career goals.
 <!-- End areas-of-study -->
 
 <!-- internships -->
@@ -128,11 +129,17 @@ The environmental sustainability minor at UMW requires 18 to 21 credits, includi
 
 <!-- scholarships -->
 ## Scholarships
-The [Department of Earth and Environmental Sciences](http://cas.umw.edu/ees/news-3/), which hosts the environmental sustainability minor, offers scholarships to aid students in their studies. For a complete list of scholarships offered at UMW, visit the [Office of Financial Aid](https://www.umw.edu/financialaid/types/scholarship-opportunities/).
+The [Department of Earth and Environmental Sciences]("http://cas.umw.edu/ees/news-3/"), which hosts the environmental sustainability minor, offers scholarships to aid students in their studies. For a complete list of scholarships offered at UMW, visit the [Office of Financial Aid]("https://www.umw.edu/financialaid/types/scholarship-opportunities/").
 <!-- End scholarships -->
 
 <!-- resource-links -->
 ## Resource Links
+
+<!-- courses -->
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext)
+
+<!-- End courses -->
+
 
 <!-- department -->
 [Department Website](https://cas.umw.edu/ees/)
