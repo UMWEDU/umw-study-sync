@@ -72,8 +72,7 @@ wpcf-major-requirements: |
 wpcf-scholarships: 'Many <a href="http://business.umw.edu/current-students/undergraduate-scholarships/">scholarships</a> are available for business majors.'
 wpcf-department: >
   https://business.umw.edu/degree-programs/undergraduate-degree-bs-in-business-administration/international-business-major/
-wpcf-courses: >
-  https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/international-business/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/majors/international-business/#requirementstext'
 terms:
   department:
     - cob
@@ -125,7 +124,7 @@ Many [scholarships]("http://business.umw.edu/current-students/undergraduate-scho
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](https://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/international-business/)
+[Course Listing](https://catalog.umw.edu/undergraduate/majors/international-business/#requirementstext)
 
 <!-- End courses -->
 
