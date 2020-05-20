@@ -26,8 +26,7 @@ wpcf-minor-requirements: "UMW's minor program in Middle Eastern studies requires
 wpcf-scholarships: 'The Department of Geography offers <a href="http://cas.umw.edu/geography/about-the-department/student-and-alumni-awards/">several scholarships</a> each year. The Office of Financial Aid also keeps a complete list of <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">all scholarships and grants</a> available to UMW students.'
 wpcf-department: >
   http://cas.umw.edu/middleeaststudiesminor/
-wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/mdes/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/middle-eastern-studies/#requirementstext'
 terms:
   department:
     - cpr
@@ -79,7 +78,7 @@ The Department of Geography offers [several scholarships]("http://cas.umw.edu/ge
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/mdes/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/middle-eastern-studies/#requirementstext)
 
 <!-- End courses -->
 
