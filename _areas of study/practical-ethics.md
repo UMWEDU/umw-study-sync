@@ -32,8 +32,7 @@ wpcf-minor-requirements: "UMW's practical ethics minor requires at least 18 cred
 wpcf-scholarships: 'The Department of Classics, Philosophy, and Religion, which hosts the practical ethics minor, offers several <a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/">scholarship opportunities</a>. In addition, the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a> maintains a complete list of all scholarship opportunities available to UMW students.'
 wpcf-department: >
   http://cas.umw.edu/clpr/philosophy-program/
-wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/practical-ethics/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/practical-ethics/#requirementstext'
 terms:
   department:
     - cpr
@@ -88,7 +87,7 @@ The Department of Classics, Philosophy, and Religion, which hosts the practical 
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/practical-ethics/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/practical-ethics/#requirementstext)
 
 <!-- End courses -->
 
