@@ -34,9 +34,7 @@ wpcf-areas-of-study: >
   China, and the politics of East and
   South Asia.
 wpcf-career-opportunties: .
-wpcf-internships: |
-  The University of Mary Washington’s unique location near the nation’s capital offers plenty of prestigious internships to boost students’ resumes and international understanding. More information on internship opportunities can be found on the <a href="https://www.umw.edu/careercenter/students/internships/
-  ">Academic and Career Services site</a>.
+wpcf-internships: 'The University of Mary Washington’s unique location near the nation’s capital offers plenty of prestigious internships to boost students’ resumes and international understanding. More information on internship opportunities can be found on the <a href="https://www.umw.edu/careercenter/students/internships/">Academic and Career Services site</a>.'
 wpcf-minor-requirements: >
   The Asian Studies minor requires 24
   credits, including two semesters of an
@@ -50,8 +48,7 @@ wpcf-minor-requirements: >
 wpcf-scholarships: 'Find out more information about <a href="http://cas.umw.edu/asian/scholarship/">scholarships available</a> to Asian studies minors.'
 wpcf-department: >
   http://cas.umw.edu/asian/asian-studies-minor/
-wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/asns/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext'
 terms:
   department:
     - cas
@@ -72,7 +69,7 @@ The Asian studies minor at UMW explores Asian art, civilization, and geography. 
 
 <!-- internships -->
 ## Internships
-The University of Mary Washington’s unique location near the nation’s capital offers plenty of prestigious internships to boost students’ resumes and international understanding. More information on internship opportunities can be found on the [Academic and Career Services site]("https://www.umw.edu/careercenter/students/internships/).
+The University of Mary Washington’s unique location near the nation’s capital offers plenty of prestigious internships to boost students’ resumes and international understanding. More information on internship opportunities can be found on the [Academic and Career Services site]("https://www.umw.edu/careercenter/students/internships/").
 <!-- End internships -->
 
 <!-- requirements -->
@@ -94,7 +91,7 @@ Find out more information about [scholarships available]("http://cas.umw.edu/asi
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/asns/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/asian-studies/#requirementstext)
 
 <!-- End courses -->
 
