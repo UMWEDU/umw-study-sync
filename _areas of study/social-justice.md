@@ -39,8 +39,7 @@ wpcf-scholarships: |
   UMW's Department of Sociology and Anthropology, which hosts the minor program in social justice, offers <a href="http://cas.umw.edu/sociologyanthropology/departmental-scholarships/">several scholarships</a>. For more information on scholarships offered at UMW, visit the <a href="/financialaid/types/">Office of Financial Aid</a>.
 wpcf-department: >
   http://cas.umw.edu/sociologyanthropology/
-wpcf-courses: >
-  http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/social-justice-minor/
+wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/social-justice/#requirementstext'
 terms:
   department:
     - has
@@ -52,17 +51,17 @@ terms:
 <!-- Types Custom Fields: -->
 
 <!-- value-proposition -->
-Are equality and fairness just an illusion? UMW's minor program in social justice attempts to bridge the gap between the ideal and the reality of our social situations. Explore injustices such as cultural imperialism, exploitation, human rights abuses, and physical violence. Study social movements and political philosophy. Become a well-informed citizen with the ability to look at social values and change from multiple perspectives.
+Are equality and fairness just an illusion? UMW\'s minor program in social justice attempts to bridge the gap between the ideal and the reality of our social situations. Explore injustices such as cultural imperialism, exploitation, human rights abuses, and physical violence. Study social movements and political philosophy. Become a well-informed citizen with the ability to look at social values and change from multiple perspectives.
 <!-- End value-proposition -->
 
 <!-- areas-of-study -->
 ## Areas of Study
-Choose from courses in economics, history, philosophy, anthropology, sociology, geography, and other disciplines. Course titles include Anthropology of Gender; World Regional Geography; Social and Political Philosophy; Introduction to Women's and Gender Studies; Poverty, Influence, and Equality; Migration Politics in a Globalizing World; History of Sexuality in the U.S.; Racial and Ethnic Relations; and many more.
+Choose from courses in economics, history, philosophy, anthropology, sociology, geography, and other disciplines. Course titles include Anthropology of Gender; World Regional Geography; Social and Political Philosophy; Introduction to Women\'s and Gender Studies; Poverty, Influence, and Equality; Migration Politics in a Globalizing World; History of Sexuality in the U.S.; Racial and Ethnic Relations; and many more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
 ## Internships
-UMW's Department of Sociology and Anthropology, which hosts the minor program in social justice, offers students real-world experience through a variety of available internships. Students in the sociology and anthropology programs have held recent internships at Micha Ecumenical Center, Thurman Brisben Homeless Shelter, disABILITY Resource Center, Empowerhouse, Stafford Junction, Refugee Resettlement Services of the Catholic Diocese, Lloyd F. Moss Free Clinic, Rappahannock Legal Services, and many more. Check out [the entire list](http://cas.umw.edu/sociologyanthropology/resources/internships-socg-or-anth-499/)!
+UMW\'s Department of Sociology and Anthropology, which hosts the minor program in social justice, offers students real-world experience through a variety of available internships. Students in the sociology and anthropology programs have held recent internships at Micha Ecumenical Center, Thurman Brisben Homeless Shelter, disABILITY Resource Center, Empowerhouse, Stafford Junction, Refugee Resettlement Services of the Catholic Diocese, Lloyd F. Moss Free Clinic, Rappahannock Legal Services, and many more. Check out [the entire list]("http://cas.umw.edu/sociologyanthropology/resources/internships-socg-or-anth-499/")!
 <!-- End internships -->
 
 <!-- honors -->
@@ -75,21 +74,21 @@ Students with a cumulative GPA of at least 3.5 are eligible to pursue an Honors 
 
 <!-- minor-requirements -->
 ### Minor Requirements
-Hosted by the Department of Sociology and Anthropology, UMW's minor program in social justice requires 18 credits, including Introduction to American Studies; four electives, three of which must be upper-level, drawn from at least three disciplines (including economics, history, philosophy, and more); and either Public Sociology (which includes training on participatory action research methods), an approved three-credit internship, or an approved three-credit course within a study abroad program.
+Hosted by the Department of Sociology and Anthropology, UMW\'s minor program in social justice requires 18 credits, including Introduction to American Studies; four electives, three of which must be upper-level, drawn from at least three disciplines (including economics, history, philosophy, and more); and either Public Sociology (which includes training on participatory action research methods), an approved three-credit internship, or an approved three-credit course within a study abroad program.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
 
 <!-- scholarships -->
 ## Scholarships
-UMW's Department of Sociology and Anthropology, which hosts the minor program in social justice, offers [several scholarships](http://cas.umw.edu/sociologyanthropology/departmental-scholarships/). For more information on scholarships offered at UMW, visit the [Office of Financial Aid](/financialaid/types/).
+UMW\'s Department of Sociology and Anthropology, which hosts the minor program in social justice, offers [several scholarships]("http://cas.umw.edu/sociologyanthropology/departmental-scholarships/"). For more information on scholarships offered at UMW, visit the [Office of Financial Aid]("/financialaid/types/").
 <!-- End scholarships -->
 
 <!-- resource-links -->
 ## Resource Links
 
 <!-- courses -->
-[Course Listing](http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/social-justice-minor/)
+[Course Listing](https://catalog.umw.edu/undergraduate/minors/social-justice/#requirementstext)
 
 <!-- End courses -->
 
