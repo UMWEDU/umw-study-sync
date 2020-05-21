@@ -39,8 +39,8 @@ wpcf-internships: >
   and the Bureau of Labor Statistics,
   among many other employers.
 wpcf-honors: "As a mathematics major, you may graduate with honors. Requirements include a grade-point average of 3.5 in the major (3.0 overall) and two 400-level mathematics courses. Under the supervision of an advisor, you'll complete either a directed study or undergraduate research project. You'll write a thesis and present it to the mathematics department."
-wpcf-minor-requirements: 'Students from any discipline may <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/math/">minor in mathematics</a>.  The mathematics minor requires 18 mathematics credits. At least 12 credits must be earned from mathematics courses at the 300 level or above. Students can also minor in <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/apmt/">applied mathematics</a> or <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/actuarial-science/">actuarial science</a>.'
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/math/">mathematics major</a> requires 36 credits, of which 15 must come from specified courses in calculus, multivariable calculus, linear algebra, abstract algebra, and real analysis. Additional credits must be earned from 300- and 400-level classes. Mathematics electives or certain computer science, physics, and philosophy courses also may count toward the major.'
+wpcf-minor-requirements: 'Students from any discipline may minor in mathematics.  The <a href="https://catalog.umw.edu/undergraduate/minors/mathematics/#requirementstext">mathematics minor</a> requires 18 mathematics credits. At least 12 credits must be earned from mathematics courses at the 300 level or above. Students can also minor in <a href="https://catalog.umw.edu/undergraduate/minors/applied-mathematics/#requirementstext">applied mathematics </a>or <a href="https://catalog.umw.edu/undergraduate/minors/actuarial-science/#requirementstext">actuarial science</a>.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/mathematics/#requirementstext">mathematics major</a> requires 36 credits, of which 15 must come from specified courses in calculus, multivariable calculus, linear algebra, abstract algebra, and real analysis. Additional credits must be earned from 300- and 400-level classes. Mathematics electives or certain computer science, physics, and philosophy courses also may count toward the major.'
 wpcf-scholarships: 'Several <a href="http://cas.umw.edu/math/student-opportunities/scholarships-awards-and-honor-societies/">scholarships and honor societies</a> are open to mathematics majors.'
 wpcf-department: http://cas.umw.edu/math/
 wpcf-courses: >
@@ -91,12 +91,12 @@ As a mathematics major, you may graduate with honors. Requirements include a gra
 
 <!-- major-requirements -->
 ### Major Requirements
-The [mathematics major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/math/") requires 36 credits, of which 15 must come from specified courses in calculus, multivariable calculus, linear algebra, abstract algebra, and real analysis. Additional credits must be earned from 300- and 400-level classes. Mathematics electives or certain computer science, physics, and philosophy courses also may count toward the major.
+The [mathematics major]("https://catalog.umw.edu/undergraduate/majors/mathematics/#requirementstext") requires 36 credits, of which 15 must come from specified courses in calculus, multivariable calculus, linear algebra, abstract algebra, and real analysis. Additional credits must be earned from 300- and 400-level classes. Mathematics electives or certain computer science, physics, and philosophy courses also may count toward the major.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-Students from any discipline may [minor in mathematics]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/math/"). The mathematics minor requires 18 mathematics credits. At least 12 credits must be earned from mathematics courses at the 300 level or above. Students can also minor in [applied mathematics]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/apmt/") or [actuarial science]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/actuarial-science/").
+Students from any discipline may minor in mathematics. The [mathematics minor]("https://catalog.umw.edu/undergraduate/minors/mathematics/#requirementstext") requires 18 mathematics credits. At least 12 credits must be earned from mathematics courses at the 300 level or above. Students can also minor in [applied mathematics ]("https://catalog.umw.edu/undergraduate/minors/applied-mathematics/#requirementstext")or [actuarial science]("https://catalog.umw.edu/undergraduate/minors/actuarial-science/#requirementstext").
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
