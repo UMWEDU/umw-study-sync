@@ -28,7 +28,10 @@ wpcf-internships: >
   or participate in service learning in
   Spain or Latin America.
 wpcf-honors: 'Students who have at least a 3.5 grade-point average in the Spanish major and a 3.0 GPA overall by the beginning of senior year can apply to complete and defend a research-based thesis for <a href="http://cas.umw.edu/modernlanguages/departmental-honors/">departmental honors</a>. An undergraduate research grant, awarded through the Office of Academic Affairs, may be available for travel and other thesis-related expenses.'
-wpcf-minor-requirements: 'A <a href="https://catalog.umw.edu/undergraduate/minors/spanish/#requirementstext">minor in Spanish</a> requires 24 to 27 credits of Spanish classes.'
+wpcf-minor-requirements: |
+  A <a href="https://catalog.umw.edu/undergraduate/minors/spanish/#requirementstext">minor in Spanish</a> requires 24 to 27 credits of Spanish classes.
+  
+  A <a href="https://catalog.umw.edu/undergraduate/minors/business-spanish/#requirementstext">minor in business Spanish</a> requires a total of 27 credits.
 wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/spanish/#requirementstext">Spanish major </a>requires 13 courses totaling 39 credits in language, literature, linguistics, and culture courses, plus a required experiential component.'
 wpcf-scholarships: 'Eligible students can apply for <a href="http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/">scholarships</a> to defray costs of faculty-led travel programs. Multiple awards are made each semester. A complete list of scholarship opportunities available at UMW can be found with the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.'
 wpcf-testimonial: |
@@ -87,7 +90,7 @@ The [Spanish major ]("https://catalog.umw.edu/undergraduate/majors/spanish/#requ
 
 <!-- minor-requirements -->
 ### Minor Requirements
-A [minor in Spanish]("https://catalog.umw.edu/undergraduate/minors/spanish/#requirementstext") requires 24 to 27 credits of Spanish classes.
+A [minor in Spanish]("https://catalog.umw.edu/undergraduate/minors/spanish/#requirementstext") requires 24 to 27 credits of Spanish classes. A [minor in business Spanish]("https://catalog.umw.edu/undergraduate/minors/business-spanish/#requirementstext") requires a total of 27 credits.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
