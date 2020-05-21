@@ -25,7 +25,7 @@ wpcf-honors: >
   upper-level courses in the major, and 
   present an individual study research
   paper to the art history faculty.
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/arth/">art history major</a> requires 39 credits, including nine credits from required courses; 15 credits from courses covering the major artistic eras from ancient through modern times;  three seminar credits; and 12 art history elective credits.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/art-history/#requirementstext">art history major </a>requires 39 credits, including nine credits from required courses; 15 credits from courses covering the major artistic eras from ancient through modern times;  three seminar credits; and 12 art history elective credits.'
 wpcf-scholarships: 'Learn more about <a href="http://cas.umw.edu/art/scholarship-descriptions/">art scholarships</a> at the University of Mary Washington.'
 wpcf-testimonial: |
   <div class="quote">I wouldn’t trade my experience at UMW for anything. Majoring in art history at Mary Washington was one of the best decisions I’ve made since it was a stepping stone to where I am today. I continue to rely on the courses I took and skills I acquired (especially writing!). I strongly believe majoring in art history made me a more competitive candidate for graduate school, since I bring a different background to the table.</div>
@@ -81,7 +81,7 @@ To receive honors in art history, students must have a 3.25 grade-point average 
 
 <!-- major-requirements -->
 ### Major Requirements
-The [art history major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/arth/") requires 39 credits, including nine credits from required courses; 15 credits from courses covering the major artistic eras from ancient through modern times; three seminar credits; and 12 art history elective credits.
+The [art history major ]("https://catalog.umw.edu/undergraduate/majors/art-history/#requirementstext")requires 39 credits, including nine credits from required courses; 15 credits from courses covering the major artistic eras from ancient through modern times; three seminar credits; and 12 art history elective credits.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
