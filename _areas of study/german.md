@@ -37,10 +37,10 @@ wpcf-honors: |
   
   An undergraduate research grant, awarded through the Office of Academic Affairs, may be available for travel and other thesis-related expenses.
 wpcf-minor-requirements: |
-  The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/german/">German minor</a> requires 26 credits including core classes and three upper-level electives.
+  The <a href="https://catalog.umw.edu/undergraduate/minors/german/#requirementstext">German minor </a>requires 26 credits including core classes and three upper-level electives.
   
-  The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/">minor in business German</a> also requires 26 credits including a sequence of business or economics courses.
-wpcf-major-requirements: '<a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/german/">Students complete</a> eight courses on the advanced level, including two required courses in writing and speaking; one required course in literature and culture; and five electives in advanced literature, culture, or language.'
+  The <a href="https://catalog.umw.edu/undergraduate/minors/business-german/#requirementstext">minor in business German</a> also requires 26 credits including a sequence of business or economics courses.
+wpcf-major-requirements: '<a href="https://catalog.umw.edu/undergraduate/majors/german/#requirementstext">Students complete</a> eight courses on the advanced level, including two required courses in writing and speaking; one required course in literature and culture; and five electives in advanced literature, culture, or language.'
 wpcf-scholarships: 'Eligible students can apply for <a href="http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/">scholarships</a> to defray costs of faculty-led travel programs. Multiple awards are made each semester. Several scholarships also are available to help students spend a semester studying abroad.'
 wpcf-department: http://cas.umw.edu/german/
 wpcf-courses: >
@@ -90,12 +90,12 @@ Students who have at least a 3.5 grade-point average in the French major and a 3
 
 <!-- major-requirements -->
 ### Major Requirements
-[Students complete]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/german/") eight courses on the advanced level, including two required courses in writing and speaking; one required course in literature and culture; and five electives in advanced literature, culture, or language.
+[Students complete]("https://catalog.umw.edu/undergraduate/majors/german/#requirementstext") eight courses on the advanced level, including two required courses in writing and speaking; one required course in literature and culture; and five electives in advanced literature, culture, or language.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [German minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/german/") requires 26 credits including core classes and three upper-level electives. The [minor in business German]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/business-german/") also requires 26 credits including a sequence of business or economics courses.
+The [German minor ]("https://catalog.umw.edu/undergraduate/minors/german/#requirementstext")requires 26 credits including core classes and three upper-level electives. The [minor in business German]("https://catalog.umw.edu/undergraduate/minors/business-german/#requirementstext") also requires 26 credits including a sequence of business or economics courses.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
