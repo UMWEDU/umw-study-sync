@@ -17,8 +17,8 @@ wpcf-internships: '<p class="p1">UMW biology majors may qualify for paid interns
 wpcf-honors: |
   <p class="p1">To receive honors in biology, you must have a 3.0 grade-point average overall and 3.25 in the major. You'll complete a research project, write an honors thesis, and deliver an oral presentation to department faculty.</p>
 wpcf-minor-requirements: |
-  <p class="p1">The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/biology/">minor in biology</a> requires 22 credits in core and elective biology courses. You'll take at least three 300- to 400-level biology courses, two with a<span class="Apple-converted-space">  </span>laboratory component.</p>
-wpcf-major-requirements: '<p class="p1">The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/biology/">biology major</a> requires 40 credits including five required courses, a required senior seminar, one course designated research-intensive, and one additional upper-level course with a laboratory component.</p>'
+  <p class="p1">The <a href="https://catalog.umw.edu/undergraduate/minors/biology/#requirementstext">minor in biology </a>requires 22 credits in core and elective biology courses. You'll take at least three 300- to 400-level biology courses, two with a<span class="Apple-converted-space">  </span>laboratory component.</p>
+wpcf-major-requirements: '<p class="p1">The <a href="https://catalog.umw.edu/undergraduate/majors/biology/#requirementstext">biology major </a>requires 40 credits including five required courses, a required senior seminar, one course designated research-intensive, and one additional upper-level course with a laboratory component.</p>'
 wpcf-scholarships: |
   <p class="p1">The Department of Biology presents several <a href="http://cas.umw.edu/biology/awards-scholarships/">scholarships and awards</a> annually to outstanding biology majors.</p>
   <p class="p1"></p>
@@ -78,12 +78,12 @@ To receive honors in biology, you must have a 3.0 grade-point average overall an
 
 <!-- major-requirements -->
 ### Major Requirements
-The [biology major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/biology/") requires 40 credits including five required courses, a required senior seminar, one course designated research-intensive, and one additional upper-level course with a laboratory component.
+The [biology major ]("https://catalog.umw.edu/undergraduate/majors/biology/#requirementstext")requires 40 credits including five required courses, a required senior seminar, one course designated research-intensive, and one additional upper-level course with a laboratory component.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [minor in biology]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/biology/") requires 22 credits in core and elective biology courses. You\'ll take at least three 300- to 400-level biology courses, two with a<span class=""Apple-converted-space""> </span>laboratory component.
+The [minor in biology ]("https://catalog.umw.edu/undergraduate/minors/biology/#requirementstext")requires 22 credits in core and elective biology courses. You\'ll take at least three 300- to 400-level biology courses, two with a<span class=""Apple-converted-space""> </span>laboratory component.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
