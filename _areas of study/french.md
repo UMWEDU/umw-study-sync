@@ -23,10 +23,10 @@ wpcf-honors: |
   
   An undergraduate research grant, awarded through the Office of Academic Affairs, may be available for travel and other thesis-related expenses.
 wpcf-minor-requirements: |
-  The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/fren/">minor in French</a> requires 24 credits including lower- and upper-level courses.
+  The <a href="https://catalog.umw.edu/undergraduate/minors/french/#requirementstext">minor in French</a> requires 24 credits including lower- and upper-level courses.
   
-  The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/bus-fren/">minor in business French</a> also requires 24 credits including a sequence of business or economics courses.
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/fren/">major in French</a> requires 36 credits, including composition, phonetics and oral proficiency, literature, stylistics, translation, senior seminar, and electives including business French, culture, cinema, and advanced literature.'
+  The minor in <a href="https://catalog.umw.edu/undergraduate/minors/business-french/#requirementstext">business French</a> also requires 24 credits including a sequence of business or economics courses.
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/french/#requirementstext">major in French</a> requires 36 credits, including composition, phonetics and oral proficiency, literature, stylistics, translation, senior seminar, and electives including business French, culture, cinema, and advanced literature.'
 wpcf-scholarships: 'Eligible students can apply for <a href="http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/">scholarships</a> to defray costs of faculty-led travel programs. Multiple awards are made each semester.'
 wpcf-department: http://cas.umw.edu/french/
 wpcf-courses: >
@@ -76,12 +76,12 @@ Students who have at least a 3.5 grade-point average in the French major and a 3
 
 <!-- major-requirements -->
 ### Major Requirements
-The [major in French]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/fren/") requires 36 credits, including composition, phonetics and oral proficiency, literature, stylistics, translation, senior seminar, and electives including business French, culture, cinema, and advanced literature.
+The [major in French]("https://catalog.umw.edu/undergraduate/majors/french/#requirementstext") requires 36 credits, including composition, phonetics and oral proficiency, literature, stylistics, translation, senior seminar, and electives including business French, culture, cinema, and advanced literature.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [minor in French]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/fren/") requires 24 credits including lower- and upper-level courses. The [minor in business French]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/bus-fren/") also requires 24 credits including a sequence of business or economics courses.
+The [minor in French]("https://catalog.umw.edu/undergraduate/minors/french/#requirementstext") requires 24 credits including lower- and upper-level courses. The minor in [business French]("https://catalog.umw.edu/undergraduate/minors/business-french/#requirementstext") also requires 24 credits including a sequence of business or economics courses.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
