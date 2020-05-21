@@ -28,8 +28,8 @@ wpcf-internships: >
   or participate in service learning in
   Spain or Latin America.
 wpcf-honors: 'Students who have at least a 3.5 grade-point average in the Spanish major and a 3.0 GPA overall by the beginning of senior year can apply to complete and defend a research-based thesis for <a href="http://cas.umw.edu/modernlanguages/departmental-honors/">departmental honors</a>. An undergraduate research grant, awarded through the Office of Academic Affairs, may be available for travel and other thesis-related expenses.'
-wpcf-minor-requirements: 'A <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/spanish-minor/">minor in Spanish</a> requires 24 to 27 credits of Spanish classes.'
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/span/">Spanish major</a> requires 13 courses totaling 39 credits in language, literature, linguistics, and culture courses, plus a required experiential component.'
+wpcf-minor-requirements: 'A <a href="https://catalog.umw.edu/undergraduate/minors/spanish/#requirementstext">minor in Spanish</a> requires 24 to 27 credits of Spanish classes.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/spanish/#requirementstext">Spanish major </a>requires 13 courses totaling 39 credits in language, literature, linguistics, and culture courses, plus a required experiential component.'
 wpcf-scholarships: 'Eligible students can apply for <a href="http://international.umw.edu/study-abroad-2/scholarships/umw-facultyled-program-study-abroad-scholarship/">scholarships</a> to defray costs of faculty-led travel programs. Multiple awards are made each semester. A complete list of scholarship opportunities available at UMW can be found with the <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Office of Financial Aid</a>.'
 wpcf-testimonial: |
   <div class="quote">My Spanish degree, plus working as a Peace Corps Volunteer in El Salvador, set me up later to pursue an MA in Latin American Studies, then join the US Department of State as a Foreign Service Officer. I’ve now served in Colombia, Mexico, and currently Brazil, where learning Portuguese was a snap after my Mary Washington Spanish background. But the broader liberal arts education I got at Mary Wash prepared me for plenty of other adventures and challenges: I’ve also worked in China, Iraq, and Uganda, but was not out of my depths. Mary Washington helped make me a flexible and well-rounded person, and it all began in the Spanish program.</div>
@@ -82,12 +82,12 @@ Students who have at least a 3.5 grade-point average in the Spanish major and a 
 
 <!-- major-requirements -->
 ### Major Requirements
-The [Spanish major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/span/") requires 13 courses totaling 39 credits in language, literature, linguistics, and culture courses, plus a required experiential component.
+The [Spanish major ]("https://catalog.umw.edu/undergraduate/majors/spanish/#requirementstext")requires 13 courses totaling 39 credits in language, literature, linguistics, and culture courses, plus a required experiential component.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-A [minor in Spanish]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/spanish-minor/") requires 24 to 27 credits of Spanish classes.
+A [minor in Spanish]("https://catalog.umw.edu/undergraduate/minors/spanish/#requirementstext") requires 24 to 27 credits of Spanish classes.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
