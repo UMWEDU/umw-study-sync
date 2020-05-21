@@ -31,7 +31,7 @@ wpcf-honors: |
   Departmental honors in anthropology is centered largely on an honors thesis written under the supervision of a committee chaired by the anthropology faculty member with the greatest expertise in the student's area of interest. During the candidate’s research, she or he must persuade the committee that the project is worthwhile, moving forward, and deserving of departmental honors.
   
   A successful honors thesis presents an original, informed, persuasive argument based on extensive, sound, imaginative scholarship; broad knowledge of the topic and understanding of the theoretical framework within which the candidate discusses the topic; and competent writing. An honors candidate should expect to work mostly independently, with minimal guidance from the advisor(s). Ideally, a successful honors project should be publishable in a minor anthropological journal.
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/anth/">anthropology major</a> requires 30 credit hours, including Introduction to Cultural Anthropology, Ethnography, Theories of Culture, Senior Research, and Senior Seminar, plus 15 credit hours of electives in anthropology, including at least one course that includes a significant field-research component.'
+wpcf-major-requirements: 'The A<a href="https://catalog.umw.edu/undergraduate/majors/anthropology/#requirementstext">nthropology major</a> requires 30 credit hours, including Introduction to Cultural Anthropology, Ethnography, Theories of Culture, Senior Research, and Senior Seminar, plus 15 credit hours of electives in anthropology, including at least one course that includes a significant field-research component.'
 wpcf-scholarships: |
   <ul>
   <li>The Bill Hanson Memorial Scholarship</li>
@@ -96,7 +96,7 @@ Departmental honors in anthropology is centered largely on an honors thesis writ
 
 <!-- major-requirements -->
 ### Major Requirements
-The [anthropology major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/anth/") requires 30 credit hours, including Introduction to Cultural Anthropology, Ethnography, Theories of Culture, Senior Research, and Senior Seminar, plus 15 credit hours of electives in anthropology, including at least one course that includes a significant field-research component.
+The A[nthropology major]("https://catalog.umw.edu/undergraduate/majors/anthropology/#requirementstext") requires 30 credit hours, including Introduction to Cultural Anthropology, Ethnography, Theories of Culture, Senior Research, and Senior Seminar, plus 15 credit hours of electives in anthropology, including at least one course that includes a significant field-research component.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
