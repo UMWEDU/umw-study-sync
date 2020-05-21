@@ -33,9 +33,9 @@ wpcf-internships: >
   communications, financial planning, and
   automotive business operations.
 wpcf-honors: "To be eligible for honors in business administration, you must have a 3.25 grade-point average in upper-division business administration courses and a 3.0 GPA overall. You'll do a research project, write a thesis, and defend it before a faculty honors committee."
-wpcf-minor-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/buad/">Business Administration minor</a> complements many majors and provides an opportunity for students to examine and evaluate the complex components of today’s competitive business environment. Eighteen (18) credits are required.'
+wpcf-minor-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/minors/business-administration/#requirementstext">Business Administration minor</a> complements many majors and provides an opportunity for students to examine and evaluate the complex components of today’s competitive business environment. Eighteen (18) credits are required.'
 wpcf-major-requirements: |
-  To receive a <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/buad/">bachelor's degree in business administration</a> in your chosen major of accounting, general business, or marketing, you will earn 48 credits, including 30 in core business courses and 18 in upper-level electives.
+  To receive a <a href="https://catalog.umw.edu/undergraduate/college-business/#coursesofstudytext">bachelor's degree in business administration</a> in your chosen major of accounting, general business, or marketing, you will earn 48 credits, including 30 in core business courses and 18 in upper-level electives.
 wpcf-scholarships: 'Many <a href="http://business.umw.edu/current-students/undergraduate-scholarships/">scholarships</a> are available for business majors.'
 wpcf-testimonial: |
   <div class="quote">Getting a liberal arts education provided me with the opportunity to explore several different areas … Ultimately, the Business Department is where I landed and was most passionate. The liberal arts education definitely worked great for me and provided me with important life skills such as critical thinking, teamwork, economic and societal differences, various political perspectives, and communication skills.</div>
@@ -94,12 +94,12 @@ To be eligible for honors in business administration, you must have a 3.25 grade
 
 <!-- major-requirements -->
 ### Major Requirements
-To receive a [bachelor\'s degree in business administration]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/buad/") in your chosen major of accounting, general business, or marketing, you will earn 48 credits, including 30 in core business courses and 18 in upper-level electives.
+To receive a [bachelor\'s degree in business administration]("https://catalog.umw.edu/undergraduate/college-business/#coursesofstudytext") in your chosen major of accounting, general business, or marketing, you will earn 48 credits, including 30 in core business courses and 18 in upper-level electives.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [Business Administration minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/buad/") complements many majors and provides an opportunity for students to examine and evaluate the complex components of today’s competitive business environment. Eighteen (18) credits are required.
+The [Business Administration minor]("https://catalog.umw.edu/undergraduate/minors/business-administration/#requirementstext") complements many majors and provides an opportunity for students to examine and evaluate the complex components of today’s competitive business environment. Eighteen (18) credits are required.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
