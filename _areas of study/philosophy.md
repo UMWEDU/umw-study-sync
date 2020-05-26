@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/philosophy/index.html
 published: true
 post_date: 2015-07-28 15:08:07
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Philosophy who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Philosophy and Religious Studies.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Philosophy who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Philosophy and Religious Studies.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Colin-Spangler_mock-trial-homepagee.jpg
 wpcf-value-proposition: 'Do you wrestle with the questions that seem to have no answers: What is truth? What is the nature of existence? What is free will? If so, philosophy – the love of wisdom, the science of argument – might be the major for you. Our bachelor’s program teaches you to think critically, communicate clearly, and be open to opposing views – rich skills for all fields.'
@@ -39,7 +39,7 @@ wpcf-career-opportunties: >
   thinking and clear writing.
 wpcf-internships: 'Undergraduates have opportunities to complete <a href="http://cas.umw.edu/clpr/undergraduate-research/">research</a> and present at conferences, making valuable contacts for the professional world.'
 wpcf-honors: 'To graduate with <a href="http://cas.umw.edu/clpr/philosophy-program/honors-program/">honors</a> in philosophy, you must have at least a 3.5 grade-point average in the major. You’ll complete a research project and write and defend a senior thesis.'
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/phil/">philosophy major</a> requires 30 credits from 10 courses including logic, ancient Greek philosophy, and early modern philosophy; a selection of courses from other philosophy disciplines; and two additional courses, including one at the 300 level or above.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/philosophy/#requirementstext">philosophy major</a> requires 30 credits from 10 courses including logic, ancient Greek philosophy, and early modern philosophy; a selection of courses from other philosophy disciplines; and two additional courses, including one at the 300 level or above.'
 wpcf-scholarships: '<a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/">Scholarships</a> are available for all disciplines in the Department of Classics, Religion, and Philosophy.'
 wpcf-department: >
   http://cas.umw.edu/clpr/philosophy-program/
@@ -89,7 +89,7 @@ To graduate with [honors]("http://cas.umw.edu/clpr/philosophy-program/honors-pro
 
 <!-- major-requirements -->
 ### Major Requirements
-The [philosophy major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/phil/") requires 30 credits from 10 courses including logic, ancient Greek philosophy, and early modern philosophy; a selection of courses from other philosophy disciplines; and two additional courses, including one at the 300 level or above.
+The [philosophy major]("https://catalog.umw.edu/undergraduate/majors/philosophy/#requirementstext") requires 30 credits from 10 courses including logic, ancient Greek philosophy, and early modern philosophy; a selection of courses from other philosophy disciplines; and two additional courses, including one at the 300 level or above.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
