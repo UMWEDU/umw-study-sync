@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/sociology/index.html
 published: true
 post_date: 2015-07-28 17:26:13
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Sociology who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Sociology.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Sociology who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Sociology.</span></p>'
 wpcf-value-proposition: >
   Our bachelor’s program in sociology
   unravels some of the mysteries of human
@@ -53,7 +53,7 @@ wpcf-internships: |
   </ul>
   Learn more about <a href="http://cas.umw.edu/sociologyanthropology/resources/internships-socg-or-anth-499/">internships in sociology</a>.
 wpcf-honors: 'To graduate with honors in sociology, majors must have maintained a grade point average of 3.5 or better and completed all honors requirements including certain upper-level classes and an honors thesis. Find the details at the <a href="http://cas.umw.edu/sociologyanthropology/resources/departmental-honors/">Sociology Departmental Honors page</a>.'
-wpcf-major-requirements: 'The requirements for a degree in <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/socg/">sociology</a> include one introductory sociology course, three upper-level sociology courses that include research methods, history, and contemporary theory, and 18 credits of upper-level sociology courses.'
+wpcf-major-requirements: 'The requirements for a degree in <a href="https://catalog.umw.edu/undergraduate/majors/sociology/#requirementstext">sociology</a> include one introductory sociology course, three upper-level sociology courses that include research methods, history, and contemporary theory, and 18 credits of upper-level sociology courses.'
 wpcf-scholarships: 'One <a href="http://cas.umw.edu/sociologyanthropology/bill-hanson-memorial-scholarship/">Bill Hanson Memorial Scholarship</a> is awarded in a late professor’s honor each year to a deserving student. The award is based on merit, financial need, and commitment to peace and social justice.'
 wpcf-department: >
   http://cas.umw.edu/sociologyanthropology/sociology-program/
@@ -119,7 +119,7 @@ To graduate with honors in sociology, majors must have maintained a grade point 
 
 <!-- major-requirements -->
 ### Major Requirements
-The requirements for a degree in [sociology]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/socg/") include one introductory sociology course, three upper-level sociology courses that include research methods, history, and contemporary theory, and 18 credits of upper-level sociology courses.
+The requirements for a degree in [sociology]("https://catalog.umw.edu/undergraduate/majors/sociology/#requirementstext") include one introductory sociology course, three upper-level sociology courses that include research methods, history, and contemporary theory, and 18 credits of upper-level sociology courses.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
