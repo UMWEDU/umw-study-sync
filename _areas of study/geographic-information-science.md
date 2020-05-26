@@ -26,7 +26,7 @@ wpcf-areas-of-study: >
   analysis, Python programming, remote
   sensing, spatial statistics, and
   geovisualization.
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/">certificate</a> requires 19 credit hours of GIS course work, taken in four 4-credit courses and one 3-credit capstone. It may be taken by undergraduates just like a minor, or by professional non-degree-seeking students. <em>Introduction to GIS</em> and <em>Spatial Analysis</em> are required. Students take one elective, and they take either <em>GIS Programming</em> or <em>Web GIS</em>. The capstone is either an internship or a directed study. The certificate can be obtained solely through evening classes.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/minors/geographic-information-science-certificate/#requirementstext">certificate</a> requires 19 credit hours of GIS course work, taken in four 4-credit courses and one 3-credit capstone. It may be taken by undergraduates just like a minor, or by professional non-degree-seeking students. <em>Introduction to GIS</em> and <em>Spatial Analysis</em> are required. Students take one elective, and they take either <em>GIS Programming</em> or <em>Web GIS</em>. The capstone is either an internship or a directed study. The certificate can be obtained solely through evening classes.'
 wpcf-department: https://cas.umw.edu/gis/
 wpcf-courses: >
   https://catalog.umw.edu/undergraduate/course-descriptions/gisc/
@@ -55,7 +55,7 @@ The GIS Certificate can be taken with any major, but is most commonly combined w
 
 <!-- major-requirements -->
 ### Major Requirements
-The [certificate]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/geographic-information-science-certificate/") requires 19 credit hours of GIS course work, taken in four 4-credit courses and one 3-credit capstone. It may be taken by undergraduates just like a minor, or by professional non-degree-seeking students. *Introduction to GIS* and *Spatial Analysis* are required. Students take one elective, and they take either *GIS Programming* or *Web GIS*. The capstone is either an internship or a directed study. The certificate can be obtained solely through evening classes.
+The [certificate]("https://catalog.umw.edu/undergraduate/minors/geographic-information-science-certificate/#requirementstext") requires 19 credit hours of GIS course work, taken in four 4-credit courses and one 3-credit capstone. It may be taken by undergraduates just like a minor, or by professional non-degree-seeking students. *Introduction to GIS* and *Spatial Analysis* are required. Students take one elective, and they take either *GIS Programming* or *Web GIS*. The capstone is either an internship or a directed study. The certificate can be obtained solely through evening classes.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
