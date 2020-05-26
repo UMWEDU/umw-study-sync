@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/english/index.html
 published: true
 post_date: 2015-07-28 14:35:20
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in English who complete all requirements earn the degree of Bachelor of Arts (B.A.) in English.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in English who complete all requirements earn the degree of Bachelor of Arts (B.A.) in English.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Sr-seminar-9e.jpg
 wpcf-value-proposition: "As a University of Mary Washington English major, you'll investigate the great body of literature in the English language and develop your skills in analytic, creative, and journalistic writing. You'll learn to think critically and communicate clearly, skills that will enhance your value in a career or graduate school."
@@ -16,7 +16,7 @@ wpcf-career-opportunties: |
   Every field values employees who can think critically and communicate clearly. Recent UMW graduates with English majors report <a href="http://cas.umw.edu/elc/careers/career-preparation/">employment</a> in business, media, schools, government, and NGOs. They're writers, editors, public relations specialists, teachers, IT professionals, lawyers, counselors, community organizers, business owners, and more.
 wpcf-internships: 'Students may complete for-credit <a href="http://cas.umw.edu/elc/careers/career-preparation/making-yourself-employable/internships/">internships</a> to gain knowledge and job experience. Many students study abroad to increase cultural awareness, broaden their perspectives, and develop skills for an increasingly international employment marketplace.'
 wpcf-honors: 'To earn <a href="http://cas.umw.edu/elc/elc-programs-and-related-information/honors/">honors in English</a>, you must have a 3.7 GPA in the major and earn an A on an honors project approved by your advisor.'
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/engl/">major</a> requires 36 credits in English, Linguistics, and Communication including introductory and upper-level linguistics, literature, and writing courses; one 400-level seminar; and electives including internships or individual projects. You may also major in English with a concentration in <a href="http://cas.umw.edu/elc/english-at-umw/requirements-for-the-english-major/">literary studies or creative writing</a>.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/english/#requirementstext">major</a> requires 36 credits in English, Linguistics, and Communication including introductory and upper-level linguistics, literature, and writing courses; one 400-level seminar; and electives including internships or individual projects. You may also major in English with a concentration in <a href="http://cas.umw.edu/elc/english-at-umw/requirements-for-the-english-major/">literary studies or creative writing</a>.'
 wpcf-scholarships: 'The English, Linguistics, and Communication department offers numerous <a href="http://cas.umw.edu/elc/scholarships-and-prizes/">scholarships and awards</a>.'
 wpcf-department: http://cas.umw.edu/elc/english-at-umw/
 wpcf-courses: >
@@ -66,7 +66,7 @@ To earn [honors in English]("http://cas.umw.edu/elc/elc-programs-and-related-inf
 
 <!-- major-requirements -->
 ### Major Requirements
-The [major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/engl/") requires 36 credits in English, Linguistics, and Communication including introductory and upper-level linguistics, literature, and writing courses; one 400-level seminar; and electives including internships or individual projects. You may also major in English with a concentration in [literary studies or creative writing]("http://cas.umw.edu/elc/english-at-umw/requirements-for-the-english-major/").
+The [major]("https://catalog.umw.edu/undergraduate/majors/english/#requirementstext") requires 36 credits in English, Linguistics, and Communication including introductory and upper-level linguistics, literature, and writing courses; one 400-level seminar; and electives including internships or individual projects. You may also major in English with a concentration in [literary studies or creative writing]("http://cas.umw.edu/elc/english-at-umw/requirements-for-the-english-major/").
 <!-- End major-requirements -->
 
 <!-- End requirements -->
