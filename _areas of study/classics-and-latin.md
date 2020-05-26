@@ -8,7 +8,7 @@ permalink: >
   /study/areas/classics-and-latin/index.html
 published: true
 post_date: 2015-08-06 15:51:04
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Classics who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Classics.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Classics who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Classics.</span></p>'
 wpcf-value-proposition: "The ideas and principles of ancient Greece and Rome resonate throughout modern Western culture. Study the languages, literatures, and civilizations of the ancients, and you'll gain a deeper understanding of today's liberal arts and sciences. At UMW, you can major in Latin or in classics with a concentration in classical civilization or classical archaeology."
 wpcf-areas-of-study: |
   <p class="p1">Major in Latin at UMW and you'll choose from courses including elementary, intermediate, and advanced Latin language; survey courses in Latin literature; Roman drama; lyric and elegiac poetry; the writings of Roman historians; the works of Vergil, Horace, and Ovid; Roman philosophical thought; Roman satire; and more.</p>
@@ -25,7 +25,7 @@ wpcf-minor-requirements: |
   <p class="p2"></p>
 wpcf-major-requirements: |
   <p class="p1">Students seeking a classics major can choose from concentrations in classical civilization (often paired with teaching licensure) or <a href="https://vimeo.com/129708065">classical archaeology</a> (preparation for museum or field work). Either concentration requires 33 credits in core and elective courses, including courses at the 300 level or higher.</p>
-  <p class="p1">Students seeking a Latin major will need 33 credits in <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/latn/">core courses and electives</a>, including at least 15 credits in Latin courses beyond the intermediate level and at least nine credits in approved courses relating to classical civilization.</p>
+  <p class="p1">Students seeking a Latin major will need 33 credits in <a href="https://catalog.umw.edu/undergraduate/course-descriptions/latn/">core courses and electives</a>, including at least 15 credits in Latin courses beyond the intermediate level and at least nine credits in approved courses relating to classical civilization.</p>
   <p class="p2"></p>
 wpcf-scholarships: |
   <p class="p1">Students who major in Latin and the classics can apply for several <a href="http://cas.umw.edu/clpr/undergraduate-scholarships-and-awards/">scholarships and awards</a> through the Department of Classics, Philosophy, and Religion.</p>
@@ -80,7 +80,7 @@ To earn [honors in classics]("http://cas.umw.edu/clpr/classics-program/undergrad
 ### Major Requirements
 Students seeking a classics major can choose from concentrations in classical civilization (often paired with teaching licensure) or [classical archaeology]("https://vimeo.com/129708065") (preparation for museum or field work). Either concentration requires 33 credits in core and elective courses, including courses at the 300 level or higher.
 
-Students seeking a Latin major will need 33 credits in [core courses and electives]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/latn/"), including at least 15 credits in Latin courses beyond the intermediate level and at least nine credits in approved courses relating to classical civilization.
+Students seeking a Latin major will need 33 credits in [core courses and electives]("https://catalog.umw.edu/undergraduate/course-descriptions/latn/"), including at least 15 credits in Latin courses beyond the intermediate level and at least nine credits in approved courses relating to classical civilization.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
