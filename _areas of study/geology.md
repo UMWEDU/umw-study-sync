@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/geology/index.html
 published: true
 post_date: 2015-07-28 17:34:34
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Geology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Environmental Science and Geology.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Geology who complete all requirements earn the degree of Bachelor of Science (B.S.) in Environmental Science and Geology.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Geology-6e.jpg
 wpcf-value-proposition: "For you, it's not enough to know that a mountain, ocean, or crater exists. You have to know why the Earth's physical features are where they are, and how they came to be. If you're fascinated by the Earth's physical structures and processes, and you want to do some of your learning outdoors and on location, UMW's geology major may be your niche. Here -- beside the Rappahannock River and just a short drive from the Chesapeake Bay or the Shenandoah Valley -- you'll get one-on-one time with our master teachers, and you'll take a range of courses that will help you find your passion. Our strong liberal arts program will help you develop the critical-thinking, problem-solving, and communications skills you'll need to begin your geology career or pursue an advanced degree."
@@ -44,7 +44,7 @@ wpcf-honors: >
   environmental geology by completing an
   independent research project and writing
   and defending a thesis.
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/geol/">geology major</a> requires 36 credits including core geology courses and upper-level geology electives. With advisor approval, certain chemistry or environmental sciences classes may count toward the major.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/geography/#requirementstext">geology major</a> requires 36 credits including core geology courses and upper-level geology electives. With advisor approval, certain chemistry or environmental sciences classes may count toward the major.'
 wpcf-department: http://cas.umw.edu/ees/geology-program/
 wpcf-courses: >
   https://catalog.umw.edu/undergraduate/course-descriptions/eesc/
@@ -93,7 +93,7 @@ Students with a 3.0 overall grade-point average and a 3.25 average in geology co
 
 <!-- major-requirements -->
 ### Major Requirements
-The [geology major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/geol/") requires 36 credits including core geology courses and upper-level geology electives. With advisor approval, certain chemistry or environmental sciences classes may count toward the major.
+The [geology major]("https://catalog.umw.edu/undergraduate/majors/geography/#requirementstext") requires 36 credits including core geology courses and upper-level geology electives. With advisor approval, certain chemistry or environmental sciences classes may count toward the major.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
