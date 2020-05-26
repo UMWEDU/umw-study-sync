@@ -19,7 +19,7 @@ wpcf-internships: "Internships, offering professional experience outside the cla
 wpcf-honors: |
   Whether you major in <a href="http://cas.umw.edu/art/studio-art/current-students/honors-studio-art/">studio art</a>, <a href="https://cas.umw.edu/art/art-history/">art history</a>, or <a href="http://cas.umw.edu/chemistry/research-opportunities/independent-study-and-honors-research/">chemistry</a>, Honors status is available to all qualified students in UMW's pre-conservation in fine art minor.
 wpcf-minor-requirements: |
-  The minor is open only to Art History, Studio Art and Chemistry majors. The major must have been declared before the student may declare this minor. <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/pre-conservation-in-fine-art/">Requirements depend</a> on selected major.
+  The minor is open only to Art History, Studio Art and Chemistry majors. The major must have been declared before the student may declare this minor. <a href="https://catalog.umw.edu/undergraduate/minors/pre-conservation-fine-art/#requirementstext">Requirements depend</a> on selected major.
   
   For art history majors: 28 credit, including 16 credits in chemistry and 12 credits in upper-level art history and studio art courses.
   
@@ -64,7 +64,7 @@ Whether you major in [studio art]("http://cas.umw.edu/art/studio-art/current-stu
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The minor is open only to Art History, Studio Art and Chemistry majors. The major must have been declared before the student may declare this minor. [Requirements depend]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/pre-conservation-in-fine-art/") on selected major. For art history majors: 28 credit, including 16 credits in chemistry and 12 credits in upper-level art history and studio art courses. For chemistry majors: 27 credits, including 15 credits in 100- and 200-level art history, and 12 credits from 300-level art history. For studio art majors: 28 credits, including 16 credits in chemistry and 12 credits from 300-level art history.
+The minor is open only to Art History, Studio Art and Chemistry majors. The major must have been declared before the student may declare this minor. [Requirements depend]("https://catalog.umw.edu/undergraduate/minors/pre-conservation-fine-art/#requirementstext") on selected major. For art history majors: 28 credit, including 16 credits in chemistry and 12 credits in upper-level art history and studio art courses. For chemistry majors: 27 credits, including 15 credits in 100- and 200-level art history, and 12 credits from 300-level art history. For studio art majors: 28 credits, including 16 credits in chemistry and 12 credits from 300-level art history.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
