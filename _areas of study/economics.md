@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/economics/index.html
 published: true
 post_date: 2015-07-28 19:19:10
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Economics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Economics.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Economics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Economics.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Economicse.jpg
 wpcf-value-proposition: |
@@ -19,10 +19,10 @@ wpcf-internships: |
 wpcf-honors: |
   To receive departmental honors in economics you'll need at least a 3.5 GPA in the major. You'll complete an individual study and write and defend an honors thesis during your senior year. UMW also has <span class="s1">a chapter of Omicron Delta Epsilon, an international economics honor society.</span>
 wpcf-minor-requirements: |
-  <p class="p1">An <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/econ/">economics minor</a> requires 21 credits, including four core courses and three electives.</p>
+  <p class="p1">An <a href="https://catalog.umw.edu/undergraduate/minors/economics/#requirementstext">economics minor</a> requires 21 credits, including four core courses and three electives.</p>
   <p class="p2"></p>
 wpcf-major-requirements: |
-  <p class="p1">The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/econ/">economics major</a> requires 39 credits, including eight core courses and five electives.</p>
+  <p class="p1">The <a href="https://catalog.umw.edu/undergraduate/majors/economics/#requirementstext">economics major</a> requires 39 credits, including eight core courses and five electives.</p>
   <p class="p2"></p>
 wpcf-scholarships: '<p class="p1">Numerous <a href="http://cas.umw.edu/economics/majoring-in-economics/honors-and-awards/">scholarships and awards</a> are available for economics majors.</p>'
 wpcf-department: http://cas.umw.edu/economics/
@@ -73,12 +73,12 @@ To receive departmental honors in economics you\'ll need at least a 3.5 GPA in t
 
 <!-- major-requirements -->
 ### Major Requirements
-The [economics major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/econ/") requires 39 credits, including eight core courses and five electives.
+The [economics major]("https://catalog.umw.edu/undergraduate/majors/economics/#requirementstext") requires 39 credits, including eight core courses and five electives.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-An [economics minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/econ/") requires 21 credits, including four core courses and three electives.
+An [economics minor]("https://catalog.umw.edu/undergraduate/minors/economics/#requirementstext") requires 21 credits, including four core courses and three electives.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
