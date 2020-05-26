@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/history/index.html
 published: true
 post_date: 2015-07-28 18:31:20
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in History who complete all requirements earn the degree of Bachelor of Arts (B.A.) in History.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in History who complete all requirements earn the degree of Bachelor of Arts (B.A.) in History.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/history-class-2014_candice-leahe.jpg
 wpcf-value-proposition: |
@@ -28,7 +28,7 @@ wpcf-honors: |
   To be considered for honors in history at graduation, you must have at least a 3.5 grade-point average in the major and must research, write, submit, and defend a historical paper before a faculty panel.
   
   Phi Alpha Theta, the national history honorary society, offers opportunities to participate in social and educational activities.
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/hist/">history major</a> requires 36 credits including survey courses, electives at the 200 level or higher, and electives at the 400 level. Internships are encouraged and may receive academic credit at the discretion of the department chair.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/history/#requirementstext">history major</a> requires 36 credits including survey courses, electives at the 200 level or higher, and electives at the 400 level. Internships are encouraged and may receive academic credit at the discretion of the department chair.'
 wpcf-scholarships: 'The department awards five <a href="http://cas.umw.edu/historyamericanstudies/scholarships-and-awards/">scholarships</a> annually through competitive application for history and American studies majors.'
 wpcf-department: >
   http://cas.umw.edu/historyamericanstudies/history/
@@ -79,7 +79,7 @@ To be considered for honors in history at graduation, you must have at least a 3
 
 <!-- major-requirements -->
 ### Major Requirements
-The [history major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/hist/") requires 36 credits including survey courses, electives at the 200 level or higher, and electives at the 400 level. Internships are encouraged and may receive academic credit at the discretion of the department chair.
+The [history major]("https://catalog.umw.edu/undergraduate/majors/history/#requirementstext") requires 36 credits including survey courses, electives at the 200 level or higher, and electives at the 400 level. Internships are encouraged and may receive academic credit at the discretion of the department chair.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
