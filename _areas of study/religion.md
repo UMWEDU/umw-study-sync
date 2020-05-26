@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/religion/index.html
 published: true
 post_date: 2015-07-28 17:43:42
-wpcf-degree-awarded: '<span style="font-size: 12.0pt;">Students majoring in Religious Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Philosophy and Religious Studies.</span>'
+wpcf-degree-awarded: '<span style="font-size: 12.0pt">Students majoring in Religious Studies who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Philosophy and Religious Studies.</span>'
 wpcf-value-proposition: >
   Religions affect more than beliefs –
   they influence politics, shape culture,
@@ -38,7 +38,7 @@ wpcf-internships: >
   developed in consultation with religious
   studies faculty.
 wpcf-honors: 'To receive honors in religious studies, you will need at least a 3.5 grade-point average in the major and a grade of A in the capstone course required of all religious studies majors. In that course, you’ll choose a topic for research, then write a 20- to 25-page thesis and present it to your fellow students.'
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/relg/">religious studies</a> requires 30 credits in approved core and elective courses. All religious studies majors must complete a capstone course, in which they’ll write and present a thesis. Some classics or philosophy courses may count toward the major.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/religious-studies/#requirementstext">religious studies</a> requires 30 credits in approved core and elective courses. All religious studies majors must complete a capstone course, in which they’ll write and present a thesis. Some classics or philosophy courses may count toward the major.'
 wpcf-scholarships: 'In addition to general scholarships awarded by the university, religious studies faculty award two <a href="http://cas.umw.edu/clpr/religion-program/honors-awards-scholarships/">scholarships</a> specific to the religious studies major.'
 wpcf-department: >
   https://cas.umw.edu/clpr/religious-studies-program/
@@ -86,7 +86,7 @@ To receive honors in religious studies, you will need at least a 3.5 grade-point
 
 <!-- major-requirements -->
 ### Major Requirements
-The [religious studies]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/relg/") requires 30 credits in approved core and elective courses. All religious studies majors must complete a capstone course, in which they’ll write and present a thesis. Some classics or philosophy courses may count toward the major.
+The [religious studies]("https://catalog.umw.edu/undergraduate/majors/religious-studies/#requirementstext") requires 30 credits in approved core and elective courses. All religious studies majors must complete a capstone course, in which they’ll write and present a thesis. Some classics or philosophy courses may count toward the major.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
