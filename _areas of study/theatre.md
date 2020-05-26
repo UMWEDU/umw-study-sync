@@ -41,8 +41,8 @@ wpcf-career-opportunties: |
   For a look at how Mary Washington theatre majors are pursuing their careers, check out our <a href="http://cas.umw.edu/theatre/department-of-theatre-and-dance/alumni/">alumni page</a>.
 wpcf-internships: "UMW students have found internships and full-time work with such employers as the Virginia Ballet Company, Wolf Trap National Park for the Performing Arts, Rainmaker Studios, Impressions of Fredericksburg, and Ford's Theatre. Many theatre majors gain work experience right on campus, with part-time jobs in the UMW box office, management office, scene shop, costume shop, and electrics shop."
 wpcf-honors: 'Learn about earning <a href="http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/">academic honors</a> for your major.'
-wpcf-minor-requirements: 'Twenty-four credits are required for the <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/">musical theatre minor</a>.'
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/thea/">theatre major</a> requires 41 credits including core courses and electives. All theatre majors must enroll in theatre practicum each semester except during the semester of the senior project. Eight practicum credits may count toward graduation.'
+wpcf-minor-requirements: 'Twenty-four credits are required for the <a href="https://catalog.umw.edu/undergraduate/minors/musical-theatre/#requirementstext">musical theatre minor</a>.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/theatre/#requirementstext">theatre major</a> requires 41 credits including core courses and electives. All theatre majors must enroll in theatre practicum each semester except during the semester of the senior project. Eight practicum credits may count toward graduation.'
 wpcf-scholarships: 'The Department of Theatre &amp; Dance offers many awards to continuing students who are active in the production program. These merit-based scholarships vary in size and award criteria.'
 wpcf-department: http://cas.umw.edu/theatre/
 wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/digital-studies/#requirementstext'
@@ -90,12 +90,12 @@ Learn about earning [academic honors]("http://publications.umw.edu/undergraduate
 
 <!-- major-requirements -->
 ### Major Requirements
-The [theatre major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/thea/") requires 41 credits including core courses and electives. All theatre majors must enroll in theatre practicum each semester except during the semester of the senior project. Eight practicum credits may count toward graduation.
+The [theatre major]("https://catalog.umw.edu/undergraduate/majors/theatre/#requirementstext") requires 41 credits including core courses and electives. All theatre majors must enroll in theatre practicum each semester except during the semester of the senior project. Eight practicum credits may count toward graduation.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-Twenty-four credits are required for the [musical theatre minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/must/").
+Twenty-four credits are required for the [musical theatre minor]("https://catalog.umw.edu/undergraduate/minors/musical-theatre/#requirementstext").
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
