@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/computer-science/index.html
 published: true
 post_date: 2015-07-28 18:39:09
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Computer Science who complete all requirements earn the degree of Bachelor of Science (B.S.) in Computer Science.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Computer Science who complete all requirements earn the degree of Bachelor of Science (B.S.) in Computer Science.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Twitter-Meeting-6e.jpg
 wpcf-value-proposition: >
@@ -26,8 +26,8 @@ wpcf-areas-of-study: 'The bachelor’s program in computer science offers an <a 
 wpcf-career-opportunties: '<p class="p1"><i>U.S. News &amp; World Report</i> ranks jobs in computing among the best in the country. A bachelor’s degree in computer science will prepare you for a career as a software developer, database administrator, computer hardware engineer, database administrator, systems analyst, network architect, Web developer, security analyst, computer programmer, and more.</p>'
 wpcf-internships: '<p class="p1">Internships allow qualified students to earn academic credit, gain real-world experience, and boost their resumes by working at technical firms, government offices, or software development agencies. Companies that have sponsored recent student internships include Zope Corp., CACI Inc., Systems Technology Forum Ltd., SimVentions, and Computer Sciences Corp.</p>'
 wpcf-honors: '<p class="p1">To earn honors in computer science, students who meet GPA and course prerequisites can undertake individual study under the direction of a department member.</p>'
-wpcf-minor-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cpsc/">minor</a> builds strong programming and problem-solving skills, and is particularly useful when combined with a major in any of the sciences, mathematics, business, economics, linguistics, or geography.'
-wpcf-major-requirements: '<p class="p1">UMW’s <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cpsc/">major in computer science</a> requires 46 credits, including multiple core courses in computer science, as well as electives in areas such as cybersecurity, machine learning and game programming.</p>'
+wpcf-minor-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/minors/computer-science/#requirementstext">minor</a> builds strong programming and problem-solving skills, and is particularly useful when combined with a major in any of the sciences, mathematics, business, economics, linguistics, or geography.'
+wpcf-major-requirements: '<p class="p1">UMW’s <a href="https://catalog.umw.edu/undergraduate/majors/computer-science/#requirementstext">major in computer science</a> requires 46 credits, including multiple core courses in computer science, as well as electives in areas such as cybersecurity, machine learning and game programming.</p>'
 wpcf-scholarships: 'Computer science majors can apply for several <a href="http://cas.umw.edu/computerscience/scholarships-and-awards/">scholarships and awards</a>.'
 wpcf-department: http://cas.umw.edu/computerscience/
 wpcf-courses: >
@@ -78,12 +78,12 @@ To earn honors in computer science, students who meet GPA and course prerequisit
 
 <!-- major-requirements -->
 ### Major Requirements
-UMW’s [major in computer science]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/cpsc/") requires 46 credits, including multiple core courses in computer science, as well as electives in areas such as cybersecurity, machine learning and game programming.
+UMW’s [major in computer science]("https://catalog.umw.edu/undergraduate/majors/computer-science/#requirementstext") requires 46 credits, including multiple core courses in computer science, as well as electives in areas such as cybersecurity, machine learning and game programming.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/cpsc/") builds strong programming and problem-solving skills, and is particularly useful when combined with a major in any of the sciences, mathematics, business, economics, linguistics, or geography.
+The [minor]("https://catalog.umw.edu/undergraduate/minors/computer-science/#requirementstext") builds strong programming and problem-solving skills, and is particularly useful when combined with a major in any of the sciences, mathematics, business, economics, linguistics, or geography.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
