@@ -30,8 +30,8 @@ wpcf-honors: >
   thesis, with the permission of a thesis
   adviser and the department chair.
 wpcf-minor-requirements: |
-  UMW offers a <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/security-and-conflict-studies-minor/">minor in security and conflict studies</a>. The minor requires 18 credits including selected classes in political science, international affairs, and history. A  three-credit internship may count as an elective with the approval of the minor program director. You'll also write a three-credit senior thesis on an aspect of security and conflict studies.
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/inaf/">major in international affairs</a> requires 19 credits in core classes and 21 elective credits from such disciplines as economics, geography, history, political science, French, German, Italian, and Spanish. To meet the language requirement, a student may complete two foreign languages through the intermediate level or earn six credits in one foreign language at the advanced level.'
+  UMW offers a <a href="https://catalog.umw.edu/undergraduate/minors/security-conflict-studies/#requirementstext">minor in security and conflict studies</a>. The minor requires 18 credits including selected classes in political science, international affairs, and history. A  three-credit internship may count as an elective with the approval of the minor program director. You'll also write a three-credit senior thesis on an aspect of security and conflict studies.
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/international-affairs/#requirementstext">major in international affairs</a> requires 19 credits in core classes and 21 elective credits from such disciplines as economics, geography, history, political science, French, German, Italian, and Spanish. To meet the language requirement, a student may complete two foreign languages through the intermediate level or earn six credits in one foreign language at the advanced level.'
 wpcf-department: >
   http://cas.umw.edu/polisci/international-affairs/
 wpcf-courses: 'https://catalog.umw.edu/undergraduate/majors/international-affairs/#requirementstext'
@@ -78,12 +78,12 @@ Students with at least a 3.4 grade-point average overall and a 3.4 GPA in the ma
 
 <!-- major-requirements -->
 ### Major Requirements
-The [major in international affairs]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/inaf/") requires 19 credits in core classes and 21 elective credits from such disciplines as economics, geography, history, political science, French, German, Italian, and Spanish. To meet the language requirement, a student may complete two foreign languages through the intermediate level or earn six credits in one foreign language at the advanced level.
+The [major in international affairs]("https://catalog.umw.edu/undergraduate/majors/international-affairs/#requirementstext") requires 19 credits in core classes and 21 elective credits from such disciplines as economics, geography, history, political science, French, German, Italian, and Spanish. To meet the language requirement, a student may complete two foreign languages through the intermediate level or earn six credits in one foreign language at the advanced level.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-UMW offers a [minor in security and conflict studies]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/security-and-conflict-studies-minor/"). The minor requires 18 credits including selected classes in political science, international affairs, and history. A three-credit internship may count as an elective with the approval of the minor program director. You\'ll also write a three-credit senior thesis on an aspect of security and conflict studies.
+UMW offers a [minor in security and conflict studies]("https://catalog.umw.edu/undergraduate/minors/security-conflict-studies/#requirementstext"). The minor requires 18 credits including selected classes in political science, international affairs, and history. A three-credit internship may count as an elective with the approval of the minor program director. You\'ll also write a three-credit senior thesis on an aspect of security and conflict studies.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
