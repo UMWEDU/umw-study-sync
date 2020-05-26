@@ -52,9 +52,9 @@ wpcf-internships: >
   organizations. You will craft an
   internship that will reflect your area
   of interest and course concentration.
-wpcf-honors: 'Learn more about how to earn honors in this major at the <a href="http://publications.umw.edu/undergraduatecatalog/colleges/cas/honors-program/">honors program section</a> of the undergraduate catalog.'
+wpcf-honors: 'Learn more about how to earn honors in this major at the <a href="https://catalog.umw.edu/undergraduate/academic-policies/academic-honors/">honors program section</a> of the undergraduate catalog.'
 wpcf-major-requirements: |
-  The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/wgst/">women’s and gender studies </a>major requires 33 credits from across disciplines. Its advisory board – made up of faculty from the departments of political science; sociology and anthropology; art and art history; and English, linguistics, and communication – encourages the majors to work with faculty advisors to formulate their coursework around issues or themes that interest the students. The foundation courses are women's studies and feminism. Other requirements include a methods course, approved electives, an internship, and a student-designed capstone course.
+  The <a href="https://catalog.umw.edu/undergraduate/majors/womens-gender-studies/#requirementstext">women’s and gender studies </a>major requires 33 credits from across disciplines. Its advisory board – made up of faculty from the departments of political science; sociology and anthropology; art and art history; and English, linguistics, and communication – encourages the majors to work with faculty advisors to formulate their coursework around issues or themes that interest the students. The foundation courses are women's studies and feminism. Other requirements include a methods course, approved electives, an internship, and a student-designed capstone course.
 wpcf-scholarships: 'None specific to this major, but UMW offers many <a href="https://umw.scholarships.ngwebsolutions.com/ScholarX_ScholarshipSearch.aspx">scholarships</a>.'
 wpcf-department: http://cas.umw.edu/wgst/
 wpcf-courses: 'https://catalog.umw.edu/undergraduate/majors/womens-gender-studies/#requirementstext'
@@ -92,7 +92,7 @@ Majors have completed internships at local agencies and national organizations. 
 
 <!-- honors -->
 ## Honors
-Learn more about how to earn honors in this major at the [honors program section]("http://publications.umw.edu/undergraduatecatalog/colleges/cas/honors-program/") of the undergraduate catalog.
+Learn more about how to earn honors in this major at the [honors program section]("https://catalog.umw.edu/undergraduate/academic-policies/academic-honors/") of the undergraduate catalog.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -100,7 +100,7 @@ Learn more about how to earn honors in this major at the [honors program section
 
 <!-- major-requirements -->
 ### Major Requirements
-The [women’s and gender studies ]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/wgst/")major requires 33 credits from across disciplines. Its advisory board – made up of faculty from the departments of political science; sociology and anthropology; art and art history; and English, linguistics, and communication – encourages the majors to work with faculty advisors to formulate their coursework around issues or themes that interest the students. The foundation courses are women\'s studies and feminism. Other requirements include a methods course, approved electives, an internship, and a student-designed capstone course.
+The [women’s and gender studies ]("https://catalog.umw.edu/undergraduate/majors/womens-gender-studies/#requirementstext")major requires 33 credits from across disciplines. Its advisory board – made up of faculty from the departments of political science; sociology and anthropology; art and art history; and English, linguistics, and communication – encourages the majors to work with faculty advisors to formulate their coursework around issues or themes that interest the students. The foundation courses are women\'s studies and feminism. Other requirements include a methods course, approved electives, an internship, and a student-designed capstone course.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
