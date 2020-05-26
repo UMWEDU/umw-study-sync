@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/marketing/index.html
 published: true
 post_date: 2015-07-28 19:52:02
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Marketing who complete all requirements earn the degree of Bachelor of Science (B.S.) in Business Administration.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Marketing who complete all requirements earn the degree of Bachelor of Science (B.S.) in Business Administration.</span></p>'
 wpcf-value-proposition: "There's a greater demand than ever for professionals who can understand consumers' thinking and formulate effective, multi-platform messages about ideas, goods, and services. When you study marketing at the University of Mary Washington, you'll develop the insight, analytical skills, and critical thinking you'll need to make a difference as a marketing professional."
 wpcf-areas-of-study: >
   Core business courses will give you a
@@ -28,8 +28,8 @@ wpcf-career-opportunties: >
   and market research analyst expected to
   grow faster than average by 2022.
 wpcf-internships: 'The College of Business recognizes that internships not only help students develop academically, they contribute the real-world experience and form connections that can lead to careers after graduation. The COB maintains a <a href="http://business.umw.edu/current-students/student-opportunities/available-internships/">list of local internships</a> that require business and marketing knowledge.'
-wpcf-honors: 'Learn about earning <a href="http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/">academic honors</a> for your major.'
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/marketing-major/">marketing major</a> requires 12 prerequisite credits, 30 core business credits, and 18 upper-level credits in the discipline.'
+wpcf-honors: 'Learn about earning <a href="https://catalog.umw.edu/undergraduate/academic-policies/academic-honors/">academic honors</a> for your major.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/marketing/#requirementstext">marketing major</a> requires 12 prerequisite credits, 30 core business credits, and 18 upper-level credits in the discipline.'
 wpcf-department: >
   http://business.umw.edu/degree-programs/undergraduate-degree-bs-in-business-administration/marketing-major/
 wpcf-courses: >
@@ -63,7 +63,7 @@ The College of Business recognizes that internships not only help students devel
 
 <!-- honors -->
 ## Honors
-Learn about earning [academic honors]("http://publications.umw.edu/undergraduatecatalog/academic_policies/honors/") for your major.
+Learn about earning [academic honors]("https://catalog.umw.edu/undergraduate/academic-policies/academic-honors/") for your major.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -71,7 +71,7 @@ Learn about earning [academic honors]("http://publications.umw.edu/undergraduate
 
 <!-- major-requirements -->
 ### Major Requirements
-The [marketing major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/marketing-major/") requires 12 prerequisite credits, 30 core business credits, and 18 upper-level credits in the discipline.
+The [marketing major]("https://catalog.umw.edu/undergraduate/majors/marketing/#requirementstext") requires 12 prerequisite credits, 30 core business credits, and 18 upper-level credits in the discipline.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
