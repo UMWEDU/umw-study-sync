@@ -8,7 +8,7 @@ permalink: >
   /study/areas/historic-preservation/index.html
 published: true
 post_date: 2015-07-28 18:10:34
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Historic Preservation who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Historic Preservation.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Historic Preservation who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Historic Preservation.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/DSC_8115_HP-1024x489e.jpg
 wpcf-value-proposition: "The University of Mary Washington in historic Fredericksburg, Virginia, is home to one of the nation's oldest and most respected programs in historic preservation. Here, you'll join fellow scholars and master teachers who are passionate about preserving the physical links to our past. You'll come to understand the people of earlier times through the buildings, objects, and landscapes they left behind -- and you'll help to preserve those important tangible pieces of history. Through UMW's rigorous  interdisciplinary liberal arts program, you'll gain the critical-thinking, research, and communications skills you'll need to make a difference as a working preservationist."
@@ -27,7 +27,7 @@ wpcf-career-opportunties: |
   The Department of Historic Preservation maintains a job bank of internships and full-time positions across the country for which historic preservation majors and graduates may qualify.
 wpcf-internships: "Fredericksburg's many museums and historic sites are a fertile ground for internships for historic preservation majors. And our proximity to Richmond, Virginia, and Washington, D.C., creates even more opportunities. Many UMW students find paid internship opportunities with the National Park Service and the Department of the Interior, and some positions are open only to historic preservation majors."
 wpcf-honors: "To be considered for honors in historic preservation, you must have achieved a cumulative grade-point average of 3.0 overall and at least 3.25 in historic preservation by the end of junior year. During the senior year, you'll complete an honors thesis involving two semesters of original research and writing. It may be in any area of preservation, including archaeology, architectural conservation or history, folk culture, landscape, museums, preservation law, and preservation planning. The thesis must be accepted by the historic preservation faculty, which then decides whether to grant honors upon commencement."
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/historic-preservation-major/">historic preservation major</a> requires 36 credits from introductory, intermediate, and advanced course offerings within the department. Independent study and an internship are strongly encouraged.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/geography/#requirementstext">historic preservation major</a> requires 36 credits from introductory, intermediate, and advanced course offerings within the department. Independent study and an internship are strongly encouraged.'
 wpcf-scholarships: 'UMW historic preservation majors can apply for numerous dedicated <a href="http://cas.umw.edu/hisp/scholarships/">scholarships</a>.'
 wpcf-department: http://cas.umw.edu/hisp/
 wpcf-courses: >
@@ -77,7 +77,7 @@ To be considered for honors in historic preservation, you must have achieved a c
 
 <!-- major-requirements -->
 ### Major Requirements
-The [historic preservation major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/historic-preservation-major/") requires 36 credits from introductory, intermediate, and advanced course offerings within the department. Independent study and an internship are strongly encouraged.
+The [historic preservation major]("https://catalog.umw.edu/undergraduate/majors/geography/#requirementstext") requires 36 credits from introductory, intermediate, and advanced course offerings within the department. Independent study and an internship are strongly encouraged.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
