@@ -65,7 +65,7 @@ wpcf-internships: >
   Friends of the Rappahannock and the
   Chesapeake Bay Foundation.
 wpcf-honors: 'Conservation biology majors are eligible to pursue the <a href="https://academics.umw.edu/honorsprogram/">University Honors Program</a> and the <a href="https://cas.umw.edu/biology/biology-honors-program/">Biology Honors Program</a>.'
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/conservation-biology-major/">conservation biology major</a> requires 40 credits, including core foundational courses in conservation biology, biodiversity, ecology, genetics, research design, and geographic information science. Students may then choose from courses such as animal ecology, plant biology, vertebrate and invertebrate zoology, entomology, tropical ecology, biology of fishes, ornithology, conservation policy, and environmental ethics.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/conservation-biology/#requirementstext">conservation biology major</a> requires 40 credits, including core foundational courses in conservation biology, biodiversity, ecology, genetics, research design, and geographic information science. Students may then choose from courses such as animal ecology, plant biology, vertebrate and invertebrate zoology, entomology, tropical ecology, biology of fishes, ornithology, conservation policy, and environmental ethics.'
 wpcf-scholarships: >
   Conservation biology majors will be
   encouraged to apply for such
@@ -110,7 +110,7 @@ Conservation biology majors are eligible to pursue the [University Honors Progra
 
 <!-- major-requirements -->
 ### Major Requirements
-The [conservation biology major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/conservation-biology-major/") requires 40 credits, including core foundational courses in conservation biology, biodiversity, ecology, genetics, research design, and geographic information science. Students may then choose from courses such as animal ecology, plant biology, vertebrate and invertebrate zoology, entomology, tropical ecology, biology of fishes, ornithology, conservation policy, and environmental ethics.
+The [conservation biology major]("https://catalog.umw.edu/undergraduate/majors/conservation-biology/#requirementstext") requires 40 credits, including core foundational courses in conservation biology, biodiversity, ecology, genetics, research design, and geographic information science. Students may then choose from courses such as animal ecology, plant biology, vertebrate and invertebrate zoology, entomology, tropical ecology, biology of fishes, ornithology, conservation policy, and environmental ethics.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
