@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/physics/index.html
 published: true
 post_date: 2015-08-11 20:13:07
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Physics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Physics.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Physics who complete all requirements earn the degree of Bachelor of Science (B.S.) in Physics.</span></p>'
 wpcf-value-proposition: "Why don’t riders fall off the roller coaster? When you look in a window, why do you see what's inside as well as your own reflection? How is music recorded and transmitted? Physics answers these questions and many more. As a UMW physics major, you'll satisfy your curiosity about the physical universe, then analyze and describe your discoveries. You'll leave career-ready, prepared for advanced study, and poised to make an immediate contribution to your field."
 wpcf-areas-of-study: "The principles of physics underlie other natural sciences and are essential to many applied sciences and technical programs. UMW's course offerings include general physics, astronomy, thermodynamics and statistical mechanics, nuclear physics, modern physics, electronics, optics, mathematical physics, mechanics, quantum mechanics, electricity and magnetism, solid state physics, and more."
 wpcf-career-opportunties: |
@@ -21,8 +21,8 @@ wpcf-honors: |
   &nbsp;
   
   &nbsp;
-wpcf-minor-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/phys/">physics minor</a> requires 24 to 26 credits including core courses, electives, and classes at the 300 level and above.'
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/physics-major/">physics major</a> requires 41 credits including core courses, electives, and classes at the 300 level or above.'
+wpcf-minor-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/minors/physics/#requirementstext">physics minor</a> requires 24 to 26 credits including core courses, electives, and classes at the 300 level and above.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/physics/#requirementstext/">physics major</a> requires 41 credits including core courses, electives, and classes at the 300 level or above.'
 wpcf-scholarships: |
   Physics majors may qualify for valuable <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">scholarships</a> and <a href="http://cas.umw.edu/physics/newsletter/awards/">awards</a>.
   
@@ -68,12 +68,12 @@ Besides earning general [academic honors]("http://publications.umw.edu/undergrad
 
 <!-- major-requirements -->
 ### Major Requirements
-The [physics major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/physics-major/") requires 41 credits including core courses, electives, and classes at the 300 level or above.
+The [physics major]("https://catalog.umw.edu/undergraduate/majors/physics/#requirementstext/") requires 41 credits including core courses, electives, and classes at the 300 level or above.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [physics minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/phys/") requires 24 to 26 credits including core courses, electives, and classes at the 300 level and above.
+The [physics minor]("https://catalog.umw.edu/undergraduate/minors/physics/#requirementstext") requires 24 to 26 credits including core courses, electives, and classes at the 300 level and above.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
