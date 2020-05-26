@@ -44,8 +44,8 @@ wpcf-internships: >
   complete internships under faculty
   supervision in music performance and
   music education.
-wpcf-honors: 'Learn more about how to <a href="http://publications.umw.edu/undergraduatecatalog/colleges/cas/honors-program/">earn honors</a> in music at the Honors Program page of the undergraduate catalog.'
-wpcf-major-requirements: 'Students seeking a degree in <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/musc/">music</a> must complete courses in music theory, music history, and music performance. Placement in individual lessons and ensembles is based on audition, which all music majors must complete. Majors pursuing teaching certification must register with the College of Education and take music education classes.'
+wpcf-honors: 'Learn more about how to <a href="https://catalog.umw.edu/undergraduate/majors/marketing/#requirementstext">earn honors</a> in music at the Honors Program page of the undergraduate catalog.'
+wpcf-major-requirements: 'Students seeking a degree in <a href="https://catalog.umw.edu/undergraduate/majors/music/#requirementstext">music</a> must complete courses in music theory, music history, and music performance. Placement in individual lessons and ensembles is based on audition, which all music majors must complete. Majors pursuing teaching certification must register with the College of Education and take music education classes.'
 wpcf-scholarships: 'The Department of Music offers many <a href="https://cas.umw.edu/music/music-scholarships/">scholarships</a>. In addition, the <a href="http://www.umwphilharmonic.com/">UMW Philharmonic</a> has one of the largest and most progressive scholarship programs in the nation, and it offers generous scholarships to student members.'
 wpcf-department: http://cas.umw.edu/music/
 wpcf-courses: >
@@ -82,7 +82,7 @@ Music majors have the opportunity to complete internships under faculty supervis
 
 <!-- honors -->
 ## Honors
-Learn more about how to [earn honors]("http://publications.umw.edu/undergraduatecatalog/colleges/cas/honors-program/") in music at the Honors Program page of the undergraduate catalog.
+Learn more about how to [earn honors]("https://catalog.umw.edu/undergraduate/majors/marketing/#requirementstext") in music at the Honors Program page of the undergraduate catalog.
 <!-- End honors -->
 
 <!-- requirements -->
@@ -90,7 +90,7 @@ Learn more about how to [earn honors]("http://publications.umw.edu/undergraduate
 
 <!-- major-requirements -->
 ### Major Requirements
-Students seeking a degree in [music]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/musc/") must complete courses in music theory, music history, and music performance. Placement in individual lessons and ensembles is based on audition, which all music majors must complete. Majors pursuing teaching certification must register with the College of Education and take music education classes.
+Students seeking a degree in [music]("https://catalog.umw.edu/undergraduate/majors/music/#requirementstext") must complete courses in music theory, music history, and music performance. Placement in individual lessons and ensembles is based on audition, which all music majors must complete. Majors pursuing teaching certification must register with the College of Education and take music education classes.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
