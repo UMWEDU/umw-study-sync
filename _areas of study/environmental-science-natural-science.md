@@ -10,7 +10,7 @@ permalink: >
   /study/areas/environmental-science-natural-science/index.html
 published: true
 post_date: 2015-07-28 15:30:32
-wpcf-degree-awarded: '<span style="font-size: 12.0pt;">Students majoring in Environmental Science: Natural Science who complete all requirements earn the degree of Bachelor of Science (B.S.) in Environmental Science and Geology.</span>'
+wpcf-degree-awarded: '<span style="font-size: 12.0pt">Students majoring in Environmental Science: Natural Science who complete all requirements earn the degree of Bachelor of Science (B.S.) in Environmental Science and Geology.</span>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Soil-Project-07e.jpg
 wpcf-value-proposition: "UMW's environmental science -- natural science major explores the relationships among biology, chemistry, physics, geology, and Earth science. Our interdisciplinary program encourages undergraduate research and fosters the analytical, critical-thinking, and communications skills you'll need as a working scientist or graduate scholar."
@@ -29,8 +29,8 @@ wpcf-honors: >
   in journals, making them highly
   sought-after by employers or graduate
   programs.
-wpcf-minor-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/sust/">environmental sustainability minor</a> requires eighteen to twenty-one credits.'
-wpcf-major-requirements: 'The <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/eesc-natural/">environmental science-natural science major</a> requires 40 or 41 credits including environmental science, biology, chemistry, and electives.'
+wpcf-minor-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/minors/environmental-sustainability/#requirementstext">environmental sustainability minor</a> requires eighteen to twenty-one credits.'
+wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/majors/environmental-science-major-natural-science-concentration/#requirementstext">environmental science-natural science major</a> requires 40 or 41 credits including environmental science, biology, chemistry, and electives.'
 wpcf-scholarships: >
   Recent awards include the Peggy Ellis
   Gill Scholarship for an outstanding
@@ -86,12 +86,12 @@ Highly motivated and talented students can engage in rigorous honors-designated 
 
 <!-- major-requirements -->
 ### Major Requirements
-The [environmental science-natural science major]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/eesc-natural/") requires 40 or 41 credits including environmental science, biology, chemistry, and electives.
+The [environmental science-natural science major]("https://catalog.umw.edu/undergraduate/majors/environmental-science-major-natural-science-concentration/#requirementstext") requires 40 or 41 credits including environmental science, biology, chemistry, and electives.
 <!-- End major-requirements -->
 
 <!-- minor-requirements -->
 ### Minor Requirements
-The [environmental sustainability minor]("http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/sust/") requires eighteen to twenty-one credits.
+The [environmental sustainability minor]("https://catalog.umw.edu/undergraduate/minors/environmental-sustainability/#requirementstext") requires eighteen to twenty-one credits.
 <!-- End minor-requirements -->
 
 <!-- End requirements -->
