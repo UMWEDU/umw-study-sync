@@ -8,7 +8,7 @@ permalink: /study/areas/social-justice/index.html
 published: true
 post_date: 2015-12-17 20:34:46
 wpcf-value-proposition: "Are equality and fairness just an illusion? UMW's minor program in social justice attempts to bridge the gap between the ideal and the reality of our social situations. Explore injustices such as cultural imperialism, exploitation, human rights abuses, and physical violence. Study social movements and political philosophy. Become a well-informed citizen with the ability to look at social values and change from multiple perspectives."
-wpcf-areas-of-study: "Choose from courses in economics, history, philosophy, anthropology, sociology, geography, and other disciplines. Course titles include Anthropology of Gender; World Regional Geography; Social and Political Philosophy; Introduction to Women's and Gender Studies; Poverty, Influence, and Equality; Migration Politics in a Globalizing World; History of Sexuality in the U.S.; Racial and Ethnic Relations; and many more."
+wpcf-areas-of-study: "Choose from courses in economics, history, philosophy, anthropology, sociology, geography, and other disciplines. Course titles include Anthropology of Gender; World Regional Geography; Social and Political Philosophy; Introduction to Women's and Gender Studies; Poverty, Affluence, and Equality; Migration Politics in a Globalizing World; History of Sexuality in the U.S.; Racial and Ethnic Relations; and many more."
 wpcf-career-opportunties: >
   Career options for social justice
   scholars include activist, community
@@ -56,7 +56,7 @@ Are equality and fairness just an illusion? UMW\'s minor program in social justi
 
 <!-- areas-of-study -->
 ## Areas of Study
-Choose from courses in economics, history, philosophy, anthropology, sociology, geography, and other disciplines. Course titles include Anthropology of Gender; World Regional Geography; Social and Political Philosophy; Introduction to Women\'s and Gender Studies; Poverty, Influence, and Equality; Migration Politics in a Globalizing World; History of Sexuality in the U.S.; Racial and Ethnic Relations; and many more.
+Choose from courses in economics, history, philosophy, anthropology, sociology, geography, and other disciplines. Course titles include Anthropology of Gender; World Regional Geography; Social and Political Philosophy; Introduction to Women\'s and Gender Studies; Poverty, Affluence, and Equality; Migration Politics in a Globalizing World; History of Sexuality in the U.S.; Racial and Ethnic Relations; and many more.
 <!-- End areas-of-study -->
 
 <!-- internships -->
