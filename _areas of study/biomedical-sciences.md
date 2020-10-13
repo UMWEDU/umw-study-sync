@@ -63,13 +63,7 @@ wpcf-honors: >
   project, write an honors thesis, and
   deliver an oral presentation to
   department faculty.
-wpcf-major-requirements: >
-  The biomedical sciences major requires
-  40 credits, including five required
-  courses, four health-related sciences
-  courses, one
-  societal-perspectives-on-health course,
-  and a required senior seminar.
+wpcf-major-requirements: 'The <a href="https://cas.umw.edu/biology/the-biomedical-sciences-major/">biomedical sciences major</a> requires 40 credits, including five required courses, four health-related sciences courses, one societal-perspectives-on-health course, and a required senior seminar.'
 wpcf-department: >
   https://cas.umw.edu/biology/the-biomedical-sciences-major/
 wpcf-courses: 'https://catalog.umw.edu/undergraduate/majors/biomedicalsciences/#requirementstext'
@@ -101,7 +95,7 @@ To receive honors in biomedical sciences, you must have a 3.0 grade-point averag
 
 <!-- major-requirements -->
 ### Major Requirements
-The biomedical sciences major requires 40 credits, including five required courses, four health-related sciences courses, one societal-perspectives-on-health course, and a required senior seminar.
+The [biomedical sciences major]("https://cas.umw.edu/biology/the-biomedical-sciences-major/") requires 40 credits, including five required courses, four health-related sciences courses, one societal-perspectives-on-health course, and a required senior seminar.
 <!-- End major-requirements -->
 
 <!-- End requirements -->
