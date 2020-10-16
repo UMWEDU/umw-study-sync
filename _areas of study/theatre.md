@@ -7,7 +7,7 @@ layout: areas
 permalink: /study/areas/theatre/index.html
 published: true
 post_date: 2015-07-28 19:29:26
-wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt">Students majoring in Theatre who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Performing Arts.</span></p>'
+wpcf-degree-awarded: '<p class="p2"><span style="font-size: 12.0pt;">Students majoring in Theatre who complete all requirements earn the degree of Bachelor of Arts (B.A.) in Performing Arts.</span></p>'
 wpcf-home-page-feature: >
   http://www.umw.edu/study/wp-content/uploads/sites/5/2015/07/Theater-Class-6e.jpg
 wpcf-value-proposition: >
@@ -46,7 +46,7 @@ wpcf-major-requirements: 'The <a href="https://catalog.umw.edu/undergraduate/maj
 wpcf-scholarships: 'The Department of Theatre &amp; Dance offers many awards to continuing students who are active in the production program. These merit-based scholarships vary in size and award criteria.'
 wpcf-department: http://cas.umw.edu/theatre/
 wpcf-courses: 'https://catalog.umw.edu/undergraduate/minors/digital-studies/#requirementstext'
-wpcf-video: https://vimeo.com/131317845
+wpcf-video: 'https://www.youtube.com/watch?v=z12zrVGuRBQ&feature=youtu.be'
 terms:
   department:
     - td
@@ -59,7 +59,7 @@ terms:
 <!-- End home-page-feature -->
 
 <!-- video -->
-[![](https://i.vimeocdn.com/video/523520715_960.jpg)](https://vimeo.com/131317845)
+[![](https://i.ytimg.com/vi/z12zrVGuRBQ/hqdefault.jpg)](https://www.youtube.com/watch?v=z12zrVGuRBQ&feature=youtu.be)
 <!-- End video -->
 
 <!-- value-proposition -->
